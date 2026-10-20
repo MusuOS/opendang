@@ -1,8 +1,8 @@
 {
  "name": "zhonggong-dangzheng-archive",
- "title": "中共党争百科 · 开源档案（试演终版）",
- "version": "1.0.0-trial-final",
- "description": "把 YouTube 频道「大包王朝」关于中共派系斗争的讲述，整理成带出处与口径标记的结构化档案，供任何 Agent 直接取用讲述、供读者点击探索。本仓为本地试演仓，未发布。",
+ "title": "中共党争百科 · 开源档案",
+ "version": "1.1.0",
+ "description": "把 YouTube 频道「大包王朝」关于中共派系斗争的讲述，整理成带出处与口径标记的结构化档案，供任何 Agent 直接取用讲述、供读者点击探索。本仓为正式发布版：托管于 GitHub（MusuOS/opendang），并经 GitHub Pages 对外发布。",
  "source": {
   "channel": "大包王朝（YouTube）",
   "note": "本档是该频道叙事的整理存档，不是事实认定。凡引用，须带「第X期称」与口径标记，不得把频道转述表述为已证实事实。"
