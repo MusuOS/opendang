@@ -1,0 +1,921 @@
+{
+ "id": "jia-qing-lin",
+ "name": "贾庆林",
+ "kind": "relations",
+ "part": 1,
+ "count": 91,
+ "relations": [
+  {
+   "id": "rel-1937",
+   "subject": "李伯潭",
+   "relation": "贾庆林女婿、经离岸公司与恒大地产入股合作（巴拿马文件/明报）",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "episode": "smr5IZCIPlw",
+   "date": "2023-10-08",
+   "quote": "前中共中央政治局常委贾庆林的女婿和外孙女都在避税天堂英属维尔京群岛拥有离岸公司"
+  },
+  {
+   "id": "rel-0868",
+   "subject": "贾庆林",
+   "relation": "本期排除法断为在福建提拔习包子的人（贺国强是胡的人不可能提拔）",
+   "object": "习包子",
+   "status": "本期推断",
+   "episode": "68uTTnF2DZM",
+   "date": "2024-10-26",
+   "quote": "那只有贾庆林能够提拔习近平啊"
+  },
+  {
+   "id": "rel-0054",
+   "subject": "谷牧",
+   "relation": "提拔",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "episode": "WYvqQMUuQ3Q",
+   "date": "2024-11-16",
+   "quote": "贾强林他就是谷牧提拔的（字幕原样）"
+  },
+  {
+   "id": "rel-0055",
+   "subject": "贾庆林",
+   "relation": "提拔",
+   "object": "习包子",
+   "status": "本档口径",
+   "episode": "WYvqQMUuQ3Q",
+   "date": "2024-11-16",
+   "quote": "谷牧提拔的贾强林贾强林提拔的习近平"
+  },
+  {
+   "id": "rel-2209",
+   "subject": "贾庆林",
+   "relation": "是谷牧提拔的（字幕作贾钦根，其后提拔习包子）",
+   "object": "谷牧",
+   "status": "本档口径",
+   "episode": "qMeOPuRaeMA",
+   "date": "2024-12-04",
+   "quote": "谷牧提拔了贾钦根 贾钦根提拔了习近平"
+  },
+  {
+   "id": "rel-4080",
+   "subject": "谷牧",
+   "relation": "提拔",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "quote": "谷牧提拔的贾庆林 贾庆林提拔的习近平啊",
+   "episode": "7l8wFbIiw2A",
+   "date": "2024-12-17"
+  },
+  {
+   "id": "rel-4081",
+   "subject": "贾庆林",
+   "relation": "提拔",
+   "object": "习包子",
+   "status": "本档口径",
+   "quote": "谷牧提拔的贾庆林 贾庆林提拔的习近平啊",
+   "episode": "7l8wFbIiw2A",
+   "date": "2024-12-17"
+  },
+  {
+   "id": "rel-1422",
+   "subject": "周家斌",
+   "relation": "是贾庆林的白手套（周家斌的背景很复杂、还有哈尔滨帮建设部部长汪光焘的线；贾庆林怎么搞钱、贾庆林的女婿李伯潭怎么搞钱、还有习远平、这都是一家的；主线就是陈毅、谷牧、贾庆林、习包子；与曹伯纯在广西提拔周家斌说并存）",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "episode": "Z9NGW6RYtjY",
+   "date": "2024-12-29",
+   "quote": "他还是贾庆林的白手套有这个背景贾庆林怎么高钱的对不对贾庆林的女婿李博谭怎么高钱的还有他弟弟薛炎平这都是一家的"
+  },
+  {
+   "id": "rel-2802",
+   "subject": "周家斌",
+   "relation": "是贾庆林提拔（房山挂职时点与刘淇赶人论证），与习包子同门、辈分相同的小师弟",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "episode": "ZtO5y407U1Y",
+   "date": "2025-01-09",
+   "quote": "这习近平和周家斌的辈分是相同的习近平是贾庆林提拔的 周家斌啊 其实也是贾庆林提拔的"
+  },
+  {
+   "id": "rel-2806",
+   "subject": "贾庆林",
+   "relation": "与王岐山、习包子同属陈云派系；江泽民是毛泽东温和派、余秋里提拔，本来就不是一家人",
+   "object": "陈云",
+   "status": "本档口径",
+   "episode": "ZtO5y407U1Y",
+   "date": "2025-01-09",
+   "quote": "贾庆林 王岐山 习近平是陈云派系的江泽民是毛泽东的温和派 余秋里提拔的本来就不是一家人"
+  },
+  {
+   "id": "rel-2938",
+   "subject": "周家斌",
+   "relation": "与习包子同为贾庆林提拔的同门师兄弟",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "episode": "roihAsl7NVs",
+   "date": "2025-01-11",
+   "quote": "这个周家斌和习近平都是假清林提拔的习近平和周家斌算是同门的师兄弟"
+  },
+  {
+   "id": "rel-1052",
+   "subject": "李伯潭",
+   "relation": "是贾庆林的女婿（民建会员；贾庆林任政协主席时主管民建）",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "episode": "lDnnVXd8Hv0",
+   "date": "2025-01-18",
+   "quote": "贾庆林的女婿李伯潭就是民建会员"
+  },
+  {
+   "id": "rel-4203",
+   "subject": "贾庆林",
+   "relation": "提拔",
+   "object": "习包子",
+   "status": "本档口径",
+   "quote": "提拔习近平的人他就是贾庆林而打压习近平那个人啊就是陈光毅",
+   "episode": "N5BIwjKgrSo",
+   "date": "2025-01-19"
+  },
+  {
+   "id": "rel-6339",
+   "subject": "贾庆林",
+   "relation": "有股份",
+   "object": "东江环保",
+   "status": "指控层",
+   "quote": "贾庆林在东江环保公司里面张维养的公司里面有股份",
+   "episode": "ciDg9-8QJho",
+   "date": "2025-02-05"
+  },
+  {
+   "id": "rel-1405",
+   "subject": "贾庆林",
+   "relation": "提拔了陆昊（陆昊的副局、正局、副部、正部都是贾庆林提拔的：1998 年贾庆林书记市长一肩挑时陆昊升纺织控股副总、1999 年中关村管委会主任正局级、2003 年 35 岁半任北京市副市长、2008 年 41 岁任团中央第一书记；陆昊妥妥是贾庆林的马仔、与习包子是同门师兄弟、辈分相同；也可以说陆昊是吴邦国提拔的）",
+   "object": "陆昊",
+   "status": "本档口径",
+   "episode": "eEISnBIrckY",
+   "date": "2025-04-16",
+   "quote": "陆昊的副局级和正局级都是假清林提拔的"
+  },
+  {
+   "id": "rel-1406",
+   "subject": "贾庆林",
+   "relation": "提拔了习包子（陈毅的大秘谷牧提拔贾庆林、贾庆林提拔习包子，贾庆林和江泽民一毛钱关系都没有；习包子和他老婆彭丽媛两个人都是贾庆林提拔的——彭丽媛的青联副主席也是分管统战群团的贾庆林提拔的）",
+   "object": "习包子",
+   "status": "本档口径",
+   "episode": "eEISnBIrckY",
+   "date": "2025-04-16",
+   "quote": "陈毅的大秘谷牧提拔的假清林假清林提拔的洗包子假清林和江泽民一毛钱关系都没有"
+  },
+  {
+   "id": "rel-1407",
+   "subject": "贾庆林",
+   "relation": "和王岐山、习包子三人是一家人（贾庆林与刘淇在北京多次交手水火不容、刘淇后来和王岐山也是多次交手；王岐山曾把给北京公务员涨工资的文件事先不告诉刘淇、直接转给刘淇让其签字、刘淇就不签字）",
+   "object": "王岐山",
+   "status": "本档口径",
+   "episode": "eEISnBIrckY",
+   "date": "2025-04-16",
+   "quote": "假清林和王岐山习包子他们三个是一家人王岐山就曾经把给北京公务员涨工资的文件事先也不告诉刘淇直接转给刘淇让刘淇签字刘淇他就不签字"
+  },
+  {
+   "id": "rel-0645",
+   "subject": "陈文清",
+   "relation": "本期结论为贾庆林提拔的（经其大秘杨崇汇；贾庆林安排其去福建）——与第 26 期江泽民的人推测并存待考",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "episode": "b1r34YWYoUc",
+   "date": "2025-04-22",
+   "quote": "因为陈文清他就是朱镕基和贾庆林提拔的呀"
+  },
+  {
+   "id": "rel-0646",
+   "subject": "杨崇汇",
+   "relation": "贾庆林的大秘（时任四川省副省长、民工委书记，后任全国政协副秘书长）",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "episode": "b1r34YWYoUc",
+   "date": "2025-04-22",
+   "quote": "杨崇汇贾庆林的大秘"
+  },
+  {
+   "id": "rel-5153",
+   "subject": "贾庆林",
+   "relation": "推荐给江泽民（否定）",
+   "object": "孙政才",
+   "status": "本期考辨否定",
+   "quote": "但是贾庆林江泽民温家宝是三个派系啊",
+   "episode": "7Fo8dbFk0p0",
+   "date": "2025-04-27"
+  },
+  {
+   "id": "rel-7124",
+   "subject": "贾庆林",
+   "relation": "提拔",
+   "object": "习包子",
+   "status": "本档口径（链式）",
+   "episode": "FTe2Rli6mf8",
+   "date": "2025-06-10",
+   "quote": "陳毅的大秘谷牧提拔了贾庆林,贾庆林提拔了習包子"
+  },
+  {
+   "id": "rel-7125",
+   "subject": "谷牧",
+   "relation": "提拔",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "episode": "FTe2Rli6mf8",
+   "date": "2025-06-10",
+   "quote": "陳毅的大秘谷牧提拔了贾庆林,贾庆林提拔了習包子"
+  },
+  {
+   "id": "rel-1980",
+   "subject": "贾庆林",
+   "relation": "肯定是习包子派系、是习包子的政治恩师",
+   "object": "习包子",
+   "status": "本档口径",
+   "episode": "mTMMGwoIleo",
+   "date": "2025-06-23",
+   "quote": "贾庆林肯定就是习包子派系的这习包子的政治恩师"
+  },
+  {
+   "id": "rel-2615",
+   "subject": "于文明",
+   "relation": "是贾庆林提拔的所谓的民主党派（贾庆林当了十年政协主席、管着民主党派）",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "episode": "TKdWX7KENX8",
+   "date": "2025-06-24",
+   "quote": "于文明是贾庆林提拔的所谓的民主党派啊贾庆林当了十年的政协主席政协主席管着民主党派啊"
+  },
+  {
+   "id": "rel-4241",
+   "subject": "于文明",
+   "relation": "马仔",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "quote": "于文明他就是贾庆林的马仔",
+   "episode": "aqdJgTuTN0w",
+   "date": "2025-06-25"
+  },
+  {
+   "id": "rel-4242",
+   "subject": "尤兰田",
+   "relation": "大秘级马仔（两度下属）",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "quote": "由蓝填给贾庆林当过两次的下属就是贾庆林的妈仔",
+   "episode": "aqdJgTuTN0w",
+   "date": "2025-06-25"
+  },
+  {
+   "id": "rel-7343",
+   "subject": "谷牧",
+   "relation": "提拔贾庆林",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "episode": "PGORfZM23XY",
+   "date": "2025-07-30",
+   "quote": "谷牧提拔了贾庆林贾庆林提拔的细胞子把中国换成这样"
+  },
+  {
+   "id": "rel-2145",
+   "subject": "林炳瑶",
+   "relation": "关系十分密切",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "episode": "z2VFLGToKX0",
+   "date": "2025-08-22",
+   "quote": "林炳瑶和贾青林的关系也十分密切"
+  },
+  {
+   "id": "rel-2344",
+   "subject": "岳福宏",
+   "relation": "是贾庆林的助理（贾任北京市长时任其助理、贾出国旅游还带着他）",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "episode": "Tw3NuaHeADI",
+   "date": "2025-08-26",
+   "quote": "岳福宏担任北京市长助理的时候北京市长就是贾庆林贾庆林担任中国政协主席的时候岳福宏担任辽宁省政协主席贾庆林出国旅游这还带着岳福宏一起出去玩"
+  },
+  {
+   "id": "rel-7973",
+   "subject": "许荣茂",
+   "relation": "世茂集团董事局主席、被断为贾庆林的马仔（原文假性人）",
+   "object": "贾庆林",
+   "status": "本期断语层",
+   "episode": "QGNvQhsIyhE",
+   "date": "2025-08-26",
+   "quote": "许荣茂也是假性人的马仔"
+  },
+  {
+   "id": "rel-8979",
+   "subject": "贾庆林",
+   "relation": "被再申为谷牧提拔、贾庆林提拔习包子（原文古沐、贾清林）",
+   "object": "习包子",
+   "status": "本期再申层",
+   "episode": "cNVWCNiaJ88",
+   "date": "2025-08-29",
+   "quote": "古沐提拔的贾清林贾清林提拔的细胞子"
+  },
+  {
+   "id": "rel-7835",
+   "subject": "贾庆林",
+   "relation": "被断为张孝廉正局级与副部级两步的提拔人",
+   "object": "张孝廉",
+   "status": "本期断语层",
+   "episode": "8co0i0l00BQ",
+   "date": "2025-09-10",
+   "quote": "等于张孝连的政局级和副部级都是甲青林提拔"
+  },
+  {
+   "id": "rel-4184",
+   "subject": "贾庆林",
+   "relation": "信其大师",
+   "object": "王林",
+   "status": "本档口径",
+   "quote": "贾庆林和吴关正信王林大师",
+   "episode": "9VFhrIUgSdM",
+   "date": "2025-09-12"
+  },
+  {
+   "id": "rel-4187",
+   "subject": "张孝连",
+   "relation": "结交（政治骗子指控所指）",
+   "object": "贾庆林",
+   "status": "本档口径・解读层",
+   "quote": "张孝连结交政治骗子那就是结交的是贾庆林和栗战书啊",
+   "episode": "9VFhrIUgSdM",
+   "date": "2025-09-12"
+  },
+  {
+   "id": "rel-7540",
+   "subject": "谷牧",
+   "relation": "提拔贾庆林",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "episode": "U8d7IbW1Ex4",
+   "date": "2025-09-24",
+   "quote": "谷牧呢就是山东省威海市荣城市人谷牧提拔的贾庆林贾庆林提拔的习包子"
+  },
+  {
+   "id": "rel-7541",
+   "subject": "贾庆林",
+   "relation": "提拔习包子",
+   "object": "习包子",
+   "status": "本档口径（原文作细胞子）",
+   "episode": "U8d7IbW1Ex4",
+   "date": "2025-09-24",
+   "quote": "谷牧呢就是山东省威海市荣城市人谷牧提拔的贾庆林贾庆林提拔的习包子"
+  },
+  {
+   "id": "rel-3651",
+   "subject": "张桃林",
+   "relation": "九三学社职务被提拔于（推测）",
+   "object": "贾庆林",
+   "status": "本期推测",
+   "episode": "ERpUqM2Neqc",
+   "date": "2025-09-27",
+   "quote": "张桃林是九三学社的张桃林在九三学社的职务很可能就是贾千林提拔的"
+  },
+  {
+   "id": "rel-2961",
+   "subject": "苏增添",
+   "relation": "每一步都是贾庆林提拔的",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "episode": "FtSFU6ADbyk",
+   "date": "2025-09-29",
+   "quote": "这一步苏宗天他还是贾庆林提拔的"
+  },
+  {
+   "id": "rel-0323",
+   "subject": "贾庆林",
+   "relation": "本期称谷牧提拔的（又提拔习包子）",
+   "object": "谷牧",
+   "status": "本档口径",
+   "episode": "SuakLrAnZtc",
+   "date": "2025-10-01",
+   "quote": "谷牧提拔的贾清林贾清林提拔的习包子"
+  },
+  {
+   "id": "rel-7657",
+   "subject": "陈吉宁",
+   "relation": "被断为贾庆林的马仔（后台是贾庆林）",
+   "object": "贾庆林",
+   "status": "本期总断层（原文贾青林）",
+   "episode": "Dk0kgs7rPfE",
+   "date": "2025-10-07",
+   "quote": "原来陈基宁薛其坤还是贾青林的马仔"
+  },
+  {
+   "id": "rel-7658",
+   "subject": "薛其坤",
+   "relation": "被断为贾庆林的马仔",
+   "object": "贾庆林",
+   "status": "本期总断层（原文贾青林）",
+   "episode": "Dk0kgs7rPfE",
+   "date": "2025-10-07",
+   "quote": "原来陈基宁薛其坤还是贾青林的马仔"
+  },
+  {
+   "id": "rel-7659",
+   "subject": "李伯潭",
+   "relation": "贾庆林的大女婿、2014年随贾庆林视察清华",
+   "object": "贾庆林",
+   "status": "公开旧闻层（原文李博谈）",
+   "episode": "Dk0kgs7rPfE",
+   "date": "2025-10-07",
+   "quote": "贾青林视察的时候都带着大女薛李博谈呢"
+  },
+  {
+   "id": "rel-7662",
+   "subject": "刘明康",
+   "relation": "贾庆林的秘书",
+   "object": "贾庆林",
+   "status": "本期梳理层",
+   "episode": "Dk0kgs7rPfE",
+   "date": "2025-10-07",
+   "quote": "廖明是刘明康的秘书刘明康是贾青林的秘书"
+  },
+  {
+   "id": "rel-4169",
+   "subject": "许荣茂",
+   "relation": "白手套",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "quote": "许荣茂是贾青林洗包子的白手套贾青林亲自背书的",
+   "episode": "Mq1zuvw8DzI",
+   "date": "2025-10-10"
+  },
+  {
+   "id": "rel-7713",
+   "subject": "谷牧",
+   "relation": "提拔贾庆林、贾庆林提拔习包子（主线提拔链）",
+   "object": "贾庆林",
+   "status": "本期总论层",
+   "episode": "OKlb4xkz1vM",
+   "date": "2025-10-14",
+   "quote": "谷牧提拔的贾庆林贾庆林提拔的习包子"
+  },
+  {
+   "id": "rel-8465",
+   "subject": "曹德旺",
+   "relation": "与习包子并列被断为曹德旺白手套所事的对象（贾庆林和习包子的白手套、钱袋子）",
+   "object": "贾庆林",
+   "status": "本期总断层",
+   "episode": "gae8Zx27veU",
+   "date": "2025-10-17",
+   "quote": "曹德旺呢是贾庆林和习包子的白手套"
+  },
+  {
+   "id": "rel-8182",
+   "subject": "李伯潭",
+   "relation": "贾庆林女婿、民建会员",
+   "object": "贾庆林",
+   "status": "本期梳理层",
+   "episode": "izl5m85jRYw",
+   "date": "2025-12-06",
+   "quote": "贾庆林的女婿李伯潭也是民建会员啊"
+  },
+  {
+   "id": "rel-8959",
+   "subject": "李伯潭",
+   "relation": "被称是贾庆林的大女婿",
+   "object": "贾庆林",
+   "status": "本期提及层",
+   "episode": "i8QSrKCog4A",
+   "date": "2025-12-14",
+   "quote": "贾庆林的大女婿李伯潭陪同啊"
+  },
+  {
+   "id": "rel-9061",
+   "subject": "赖小民",
+   "relation": "被称原北京市长贾庆林的马仔（原文贾星林）",
+   "object": "贾庆林",
+   "status": "本期断语层",
+   "episode": "0TMl6SILHa4",
+   "date": "2025-12-15",
+   "quote": "赖小民呢原来是北京市的官员啊就是北京市长贾星林的马仔"
+  },
+  {
+   "id": "rel-9062",
+   "subject": "汪平华",
+   "relation": "被称贾庆林的马仔、贾庆林提拔着习包子（原文假清廉）",
+   "object": "贾庆林",
+   "status": "本期断语层",
+   "episode": "0TMl6SILHa4",
+   "date": "2025-12-15",
+   "quote": "汪平华呢这是假清廉的妈仔啊假清廉提拔着习包子"
+  },
+  {
+   "id": "rel-8347",
+   "subject": "贾庆林",
+   "relation": "提拔习包子（本期再申，与ep646链互证）",
+   "object": "习包子",
+   "status": "本期断语层",
+   "episode": "E9Qdax2p514",
+   "date": "2025-12-16",
+   "quote": "贾庆林提拔习包子习包子刚上台的时候去深圳李浩还出来陪同"
+  },
+  {
+   "id": "rel-8823",
+   "subject": "许荣茂",
+   "relation": "被断是贾庆林和习包子的白手套、贾庆林亲自背书（原文假清林）",
+   "object": "贾庆林",
+   "status": "本期断语层",
+   "episode": "cv0M7YZzfbA",
+   "date": "2025-12-16",
+   "quote": "许荣茂就是假清林和习包子的白手套"
+  },
+  {
+   "id": "rel-5945",
+   "subject": "秦博勇",
+   "relation": "被提拔",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "quote": "贾庆林提拔的细胞子和冬蚕奥会组委会副主席秦博勇",
+   "episode": "Rpo_uA1sOKw",
+   "date": "2025-12-17"
+  },
+  {
+   "id": "rel-8495",
+   "subject": "习包子",
+   "relation": "提拔链作谷牧提拔贾庆林、贾庆林提拔习包子，被称习包子的主线剧情",
+   "object": "贾庆林",
+   "status": "本期断语层",
+   "episode": "8vP_hpUlxec",
+   "date": "2025-12-20",
+   "quote": "谷牧提拔的贾庆林贾庆林提拔的习包子"
+  },
+  {
+   "id": "rel-9001",
+   "subject": "蒋定之",
+   "relation": "被断为贾庆林、朱镕基提拔（原文朱中基）",
+   "object": "贾庆林",
+   "status": "本期断语层",
+   "episode": "ZCBlEzTNrAw",
+   "date": "2025-12-22",
+   "quote": "蒋定芝就是贾庆林朱中基提拔的"
+  },
+  {
+   "id": "rel-2742",
+   "subject": "贾庆林",
+   "relation": "可能被胡锦涛阵营扒管（与习福建渊源、妻女涉海外资产丑闻传闻；预测层）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "reTtmy0bTis",
+   "date": "2026-02-05",
+   "quote": "贾庆林如果被把管象征着习包子福建帮的崩盘"
+  },
+  {
+   "id": "rel-6712",
+   "subject": "谷牧",
+   "relation": "提拔",
+   "object": "贾庆林",
+   "status": "本期断语",
+   "quote": "谷牧提拔的贾庆林贾庆林提拔的习包子",
+   "episode": "w6gWUK9KYnQ",
+   "date": "2026-03-07"
+  },
+  {
+   "id": "rel-6713",
+   "subject": "贾庆林",
+   "relation": "提拔",
+   "object": "习包子",
+   "status": "本期断语",
+   "quote": "谷牧提拔的贾庆林贾庆林提拔的习包子",
+   "episode": "w6gWUK9KYnQ",
+   "date": "2026-03-07"
+  },
+  {
+   "id": "rel-2379",
+   "subject": "贾庆林",
+   "relation": "提拔习包子",
+   "object": "习包子",
+   "status": "本档口径",
+   "episode": "lcWPcN4xirk",
+   "date": "2026-03-21",
+   "quote": "贾青林提拔的习包子"
+  },
+  {
+   "id": "rel-8832",
+   "subject": "林秀成",
+   "relation": "三安集团成长与贾庆林福建任职时段重叠、坊间有与贾庆林家族成员关系的说法（未证实）",
+   "object": "贾庆林",
+   "status": "坊间说法层",
+   "episode": "N10hcCTOBPI",
+   "date": "2026-03-23",
+   "quote": "贾庆林在1985年到1996年间长期在福建任职历任省委副书记省长省委书记"
+  },
+  {
+   "id": "rel-5072",
+   "subject": "马兴瑞",
+   "relation": "巴结送生意（指控）",
+   "object": "贾庆林",
+   "status": "本档口径・指控层",
+   "quote": "他也要把神舟7号的发射塔架的制作生意交给贾庆林曾经担任过厂长的太原重型机械集团",
+   "episode": "WigMmTkrCQ0",
+   "date": "2026-04-01"
+  },
+  {
+   "id": "rel-5031",
+   "subject": "宋海",
+   "relation": "提拔人",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "quote": "宋海是贾庆林提拔的",
+   "episode": "nRgopTU_rkE",
+   "date": "2026-04-07"
+  },
+  {
+   "id": "rel-4464",
+   "subject": "谷牧",
+   "relation": "提拔",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "quote": "谷牧提拔了贾庆林贾庆林提拔了细胞的这个主线剧情是完全正确的",
+   "episode": "cu35dTH1O0g",
+   "date": "2026-04-27"
+  },
+  {
+   "id": "rel-4465",
+   "subject": "贾庆林",
+   "relation": "提拔",
+   "object": "习包子",
+   "status": "本档口径",
+   "quote": "谷牧提拔了贾庆林贾庆林提拔了细胞的这个主线剧情是完全正确的",
+   "episode": "cu35dTH1O0g",
+   "date": "2026-04-27"
+  },
+  {
+   "id": "rel-4852",
+   "subject": "贾庆林",
+   "relation": "马仔",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "吴邦国和贾庆林都是陈云李鹏的马仔跟习包子是一个派系的",
+   "episode": "8B24NyBcz9Q",
+   "date": "2026-04-27"
+  },
+  {
+   "id": "rel-5821",
+   "subject": "欧阳泽华",
+   "relation": "最初提拔",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "quote": "就是贾庆林最开始提拔的欧阳泽华",
+   "episode": "EO-BtKtIT5E",
+   "date": "2026-04-30"
+  },
+  {
+   "id": "rel-8547",
+   "subject": "谷牧",
+   "relation": "被串提拔贾庆林、贾庆林提拔习包子；谷牧为孔子基金会首任名誉会长、其秘书李昊任深圳市委书记（原文待核）",
+   "object": "贾庆林",
+   "status": "本期串联层",
+   "episode": "crAQp4LxB84",
+   "date": "2026-05-13",
+   "quote": "谷牧提拔的贾清林。贾清林提拔的西包子"
+  },
+  {
+   "id": "rel-6983",
+   "subject": "萧培",
+   "relation": "正局级提拔",
+   "object": "贾庆林",
+   "status": "本期定版",
+   "episode": "JNFXXaC6OBY",
+   "date": "2026-05-21",
+   "quote": "也就是说萧培的政局级不是别人正是贾庆林提拔的"
+  },
+  {
+   "id": "rel-5483",
+   "subject": "贾庆林",
+   "relation": "接见校领导（2026-05-26）",
+   "object": "河北工业大学",
+   "status": "官宣层转述",
+   "quote": "贾庆林在北京亲切接见了校党委书记韩旭校长王立民校党委副书记何立军一行",
+   "episode": "G3DoGCv1d1g",
+   "date": "2026-06-02"
+  },
+  {
+   "id": "rel-5484",
+   "subject": "贾庆林",
+   "relation": "派系除习朱外排名最高的常委",
+   "object": "习包子派系",
+   "status": "本档口径",
+   "quote": "贾庆林的确是细胞子派系除了细胞子竹笼机之外的排名最高的一个常委",
+   "episode": "G3DoGCv1d1g",
+   "date": "2026-06-02"
+  },
+  {
+   "id": "rel-5607",
+   "subject": "李伯潭",
+   "relation": "女婿",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "quote": "简单一句话就是这就是贾庆林的女婿李伯潭的公司就是习包子的小姨父徐兴建的公司明天系的肖建华和富德系的张俊都是贾庆林习包子的白手套",
+   "episode": "HqEcetbS4bc",
+   "date": "2026-06-03"
+  },
+  {
+   "id": "rel-2699",
+   "subject": "云布龙",
+   "relation": "与贾庆林是太原工学院5年大学同学、太原重型机械厂10年同事（铁哥们）",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "episode": "JdwHH_L5nwk",
+   "date": "2026-06-05",
+   "quote": "云布龙和贾清林是太原工学院5年的大学同学是太原重型机器厂10年的同事"
+  },
+  {
+   "id": "rel-2700",
+   "subject": "贾庆林",
+   "relation": "是谷牧提拔的、跟江泽民没有什么关系",
+   "object": "谷牧",
+   "status": "本档口径",
+   "episode": "JdwHH_L5nwk",
+   "date": "2026-06-05",
+   "quote": "贾清林是谷牧提拔的跟江泽民没有什么毛关系"
+  },
+  {
+   "id": "rel-2701",
+   "subject": "贾庆林",
+   "relation": "提拔了习包子（福建任省委副书记时是习包子在福建的直接省委上级领导之一）",
+   "object": "习包子",
+   "status": "本档口径",
+   "episode": "JdwHH_L5nwk",
+   "date": "2026-06-05",
+   "quote": "贾清林作为福建省委的专职副书记是当时习包子在福建工作时的直接省委上级领导之一"
+  },
+  {
+   "id": "rel-4083",
+   "subject": "周强",
+   "relation": "由其提拔",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "quote": "周强大挂细胞子是贾庆林提拔的",
+   "episode": "xtoP0rq4w1o",
+   "date": "2026-06-05"
+  },
+  {
+   "id": "rel-0364",
+   "subject": "岳福宏",
+   "relation": "本期称贾庆林的人（北京市长助理、辽宁政协主席两度与贾对应）",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "episode": "3MZZT8t9Xd0",
+   "date": "2026-06-06",
+   "quote": "岳福宏担任北京市长助理的时候北京市长就是贾庆林岳福宏担任辽宁政协主席的时候中国的政协主席就是贾庆林"
+  },
+  {
+   "id": "rel-3045",
+   "subject": "贾庆林",
+   "relation": "是谷牧一手提拔的",
+   "object": "谷牧",
+   "status": "本档口径",
+   "episode": "vUXRkBJBSuo",
+   "date": "2026-06-24",
+   "quote": "谷牧一手提拔了日后全清朝野的贾庆林"
+  },
+  {
+   "id": "rel-4438",
+   "subject": "李伯潭",
+   "relation": "女婿",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "quote": "李不谭作为前政治局常委贾庆林的女婿",
+   "episode": "GdyBoxgjJe0",
+   "date": "2026-07-01"
+  },
+  {
+   "id": "rel-5637",
+   "subject": "贾庆林",
+   "relation": "提拔",
+   "object": "谷牧",
+   "status": "标题层＋本档口径",
+   "quote": "1973年3月39岁的胡光保开始担任谷牧秘书谷牧威第11届第12届中央数据处数据国务院原副总理第7届全国政协副主席谷牧提拔的假青年假青年提拔的洗包子",
+   "episode": "YH6NI1CyyLg",
+   "date": "2026-07-11"
+  },
+  {
+   "id": "rel-5436",
+   "subject": "许荣茂",
+   "relation": "终身靠山",
+   "object": "贾庆林",
+   "status": "本档口径・指控层",
+   "quote": "许荣茂真正的政治不恶和终身靠山是陈云李鹏派系的另一尊巨头贾庆林",
+   "episode": "LnE6NslNwU0",
+   "date": "2026-07-15"
+  },
+  {
+   "id": "rel-5437",
+   "subject": "贾庆林",
+   "relation": "马仔与盟友",
+   "object": "陈云、李鹏派系",
+   "status": "本档口径",
+   "quote": "作为陈云李鹏派系最坚固的马仔与盟友的正国级大佬贾庆林",
+   "episode": "LnE6NslNwU0",
+   "date": "2026-07-15"
+  },
+  {
+   "id": "rel-5438",
+   "subject": "贾庆林",
+   "relation": "推上两大侨商组织会长宝座",
+   "object": "许荣茂",
+   "status": "本档口径",
+   "quote": "贾庆林利用其全国政协主席的特权直接将许荣茂推上了这两大侨商组织会长的宝座",
+   "episode": "LnE6NslNwU0",
+   "date": "2026-07-15"
+  },
+  {
+   "id": "rel-8093",
+   "subject": "吴立春",
+   "relation": "被断背后是许荣茂和贾庆林",
+   "object": "贾庆林",
+   "status": "本期断语层（原文作贾青林）",
+   "episode": "50RN9jLpBwg",
+   "date": "2026-07-15",
+   "quote": "这里的这个吴立春呢也是超级大瓜吴立春背后就是许荣茂和贾青林啊"
+  },
+  {
+   "id": "rel-0585",
+   "subject": "蔡赴朝",
+   "relation": "贾庆林提拔的首席机要大秘（绕过秘书长杜德印安排；贾托举其顶格晋升正部级）",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "episode": "vy_TXU39KPQ",
+   "date": "2026-07-16",
+   "quote": "贾向林提拔的蔡赴朝这是正局级大秘后来晋升正部级"
+  },
+  {
+   "id": "rel-0586",
+   "subject": "贾庆林",
+   "relation": "本期断并非江泽民派系（北京市委书记任内用非江派大秘、绕开带江派标签的秘书长）",
+   "object": "江泽民",
+   "status": "本档口径",
+   "episode": "vy_TXU39KPQ",
+   "date": "2026-07-16",
+   "quote": "这说明贾清林就不是江派了"
+  },
+  {
+   "id": "rel-2684",
+   "subject": "谷牧",
+   "relation": "在改革开放初期一手提拔贾庆林、是贾庆林的政治恩师",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "episode": "oVVNmo33iOM",
+   "date": "2026-09-06",
+   "quote": "谷牧在所谓的改革开放初期是一手提拔贾庆林的政治恩师"
+  },
+  {
+   "id": "rel-2685",
+   "subject": "贾庆林",
+   "relation": "主政福建期间一手提拔在福建基层的习包子",
+   "object": "习包子",
+   "status": "本档口径",
+   "episode": "oVVNmo33iOM",
+   "date": "2026-09-06",
+   "quote": "贾庆林主政福建期间又一手提拔了在福建基层的细胞子"
+  },
+  {
+   "id": "rel-3496",
+   "subject": "洪卫东",
+   "relation": "白手套（经清华资本喂养）",
+   "object": "贾庆林",
+   "status": "本档口径・指控层",
+   "episode": "4N49ehxQ-0U",
+   "date": "2026-10-04",
+   "quote": "有假青林王岐山习包子这几大政治家族通过陈金宁治下的清华资本共同喂养出来的绝对的白手套"
+  },
+  {
+   "id": "rel-3501",
+   "subject": "贾庆林",
+   "relation": "视察清华定调开绿灯",
+   "object": "陈吉宁",
+   "status": "本档口径",
+   "episode": "4N49ehxQ-0U",
+   "date": "2026-10-04",
+   "quote": "贾庆林在现场给清华大学的销办企业和产学研平台做出了一个极为关键分量极重的政治定调"
+  },
+  {
+   "id": "rel-2757",
+   "subject": "谷牧",
+   "relation": "提拔了贾庆林",
+   "object": "贾庆林",
+   "status": "本档口径",
+   "episode": "kvNol93SKzM",
+   "date": "2026-10-06",
+   "quote": "谷牧提拔了贾庆林贾庆林在福建一手提拔了习包子"
+  },
+  {
+   "id": "rel-2758",
+   "subject": "贾庆林",
+   "relation": "在福建一手提拔了习包子（两家本来就是一家人）",
+   "object": "习包子",
+   "status": "本档口径",
+   "episode": "kvNol93SKzM",
+   "date": "2026-10-06",
+   "quote": "贾庆林在福建一手提拔了习包子两家本来就是一家人"
+  }
+ ],
+ "date_from": "2023-10-08",
+ "date_to": "2026-10-06"
+}

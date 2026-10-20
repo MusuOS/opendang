@@ -1,0 +1,84 @@
+{
+ "id": "miao-hua",
+ "name": "苗华",
+ "aliases": [],
+ "stats": {
+  "episodes": 252,
+  "mentions": 1191,
+  "alias_mentions": {},
+  "first_date": "2024-09-06",
+  "last_date": "2026-10-13",
+  "title_count": 57
+ },
+ "time_notes": [
+  {
+   "id": "rul-95",
+   "date": "2026-10-20",
+   "category": "人物卡注记",
+   "subject": "苗华",
+   "item": "苗华人物卡时点注记（编纂定版·2026-10-20）",
+   "ruling": "苗华人物卡加时点注记，定性为「处理程序时点最完整、官宣层与推断层分明」：其停职有国防部官宣层、罢免代表与免职有程序时点，间以开除党籍推断层与小说体判死刑层，层次分明、分账并列。时点列：出席会议但实际上已经被内控（断语层，ep214）；2024-11-28 官宣停职检查、国防部证实涉嫌严重违纪被停职调查（官宣层，ep185、ep194）；罢免全国人大代表职务时点两账：ep186 作 2025-04、ep185 据人大常委会公报作 2025-05-15 披露，分账并列；2025-05-29 国防部官网军委委员栏尚有其名、其后资料被删除（状态层，ep185）；推断 2025-05-29 政治局会议决定开除其党籍（推断层，ep185）；2025-06 被免去中央军委委员职务（ep186）；判死刑（小说体层，ep843 后半）。",
+   "basis": "编纂定版（2026-10-20）",
+   "history": "无归属单条裁定；多期断语作习包子铁杆马仔（ep186）。本注记只处理时点呈现。",
+   "rule": "版式注记（非口径裁定）",
+   "effect": "烤制苗华词条时按本注记逐时点呈现并标层级。"
+  }
+ ],
+ "counts": {
+  "events": 350,
+  "relations": 135
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/miao-hua/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 80,
+    "date_from": "2024-09-06",
+    "date_to": "2025-04-16",
+    "bytes": 175970
+   },
+   {
+    "file": "events-002.json",
+    "count": 77,
+    "date_from": "2025-04-16",
+    "date_to": "2025-08-21",
+    "bytes": 176896
+   },
+   {
+    "file": "events-003.json",
+    "count": 64,
+    "date_from": "2025-08-22",
+    "date_to": "2025-11-02",
+    "bytes": 176396
+   },
+   {
+    "file": "events-004.json",
+    "count": 86,
+    "date_from": "2025-11-03",
+    "date_to": "2026-04-12",
+    "bytes": 177845
+   },
+   {
+    "file": "events-005.json",
+    "count": 43,
+    "date_from": "2026-04-16",
+    "date_to": "2026-10-13",
+    "bytes": 133578
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 135,
+    "date_from": "2024-09-06",
+    "date_to": "2026-09-01",
+    "bytes": 47276
+   }
+  ],
+  "base": "entities/persons-chunked/miao-hua/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

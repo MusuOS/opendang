@@ -1,0 +1,73 @@
+{
+ "id": "li-xi",
+ "name": "李希",
+ "aliases": [],
+ "stats": {
+  "episodes": 140,
+  "mentions": 474,
+  "alias_mentions": {},
+  "first_date": "2023-10-08",
+  "last_date": "2026-10-11",
+  "title_count": 20
+ },
+ "current_caliber": [
+  {
+   "id": "rul-12",
+   "date": "2026-10-20",
+   "category": "口径冲突裁定",
+   "item": "冲突1 李希归属三说",
+   "ruling": "现行口径：李希归胡温派（胡锦涛、温家宝系）。",
+   "effect": "人物卡归属取 ep801 口径；旧说保留为历史层，不删。"
+  }
+ ],
+ "time_notes": [
+  {
+   "id": "rul-103",
+   "date": "2026-10-20",
+   "category": "人物卡注记",
+   "subject": "李希",
+   "item": "李希人物卡时点注记（编纂定版·2026-10-20）",
+   "ruling": "李希人物卡加时点注记。时点列：胡锦涛亲信（ep6）；赵乐际人马／江派（ep16）；温家宝亲信（ep24）；胡温的人（ep34）；胡派再证（ep265、ep267）；李希—李建国大秘链、胡派再证（ep283）；巡视讲话跳过两个确立、断下架操作层（ep314）；缺席 11 月 28 日会议（缺席层，ep160）；胡温侧再证（ep386）；百分百胡温马仔再申（ep596）；断李希是胡的人、占50%（推演层，ep794）；李希、孟建柱都是胡温马仔总断（ep801）。",
+   "basis": "编纂定版（2026-10-20）",
+   "history": "归属见 rul-12（归胡温派，依据 ep801）。本注记只处理时点呈现，不改归属裁定。",
+   "rule": "版式注记（非口径裁定）",
+   "effect": "烤制李希词条时按本注记逐时点呈现并标层级。"
+  }
+ ],
+ "counts": {
+  "events": 135,
+  "relations": 64
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/li-xi/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 74,
+    "date_from": "2023-12-26",
+    "date_to": "2025-11-30",
+    "bytes": 176878
+   },
+   {
+    "file": "events-002.json",
+    "count": 61,
+    "date_from": "2025-12-06",
+    "date_to": "2026-10-11",
+    "bytes": 143006
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 64,
+    "date_from": "2023-12-26",
+    "date_to": "2026-09-02",
+    "bytes": 22243
+   }
+  ],
+  "base": "entities/persons-chunked/li-xi/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

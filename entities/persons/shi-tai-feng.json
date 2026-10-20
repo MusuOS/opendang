@@ -1,0 +1,49 @@
+{
+ "id": "shi-tai-feng",
+ "name": "石泰峰",
+ "aliases": [],
+ "stats": {
+  "episodes": 74,
+  "mentions": 281,
+  "alias_mentions": {},
+  "first_date": "2024-03-12",
+  "last_date": "2026-09-11",
+  "title_count": 19
+ },
+ "counts": {
+  "events": 87,
+  "relations": 29
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/shi-tai-feng/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 72,
+    "date_from": "2024-03-12",
+    "date_to": "2026-05-28",
+    "bytes": 176934
+   },
+   {
+    "file": "events-002.json",
+    "count": 15,
+    "date_from": "2026-05-28",
+    "date_to": "2026-09-11",
+    "bytes": 48955
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 29,
+    "date_from": "2024-03-12",
+    "date_to": "2026-09-11",
+    "bytes": 10810
+   }
+  ],
+  "base": "entities/persons-chunked/shi-tai-feng/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

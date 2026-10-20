@@ -1,0 +1,74 @@
+{
+ "id": "li-peng",
+ "name": "李鹏",
+ "aliases": [],
+ "stats": {
+  "episodes": 231,
+  "mentions": 930,
+  "alias_mentions": {},
+  "first_date": "2024-06-02",
+  "last_date": "2026-10-14",
+  "title_count": 19
+ },
+ "register_links": [
+  {
+   "register": "dev-projects",
+   "entry": "三峡工程",
+   "matched_as": [
+    "李鹏"
+   ],
+   "n_eps": 19
+  },
+  {
+   "register": "capital-groups",
+   "entry": "国投集团（国家开发投资）",
+   "matched_as": [
+    "李鹏"
+   ],
+   "n_eps": 22
+  }
+ ],
+ "counts": {
+  "events": 214,
+  "relations": 117
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/li-peng/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 75,
+    "date_from": "2024-07-20",
+    "date_to": "2025-10-04",
+    "bytes": 177367
+   },
+   {
+    "file": "events-002.json",
+    "count": 81,
+    "date_from": "2025-10-04",
+    "date_to": "2026-05-27",
+    "bytes": 177269
+   },
+   {
+    "file": "events-003.json",
+    "count": 58,
+    "date_from": "2026-05-27",
+    "date_to": "2026-10-09",
+    "bytes": 150716
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 117,
+    "date_from": "2024-08-28",
+    "date_to": "2026-10-03",
+    "bytes": 36392
+   }
+  ],
+  "base": "entities/persons-chunked/li-peng/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

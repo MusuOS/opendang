@@ -1,0 +1,45 @@
+{
+ "id": "ning-de-shi-dai",
+ "name": "宁德时代",
+ "aliases": [],
+ "stats": {
+  "episodes": 5,
+  "mentions": 10,
+  "alias_mentions": {},
+  "first_date": "2025-12-11",
+  "last_date": "2026-07-09",
+  "title_count": 2
+ },
+ "register_links": [
+  {
+   "register": "listed-companies",
+   "entry": "宁德时代",
+   "matched_as": [
+    "宁德时代"
+   ],
+   "n_eps": 4,
+   "codes": [
+    "300750.SZ",
+    "03750.HK"
+   ]
+  }
+ ],
+ "counts": {
+  "events": 0,
+  "relations": 1
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "events": [],
+ "relations": [
+  {
+   "id": "rel-5694",
+   "subject": "宁德时代",
+   "relation": "白手套",
+   "object": "习包子",
+   "status": "指控层",
+   "quote": "宁德时代是细胞子是所有人公认的细胞子白手套就宁德时代这四个字就够了",
+   "episode": "9v5pFeoEf20",
+   "date": "2026-07-09"
+  }
+ ]
+}

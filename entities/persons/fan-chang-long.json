@@ -1,0 +1,63 @@
+{
+ "id": "fan-chang-long",
+ "name": "范长龙",
+ "aliases": [],
+ "stats": {
+  "episodes": 75,
+  "mentions": 299,
+  "alias_mentions": {},
+  "first_date": "2024-07-30",
+  "last_date": "2026-10-13",
+  "title_count": 17
+ },
+ "time_notes": [
+  {
+   "id": "rul-105",
+   "date": "2026-10-20",
+   "category": "人物卡注记",
+   "subject": "范长龙",
+   "item": "范长龙人物卡时点注记（编纂定版·2026-10-20）",
+   "ruling": "范长龙人物卡加时点注记，定性为「密集现身仅一层、余皆幕后推论层」：其状态诸层多为实际指挥、秘密主持、幕后指挥等推论层，2026-02 密集现身仅一期表述，政变标题正文未展开，均未坐实。时点列：实际指挥解放军推论层（ep574）；秘密主持层（ep635）；孤山镇信号层（ep637）；幕后指挥层（ep666）；幕后主持排除法（ep696）；真副主席断语（ep702）；2026-02 密集现身层（ep827）；替胡锦涛发动军事政变（标题层、正文未展开，ep901）。",
+   "basis": "编纂定版（2026-10-20）",
+   "history": "徐才厚归属与范长龙状态见 rul-23（状态诸层分账保留、不裁）。本注记只处理时点呈现。",
+   "rule": "版式注记（非口径裁定）",
+   "effect": "烤制范长龙词条时按本注记逐时点呈现并标层级。"
+  }
+ ],
+ "counts": {
+  "events": 80,
+  "relations": 45
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/fan-chang-long/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 71,
+    "date_from": "2024-08-20",
+    "date_to": "2026-06-13",
+    "bytes": 175940
+   },
+   {
+    "file": "events-002.json",
+    "count": 9,
+    "date_from": "2026-06-28",
+    "date_to": "2026-10-13",
+    "bytes": 27306
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 45,
+    "date_from": "2024-08-20",
+    "date_to": "2026-10-08",
+    "bytes": 15683
+   }
+  ],
+  "base": "entities/persons-chunked/fan-chang-long/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

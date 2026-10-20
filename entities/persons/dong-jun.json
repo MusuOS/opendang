@@ -1,0 +1,63 @@
+{
+ "id": "dong-jun",
+ "name": "董军",
+ "aliases": [],
+ "stats": {
+  "episodes": 102,
+  "mentions": 496,
+  "alias_mentions": {},
+  "first_date": "2024-07-30",
+  "last_date": "2026-10-11",
+  "title_count": 24
+ },
+ "time_notes": [
+  {
+   "id": "rul-91",
+   "date": "2026-10-20",
+   "category": "人物卡注记",
+   "subject": "董军",
+   "item": "董军人物卡时点注记（编纂定版·2026-10-20）",
+   "ruling": "董军人物卡加时点注记，定性为「被查传闻与打卡现身交替、迄未被抓」：2024-11 外媒调查报道与官方否认同框，其后上海露面、访越、会见外宾等打卡现身与缺席记录交替，最新表述仍为尚未被抓。时点列：2024-11 金融时报报道可能因贪腐被调查、国防部发言人否认称纯属捏造（引述层／官宣层，ep194）；2024-12-05 上海公开露面（现身层，ep194；ep222 称系外媒报道后首次公开亮相、只有文字无图片）；2024-12-19 访问越南（现身层，ep194）；缺席 2025-04-02 中央军委植树活动报道与中央周边工作会议（缺席层，ep194）；2025-04-08 会见巴基斯坦空军参谋长（现身层，ep194）；将抓预测（预测层，ep398，归对账组）；控制使用层（ep609）；暂未处理的三个正部级之一（状态层，ep505）；尚未被抓层（ep827）。",
+   "basis": "编纂定版（2026-10-20）",
+   "history": "提拔人张展南说未裁（ep398、ep643）；状态分账见 rul-72。本注记只处理时点呈现。",
+   "rule": "版式注记（非口径裁定）",
+   "effect": "烤制董军词条时按本注记逐时点呈现并标层级。"
+  }
+ ],
+ "counts": {
+  "events": 110,
+  "relations": 44
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/dong-jun/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 77,
+    "date_from": "2024-07-30",
+    "date_to": "2026-02-14",
+    "bytes": 176858
+   },
+   {
+    "file": "events-002.json",
+    "count": 33,
+    "date_from": "2026-02-16",
+    "date_to": "2026-08-29",
+    "bytes": 121603
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 44,
+    "date_from": "2024-10-14",
+    "date_to": "2026-08-29",
+    "bytes": 15035
+   }
+  ],
+  "base": "entities/persons-chunked/dong-jun/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

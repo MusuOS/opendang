@@ -1,0 +1,90 @@
+{
+ "id": "wang-yang",
+ "name": "汪洋",
+ "aliases": [],
+ "stats": {
+  "episodes": 155,
+  "mentions": 1258,
+  "alias_mentions": {},
+  "first_date": "2023-10-08",
+  "last_date": "2026-10-14",
+  "title_count": 45
+ },
+ "current_caliber": [
+  {
+   "id": "rul-17",
+   "date": "2026-10-20",
+   "category": "口径冲突裁定",
+   "item": "冲突6 汪洋归属多说",
+   "ruling": "现行口径：汪洋归习包子派系。",
+   "effect": "归属取 ep841 口径；江、邓、胡侧诸说降历史层，身份层另账保留。"
+  }
+ ],
+ "time_notes": [
+  {
+   "id": "rul-104",
+   "date": "2026-10-20",
+   "category": "人物卡注记",
+   "subject": "汪洋",
+   "item": "汪洋人物卡时点注记（编纂定版·2026-10-20）",
+   "ruling": "汪洋人物卡加时点注记。时点列：习派最深暗线（ep46）；江泽民派系（ep62）；接班论驳斥、明断不会接任总书记（断语层，ep185）；亲弟弟断语（ep256）；邓小平派系（ep305）；薄汪习李一家人框架、雷政富铁杆全考（ep310）；埋得最深的最后王牌、五张牌、三位一体铁哥们总断（ep356）；习亲弟弟层与回良玉邓派香火层同集并存（ep455）；胡锦涛三大马仔追杀汪洋层（ep618）；陈云朱镕基深埋30年暗线、卢荣景提拔说（ep634）；习包子亲大哥、与彭丽媛合伙东平地产层（ep671）；习派元老私生子、跟习绝对是一家人层（ep728）；代理总书记网传长文层（网传层，ep794，归冲突13对账组）；许勤和汪洋完全绑定、汪洋就是习的派系（ep841）。",
+   "basis": "编纂定版（2026-10-20）",
+   "history": "归属见 rul-17（归习包子派系，依据 ep841）。本注记只处理时点呈现，不改归属裁定。",
+   "rule": "版式注记（非口径裁定）",
+   "effect": "烤制汪洋词条时按本注记逐时点呈现并标层级。"
+  }
+ ],
+ "register_links": [
+  {
+   "register": "dev-projects",
+   "entry": "东平地产",
+   "matched_as": [
+    "汪洋"
+   ],
+   "n_eps": 4
+  }
+ ],
+ "counts": {
+  "events": 212,
+  "relations": 132
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/wang-yang/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 77,
+    "date_from": "2023-10-08",
+    "date_to": "2026-04-14",
+    "bytes": 175178
+   },
+   {
+    "file": "events-002.json",
+    "count": 85,
+    "date_from": "2026-04-14",
+    "date_to": "2026-06-16",
+    "bytes": 177312
+   },
+   {
+    "file": "events-003.json",
+    "count": 50,
+    "date_from": "2026-06-17",
+    "date_to": "2026-10-11",
+    "bytes": 131479
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 132,
+    "date_from": "2023-10-08",
+    "date_to": "2026-10-11",
+    "bytes": 46663
+   }
+  ],
+  "base": "entities/persons-chunked/wang-yang/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

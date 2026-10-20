@@ -1,0 +1,851 @@
+{
+ "id": "zhou-en-lai",
+ "name": "周恩来",
+ "kind": "relations",
+ "part": 1,
+ "count": 84,
+ "relations": [
+  {
+   "id": "rel-5756",
+   "subject": "习仲勋",
+   "relation": "大秘",
+   "object": "周恩来",
+   "status": "本档口径",
+   "quote": "习仲勋他就是周恩来的大秘啊",
+   "episode": "YpG7j6QQXZU",
+   "date": "2024-08-01"
+  },
+  {
+   "id": "rel-0184",
+   "subject": "谢振华",
+   "relation": "本期称周恩来的马仔（习军中根系源头）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "amY--YShi2Y",
+   "date": "2024-09-06",
+   "quote": "谢振华就是周恩来的马仔习近平就是继承着周恩来在军队的势力"
+  },
+  {
+   "id": "rel-7397",
+   "subject": "习仲勋",
+   "relation": "给周恩来担任大秘长达十年",
+   "object": "周恩来",
+   "status": "本档口径（原文作周永来）",
+   "episode": "G3THReZQohs",
+   "date": "2024-10-05",
+   "quote": "习中勋给周永来当个实力人打命"
+  },
+  {
+   "id": "rel-0346",
+   "subject": "杨贵",
+   "relation": "本期称周恩来的马仔（红旗渠，习派系）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "kAFURN2Y_ys",
+   "date": "2024-10-24",
+   "quote": "杨贵他就是周恩来的马仔啊也就是说杨贵他是习近平派系的"
+  },
+  {
+   "id": "rel-0357",
+   "subject": "林彪",
+   "relation": "本期称周恩来的马仔、周的接班人（毛假立其制衡打刘）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "kAFURN2Y_ys",
+   "date": "2024-10-24",
+   "quote": "林彪他是周恩来的接班人毛泽东为了拉拱周恩来打压刘少奇才假装把林彪设定为接班人"
+  },
+  {
+   "id": "rel-7333",
+   "subject": "习仲勋",
+   "relation": "周恩来的大秘",
+   "object": "周恩来",
+   "status": "背景层",
+   "episode": "ipTey4_GgXo",
+   "date": "2024-11-13",
+   "quote": "习中勋是周恩来的大秘他们都是一家子一家人"
+  },
+  {
+   "id": "rel-0046",
+   "subject": "李富春",
+   "relation": "本期称周恩来的马仔",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "WYvqQMUuQ3Q",
+   "date": "2024-11-16",
+   "quote": "李富春他就是周永来的马仔"
+  },
+  {
+   "id": "rel-4792",
+   "subject": "习仲勋",
+   "relation": "大秘",
+   "object": "周恩来",
+   "status": "本档口径",
+   "quote": "习仲勋是周恩来的大秘",
+   "episode": "pnbI1hRDjQI",
+   "date": "2024-11-30"
+  },
+  {
+   "id": "rel-1489",
+   "subject": "彭真",
+   "relation": "倾向是周恩来派系的（彭真到底是邓小平派系的还是周恩来派系的还有待研究、主播个人倾向相信彭真是周恩来派系的而不是邓小平派系的；一个汉学家的研究成果也说彭真可能不是邓小平派系的；周恩来派系就是习包子派系——待研究、未定版）",
+   "object": "周恩来",
+   "status": "本期推断",
+   "episode": "X0tDyFjHrvc",
+   "date": "2024-12-12",
+   "quote": "彭真他到底是邓小平派系的还是周恩爱派系的这个还有待研究啊我个人倾向相信彭真是周恩爱派系的而不是邓小平派系的"
+  },
+  {
+   "id": "rel-5587",
+   "subject": "林彪",
+   "relation": "马仔、接班人",
+   "object": "周恩来",
+   "status": "本档口径・再申",
+   "quote": "我说这个 林彪是周恩来的马仔 周恩来的接班人 而不是毛泽东的接班人这就一切历史的逻辑就通顺了",
+   "episode": "5383xDN-wgY",
+   "date": "2024-12-13"
+  },
+  {
+   "id": "rel-5588",
+   "subject": "毛泽东",
+   "relation": "不让其治疗膀胱癌（指控）",
+   "object": "周恩来",
+   "status": "指控层・转述党史研究",
+   "quote": "有很多中共党史的研究表明啊毛泽东不让周恩来治疗蓬光癌 导致癌症扩散",
+   "episode": "5383xDN-wgY",
+   "date": "2024-12-13"
+  },
+  {
+   "id": "rel-2224",
+   "subject": "习仲勋",
+   "relation": "是周恩来的大秘（字幕作大密码）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "EwBN-hpCnQA",
+   "date": "2024-12-26",
+   "quote": "习近平他爸 习仲勋就是周恩来的大密码"
+  },
+  {
+   "id": "rel-2227",
+   "subject": "许世友",
+   "relation": "主播一直怀疑是周恩来的人",
+   "object": "周恩来",
+   "status": "本期推断",
+   "episode": "EwBN-hpCnQA",
+   "date": "2024-12-26",
+   "quote": "许世友我一直怀疑是周恩来的人"
+  },
+  {
+   "id": "rel-0515",
+   "subject": "胡炜",
+   "relation": "周恩来的铁杆马仔（军委办公厅主任，周恩来掌握军权的象征）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "e3kJ7ahYIPc",
+   "date": "2025-01-03",
+   "quote": "胡伟是周恩来的铁杆马仔胡伟就是周恩来掌握军权的象征啊"
+  },
+  {
+   "id": "rel-0570",
+   "subject": "许世友",
+   "relation": "本期称是周恩来的人（驳邓小平的人之通说，李桥铭误判的根源）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "A8ahKqOiDn4",
+   "date": "2025-01-17",
+   "quote": "大家都以为许世友是邓小平的人其实不是许世友应该是周恩来的人"
+  },
+  {
+   "id": "rel-2659",
+   "subject": "许世友",
+   "relation": "是周恩来的人（本期订正许世友是邓小平的人的旧说）",
+   "object": "周恩来",
+   "status": "订正旧说",
+   "episode": "VA0uHOxx-MI",
+   "date": "2025-01-24",
+   "quote": "主要都以为许世友是邓小平的人其实不是啊许世友是周恩来的人"
+  },
+  {
+   "id": "rel-1207",
+   "subject": "贺龙",
+   "relation": "是周恩来的人（1949 年任西南局第三书记，是党中央安排来牵制邓小平的一方；刘伯承主播不太清楚）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "oLpol3boBlk",
+   "date": "2025-04-20",
+   "quote": "贺龙为第三书记贺龙就是西包子派系周恩来的人啊刘波成我不太清楚"
+  },
+  {
+   "id": "rel-3311",
+   "subject": "林彪",
+   "relation": "周恩来的人，不是毛泽东的人",
+   "object": "周恩来",
+   "status": "本期断语",
+   "episode": "18GtQF59hXc",
+   "date": "2025-04-26",
+   "quote": "林彪是周恩来的人他不是毛泽东的人"
+  },
+  {
+   "id": "rel-0926",
+   "subject": "顾明",
+   "relation": "是周恩来的经济秘书（国家计委常务副主任）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "2CeNyy0t7bw",
+   "date": "2025-04-29",
+   "quote": "顾名呢他是周恩来的经济秘书"
+  },
+  {
+   "id": "rel-0934",
+   "subject": "何随",
+   "relation": "与子何康两代都是周恩来的马仔（何随是杨虎城的老师）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "2CeNyy0t7bw",
+   "date": "2025-04-29",
+   "quote": "何隋何康两父子啊都是周恩来的马仔"
+  },
+  {
+   "id": "rel-8484",
+   "subject": "习仲勋",
+   "relation": "被断系周恩来（原文周永來）的大秘，刘志丹案系毛泽东打击周恩来而及习仲勋",
+   "object": "周恩来",
+   "status": "本期断语层",
+   "episode": "d74uXeYeXC8",
+   "date": "2025-05-28",
+   "quote": "习仲勋就是周永來的大秘嗎"
+  },
+  {
+   "id": "rel-4230",
+   "subject": "习仲勋",
+   "relation": "曾任十年大秘",
+   "object": "周恩来",
+   "status": "本档口径",
+   "quote": "习仲勋呢給周永來 陳毅 陈云當了十年的大秘",
+   "episode": "1z38wftDLB0",
+   "date": "2025-05-29"
+  },
+  {
+   "id": "rel-7685",
+   "subject": "热地",
+   "relation": "周恩来的马仔",
+   "object": "周恩来",
+   "status": "本期定性层",
+   "episode": "tKnnBpBUUzc",
+   "date": "2025-06-07",
+   "quote": "這熱地就是周恩来的馬仔"
+  },
+  {
+   "id": "rel-7689",
+   "subject": "任建新",
+   "relation": "董必武的秘书、周恩来的马仔、习包子派系",
+   "object": "周恩来",
+   "status": "本期定性层",
+   "episode": "tKnnBpBUUzc",
+   "date": "2025-06-07",
+   "quote": "任建新呢他就是董必武的秘書就是周恩来的馬仔是習包子派系的"
+  },
+  {
+   "id": "rel-8612",
+   "subject": "毛泽东",
+   "relation": "被断清洗的都不是自己人、多是周恩来刘少奇的人，陈云系统性洗白周恩来把锅让毛泽东背",
+   "object": "周恩来",
+   "status": "本期断语层",
+   "episode": "A1sd1R_OkVc",
+   "date": "2025-06-07",
+   "quote": "毛泽东清洗的人有多少是周恩来的人刘少奇的人啊"
+  },
+  {
+   "id": "rel-8613",
+   "subject": "于秋礼",
+   "relation": "被毛泽东安排担任国家计划委员会主任架空周恩来，又被周恩来安排秘书顾明任常务副主任反架空",
+   "object": "周恩来",
+   "status": "本期断语层",
+   "episode": "A1sd1R_OkVc",
+   "date": "2025-06-07",
+   "quote": "毛泽东安排於秋禮擔任國家計劃委員會主任就是要架空周恩来周恩来反手就安排顧鳴擔任常務副主任啊架空於秋禮"
+  },
+  {
+   "id": "rel-5491",
+   "subject": "林彪",
+   "relation": "的人",
+   "object": "周恩来",
+   "status": "本档口径・考辨层",
+   "quote": "我說林彪是周恩来的人",
+   "episode": "OgEwaYJpP0Q",
+   "date": "2025-06-10"
+  },
+  {
+   "id": "rel-5494",
+   "subject": "习仲勋",
+   "relation": "大秘",
+   "object": "周恩来",
+   "status": "本档口径",
+   "quote": "习仲勋就是周恩来的大秘",
+   "episode": "OgEwaYJpP0Q",
+   "date": "2025-06-10"
+  },
+  {
+   "id": "rel-7126",
+   "subject": "李鹏",
+   "relation": "周恩来提拔",
+   "object": "周恩来",
+   "status": "本期修辞层",
+   "episode": "FTe2Rli6mf8",
+   "date": "2025-06-10",
+   "quote": "李鹏也是他爸爸周恩来提拔的呀"
+  },
+  {
+   "id": "rel-6007",
+   "subject": "谢振华",
+   "relation": "马仔",
+   "object": "周恩来",
+   "status": "本档口径",
+   "quote": "當時的军委委員有一個叫做傅全有就是周恩来陈云的馬仔傅全有是謝振華推薦的謝振華是周恩来的馬仔",
+   "episode": "Rs4YbEBnhnk",
+   "date": "2025-06-11"
+  },
+  {
+   "id": "rel-5980",
+   "subject": "张国华",
+   "relation": "马仔（骨灰亲迎）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "quote": "周恩来一生只去機場接過兩個人的骨灰啊",
+   "episode": "v5DFW3gGYn8",
+   "date": "2025-06-22"
+  },
+  {
+   "id": "rel-5984",
+   "subject": "胡省",
+   "relation": "白区党、马仔",
+   "object": "周恩来",
+   "status": "本档口径",
+   "quote": "胡省一看他的簡歷就是白區黨白區党都是周恩来的馬仔",
+   "episode": "v5DFW3gGYn8",
+   "date": "2025-06-22"
+  },
+  {
+   "id": "rel-3643",
+   "subject": "彭丽媛",
+   "relation": "马仔（周恩来派系徒孙辈）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "EoJkny92BXI",
+   "date": "2025-06-25",
+   "quote": "彭丽媛她就是周恩来的马仔赵丹的女儿赵青提拔的"
+  },
+  {
+   "id": "rel-5250",
+   "subject": "彭丽媛",
+   "relation": "干孙女",
+   "object": "周恩来",
+   "status": "本档口径・指控层",
+   "quote": "彭丽媛就是周恩来的干孙女",
+   "episode": "x-chM8333Qw",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "rel-5251",
+   "subject": "习仲勋",
+   "relation": "大秘",
+   "object": "周恩来",
+   "status": "本档口径・指控层",
+   "quote": "习包子她爸习中勋就是周恩来的大秘",
+   "episode": "x-chM8333Qw",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "rel-4442",
+   "subject": "周恩来",
+   "relation": "政治干爹（军报背书说）",
+   "object": "习包子",
+   "status": "本档口径",
+   "quote": "解放军报第三篇呢提陈元第四篇提周恩来呀这就是我天天在说的习包子的政治干爹啊",
+   "episode": "2PKSojYcDAA",
+   "date": "2025-07-26"
+  },
+  {
+   "id": "rel-8982",
+   "subject": "周恩来",
+   "relation": "网传为李鹏的生物学父亲（原文作周云来，未坐实）",
+   "object": "李鹏",
+   "status": "网传层",
+   "episode": "EZr3qsZrOpg",
+   "date": "2025-08-18",
+   "quote": "周云来是李鹏的生物学父亲网上是有资料的"
+  },
+  {
+   "id": "rel-7381",
+   "subject": "习仲勋",
+   "relation": "给周恩来当十年大秘",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "B_NARfzJYw4",
+   "date": "2025-09-03",
+   "quote": "习仲勋曾经给周恩来当了十年的大秘"
+  },
+  {
+   "id": "rel-4159",
+   "subject": "李鹏",
+   "relation": "儿子（周恩来接至重庆抚养，本档断语）",
+   "object": "周恩来",
+   "status": "本档口径・断语层",
+   "quote": "就是周恩来把李鹏接到重庆去的李鹏是周恩来的儿子",
+   "episode": "Mq1zuvw8DzI",
+   "date": "2025-10-10"
+  },
+  {
+   "id": "rel-1280",
+   "subject": "李鹏",
+   "relation": "传闻与周恩来有血缘关系（私生子传闻中能够通过人脸比对的一组；周恩来和李鹏是中国的两个总理）",
+   "object": "周恩来",
+   "status": "传闻・本期未证实",
+   "episode": "ktW46i2kMRM",
+   "date": "2025-10-12",
+   "quote": "中共高层的私生子传闻之中呢能够通过人脸比对呢只有周恩来李鹏毛泽东和徐文伯毛新宇邓小平和左一陈云和朱镕基"
+  },
+  {
+   "id": "rel-7717",
+   "subject": "周恩来",
+   "relation": "出面干预中央文革小组、使谭斌（谭立夫）1967年5月29日获释",
+   "object": "谭斌",
+   "status": "网友引维基层＋本期层",
+   "episode": "OKlb4xkz1vM",
+   "date": "2025-10-14",
+   "quote": "谭斌呢就是周恩来给放出来的"
+  },
+  {
+   "id": "rel-7881",
+   "subject": "习仲勋",
+   "relation": "给周恩来当了十年大秘（本期称基本事实）",
+   "object": "周恩来",
+   "status": "本期层",
+   "episode": "tm2qwLW9eTQ",
+   "date": "2025-11-04",
+   "quote": "习包子他爸习中勋呢给周恩来当了十年的大秘这是一个基本的事实"
+  },
+  {
+   "id": "rel-4833",
+   "subject": "宋平",
+   "relation": "政治秘书（国共谈判期间）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "quote": "宋平一直担任周恩来的政治秘书",
+   "episode": "M05VqpFJKeA",
+   "date": "2025-11-28"
+  },
+  {
+   "id": "rel-8494",
+   "subject": "刘国富",
+   "relation": "被断就是周恩来的马仔（原文妈仔），曾任文化部部长秘书（具体是谁待核）",
+   "object": "周恩来",
+   "status": "本期推测层",
+   "episode": "8vP_hpUlxec",
+   "date": "2025-12-20",
+   "quote": "刘国富就是周恩来的妈仔"
+  },
+  {
+   "id": "rel-7230",
+   "subject": "习包子",
+   "relation": "周恩来派系（习仲勋给周恩来当十年大秘）",
+   "object": "周恩来",
+   "status": "本档口径再申",
+   "episode": "iMupa-gy9k8",
+   "date": "2026-02-21",
+   "quote": "习包子他把习中勋给周恩来当了十年的大秘啊"
+  },
+  {
+   "id": "rel-7943",
+   "subject": "周尔均",
+   "relation": "周恩来的侄子、国防大学原政治部主任、2026年2月27日病逝",
+   "object": "周恩来",
+   "status": "公开讣闻层（正字待核）",
+   "episode": "dG6KIPdkIj0",
+   "date": "2026-03-01",
+   "quote": "他是中国前总理周恩来的侄子"
+  },
+  {
+   "id": "rel-7944",
+   "subject": "周恩来",
+   "relation": "被断为习包子派系的开山鼻祖",
+   "object": "习包子",
+   "status": "本期断语层",
+   "episode": "dG6KIPdkIj0",
+   "date": "2026-03-01",
+   "quote": "周恩来的确是习包子派系的开山鼻祖"
+  },
+  {
+   "id": "rel-7945",
+   "subject": "习仲勋",
+   "relation": "给周恩来当了十年的大秘",
+   "object": "周恩来",
+   "status": "本期再申层（与ep648互证）",
+   "episode": "dG6KIPdkIj0",
+   "date": "2026-03-01",
+   "quote": "习仲勋给周恩来当了十年的大秘"
+  },
+  {
+   "id": "rel-5597",
+   "subject": "林彪",
+   "relation": "铁杆（苏联铁杆）",
+   "object": "周恩来",
+   "status": "网友层・主播附议",
+   "quote": "林彪则是周永来的铁杆或者说苏联的铁杆",
+   "episode": "AekE_9TUffA",
+   "date": "2026-03-02"
+  },
+  {
+   "id": "rel-2419",
+   "subject": "孔兆文",
+   "relation": "是周恩来、习仲勋的马仔（字幕回忆文署名作孔昭文）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "-mO5l-SQpK8",
+   "date": "2026-03-03",
+   "quote": "孔兆文他是周恩来习仲勋的马仔"
+  },
+  {
+   "id": "rel-2420",
+   "subject": "胡伟",
+   "relation": "是周恩来的大秘、铁杆马仔",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "-mO5l-SQpK8",
+   "date": "2026-03-03",
+   "quote": "胡伟他就是周恩来的大秘"
+  },
+  {
+   "id": "rel-2421",
+   "subject": "周恩来",
+   "relation": "亲临总后党委扩大会议任命其为总后勤部部长、党委书记",
+   "object": "张宗勋",
+   "status": "本档口径",
+   "episode": "-mO5l-SQpK8",
+   "date": "2026-03-03",
+   "quote": "张宗勋是周恩来亲自到现场任命的总后勤部部长党委书记"
+  },
+  {
+   "id": "rel-1852",
+   "episode": "o7V28k-yABo",
+   "date": "2026-03-04",
+   "subject": "胡伟",
+   "relation": "是周恩来的马仔（1967 年周恩来令其乘专机赴京当面部署、21 军军管陕西）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "quote": "胡伟就是周恩来的马仔1967年周恩来曾经让胡伟坐着专机到北京当面给胡伟部署"
+  },
+  {
+   "id": "rel-1250",
+   "subject": "宋平",
+   "relation": "是周恩来的马仔（1938–1947 年任中共中央书记处书记之一周恩来的政治秘书、长达 9 年；与习仲勋的国务院秘书长 11 年并称决定两人派系的两个基本事实）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "1PT1-YLU-Aw",
+   "date": "2026-03-05",
+   "quote": "1938年到1947年宋平担任周恩来政治秘书长达9年而1953年9月18日至1965年1月4日习仲勋担任周恩来的秘书长达11年这两个基本事实决定了宋平和习仲勋的派系宋平和习仲勋都是周恩来的马仔"
+  },
+  {
+   "id": "rel-1251",
+   "subject": "习仲勋",
+   "relation": "是周恩来的马仔（1953-09-18 至 1965-01-04 任周恩来的秘书长、长达 11 年；任的是国务院秘书长，与宋平的书记处政治秘书是两回事、不可混同）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "1PT1-YLU-Aw",
+   "date": "2026-03-05",
+   "quote": "习仲勋担任周恩来的秘书长达11年这两个基本事实决定了宋平和习仲勋的派系"
+  },
+  {
+   "id": "rel-3232",
+   "subject": "谢振华",
+   "relation": "周恩来的马仔（新四军系统）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "tQsV8omA5Jw",
+   "date": "2026-03-17",
+   "quote": "谢振华呢和陈永贵互相斗背后就是周恩来和毛泽东互相斗啊"
+  },
+  {
+   "id": "rel-3233",
+   "subject": "习仲勋",
+   "relation": "周恩来的大秘",
+   "object": "周恩来",
+   "status": "本档口径・再申",
+   "episode": "tQsV8omA5Jw",
+   "date": "2026-03-17",
+   "quote": "习包子的爸爸习中勋呢是周恩来的大秘"
+  },
+  {
+   "id": "rel-5838",
+   "subject": "刘伯承",
+   "relation": "派系（推论）",
+   "object": "周恩来",
+   "status": "本期推论",
+   "quote": "刘波成很可能是周恩来陈云习包子派系的",
+   "episode": "YCfbAeqtNjg",
+   "date": "2026-03-24"
+  },
+  {
+   "id": "rel-7489",
+   "subject": "林彪",
+   "relation": "周恩来的马仔而非毛泽东的人（本期考辨层）",
+   "object": "周恩来",
+   "status": "本期考辨层",
+   "episode": "CS26FMPnrHU",
+   "date": "2026-03-27",
+   "quote": "林彪是周恩来的马仔而不是毛泽东的马仔"
+  },
+  {
+   "id": "rel-1327",
+   "subject": "何康",
+   "relation": "与父亲何遂都是周恩来的马仔（何遂是杨虎城的老师；何康的另一个秘书范照兵在重庆是薄熙来的大秘，范照兵字幕名待核；白志健曾是何康的秘书）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "EGj-v02ljYw",
+   "date": "2026-04-10",
+   "quote": "何遂和康父子都是周恩来的马仔何遂是杨虎城的老师和康的另外一个秘书范照兵在重庆是薄熙来的大秘朱镕基王岐山薄熙来细胞的这才是真正的四人帮"
+  },
+  {
+   "id": "rel-5143",
+   "subject": "张学思",
+   "relation": "马仔",
+   "object": "周恩来",
+   "status": "本档口径・指控层",
+   "quote": "张作霖的儿子张学思肯定是周恩来的马仔",
+   "episode": "TXp0dxbjfnY",
+   "date": "2026-04-11"
+  },
+  {
+   "id": "rel-5857",
+   "subject": "张学思",
+   "relation": "马仔（亲自培养）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "quote": "张学思是周恩来亲自培养的马仔",
+   "episode": "pxmLMdLegfE",
+   "date": "2026-04-12"
+  },
+  {
+   "id": "rel-5863",
+   "subject": "李绍珠",
+   "relation": "马仔",
+   "object": "周恩来",
+   "status": "本档口径",
+   "quote": "李尚福的爸爸李绍珠就是周恩来的马仔",
+   "episode": "pxmLMdLegfE",
+   "date": "2026-04-12"
+  },
+  {
+   "id": "rel-0686",
+   "subject": "何康",
+   "relation": "本期称周恩来的铁杆马仔（农业部长；其父何遂是杨虎城的老师、也是周恩来的马仔）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "CBKl-5LU8FQ",
+   "date": "2026-04-13",
+   "quote": "何康就是周恩来的铁链马仔何康的爸爸何随就是杨虎城的老师"
+  },
+  {
+   "id": "rel-4892",
+   "subject": "霍英东",
+   "relation": "党羽（白区党推论）",
+   "object": "周恩来",
+   "status": "本档口径・推论层",
+   "quote": "白区党呢是周恩来马仔的可能性很大呀周恩来就是中国最大的特务头子",
+   "episode": "pdn4YcrsnW8",
+   "date": "2026-04-13"
+  },
+  {
+   "id": "rel-0969",
+   "subject": "林彪",
+   "relation": "本期补证其为周恩来、陈云派系（苏联将东北交予林彪、认定其为中苏利益平衡者）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "UnAcmkNJrJU",
+   "date": "2026-04-19",
+   "quote": "林彪的侄子林汉雄是李鹏提拔这的确是林彪是周恩来陈云派系的一个重要的证据啊"
+  },
+  {
+   "id": "rel-6154",
+   "subject": "张学思",
+   "relation": "顶级马仔（亲自培养）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "quote": "张学思是周恩来亲自培养的顶级马仔大特务",
+   "episode": "k8REol9nwKQ",
+   "date": "2026-05-08"
+  },
+  {
+   "id": "rel-6994",
+   "subject": "李鹏",
+   "relation": "儿子（本期极端表述，照录存疑）",
+   "object": "周恩来",
+   "status": "本期表述层",
+   "episode": "JNFXXaC6OBY",
+   "date": "2026-05-21",
+   "quote": "李鹏是周恩来的儿子"
+  },
+  {
+   "id": "rel-0663",
+   "subject": "黄火青",
+   "relation": "本期称周恩来的马仔（最高检察长，曾试图帮丁盛申冤）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "gBM3Rjb1BCQ",
+   "date": "2026-06-03",
+   "quote": "黄火青呢他就是周恩来的马仔"
+  },
+  {
+   "id": "rel-0664",
+   "subject": "林彪",
+   "relation": "本期再断周恩来的马仔（丁盛策反案为证，非毛泽东的人）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "gBM3Rjb1BCQ",
+   "date": "2026-06-03",
+   "quote": "就证明林彪他是周恩来的马仔他不是毛泽东的马仔呀"
+  },
+  {
+   "id": "rel-1200",
+   "subject": "陈毅",
+   "relation": "是周恩来的马仔（林彪也是周恩来的马仔；习包子三大枪杆子来源于陈毅、林彪，最终都归周恩来一系）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "EzmaUkj9pwg",
+   "date": "2026-06-08",
+   "quote": "也就是说习包子三大枪杆子来源于陈毅林彪和林彪陈毅和林彪都是周恩来的马仔"
+  },
+  {
+   "id": "rel-1201",
+   "subject": "林彪",
+   "relation": "是周恩来的马仔（反推可知；黄永胜、丁盛、韩怀智、李九龙、张又侠一线皆林彪系）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "EzmaUkj9pwg",
+   "date": "2026-06-08",
+   "quote": "林彪他是周恩来的马仔这个我们反推就知道答案了"
+  },
+  {
+   "id": "rel-8077",
+   "subject": "王亚南",
+   "relation": "被断为周恩来的马仔，1938年在武汉接受周恩来指导",
+   "object": "周恩来",
+   "status": "本期梳理断语层",
+   "episode": "pJjuMYNqGmo",
+   "date": "2026-06-30",
+   "quote": "王国林的爸爸他就是周恩来的马仔"
+  },
+  {
+   "id": "rel-4006",
+   "subject": "季芳",
+   "relation": "马仔（政治上最信任的引路人）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "quote": "季芳就是周恩来的妈仔周恩来政治上最信任的中共引路人",
+   "episode": "LXM_rgh3bJ4",
+   "date": "2026-07-05"
+  },
+  {
+   "id": "rel-1707",
+   "episode": "kJbxgjZeu3Y",
+   "date": "2026-07-17",
+   "subject": "许世友",
+   "relation": "不是邓小平的人，他是周恩来的人、习包子派系的",
+   "object": "周恩来",
+   "status": "本档口径",
+   "quote": "许师友之前说过多少遍他不是邓小平的人他是周恩来的人也就是说习包子派系的"
+  },
+  {
+   "id": "rel-3598",
+   "subject": "李鹏",
+   "relation": "养子",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "JmRqe4SgE64",
+   "date": "2026-09-03",
+   "quote": "李鹏是周恩来的养子习仲勋是周恩来的大秘"
+  },
+  {
+   "id": "rel-3599",
+   "subject": "习仲勋",
+   "relation": "大秘",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "JmRqe4SgE64",
+   "date": "2026-09-03",
+   "quote": "李鹏是周恩来的养子习仲勋是周恩来的大秘"
+  },
+  {
+   "id": "rel-2455",
+   "subject": "林彪",
+   "relation": "真正的政治根基和后台是周恩来（黄埔系、频道定性层）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "eQt4CaddonQ",
+   "date": "2026-09-09",
+   "quote": "林彪真正的政治根基和后台是周恩来"
+  },
+  {
+   "id": "rel-3276",
+   "subject": "林彪",
+   "relation": "周恩来的马仔",
+   "object": "周恩来",
+   "status": "本档口径・再申",
+   "episode": "jUTCugiaSIM",
+   "date": "2026-09-25",
+   "quote": "张又侠就是林彪的徒子徒孙呢林彪就是周恩来的马仔"
+  },
+  {
+   "id": "rel-0127",
+   "subject": "林彪",
+   "relation": "本期称周恩来的铁杆马仔",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "ks2Nv0Jtc3o",
+   "date": "2026-10-08",
+   "quote": "最合理的解释就是林彪是周恩来的铁杆马仔"
+  },
+  {
+   "id": "rel-0129",
+   "subject": "习仲勋",
+   "relation": "本期归周恩来派系",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "ks2Nv0Jtc3o",
+   "date": "2026-10-08",
+   "quote": "周恩来林彪陈云薄一波习仲勋这些人呢都是周恩来派系的"
+  },
+  {
+   "id": "rel-0026",
+   "subject": "李一氓",
+   "relation": "特科机要隶属",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "aPBLKoLF4qo",
+   "date": "2026-10-14",
+   "quote": "李一氓是中共特科成立之初由周恩来陈云亲手在上海白区带出来的第一代机要大总管"
+  },
+  {
+   "id": "rel-0030",
+   "subject": "周恩来",
+   "relation": "捞人并安插中联部常务副部长（1973年）",
+   "object": "李一氓",
+   "status": "本档口径",
+   "episode": "aPBLKoLF4qo",
+   "date": "2026-10-14",
+   "quote": "周永来直接下令把李一氓安插到耿飙主持的中央对外联络部中联部当常务副部长"
+  },
+  {
+   "id": "rel-0032",
+   "subject": "习仲勋",
+   "relation": "国务院大秘（周恩来提拔十一年）",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "aPBLKoLF4qo",
+   "date": "2026-10-14",
+   "quote": "在中央州指挥州周恩来陈云提拔了11年的国务院大秘习仲勋"
+  }
+ ],
+ "date_from": "2024-08-01",
+ "date_to": "2026-10-14"
+}

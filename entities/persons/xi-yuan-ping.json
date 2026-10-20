@@ -1,0 +1,74 @@
+{
+ "id": "xi-yuan-ping",
+ "name": "习远平",
+ "aliases": [],
+ "stats": {
+  "episodes": 120,
+  "mentions": 332,
+  "alias_mentions": {},
+  "first_date": "2024-08-13",
+  "last_date": "2026-10-06",
+  "title_count": 72
+ },
+ "register_links": [
+  {
+   "register": "capital-groups",
+   "entry": "光大系",
+   "matched_as": [
+    "习远平"
+   ],
+   "n_eps": 25
+  },
+  {
+   "register": "fat-posts",
+   "entry": "环保系统职位",
+   "matched_as": [
+    "习远平"
+   ],
+   "n_eps": 1
+  }
+ ],
+ "counts": {
+  "events": 209,
+  "relations": 97
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/xi-yuan-ping/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 88,
+    "date_from": "2024-08-13",
+    "date_to": "2025-10-25",
+    "bytes": 172273
+   },
+   {
+    "file": "events-002.json",
+    "count": 79,
+    "date_from": "2025-11-01",
+    "date_to": "2026-03-18",
+    "bytes": 176490
+   },
+   {
+    "file": "events-003.json",
+    "count": 42,
+    "date_from": "2026-03-24",
+    "date_to": "2026-10-06",
+    "bytes": 137530
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 97,
+    "date_from": "2024-08-13",
+    "date_to": "2026-10-06",
+    "bytes": 35737
+   }
+  ],
+  "base": "entities/persons-chunked/xi-yuan-ping/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

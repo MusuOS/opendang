@@ -1,0 +1,421 @@
+{
+ "id": "ceng-qing-hong",
+ "name": "曾庆红",
+ "kind": "relations",
+ "part": 1,
+ "count": 41,
+ "relations": [
+  {
+   "id": "rel-0255",
+   "subject": "苏荣",
+   "relation": "本期称曾庆红的直接下级（中央党校常务副校长对校长）",
+   "object": "曾庆红",
+   "status": "本档口径",
+   "episode": "EAvVVGLFcu0",
+   "date": "2023-12-26",
+   "quote": "苏荣就是曾庆红的直接下级。肯定是曾庆红的人"
+  },
+  {
+   "id": "rel-8253",
+   "subject": "曾庆红",
+   "relation": "系余秋里的秘书",
+   "object": "余秋里",
+   "status": "本期梳理层",
+   "episode": "01jrILfjLvY",
+   "date": "2024-07-09",
+   "quote": "那曾庆红就是余秋里的秘书"
+  },
+  {
+   "id": "rel-2638",
+   "subject": "孙政才",
+   "relation": "是曾庆红家的亲戚（本期断语、无外部凭证）",
+   "object": "曾庆红",
+   "status": "本档口径",
+   "episode": "X7BKw5VCWOU",
+   "date": "2024-10-29",
+   "quote": "孙政才是曾庆红家的亲戚啊所以曾庆红才这么恨抓孙政才的人啊"
+  },
+  {
+   "id": "rel-4393",
+   "subject": "欧阳少彝",
+   "relation": "老乡（江西吉安同地级市）",
+   "object": "曾庆红",
+   "status": "本档口径",
+   "quote": "他是曾庆红的老乡啊江西省吉安市人",
+   "episode": "_L1svsPmGKI",
+   "date": "2024-11-08"
+  },
+  {
+   "id": "rel-4395",
+   "subject": "孟建柱",
+   "relation": "任江西省委书记期间未提拔其的人",
+   "object": "曾庆红",
+   "status": "本档口径",
+   "quote": "孟建柱没有提拔曾庆红的人",
+   "episode": "_L1svsPmGKI",
+   "date": "2024-11-08"
+  },
+  {
+   "id": "rel-0043",
+   "subject": "曾庆红",
+   "relation": "本期归系",
+   "object": "江泽民",
+   "status": "本档口径",
+   "episode": "WYvqQMUuQ3Q",
+   "date": "2024-11-16",
+   "quote": "叶金英的孩子和曾庆红属于江泽民派系的（字幕原样）"
+  },
+  {
+   "id": "rel-0049",
+   "subject": "曾庆红",
+   "relation": "秘书",
+   "object": "余秋里",
+   "status": "本档口径",
+   "episode": "WYvqQMUuQ3Q",
+   "date": "2024-11-16",
+   "quote": "余秋里的秘书是曾庆红"
+  },
+  {
+   "id": "rel-0526",
+   "subject": "曾庆红",
+   "relation": "本期断肯定听胡锦涛指挥（胡是其老领导；孙政才被王岐山抓断了投习之路）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "HSsfKT78gfY",
+   "date": "2024-11-21",
+   "quote": "曾庆红肯定听胡锦涛指挥以前胡锦涛就是曾庆红的领导"
+  },
+  {
+   "id": "rel-2768",
+   "subject": "曾庆红",
+   "relation": "现在听胡锦涛指挥，江泽民集团的军队假设由其指挥",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "GjOXDdyf-Zg",
+   "date": "2024-11-28",
+   "quote": "曾庆红他现在听胡锦涛指挥就是现在的两大政治集团胡锦涛和江泽民两个政治集团联手"
+  },
+  {
+   "id": "rel-4794",
+   "subject": "王岐山",
+   "relation": "抓了其亲戚孙政才（不敢退休）",
+   "object": "曾庆红",
+   "status": "本档口径",
+   "quote": "王岐山他是因为抓了曾庆红的亲戚孙政才啊所以不敢退休",
+   "episode": "pnbI1hRDjQI",
+   "date": "2024-11-30"
+  },
+  {
+   "id": "rel-4795",
+   "subject": "孙政才",
+   "relation": "亲戚",
+   "object": "曾庆红",
+   "status": "本档口径",
+   "quote": "王岐山他是因为抓了曾庆红的亲戚孙政才啊所以不敢退休",
+   "episode": "pnbI1hRDjQI",
+   "date": "2024-11-30"
+  },
+  {
+   "id": "rel-0008",
+   "subject": "汲斌昌",
+   "relation": "本期判定归系",
+   "object": "曾庆红",
+   "status": "本档口径",
+   "episode": "lxo3Z8Qv900",
+   "date": "2024-12-31",
+   "quote": "本期以其仕途时间线判定其为江泽民、曾庆红一系（事件卡口径栏）"
+  },
+  {
+   "id": "rel-0513",
+   "subject": "孙政才",
+   "relation": "本期称曾庆红家的亲戚（其到重庆后把李殿勋调南川）",
+   "object": "曾庆红",
+   "status": "本档口径",
+   "episode": "e3kJ7ahYIPc",
+   "date": "2025-01-03",
+   "quote": "孙政才是曾庆红家的亲戚啊"
+  },
+  {
+   "id": "rel-2805",
+   "subject": "孙政才",
+   "relation": "是曾庆红的亲戚、江泽民背书的接班人，被贾庆林放在刘淇处给刘淇当大秘培养",
+   "object": "曾庆红",
+   "status": "本档口径",
+   "episode": "ZtO5y407U1Y",
+   "date": "2025-01-09",
+   "quote": "但是孙政才他特殊啊他是接班人 他是曾庆红的亲戚孙政才是江泽民背书的接班人刘淇肯定也是江泽民的人啊"
+  },
+  {
+   "id": "rel-0928",
+   "subject": "曾庆红",
+   "relation": "是余秋里的秘书（毛温和派传承链一环）",
+   "object": "余秋里",
+   "status": "本档口径",
+   "episode": "2CeNyy0t7bw",
+   "date": "2025-04-29",
+   "quote": "曾庆红就是余秋里的秘书呀"
+  },
+  {
+   "id": "rel-4751",
+   "subject": "孙政才",
+   "relation": "亲戚",
+   "object": "曾庆红",
+   "status": "本档口径",
+   "quote": "吴政隆他就是孙政才的大秘啊孙政才是曾庆红家的亲戚那他又是李强的大秘那李强是谁的人那不是很明显吗",
+   "episode": "bo3xu4htM1o",
+   "date": "2025-04-29"
+  },
+  {
+   "id": "rel-1985",
+   "subject": "孙政才",
+   "relation": "是曾庆红家的亲戚（网上江泽惠推荐说被本期驳斥）",
+   "object": "曾庆红",
+   "status": "本档口径",
+   "episode": "mTMMGwoIleo",
+   "date": "2025-06-23",
+   "quote": "孙政才是曾庆红家的亲戚啊"
+  },
+  {
+   "id": "rel-4619",
+   "subject": "曾庆红",
+   "relation": "秘书",
+   "object": "余秋里",
+   "status": "本档口径",
+   "quote": "曾庆红呢是余秋里的秘书",
+   "episode": "8AOJ00aqhHU",
+   "date": "2025-06-26"
+  },
+  {
+   "id": "rel-4861",
+   "subject": "曾庆红",
+   "relation": "北戴河施压",
+   "object": "习包子",
+   "status": "本档口径（外部媒体层加主播背书）",
+   "quote": "曾庆红迟浩田北戴河施压习包了这是真的胡锦涛发动的军事政变当然听胡锦涛的张又侠他能说了算吗",
+   "episode": "16vrOUudrpU",
+   "date": "2025-08-04"
+  },
+  {
+   "id": "rel-1433",
+   "subject": "姜山",
+   "relation": "是曾庆红的马仔（2025 年北戴河会议进行之中、姜山已经上位、现任云南省政府党组成员、省政府办公厅党组书记、将任云南省政府秘书长；提拔姜山的两任云南组织部长辛桂梓、刘维佳、和曾庆红都有关系；标题称曾庆红要习裸退、北戴河大获全胜——正文落点仅姜山上位一项人事）",
+   "object": "曾庆红",
+   "status": "本档口径",
+   "episode": "4lD8hlK26YE",
+   "date": "2025-08-07",
+   "quote": "曾庆红的马仔姜山在北戴河会议进行之中已经上位了"
+  },
+  {
+   "id": "rel-1434",
+   "subject": "辛桂梓",
+   "relation": "大概率是曾庆红安插给张全景的卧底、而不是张全景的马仔（15 年前听床旧帖：张全景的前秘书安某某因万学远泄密案被调走、辛桂梓接替任张全景秘书；江泽民和曾庆红早就看张全景不顺眼、往他身边安插卧底；张全景对应陈云、曾庆红对应江泽民；主播以 15 年后姜山上位回溯消息对上、判大概率）",
+   "object": "曾庆红",
+   "status": "本档口径",
+   "episode": "4lD8hlK26YE",
+   "date": "2025-08-07",
+   "quote": "这个新贵子大概率是曾庆红的卧底而不是张全景的妈仔"
+  },
+  {
+   "id": "rel-7931",
+   "subject": "姜山",
+   "relation": "曾庆红的马仔、北戴河会期上位（原文如此）",
+   "object": "曾庆红",
+   "status": "本期提及层、身份待核",
+   "episode": "TaFbI8eRSFQ",
+   "date": "2025-08-08",
+   "quote": "曾庆红的马仔姜山上位了"
+  },
+  {
+   "id": "rel-0480",
+   "subject": "曾庆红",
+   "relation": "1993 年接替温家宝任中办主任，本期称象征江泽民才真正当上总书记",
+   "object": "江泽民",
+   "status": "本档口径",
+   "episode": "jdGgiNlWtrs",
+   "date": "2025-08-19",
+   "quote": "1993年曾庆红接替温家宝担任中办主任象征着江泽民才真正当上了总书记"
+  },
+  {
+   "id": "rel-1259",
+   "subject": "孙政才",
+   "relation": "是曾庆红家的亲戚（孙政才说成山东潍坊市人更准确；荣成本籍标签不足以判派系）",
+   "object": "曾庆红",
+   "status": "本档口径",
+   "episode": "tGM6DUOn3qI",
+   "date": "2025-09-17",
+   "quote": "孙政才呢其实说成山东省维方市人更准确孙政才是曾庆红家的亲戚"
+  },
+  {
+   "id": "rel-2053",
+   "subject": "陈建国",
+   "relation": "据说是曾庆红的人",
+   "object": "曾庆红",
+   "status": "传闻・本期未证实",
+   "episode": "XpaZSkyE78c",
+   "date": "2025-10-01",
+   "quote": "陈建国据说是曾庆红的人我不可能每个人都去核实"
+  },
+  {
+   "id": "rel-4424",
+   "subject": "曾庆红",
+   "relation": "与其走得近（老乡）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "胡锦涛个人感觉和他老乡曾庆红走的挺近的",
+   "episode": "u6b_mXo6WKc",
+   "date": "2025-10-28"
+  },
+  {
+   "id": "rel-1994",
+   "subject": "龙新民",
+   "relation": "是江西省吉安市人、曾庆红一个地级市的老乡，是否曾庆红的人主播明言下一期再分析（未定版，字幕作龙新南）",
+   "object": "曾庆红",
+   "status": "本期推断",
+   "episode": "o4umThhedzE",
+   "date": "2025-11-15",
+   "quote": "龙新南他是江西省吉安市人是曾庆红一个地地市的老乡龙新南是不是就是曾庆红的人我们下一期再分析"
+  },
+  {
+   "id": "rel-3864",
+   "subject": "曾庆红",
+   "relation": "江派做主权被否定（张德江说了算）",
+   "object": "张德江",
+   "status": "本档口径・断语",
+   "quote": "江派不是曾庆红说了算江派是张德江说了算",
+   "episode": "JjNLMDYN4S0",
+   "date": "2026-02-11"
+  },
+  {
+   "id": "rel-3865",
+   "subject": "陆益民",
+   "relation": "秘书（据说层）",
+   "object": "曾庆红",
+   "status": "传闻・本期未证实",
+   "quote": "据说中国联通的总经理陆益民是曾庆红的秘书",
+   "episode": "JjNLMDYN4S0",
+   "date": "2026-02-11"
+  },
+  {
+   "id": "rel-3870",
+   "subject": "曾庆红",
+   "relation": "政治投机请背书（以马仔交集，推论）",
+   "object": "胡春华",
+   "status": "本档口径・推论层",
+   "quote": "这就是曾庆红政治投机啊",
+   "episode": "JjNLMDYN4S0",
+   "date": "2026-02-11"
+  },
+  {
+   "id": "rel-5840",
+   "subject": "达瓦次仁",
+   "relation": "马仔（未定版）",
+   "object": "曾庆红",
+   "status": "本期推论",
+   "quote": "可能是曾庆红的马仔",
+   "episode": "YCfbAeqtNjg",
+   "date": "2026-03-24"
+  },
+  {
+   "id": "rel-1750",
+   "episode": "mQNqUqAxIpk",
+   "date": "2026-04-09",
+   "subject": "宋涛",
+   "relation": "由曾庆红选拔（2001年首次公开选拔高级外交官、曾庆红主掌中组部时脱颖而出）",
+   "object": "曾庆红",
+   "status": "本档口径",
+   "quote": "他更像是一个由曾庆红选拔何少川引进江系文化圈加持王沪宁启用的特殊执行者"
+  },
+  {
+   "id": "rel-5147",
+   "subject": "曾庆红",
+   "relation": "江派说了算（否定）",
+   "object": "江派",
+   "status": "本期考辨否定",
+   "quote": "江派是江泽民说了算直接说江泽民就行了不是曾庆红说了算江泽民死了是张德江说了算曾庆红他就没有说了算的时候",
+   "episode": "TXp0dxbjfnY",
+   "date": "2026-04-11"
+  },
+  {
+   "id": "rel-6360",
+   "subject": "白克明",
+   "relation": "同学（据说、北京101中学）",
+   "object": "曾庆红",
+   "status": "传闻层",
+   "quote": "张云川前面的这个河北省委书记白克明呢据说是曾庆红北京101中学的同学",
+   "episode": "9o7NQO51-lE",
+   "date": "2026-04-23"
+  },
+  {
+   "id": "rel-2830",
+   "subject": "李建华",
+   "relation": "任中组部干部一局局长，被曾庆红重用（非曾提拔正局级）",
+   "object": "曾庆红",
+   "status": "本档口径",
+   "episode": "zYD7PUfTBZg",
+   "date": "2026-04-30",
+   "quote": "李建华他也不是曾庆红提拔的正局级但是曾庆红重用了李建华干部调配局也就是中组部干部一局很明显比党政外事局更重要"
+  },
+  {
+   "id": "rel-2833",
+   "subject": "张义",
+   "relation": "有可能是曾庆红派系的（江派）",
+   "object": "曾庆红",
+   "status": "本期推断",
+   "episode": "zYD7PUfTBZg",
+   "date": "2026-04-30",
+   "quote": "张义他有可能是曾庆红派系的就是江派的"
+  },
+  {
+   "id": "rel-2834",
+   "subject": "白克明",
+   "relation": "是曾庆红北京101中学的同学",
+   "object": "曾庆红",
+   "status": "本档口径",
+   "episode": "zYD7PUfTBZg",
+   "date": "2026-04-30",
+   "quote": "后来是白克明白克明是曾庆红北京101中学的同学"
+  },
+  {
+   "id": "rel-2836",
+   "subject": "孙政才",
+   "relation": "是曾庆红的亲戚",
+   "object": "曾庆红",
+   "status": "本档口径（与ep264/ep277同向再证、无外部凭证）",
+   "episode": "zYD7PUfTBZg",
+   "date": "2026-04-30",
+   "quote": "孙政才他是曾庆红的亲戚胡锦涛放过王岐山曾庆红也不会放过王岐山的"
+  },
+  {
+   "id": "rel-6470",
+   "subject": "曾庆红",
+   "relation": "在查",
+   "object": "王小洪",
+   "status": "本期断语",
+   "quote": "曾庆红在查王小洪呢",
+   "episode": "kuA3ooYLGy8",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "rel-6471",
+   "subject": "曾庆红",
+   "relation": "马仔（与张德江赵洪祝一家人）",
+   "object": "江泽民",
+   "status": "本期断语",
+   "quote": "张德江曾庆红赵国际赵洪祝他们就是一家人他们都是江泽民的马仔",
+   "episode": "kuA3ooYLGy8",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "rel-6569",
+   "subject": "明天系",
+   "relation": "曾庆红白手套说",
+   "object": "曾庆红",
+   "status": "本期考辨否定",
+   "quote": "明天系是曾庆红的白手套",
+   "episode": "qu_-uEHa37E",
+   "date": "2026-09-05"
+  }
+ ],
+ "date_from": "2023-12-26",
+ "date_to": "2026-09-05"
+}

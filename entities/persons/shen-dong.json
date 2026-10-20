@@ -1,0 +1,20 @@
+{
+ "id": "shen-dong",
+ "name": "沈栋",
+ "aliases": [],
+ "stats": {
+  "episodes": 2,
+  "mentions": 3,
+  "alias_mentions": {},
+  "first_date": "2026-01-06",
+  "last_date": "2026-03-31",
+  "title_count": 0
+ },
+ "counts": {
+  "events": 0,
+  "relations": 0
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "events": [],
+ "relations": []
+}

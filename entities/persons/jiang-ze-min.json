@@ -1,0 +1,108 @@
+{
+ "id": "jiang-ze-min",
+ "name": "江泽民",
+ "aliases": [],
+ "stats": {
+  "episodes": 454,
+  "mentions": 2228,
+  "alias_mentions": {},
+  "first_date": "2023-11-05",
+  "last_date": "2026-10-14",
+  "title_count": 28
+ },
+ "current_caliber": [
+  {
+   "id": "rul-18",
+   "date": "2026-10-20",
+   "category": "口径冲突裁定",
+   "item": "冲突7 江泽民提拔来源四说",
+   "ruling": "现行口径：江泽民由余秋里提拔。陈云提拔说经 ep607、ep646 两度考辨否定（纯属胡扯），不入现行口径。",
+   "effect": "提拔来源取余秋里说。注：ep777 袁宝华、吕东提拔者为朱镕基而非江泽民，该层归注记组A朱镕基源头账，不入本项。"
+  }
+ ],
+ "time_notes": [
+  {
+   "id": "rul-113",
+   "date": "2026-10-20",
+   "category": "人物卡注记",
+   "subject": "江泽民",
+   "item": "江泽民人物卡时点注记（编纂定版·2026-10-20）",
+   "ruling": "江泽民人物卡加时点注记。时点列：2021-08 北戴河会议与胡锦涛共同提拔一批官员（历史层，ep192、ep278）；北戴河会议结束当日抓周江勇读法（ep225）；多期以其已故为叙事前提：军事政变筹备时其尚在世、去世后不影响发动（ep285）；江泽民百年纪念大会、胡锦涛李瑞环吴官正罗干四名老常委缺席（本档2026世界线，ep366）；提拔来源诸说时点列见 rul-18 历史层（ep279、ep559、ep607、ep645、ep646）。",
+   "basis": "编纂定版（2026-10-20）",
+   "history": "提拔来源见 rul-18（由余秋里提拔，依据 ep645）。本注记只处理时点呈现，不改归属裁定。",
+   "rule": "版式注记（非口径裁定）",
+   "effect": "烤制江泽民词条时按本注记逐时点呈现并标层级。"
+  }
+ ],
+ "counts": {
+  "events": 467,
+  "relations": 264
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/jiang-ze-min/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 73,
+    "date_from": "2023-11-05",
+    "date_to": "2024-11-28",
+    "bytes": 176536
+   },
+   {
+    "file": "events-002.json",
+    "count": 61,
+    "date_from": "2024-11-29",
+    "date_to": "2025-04-21",
+    "bytes": 176592
+   },
+   {
+    "file": "events-003.json",
+    "count": 81,
+    "date_from": "2025-04-22",
+    "date_to": "2025-08-26",
+    "bytes": 177502
+   },
+   {
+    "file": "events-004.json",
+    "count": 64,
+    "date_from": "2025-08-26",
+    "date_to": "2025-10-25",
+    "bytes": 176344
+   },
+   {
+    "file": "events-005.json",
+    "count": 74,
+    "date_from": "2025-10-25",
+    "date_to": "2026-03-30",
+    "bytes": 177701
+   },
+   {
+    "file": "events-006.json",
+    "count": 64,
+    "date_from": "2026-03-31",
+    "date_to": "2026-06-29",
+    "bytes": 169142
+   },
+   {
+    "file": "events-007.json",
+    "count": 50,
+    "date_from": "2026-06-29",
+    "date_to": "2026-10-13",
+    "bytes": 174158
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 264,
+    "date_from": "2023-11-05",
+    "date_to": "2026-10-11",
+    "bytes": 90860
+   }
+  ],
+  "base": "entities/persons-chunked/jiang-ze-min/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

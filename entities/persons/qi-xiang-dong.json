@@ -1,0 +1,31 @@
+{
+ "id": "qi-xiang-dong",
+ "name": "齐向东",
+ "aliases": [],
+ "stats": {
+  "episodes": 2,
+  "mentions": 3,
+  "alias_mentions": {},
+  "first_date": "2025-12-16",
+  "last_date": "2026-04-27",
+  "title_count": 1
+ },
+ "counts": {
+  "events": 0,
+  "relations": 1
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "events": [],
+ "relations": [
+  {
+   "id": "rel-4466",
+   "subject": "齐向东",
+   "relation": "董事长",
+   "object": "奇安信",
+   "status": "本档口径",
+   "quote": "齐安信董事长齐向东",
+   "episode": "cu35dTH1O0g",
+   "date": "2026-04-27"
+  }
+ ]
+}

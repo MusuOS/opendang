@@ -1,0 +1,80 @@
+{
+ "id": "li-qiang",
+ "name": "李强",
+ "aliases": [],
+ "stats": {
+  "episodes": 204,
+  "mentions": 904,
+  "alias_mentions": {},
+  "first_date": "2023-10-08",
+  "last_date": "2026-10-11",
+  "title_count": 36
+ },
+ "current_caliber": [
+  {
+   "id": "rul-51",
+   "date": "2026-10-20",
+   "category": "注记组A裁定",
+   "item": "注记A 李强归属悬置",
+   "ruling": "现行表述取 ep850「代表胡温主持中央工作」（胡温侧最新表述层）；ep853 边缘化属状态层、分账保留。本项各层多为表述层而非定版语，现行口径以 ep850 为准。",
+   "effect": "李强归属以 ep850 表述入账，现行倾向胡温侧；江侧诸说降历史层。"
+  }
+ ],
+ "time_notes": [
+  {
+   "id": "rul-84",
+   "date": "2026-10-20",
+   "category": "人物卡注记",
+   "subject": "李强",
+   "item": "李强人物卡时点注记（编纂定版·2026-10-20）",
+   "ruling": "李强人物卡加时点注记。时点列：江派说（ep16旁及、早期层）；江侧再证组（ep274、ep275、ep289、ep291；ep454 江侧马仔定版再证）；胡锦涛背书层（ep435）；非习包子的人论证层（ep463）；代理总书记时点前移层（ep619，归冲突13对账组）；过渡协调者推论（ep731）；代理越方已知推论（ep808）；胡锦涛背书、断不会下层（ep816）；代表胡温主持中央工作表述层（ep850）；彻底边缘化状态层（ep853）。",
+   "basis": "编纂定版（2026-10-20）",
+   "history": "归属现行表述见 rul-51（取 ep850 胡温侧最新表述层；ep853 边缘化属状态层分账）。本注记只处理时点呈现，不改归属裁定。",
+   "rule": "版式注记（非口径裁定）",
+   "effect": "烤制李强词条时按本注记逐时点呈现并标层级。"
+  }
+ ],
+ "counts": {
+  "events": 209,
+  "relations": 84
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/li-qiang/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 95,
+    "date_from": "2023-10-08",
+    "date_to": "2025-07-22",
+    "bytes": 176896
+   },
+   {
+    "file": "events-002.json",
+    "count": 92,
+    "date_from": "2025-07-22",
+    "date_to": "2026-05-24",
+    "bytes": 176494
+   },
+   {
+    "file": "events-003.json",
+    "count": 22,
+    "date_from": "2026-06-27",
+    "date_to": "2026-10-11",
+    "bytes": 85520
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 84,
+    "date_from": "2024-01-16",
+    "date_to": "2026-10-11",
+    "bytes": 30390
+   }
+  ],
+  "base": "entities/persons-chunked/li-qiang/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

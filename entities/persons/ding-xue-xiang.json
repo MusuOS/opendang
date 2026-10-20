@@ -1,0 +1,94 @@
+{
+ "id": "ding-xue-xiang",
+ "name": "丁薛祥",
+ "aliases": [],
+ "stats": {
+  "episodes": 212,
+  "mentions": 877,
+  "alias_mentions": {},
+  "first_date": "2023-10-08",
+  "last_date": "2026-10-13",
+  "title_count": 60
+ },
+ "current_caliber": [
+  {
+   "id": "rul-61",
+   "date": "2026-10-20",
+   "category": "注记组A裁定",
+   "item": "注记A 丁薛祥干儿子对象",
+   "ruling": "现行口径：丁薛祥为吴邦国干儿子。",
+   "effect": "干儿子对象取 ep745 口径。"
+  }
+ ],
+ "time_notes": [
+  {
+   "id": "rul-98",
+   "date": "2026-10-20",
+   "category": "人物卡注记",
+   "subject": "丁薛祥",
+   "item": "丁薛祥人物卡时点注记（编纂定版·2026-10-20）",
+   "ruling": "丁薛祥人物卡加时点注记。时点列：其子丁麒铭被李希带走调查（连带层，ep432）；越南清洗类比名单（类比层，ep733）；中国版清洗名单（名单层，ep757）；出事五大信号（信号层，ep758）；宁德时代考察延迟播出、断权力崩塌（断语层，ep812）；抓潘良冲丁薛祥、干儿子说与 ep745 互证（ep835）；辛保安案指向、五中免蔡丁总断（断语层，ep857）；主管科技设问层（ep861）。",
+   "basis": "编纂定版（2026-10-20）",
+   "history": "之子名字四写维持分账见 rul-47（细则5）；干儿子对象见 rul-61（吴邦国干儿子，ep745）。本注记只处理时点呈现。",
+   "rule": "版式注记（非口径裁定）",
+   "effect": "烤制丁薛祥词条时按本注记逐时点呈现并标层级。"
+  }
+ ],
+ "register_links": [
+  {
+   "register": "listed-companies",
+   "entry": "宁德时代",
+   "matched_as": [
+    "丁薛祥"
+   ],
+   "n_eps": 4,
+   "codes": [
+    "300750.SZ",
+    "03750.HK"
+   ]
+  }
+ ],
+ "counts": {
+  "events": 246,
+  "relations": 102
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/ding-xue-xiang/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 82,
+    "date_from": "2023-10-08",
+    "date_to": "2025-09-01",
+    "bytes": 176492
+   },
+   {
+    "file": "events-002.json",
+    "count": 92,
+    "date_from": "2025-09-01",
+    "date_to": "2026-03-24",
+    "bytes": 177579
+   },
+   {
+    "file": "events-003.json",
+    "count": 72,
+    "date_from": "2026-03-24",
+    "date_to": "2026-10-13",
+    "bytes": 170570
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 102,
+    "date_from": "2024-07-09",
+    "date_to": "2026-09-02",
+    "bytes": 33793
+   }
+  ],
+  "base": "entities/persons-chunked/ding-xue-xiang/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

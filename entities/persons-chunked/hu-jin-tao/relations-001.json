@@ -1,0 +1,5101 @@
+{
+ "id": "hu-jin-tao",
+ "name": "胡锦涛",
+ "kind": "relations",
+ "part": 1,
+ "count": 509,
+ "relations": [
+  {
+   "id": "rel-8060",
+   "subject": "张鹭",
+   "relation": "曾任胡锦涛温家宝首席翻译，现任外交部翻译司副司长",
+   "object": "胡锦涛",
+   "status": "公开资料层",
+   "episode": "UA298zZf7cw",
+   "date": "2023-10-13",
+   "quote": "他现在这个翻译司的副司长张鹭那女的，他以前是胡温的首席翻译"
+  },
+  {
+   "id": "rel-9091",
+   "subject": "胡海峰",
+   "relation": "被称胡锦涛之子、2024年1月16日升任民政部副部长",
+   "object": "胡锦涛",
+   "status": "引述层",
+   "episode": "kHKrm2TW-ys",
+   "date": "2024-01-29",
+   "quote": "1月16日,中共前党魁胡锦涛之子胡海峰升任中共民政部副部长"
+  },
+  {
+   "id": "rel-0004",
+   "subject": "胡锦涛",
+   "relation": "派人查办秦岭案涉案者",
+   "object": "赵正永",
+   "status": "本档口径",
+   "episode": "TC7vw27fVc0",
+   "date": "2024-06-02",
+   "quote": "去查他们四个的是胡锦涛的人等于胡锦涛要查习近平"
+  },
+  {
+   "id": "rel-5753",
+   "subject": "张震",
+   "relation": "邓小平派进军委保护",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "张海阳呢 是张震的儿子张震呢 是邓小平派进军委保护胡锦涛的",
+   "episode": "YpG7j6QQXZU",
+   "date": "2024-08-01"
+  },
+  {
+   "id": "rel-8299",
+   "subject": "黄旭聪",
+   "relation": "被判定胡锦涛派系可能性90%、习近平派系可能性10%",
+   "object": "胡锦涛",
+   "status": "本期概率判定层",
+   "episode": "J9jWDriqZQI",
+   "date": "2024-08-17",
+   "quote": "这个黄旭聪是习近平派系的可能性只有10%是胡锦涛派系的可能性是90%"
+  },
+  {
+   "id": "rel-8301",
+   "subject": "胡锦涛",
+   "relation": "李克强被称胡锦涛的另外一个干儿子、断被习包子弄死",
+   "object": "李克强",
+   "status": "本期断语层",
+   "episode": "J9jWDriqZQI",
+   "date": "2024-08-17",
+   "quote": "胡锦涛的另外一个干儿子李克强他没有保护好就被习包子给弄死了"
+  },
+  {
+   "id": "rel-0195",
+   "subject": "桂全智",
+   "relation": "本期称胡锦涛任贵州、西藏书记时的部下",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "amY--YShi2Y",
+   "date": "2024-09-06",
+   "quote": "胡锦涛的部下就是朱起桂全智和陶昌连啊"
+  },
+  {
+   "id": "rel-2092",
+   "subject": "杨勇平",
+   "relation": "35岁之前认识（经徐大平清华辅导员线推论）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "JdMAVlGIPfQ",
+   "date": "2024-10-02",
+   "quote": "这个杨勇平35岁之前他认识了胡锦涛"
+  },
+  {
+   "id": "rel-2093",
+   "subject": "胡锦涛",
+   "relation": "开始合作（本期推断最晚2018年、应为2017或2018年）",
+   "object": "江泽民",
+   "status": "本期推断",
+   "episode": "JdMAVlGIPfQ",
+   "date": "2024-10-02",
+   "quote": "最晚是2018年应该是2017年或者2018年江泽民和胡锦涛就开始合作了"
+  },
+  {
+   "id": "rel-1427",
+   "subject": "孙志刚",
+   "relation": "是胡锦涛派系的（王勇贵州三次提拔的时间线排除法：陈敏尔 2012 年就在贵州却没有提拔王勇、谌贻琴在常务副省长任内也没有提拔、是孙志刚一去贵州当省长就开始提拔王勇；孙志刚给俞正声当过大秘、俞正声也是胡锦涛派系的——注：本期后段又断孙志刚是吴官正的秘书、习包子派系，同集两说正面对撞、并存待裁）",
+   "object": "胡锦涛",
+   "status": "本档口径・同集两说",
+   "episode": "WudjAEDBcds",
+   "date": "2024-10-08",
+   "quote": "反而是孙志刚他一去贵州当省长他就开始提拔王勇啊孙志刚他就是胡锦涛派系的呀"
+  },
+  {
+   "id": "rel-1431",
+   "subject": "王晓晖",
+   "relation": "是胡锦涛的人（四川省委书记王晓晖不是王沪宁的人、是胡锦涛的人；现任四川省委秘书长陈炜是习包子派系的、省委秘书长未必和省委书记是一个派系的）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "WudjAEDBcds",
+   "date": "2024-10-08",
+   "quote": "四川的省委书记王晓晖他不是王沪宁的人是胡锦涛的人"
+  },
+  {
+   "id": "rel-3825",
+   "subject": "熊四皓",
+   "relation": "35岁之前认识（国务院信息化办副组长）",
+   "object": "胡锦涛",
+   "status": "本档口径（正文作熊四号）",
+   "quote": "当年2002年到2008年熊四号在国务院信息化工作办公室认识的就是当时的副组长 国家副主席胡锦涛啊",
+   "episode": "hcCbtbbely8",
+   "date": "2024-10-12"
+  },
+  {
+   "id": "rel-0016",
+   "subject": "徐西盛",
+   "relation": "本期称胡锦涛的人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "KVH1n7I4YyE",
+   "date": "2024-10-20",
+   "quote": "徐熙胜是胡锦涛的人（字幕作徐熙胜）"
+  },
+  {
+   "id": "rel-0867",
+   "subject": "贺国强",
+   "relation": "是胡锦涛的铁杆亲信（非江派、非曾庆红的人）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "68uTTnF2DZM",
+   "date": "2024-10-26",
+   "quote": "何国强是胡锦涛的铁杆亲信"
+  },
+  {
+   "id": "rel-3921",
+   "subject": "张福森",
+   "relation": "清华大学1959年同一届同学",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "张福森是胡锦涛清华大学1959年同一届的同学",
+   "episode": "0CIRSvT06EU",
+   "date": "2024-11-04"
+  },
+  {
+   "id": "rel-8809",
+   "subject": "袁鹏",
+   "relation": "被断是胡锦涛派系的、国安部下属智库现代国际关系研究院出身，与耿汇昌同源",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "L3nW-jsMaQ4",
+   "date": "2024-11-09",
+   "quote": "袁鹏是胡锦涛派系的"
+  },
+  {
+   "id": "rel-4949",
+   "subject": "刘振立",
+   "relation": "是其人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "刘振立和张声明都是胡锦涛的人",
+   "episode": "EfsBA5SCaRQ",
+   "date": "2024-11-12"
+  },
+  {
+   "id": "rel-4950",
+   "subject": "张升民",
+   "relation": "是其人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "刘振立和张声明都是胡锦涛的人",
+   "episode": "EfsBA5SCaRQ",
+   "date": "2024-11-12"
+  },
+  {
+   "id": "rel-2184",
+   "subject": "袁鹏",
+   "relation": "是胡锦涛派系（现代国际关系研究院线）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "hpJBHKeqsSQ",
+   "date": "2024-11-14",
+   "quote": "袁鹏是胡锦涛派系的"
+  },
+  {
+   "id": "rel-2188",
+   "subject": "许其亮",
+   "relation": "是胡锦涛派系",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "hpJBHKeqsSQ",
+   "date": "2024-11-14",
+   "quote": "许其亮是胡锦涛派系的"
+  },
+  {
+   "id": "rel-0044",
+   "subject": "贺国强",
+   "relation": "本期称胡锦涛的人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "WYvqQMUuQ3Q",
+   "date": "2024-11-16",
+   "quote": "贺国强他就是胡锦涛的人"
+  },
+  {
+   "id": "rel-8474",
+   "subject": "胡中明",
+   "relation": "被断不是习近平的人而是胡锦涛的人，因其核潜艇艇长出身（原文胡宗明）",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "LDKMmTeaTI4",
+   "date": "2024-11-19",
+   "quote": "这个胡宗明他不是习近平的人而是胡锦涛的人啊"
+  },
+  {
+   "id": "rel-0518",
+   "subject": "秦树桐",
+   "relation": "本期确认已被抓（缺席关键会议，胡锦涛针对海军与政治工作部一线）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "HSsfKT78gfY",
+   "date": "2024-11-21",
+   "quote": "秦树彤她已经缺席了关键的会议啊基本百分之百基本百分之九十九确定被抓了"
+  },
+  {
+   "id": "rel-0519",
+   "subject": "袁华志",
+   "relation": "本期称与秦树桐基本确认一起被抓",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "HSsfKT78gfY",
+   "date": "2024-11-21",
+   "quote": "海军政委元华制和陆军政委秦树彤基本确认一起被抓了呀"
+  },
+  {
+   "id": "rel-0520",
+   "subject": "苗华",
+   "relation": "本期断高度疑似被胡锦涛抓走（迟迟不出来报平安；非习包子自断手臂）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "HSsfKT78gfY",
+   "date": "2024-11-21",
+   "quote": "习近平他肯定不会抓苗华的那是胡锦涛抓的"
+  },
+  {
+   "id": "rel-0522",
+   "subject": "李玉超",
+   "relation": "火箭军司令，本期判胡锦涛的人（被习包子抓去为营救李尚福）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "HSsfKT78gfY",
+   "date": "2024-11-21",
+   "quote": "李玉超是胡锦涛的人啊"
+  },
+  {
+   "id": "rel-0525",
+   "subject": "徐西盛",
+   "relation": "接任火箭军政委，本期判胡锦涛的人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "HSsfKT78gfY",
+   "date": "2024-11-21",
+   "quote": "王厚斌是习近平的人徐熙胜是胡锦涛的人"
+  },
+  {
+   "id": "rel-0526",
+   "subject": "曾庆红",
+   "relation": "本期断肯定听胡锦涛指挥（胡是其老领导；孙政才被王岐山抓断了投习之路）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "HSsfKT78gfY",
+   "date": "2024-11-21",
+   "quote": "曾庆红肯定听胡锦涛指挥以前胡锦涛就是曾庆红的领导"
+  },
+  {
+   "id": "rel-0527",
+   "subject": "李希",
+   "relation": "本期称胡温的人（中纪委书记）——李希归属第四种表述，与前三说并存待裁",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "HSsfKT78gfY",
+   "date": "2024-11-21",
+   "quote": "中纪委书记李希是胡温的人"
+  },
+  {
+   "id": "rel-0529",
+   "subject": "张升民",
+   "relation": "本期称胡锦涛的人（中纪委第二副书记、火箭军出身）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "HSsfKT78gfY",
+   "date": "2024-11-21",
+   "quote": "中纪委第二副书记张声明是胡锦涛的人"
+  },
+  {
+   "id": "rel-0533",
+   "subject": "冯纪新",
+   "relation": "向邓小平推荐胡锦涛、提拔胡的正局级与副局级",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "HSsfKT78gfY",
+   "date": "2024-11-21",
+   "quote": "冯纪新向邓小平推荐的胡锦涛"
+  },
+  {
+   "id": "rel-1829",
+   "episode": "Wra3xnPEBhg",
+   "date": "2024-11-23",
+   "subject": "张红兵",
+   "relation": "是胡锦涛派系的（武警政委、顶替王春宁出席王小洪的会议）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "胡云涛派系的武警政委张洪滨顶替习近平派系的武警司令春宁出席王小洪的会议"
+  },
+  {
+   "id": "rel-1834",
+   "episode": "Wra3xnPEBhg",
+   "date": "2024-11-23",
+   "subject": "马立新",
+   "relation": "肯定是胡锦涛的人（2006 年 40 岁被树为海军唯一首届全国青年爱军精武标兵、推论胡锦涛亲点；主播自注不是百分百确定）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "quote": "按照现在这个形式马立新肯定是胡锦涛的人不可能一边抓习近平的人一边提拔一边抓一边提拔"
+  },
+  {
+   "id": "rel-1835",
+   "episode": "Wra3xnPEBhg",
+   "date": "2024-11-23",
+   "subject": "刘粤军",
+   "relation": "是胡锦涛派系的（早期是张万年的秘书）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "刘越军早期是张万年的秘书欧金谷提拔的是胡颖涛派系的2019年10月1日共匪篡权70周年阅兵士上时任北部战区副参谋长马立新作为方队长"
+  },
+  {
+   "id": "rel-1837",
+   "episode": "Wra3xnPEBhg",
+   "date": "2024-11-23",
+   "subject": "吴伟",
+   "relation": "有温家宝的背景、有胡锦涛的背景（与马立新同框、主播刚分析过）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "山西常务副省长吴伟刚刚从山西调任上海市委常委我刚刚分析了吴伟有温家宝的背景有胡锦涛的背景这马立新和吴伟同框出现也许是个巧合"
+  },
+  {
+   "id": "rel-7647",
+   "subject": "胡春华",
+   "relation": "胡锦涛的另一个干儿子、李克强班底上位为其接班铺路",
+   "object": "胡锦涛",
+   "status": "本期断语层（冲突13添例）",
+   "episode": "NEcoqgtw4rA",
+   "date": "2024-11-26",
+   "quote": "给他另外一个干儿子呗"
+  },
+  {
+   "id": "rel-7648",
+   "subject": "胡锦涛",
+   "relation": "三中全会前掌握15个上将（其中5个是江泽民的人）",
+   "object": "江泽民",
+   "status": "本期势力对比层",
+   "episode": "NEcoqgtw4rA",
+   "date": "2024-11-26",
+   "quote": "胡锦涛这15个上将里面有5个是江泽民的人"
+  },
+  {
+   "id": "rel-7650",
+   "subject": "胡海峰",
+   "relation": "胡锦涛之子、仕途天花板被断为正部级",
+   "object": "胡锦涛",
+   "status": "本期预测层（原文胡颖涛系胡锦涛ASR）",
+   "episode": "NEcoqgtw4rA",
+   "date": "2024-11-26",
+   "quote": "胡颖涛他已经有接班人、代理人了那个人他就不是胡海峰那胡海峰仕途的天花板就是郑布吉"
+  },
+  {
+   "id": "rel-7651",
+   "subject": "胡锦涛",
+   "relation": "近两年不露面（之前出不来、现在没必要出来推测）",
+   "object": "露面状态",
+   "status": "本期推测层（主播自陈不知）",
+   "episode": "NEcoqgtw4rA",
+   "date": "2024-11-26",
+   "quote": "就是之前可能是出不来现在是没必要"
+  },
+  {
+   "id": "rel-4494",
+   "subject": "马立新",
+   "relation": "2006年被其钦点为全军十大爱军精武标兵第一名",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "马立新2006年被胡锦涛钦点为全军青年十大爱军精武镖兵",
+   "episode": "RMNY8z1lrCg",
+   "date": "2024-11-27"
+  },
+  {
+   "id": "rel-2768",
+   "subject": "曾庆红",
+   "relation": "现在听胡锦涛指挥，江泽民集团的军队假设由其指挥",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "GjOXDdyf-Zg",
+   "date": "2024-11-28",
+   "quote": "曾庆红他现在听胡锦涛指挥就是现在的两大政治集团胡锦涛和江泽民两个政治集团联手"
+  },
+  {
+   "id": "rel-2769",
+   "subject": "胡锦涛",
+   "relation": "2024年6月动手一锅端陆军秦树彤、袁华志、邓志平等习军中人马",
+   "object": "习包子",
+   "status": "本档口径",
+   "episode": "GjOXDdyf-Zg",
+   "date": "2024-11-28",
+   "quote": "因为陆军政委秦树彤海军政委袁化志陆军副司令李火辉陆军副司令邓志平装备部副部长林柏林柏市以上福的秘书都是被胡锦涛6月份一锅端了"
+  },
+  {
+   "id": "rel-5767",
+   "subject": "苗华",
+   "relation": "攻破其海军大本营",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "海军被苗花攻破了",
+   "episode": "Fv-JNgiRVrU",
+   "date": "2024-11-29"
+  },
+  {
+   "id": "rel-5769",
+   "subject": "刘华清",
+   "relation": "铁杆马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "刘华清和吴胜利是胡云涛的铁杆马仔啊",
+   "episode": "Fv-JNgiRVrU",
+   "date": "2024-11-29"
+  },
+  {
+   "id": "rel-5770",
+   "subject": "吴胜利",
+   "relation": "铁杆马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "刘华清和吴胜利是胡云涛的铁杆马仔啊",
+   "episode": "Fv-JNgiRVrU",
+   "date": "2024-11-29"
+  },
+  {
+   "id": "rel-5771",
+   "subject": "刘华清",
+   "relation": "奉邓小平密令带枪进常委保卫",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "邓小平派刘华清带枪进常委 保卫胡云涛",
+   "episode": "Fv-JNgiRVrU",
+   "date": "2024-11-29"
+  },
+  {
+   "id": "rel-5772",
+   "subject": "马立新",
+   "relation": "亲点马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "马立新是胡锦涛亲点的",
+   "episode": "Fv-JNgiRVrU",
+   "date": "2024-11-29"
+  },
+  {
+   "id": "rel-4790",
+   "subject": "贾志杰",
+   "relation": "曾向邓小平推荐",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "贾志杰在甘肃是冯纪新提拔的还向邓小平推荐了胡锦涛",
+   "episode": "pnbI1hRDjQI",
+   "date": "2024-11-30"
+  },
+  {
+   "id": "rel-4865",
+   "subject": "刘华清",
+   "relation": "海军绝对心腹",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "因为刘华清、吴胜利都是胡锦涛在海军的绝对心腹",
+   "episode": "viuvxpZIvAo",
+   "date": "2024-12-01"
+  },
+  {
+   "id": "rel-4866",
+   "subject": "吴胜利",
+   "relation": "海军绝对心腹",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "因为刘华清、吴胜利都是胡锦涛在海军的绝对心腹",
+   "episode": "viuvxpZIvAo",
+   "date": "2024-12-01"
+  },
+  {
+   "id": "rel-4868",
+   "subject": "胡锦涛",
+   "relation": "把其赶下台",
+   "object": "习包子",
+   "status": "本档口径",
+   "quote": "张又侠他就是习近平派系的就把习近平赶下台的就是胡锦涛干的",
+   "episode": "viuvxpZIvAo",
+   "date": "2024-12-01"
+  },
+  {
+   "id": "rel-4871",
+   "subject": "许其亮",
+   "relation": "是其人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "迟浩田是邓小平的人也就是胡锦涛的人曹刚川我不知道猜是邓小平的人范长龙是江泽民的人许其亮是胡锦涛的人没有习近平的人",
+   "episode": "viuvxpZIvAo",
+   "date": "2024-12-01"
+  },
+  {
+   "id": "rel-5699",
+   "subject": "许其亮",
+   "relation": "马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "2019年4月呢,就是许其亮提拔的何宏军啊,许其亮是胡锦涛的人",
+   "episode": "p_NvYFmeH0I",
+   "date": "2024-12-06"
+  },
+  {
+   "id": "rel-5703",
+   "subject": "王强",
+   "relation": "马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "吴亚男和黄明是江泽民的人,王强是胡锦涛的人",
+   "episode": "p_NvYFmeH0I",
+   "date": "2024-12-06"
+  },
+  {
+   "id": "rel-2246",
+   "subject": "何卫东",
+   "relation": "本期称三中全会后已被内控、关禁闭交代问题",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "U30TYdTH7aw",
+   "date": "2024-12-11",
+   "quote": "何卫东呢 其实在三中全会之后呢已经被内控"
+  },
+  {
+   "id": "rel-2247",
+   "subject": "李希",
+   "relation": "本期称是胡锦涛的亲信、军队清洗由胡令李希执行",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "U30TYdTH7aw",
+   "date": "2024-12-11",
+   "quote": "都是浑淘让自己的亲信李希抓的"
+  },
+  {
+   "id": "rel-5590",
+   "subject": "军权",
+   "relation": "重新回到（元老派）",
+   "object": "胡锦涛",
+   "status": "转述层・本档附议",
+   "quote": "实际上已经两手空空 军权已经重新回到了袁老派手里就是回到了胡锦涛手里",
+   "episode": "5383xDN-wgY",
+   "date": "2024-12-13"
+  },
+  {
+   "id": "rel-4069",
+   "subject": "胡锦涛",
+   "relation": "按计划全面接管其政权",
+   "object": "习近平",
+   "status": "本档口径",
+   "quote": "胡锦涛已经按部纠班的在全面接管习近平的政权啊",
+   "episode": "7l8wFbIiw2A",
+   "date": "2024-12-17"
+  },
+  {
+   "id": "rel-4071",
+   "subject": "袁华智",
+   "relation": "2024年6月19日被抓（推定）",
+   "object": "胡锦涛",
+   "status": "本档口径・推定层",
+   "quote": "中国的海军政委袁华志应该是2024年6月19日抓的",
+   "episode": "7l8wFbIiw2A",
+   "date": "2024-12-17"
+  },
+  {
+   "id": "rel-4074",
+   "subject": "李希",
+   "relation": "是其人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "中纪委书记李希他是胡锦涛 温家宝的人",
+   "episode": "7l8wFbIiw2A",
+   "date": "2024-12-17"
+  },
+  {
+   "id": "rel-4076",
+   "subject": "景俊海",
+   "relation": "被恶令提前退休（2024年6月）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "2024年6月吉林省委书记景俊海63岁被胡锦涛恶令提前退休",
+   "episode": "7l8wFbIiw2A",
+   "date": "2024-12-17"
+  },
+  {
+   "id": "rel-2192",
+   "subject": "萧天亮",
+   "relation": "本期推断看着像胡锦涛的人",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "6v-qkfkpMoM",
+   "date": "2024-12-19",
+   "quote": "萧天亮看着像胡锦涛的人啊"
+  },
+  {
+   "id": "rel-0059",
+   "subject": "李希",
+   "relation": "本期称胡锦涛的亲信",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "ekED_GhE2zA",
+   "date": "2024-12-20",
+   "quote": "被胡锦涛的亲信李希定点清除"
+  },
+  {
+   "id": "rel-4719",
+   "subject": "胡锦涛",
+   "relation": "培养其接任总书记",
+   "object": "周金星",
+   "status": "本档口径",
+   "quote": "胡锦涛一定会把他扶到总书记的位子上",
+   "episode": "sc7X_g49wMc",
+   "date": "2024-12-21"
+  },
+  {
+   "id": "rel-4692",
+   "subject": "陈辉",
+   "relation": "有其背景（2008年汶川现场受其指挥）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "陈辉晋升中国陆军政委陈辉有许其亮和胡锦涛的背景啊",
+   "episode": "aJ7x9lAoz0Q",
+   "date": "2024-12-24"
+  },
+  {
+   "id": "rel-4693",
+   "subject": "徐西盛",
+   "relation": "是其人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "徐西盛他是胡锦涛的人",
+   "episode": "aJ7x9lAoz0Q",
+   "date": "2024-12-24"
+  },
+  {
+   "id": "rel-4697",
+   "subject": "肖天亮",
+   "relation": "看上去像是其人",
+   "object": "胡锦涛",
+   "status": "本档口径・推测层",
+   "quote": "王仁华西昌卫星发射中心的背景可能是习近平的人肖天亮看上去像是胡锦涛的人啊",
+   "episode": "aJ7x9lAoz0Q",
+   "date": "2024-12-24"
+  },
+  {
+   "id": "rel-0726",
+   "subject": "张又侠",
+   "relation": "本期断代理军委主席主持工作（真正的军委主席是胡锦涛；习降为军委第一副主席）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "MSixl8mW3jI",
+   "date": "2024-12-28",
+   "quote": "原军委第一副主席张用霞他代理军委主席而真正的军委主席是胡锦涛啊"
+  },
+  {
+   "id": "rel-1417",
+   "subject": "陈辉",
+   "relation": "是胡锦涛的人（2024-12-23 陈辉晋升陆军政委上将军衔仪式、李桥铭秦树桐袁华志王春宁四名上将缺席；胡锦涛当年去汶川地震救灾的时候直接指挥过陈辉）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "Z9NGW6RYtjY",
+   "date": "2024-12-29",
+   "quote": "陈辉是胡锦涛的人胡锦涛当年去汶川地震救灾的时候直接指挥过陈辉"
+  },
+  {
+   "id": "rel-1162",
+   "subject": "秦运彪",
+   "relation": "是胡锦涛的人（接任北京市公安局局长、九门提督换人；铁证为邓卓帝 2013–2016 年在百色任平果县副县长期间与彭晓春、周一杰、秦运彪同城）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "vmOCvSZp1hE",
+   "date": "2025-01-01",
+   "quote": "那秦运彪就是胡锦涛的人 没有任何疑问啊"
+  },
+  {
+   "id": "rel-1167",
+   "subject": "孟建柱",
+   "relation": "是胡温的人（大力推行大情报是为了取悦胡锦涛——胡任国家副主席期间管过两年反恐；比较开明是为了取悦温家宝，曾命令把马家楼、久敬庄上访人员都放了）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "vmOCvSZp1hE",
+   "date": "2025-01-01",
+   "quote": "孟建柱他大力推行大情报就是为了取悦胡锦涛胡锦涛担任国家副主席期间曾经管过两年的反恐啊很多人不知道胡锦涛这个经历啊他孟建柱比较开明呢就是为了取悦温家宝啊"
+  },
+  {
+   "id": "rel-1171",
+   "subject": "王朝文",
+   "relation": "是邓小平给胡锦涛安排好的贵州省长（王朝文 1983 年任贵州省长、胡锦涛 1985 年才去贵州，胡没有资格任命；王朝文辅佐胡锦涛三年半）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "vmOCvSZp1hE",
+   "date": "2025-01-01",
+   "quote": "王超文是谁啊胡锦涛担任贵州省委书记期间王超文担任贵州省长王超文辅佐了胡锦涛三年半对 按照我这个说法胡锦涛这个贵州省委书记他是没办法任命贵州省长王超文担任贵州省长他也比胡锦涛早两年"
+  },
+  {
+   "id": "rel-0501",
+   "subject": "覃卫祥",
+   "relation": "本期称胡锦涛的人（北京市政法委书记）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "e3kJ7ahYIPc",
+   "date": "2025-01-03",
+   "quote": "现在的北京市政法委书记谭旭祥和北京市公安局局长秦运彪都是胡颖涛的人"
+  },
+  {
+   "id": "rel-0503",
+   "subject": "秦运彪",
+   "relation": "本期称胡锦涛的人（北京市公安局局长）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "e3kJ7ahYIPc",
+   "date": "2025-01-03",
+   "quote": "现在的北京市政法委书记谭旭祥和北京市公安局局长秦运彪都是胡颖涛的人"
+  },
+  {
+   "id": "rel-0507",
+   "subject": "孙志洋",
+   "relation": "本期猜其背书者为胡锦涛或江泽民（非胡即江，得其背书才能上位）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "e3kJ7ahYIPc",
+   "date": "2025-01-03",
+   "quote": "这孙志阳啊必定是得到了胡颖涛或者江泽民的背书啊他才能上去"
+  },
+  {
+   "id": "rel-0510",
+   "subject": "李殿勋",
+   "relation": "本期考辨很可能是胡锦涛的人（借调国务院法制办期间可能结识胡或温）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "e3kJ7ahYIPc",
+   "date": "2025-01-03",
+   "quote": "所以李殿勋很可能是胡锦涛的人"
+  },
+  {
+   "id": "rel-0512",
+   "subject": "王鸿举",
+   "relation": "本期称是胡锦涛和贺国强的人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "e3kJ7ahYIPc",
+   "date": "2025-01-03",
+   "quote": "王洪举他还是胡锦涛和何国强的人啊"
+  },
+  {
+   "id": "rel-5103",
+   "subject": "毛宁",
+   "relation": "归属（未定版）",
+   "object": "胡锦涛",
+   "status": "本档口径・未定版",
+   "quote": "毛宁郭家坤都是胡锦涛的人",
+   "episode": "4N0urwk7HEQ",
+   "date": "2025-01-08"
+  },
+  {
+   "id": "rel-5104",
+   "subject": "郭嘉昆",
+   "relation": "归属（未定版）",
+   "object": "胡锦涛",
+   "status": "本档口径・未定版",
+   "quote": "毛宁郭家坤都是胡锦涛的人",
+   "episode": "4N0urwk7HEQ",
+   "date": "2025-01-08"
+  },
+  {
+   "id": "rel-2937",
+   "subject": "罗志军",
+   "relation": "是胡锦涛的人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "roihAsl7NVs",
+   "date": "2025-01-11",
+   "quote": "江苏省长罗志军这个肯定是胡锦涛的人啊"
+  },
+  {
+   "id": "rel-1496",
+   "subject": "李希",
+   "relation": "是胡锦涛温家宝的人（按照主播的派系划分标准：习包子蔡奇丁薛祥是一个派系的、李强赵乐际王沪宁都是江泽民政治集团的人、李希是胡锦涛温家宝的人；现在常委会一人一票习包子 3 比 4 落后）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "BfNihygkmHc",
+   "date": "2025-01-12",
+   "quote": "按照我的派系划分标准习近平蔡奇丁薛祥是一个派系的李强赵乐际王沪宁都是江泽民政治集团的人李希是胡锦涛温家宝的人"
+  },
+  {
+   "id": "rel-1500",
+   "subject": "陈辉",
+   "relation": "是胡锦涛的人（为什么要提拔一个陆军政委陈辉、也是胡锦涛的人、跟着胡锦涛去汶川地震参加过救灾；胡锦涛把跟着他参加汶川大地震救灾的陈辉提拔成陆军政委、刘宁提拔成河南省委书记）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "BfNihygkmHc",
+   "date": "2025-01-12",
+   "quote": "为什么要提拔一个陆军政委陈辉也是胡锦涛的人跟着胡锦涛去汶川地震参加过救灾"
+  },
+  {
+   "id": "rel-3769",
+   "subject": "叶建春",
+   "relation": "马仔（亲信）",
+   "object": "胡锦涛",
+   "status": "本档口径・再申",
+   "quote": "有胡锦涛的亲信江西省长叶建春陪同",
+   "episode": "3xgCYaxtqBg",
+   "date": "2025-01-14"
+  },
+  {
+   "id": "rel-3773",
+   "subject": "陈辉",
+   "relation": "汶川救灾时认识并提拔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "陆军政委陈辉提拔上来是胡印涛当年参加汶川大地震救灾的时候认识的",
+   "episode": "3xgCYaxtqBg",
+   "date": "2025-01-14"
+  },
+  {
+   "id": "rel-4629",
+   "subject": "黄海坤",
+   "relation": "被其勒令退休",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "刚刚被胡锦涛勒令退休呢",
+   "episode": "K9s1cK9YCOU",
+   "date": "2025-01-16"
+  },
+  {
+   "id": "rel-4630",
+   "subject": "陆克华",
+   "relation": "被抓（重庆政法委书记任上）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "重庆市委政法委书记陆克华被抓了",
+   "episode": "K9s1cK9YCOU",
+   "date": "2025-01-16"
+  },
+  {
+   "id": "rel-0562",
+   "subject": "李希",
+   "relation": "本期再称胡锦涛的人（与第 6 期胡说同向）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "A8ahKqOiDn4",
+   "date": "2025-01-17",
+   "quote": "李希他本来就是胡锦涛的人他不是习近平的人"
+  },
+  {
+   "id": "rel-0567",
+   "subject": "毛宁",
+   "relation": "本期断其背后是胡锦涛（马毓真—李肇星师承链；贝宁金援批钱推论）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "A8ahKqOiDn4",
+   "date": "2025-01-17",
+   "quote": "所以毛宁郭家坤他背后那个人啊就是胡锦涛啊"
+  },
+  {
+   "id": "rel-0569",
+   "subject": "王小洪",
+   "relation": "本期断其不敢表忠心——公安部警察节报道被控调门、如被枪顶着脑袋",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "A8ahKqOiDn4",
+   "date": "2025-01-17",
+   "quote": "王小洪不敢表忠心的原因只有一个他被人拿枪顶着脑袋"
+  },
+  {
+   "id": "rel-4196",
+   "subject": "许其亮",
+   "relation": "是其人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "许其亮是胡锦涛的人",
+   "episode": "N5BIwjKgrSo",
+   "date": "2025-01-19"
+  },
+  {
+   "id": "rel-4197",
+   "subject": "张升民",
+   "relation": "是其人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "张声明 吴胜利都是胡锦涛的人",
+   "episode": "N5BIwjKgrSo",
+   "date": "2025-01-19"
+  },
+  {
+   "id": "rel-4198",
+   "subject": "吴胜利",
+   "relation": "是其人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "张声明 吴胜利都是胡锦涛的人",
+   "episode": "N5BIwjKgrSo",
+   "date": "2025-01-19"
+  },
+  {
+   "id": "rel-4200",
+   "subject": "刘振立",
+   "relation": "是其人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "刘振立是胡锦涛的人",
+   "episode": "N5BIwjKgrSo",
+   "date": "2025-01-19"
+  },
+  {
+   "id": "rel-4206",
+   "subject": "冯纪新",
+   "relation": "推荐（进中委）",
+   "object": "胡锦涛",
+   "status": "本档口径・引史料",
+   "quote": "甘肃冯纪新推荐了两个人一个是陈光毅当时是甘肃省的计划委员会副主任另外一个就是胡锦涛",
+   "episode": "N5BIwjKgrSo",
+   "date": "2025-01-19"
+  },
+  {
+   "id": "rel-6787",
+   "subject": "胡锦涛",
+   "relation": "十年未提拔",
+   "object": "韩正",
+   "status": "本期断语",
+   "episode": "gB49pNMFr3c",
+   "date": "2025-01-21",
+   "quote": "十年胡颖涛都没提拔韩正对不对"
+  },
+  {
+   "id": "rel-6792",
+   "subject": "陈辉",
+   "relation": "被提拔为陆军政委",
+   "object": "胡锦涛",
+   "status": "本期断语",
+   "episode": "UiiWF9QgVgI",
+   "date": "2025-01-21",
+   "quote": "陈辉啊 现在被胡颖涛提拔为陆军政委"
+  },
+  {
+   "id": "rel-6793",
+   "subject": "刘宁",
+   "relation": "被提拔为河南省委书记",
+   "object": "胡锦涛",
+   "status": "本期断语",
+   "episode": "UiiWF9QgVgI",
+   "date": "2025-01-21",
+   "quote": "当年的水利部总工程师刘宁被胡颖涛提拔为河南省委书记啊"
+  },
+  {
+   "id": "rel-6795",
+   "subject": "耿惠昌",
+   "relation": "归属断语",
+   "object": "胡锦涛",
+   "status": "本期断语",
+   "episode": "UiiWF9QgVgI",
+   "date": "2025-01-21",
+   "quote": "当时的中国国安部的部长是耿慧昌耿慧昌是胡颖涛的人啊"
+  },
+  {
+   "id": "rel-2648",
+   "subject": "李希",
+   "relation": "是胡锦涛的人（本期断语；以秦刚苗华等习铁杆被抓为反证）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "VA0uHOxx-MI",
+   "date": "2025-01-24",
+   "quote": "李希他是胡锦涛的人啊"
+  },
+  {
+   "id": "rel-2657",
+   "subject": "王宁",
+   "relation": "应该是胡锦涛的人（2021年接任云南省委书记）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "VA0uHOxx-MI",
+   "date": "2025-01-24",
+   "quote": "云南省委书记王宁接替的是阮成发王宁应该是胡颖涛的人"
+  },
+  {
+   "id": "rel-2658",
+   "subject": "叶建春",
+   "relation": "是胡锦涛的人（2021年接任江西省长）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "VA0uHOxx-MI",
+   "date": "2025-01-24",
+   "quote": "江西省长叶建春接替的叶炼红啊叶建春不就是胡颖涛的人吗"
+  },
+  {
+   "id": "rel-2662",
+   "subject": "毛宁",
+   "relation": "是胡锦涛、李肇星的背景（本期断语）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "VA0uHOxx-MI",
+   "date": "2025-01-24",
+   "quote": "第七就是毛宁啊毛宁是胡锦涛、李肇星的背景"
+  },
+  {
+   "id": "rel-8457",
+   "subject": "吉林",
+   "relation": "2024年9月被胡锦涛勒令提前退休赶回家、直接退休没有任何安排",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "XoGr8mvqI5A",
+   "date": "2025-01-29",
+   "quote": "2024年9月被胡锦涛勒令提前退休赶回家去了"
+  },
+  {
+   "id": "rel-9104",
+   "subject": "吴官正",
+   "relation": "被断赴胡锦涛老家龙川村是布阵破其风水、非政治表白",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "NulaR29fAlo",
+   "date": "2025-02-01",
+   "quote": "无关症跑到胡颖涛老家不是去向胡颖涛政治表白而是去布阵要破掉胡颖涛老家的风水"
+  },
+  {
+   "id": "rel-5871",
+   "subject": "军队",
+   "relation": "听党指挥（不听习指挥）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "张又侠亲口说的中国军队现在听党指挥不是听细胞子指挥啊",
+   "episode": "vai4D31yDAQ",
+   "date": "2025-02-03"
+  },
+  {
+   "id": "rel-5872",
+   "subject": "王强",
+   "relation": "是其人（定版）",
+   "object": "胡锦涛",
+   "status": "本期定版",
+   "quote": "王强他就是胡锦涛的人",
+   "episode": "vai4D31yDAQ",
+   "date": "2025-02-03"
+  },
+  {
+   "id": "rel-5875",
+   "subject": "乙晓光",
+   "relation": "是其人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "以小光这是胡锦涛的人吴亚男和黄明都是江泽民的人王强是胡锦涛的人",
+   "episode": "vai4D31yDAQ",
+   "date": "2025-02-03"
+  },
+  {
+   "id": "rel-5879",
+   "subject": "秦运彪",
+   "relation": "是其人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "现在的为患的九门梯都北京市公安局局长秦运彪这还是胡锦涛的人",
+   "episode": "vai4D31yDAQ",
+   "date": "2025-02-03"
+  },
+  {
+   "id": "rel-6324",
+   "subject": "胡锦涛",
+   "relation": "提拔（正局级副局级、后推荐给邓小平）",
+   "object": "冯纪新",
+   "status": "本期断语",
+   "quote": "因为胡锦涛的正局级和副局级都是这个冯纪新提拔的后来推荐给邓小平啊",
+   "episode": "ciDg9-8QJho",
+   "date": "2025-02-05"
+  },
+  {
+   "id": "rel-6328",
+   "subject": "李希",
+   "relation": "胡锦涛温家宝的人",
+   "object": "胡锦涛",
+   "status": "本期断语",
+   "quote": "这个中纪委书记李希是胡锦涛温家宝的人啊,不可能抓自己人",
+   "episode": "ciDg9-8QJho",
+   "date": "2025-02-05"
+  },
+  {
+   "id": "rel-3886",
+   "subject": "钟绍军",
+   "relation": "被贬国防大学政委剥夺实权（2024年4月）",
+   "object": "胡锦涛",
+   "status": "本档口径（成文稿风）",
+   "quote": "2024年4月钟绍军被胡颖涛贬处,国防大学政委实际上是被剥夺了实权啊",
+   "episode": "G-BG9nejkMM",
+   "date": "2025-04-10"
+  },
+  {
+   "id": "rel-3888",
+   "subject": "胡春华",
+   "relation": "力推的接班人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "胡春华曾经是胡锦涛力推的接班人",
+   "episode": "G-BG9nejkMM",
+   "date": "2025-04-10"
+  },
+  {
+   "id": "rel-1236",
+   "subject": "胡春华",
+   "relation": "是胡锦涛的干儿子接班人（胡锦涛为其准备接班班底，新提拔的广东副省长马正永就是胡春华的班底、字幕名待核；胡春华仕途起点林芝 1992 年任行署副专员时，西藏党委书记正是胡锦涛）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "LKE5je4i88I",
+   "date": "2025-04-11",
+   "quote": "胡锦涛给胡春华准备了接班的班底最新提拔的广东副省长马正永就是胡春华的班底当然肯定不止这一个"
+  },
+  {
+   "id": "rel-8785",
+   "subject": "林向阳",
+   "relation": "手握20万大军束手就擒、31军被断已被胡锦涛彻底团灭（与ep651开除层对读）",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "I2HAPePl2yw",
+   "date": "2025-04-12",
+   "quote": "现在呢31军已经被胡锦涛彻底团灭一个不留"
+  },
+  {
+   "id": "rel-8786",
+   "subject": "胡春华",
+   "relation": "被网友以推背图47象推为接班人，主播断其没有干爹胡锦涛啥都不是",
+   "object": "胡锦涛",
+   "status": "网友层＋本期斥议层",
+   "episode": "I2HAPePl2yw",
+   "date": "2025-04-12",
+   "quote": "胡春华还没有上位呢就开始颂圣了"
+  },
+  {
+   "id": "rel-2332",
+   "subject": "马飚",
+   "relation": "应该是胡温的人（本期推断、故金湘军玉林书记一步应非其提拔）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "f1ed11Czjq0",
+   "date": "2025-04-13",
+   "quote": "马彪应该是胡温的人或者是第三个人提拔的呀"
+  },
+  {
+   "id": "rel-0209",
+   "subject": "郭金龙",
+   "relation": "本期称胡锦涛团队的核心成员",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "OoJhke1HwII",
+   "date": "2025-04-15",
+   "quote": "郭金龙是胡锦涛团队的核心成员啊"
+  },
+  {
+   "id": "rel-1973",
+   "subject": "胡锦涛",
+   "relation": "三中全会后不让董军当军委委员、当国务委员，阻其晋升副国级",
+   "object": "董军",
+   "status": "本档口径",
+   "episode": "OSxH8Ycccvo",
+   "date": "2025-04-15",
+   "quote": "胡锦涛他不让董军当军委员当国务委员,就不让董军晋升副国级"
+  },
+  {
+   "id": "rel-8585",
+   "subject": "王忠林",
+   "relation": "被断应该是胡锦涛团队的第二梯队成员，因习包子把别的后备官员都抓了才被启用",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "JoJls53NsGc",
+   "date": "2025-04-17",
+   "quote": "王忠林呢,他应该是胡锦涛团队的第二梯队成员呢因为细胞子把别的后备官员都给抓了呢"
+  },
+  {
+   "id": "rel-3017",
+   "subject": "胡锦涛",
+   "relation": "正局级与副局级系冯纪新提拔、后由冯纪新推荐给邓小平",
+   "object": "冯纪新",
+   "status": "本档口径",
+   "episode": "fll1x-SjJS0",
+   "date": "2025-04-18",
+   "quote": "因为胡颖涛的正局级和副局级就是冯纪新提拔的,后来推荐给邓小平的"
+  },
+  {
+   "id": "rel-3019",
+   "subject": "吴仪",
+   "relation": "是胡锦涛的人、不是江泽民的人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "fll1x-SjJS0",
+   "date": "2025-04-18",
+   "quote": "吴仪是胡锦涛的人,不是石又邦,不是江泽民的人"
+  },
+  {
+   "id": "rel-6307",
+   "subject": "蔡奇",
+   "relation": "岌岌可危（亲信随时可能被查处）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "quote": "蔡锡、王小洪、董军随时有可能被查处",
+   "episode": "nwOifhvpdRQ",
+   "date": "2025-04-18"
+  },
+  {
+   "id": "rel-1202",
+   "subject": "陈文清",
+   "relation": "跳船向新的党中央靠拢（2025-04 新疆表态只说习近平法治思想＝新时代习思想的减配版降级版、还提了胡锦涛的八项规定；已以中国法学会会长身份工作、退休安排已定，任建新是唯一先例）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "oLpol3boBlk",
+   "date": "2025-04-20",
+   "quote": "陈文清还来了一个胡颖涛的八项规定啊明显就是跳船了刀把子跳船了向新的党中央靠拱"
+  },
+  {
+   "id": "rel-1689",
+   "subject": "梁言顺",
+   "relation": "是胡锦涛在中央党校的马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "cDP3QOOGUdE",
+   "date": "2025-04-21",
+   "quote": "安徽省委书记梁言顺看着安徽省长王清宪梁言顺就是胡锦涛在中央党校的马仔"
+  },
+  {
+   "id": "rel-5918",
+   "subject": "胡锦涛",
+   "relation": "有资格发动军事政变（唯三人选之一）",
+   "object": "党和军队双重资源",
+   "status": "本档口径",
+   "quote": "只有同时掌握党和军队双重资源的人才有资格发动军事政变",
+   "episode": "lk5ULcizM4c",
+   "date": "2025-04-21"
+  },
+  {
+   "id": "rel-0655",
+   "subject": "秦运彪",
+   "relation": "本期再称胡锦涛的人（北京市公安局常务副局长）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "b1r34YWYoUc",
+   "date": "2025-04-22",
+   "quote": "北京市公安局常务副局长秦运彪是胡锦涛的人"
+  },
+  {
+   "id": "rel-0656",
+   "subject": "耿惠昌",
+   "relation": "本期称胡锦涛的人（国安部长）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "b1r34YWYoUc",
+   "date": "2025-04-22",
+   "quote": "这耿汇昌是混淆的人啊"
+  },
+  {
+   "id": "rel-2605",
+   "subject": "沈跃跃",
+   "relation": "是胡锦涛的人（胡锦涛第二任期任中组部常务副部长、当年大权在握）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "5q1mgE4puHQ",
+   "date": "2025-04-24",
+   "quote": "沈跃跃的确是胡锦涛的人"
+  },
+  {
+   "id": "rel-8934",
+   "subject": "刘宁",
+   "relation": "被断是胡锦涛的人（当年以水利部总工程师身份随胡锦涛赴汶川救灾）",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "1L0YvXHoRN0",
+   "date": "2025-04-24",
+   "quote": "刘宁我说过是胡锦涛的人当年作为水利部的总工程师跟着胡锦涛去汶川大地震救灾的"
+  },
+  {
+   "id": "rel-2265",
+   "subject": "刘云山",
+   "relation": "本期称是胡锦涛的马仔（2012-12-04提出八项规定）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "AB2kZzrdqmI",
+   "date": "2025-04-28",
+   "quote": "八项规定呢是胡锦涛的马仔刘云山2012年12月4日提出的政策而习包子当时上台仅仅19天"
+  },
+  {
+   "id": "rel-8764",
+   "subject": "胡春华",
+   "relation": "被答接班需走程序：还不是政治局委员、四中增补二十一大追任",
+   "object": "胡锦涛",
+   "status": "本期答问层",
+   "episode": "UwRKHCRUB7M",
+   "date": "2025-05-27",
+   "quote": "胡春华还不是政治局委员"
+  },
+  {
+   "id": "rel-4227",
+   "subject": "胡彬郴",
+   "relation": "疑为其安插在公安部的眼线（监视王小洪）",
+   "object": "胡锦涛",
+   "status": "本档口径・推论层",
+   "quote": "更可能是胡锦涛安插著眼線呢而非王小洪的嫡系呢",
+   "episode": "1z38wftDLB0",
+   "date": "2025-05-29"
+  },
+  {
+   "id": "rel-5745",
+   "subject": "李克强",
+   "relation": "干儿子",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "熊為平呢基本上就是李克强的幹弟弟吧那李克强是胡锦涛的乾兒子所以熊為平他也可以說是胡锦涛的乾兒子",
+   "episode": "ZJrwyjLcROE",
+   "date": "2025-05-31"
+  },
+  {
+   "id": "rel-5746",
+   "subject": "卢东亮",
+   "relation": "接任总书记或总理（22大预测）",
+   "object": "胡锦涛",
+   "status": "本期预测",
+   "quote": "22大的話吳東亮就可能接任總書記或者總理啊最低是政治局常委",
+   "episode": "ZJrwyjLcROE",
+   "date": "2025-05-31"
+  },
+  {
+   "id": "rel-5749",
+   "subject": "李玉妹",
+   "relation": "马仔（大概率・未定版）",
+   "object": "胡锦涛",
+   "status": "本期推论・未定版",
+   "quote": "李玉妹呢大概率是渾淘的然後沒有再深入研究啊",
+   "episode": "ZJrwyjLcROE",
+   "date": "2025-05-31"
+  },
+  {
+   "id": "rel-5750",
+   "subject": "姜义康",
+   "relation": "马仔（很有可能・未研究）",
+   "object": "胡锦涛",
+   "status": "本期推论・未定版",
+   "quote": "江義康呢和渾濤一起給邓小平撒的骨灰呀",
+   "episode": "ZJrwyjLcROE",
+   "date": "2025-05-31"
+  },
+  {
+   "id": "rel-4296",
+   "subject": "胡锦涛",
+   "relation": "完全继承其政治资产",
+   "object": "赵紫阳",
+   "status": "本档口径",
+   "quote": "胡锦涛呢他又完全的继承了赵紫阳的政治资产",
+   "episode": "fJE9ed84HVA",
+   "date": "2025-06-01"
+  },
+  {
+   "id": "rel-8712",
+   "subject": "李强",
+   "relation": "被斷是胡锦涛背书的人、其女李颖与胡锦涛之女胡海清有私人关系、被断不会下",
+   "object": "胡锦涛",
+   "status": "本期斷語層",
+   "episode": "-Yfdk29OM08",
+   "date": "2025-06-05",
+   "quote": "李强也是胡锦涛背書的人"
+  },
+  {
+   "id": "rel-8717",
+   "subject": "胡锦涛",
+   "relation": "被斷主導中日關係改善（钓鱼岛浮标移除、水產品恢復進口共識），日本是其發家政治資本之一",
+   "object": "李强",
+   "status": "本期斷語層",
+   "episode": "-Yfdk29OM08",
+   "date": "2025-06-05",
+   "quote": "這一系列的中日關係的改善很明顯這是胡锦涛的意思"
+  },
+  {
+   "id": "rel-7326",
+   "subject": "胡锦涛",
+   "relation": "与温家宝主导修订党组处分规定（断语）",
+   "object": "温家宝",
+   "status": "本期断语层",
+   "episode": "os8AJZ_AhBk",
+   "date": "2025-06-06",
+   "quote": "這個很明顯是胡锦涛或者温家宝改的呀"
+  },
+  {
+   "id": "rel-9032",
+   "subject": "胡锦涛",
+   "relation": "被断为中共现在实际上的军委主席、2024年6月19日发动军事政变",
+   "object": "中央军委主席",
+   "status": "本期断语层",
+   "episode": "tto5R--cI5o",
+   "date": "2025-06-06",
+   "quote": "那因為中共現在實際上的军委主席是胡锦涛啊"
+  },
+  {
+   "id": "rel-7687",
+   "subject": "胡锦涛",
+   "relation": "任西藏书记时对常务副书记热地说「多换思想少换人」",
+   "object": "热地",
+   "status": "热地自述层",
+   "episode": "tKnnBpBUUzc",
+   "date": "2025-06-07",
+   "quote": "他說錦濤同志認為西藏穩定是第一位的他對我說多換思想少換人"
+  },
+  {
+   "id": "rel-8610",
+   "subject": "卢卡申科",
+   "relation": "被网友推测6月3日在钓鱼台见的是胡锦涛温家宝、结合前苏联经验立即理解状况所以感到恐怖",
+   "object": "胡锦涛",
+   "status": "网友推论层",
+   "episode": "A1sd1R_OkVc",
+   "date": "2025-06-07",
+   "quote": "我推測魯卡申科6月3日在釣魚臺見的是胡锦涛、温家宝"
+  },
+  {
+   "id": "rel-8614",
+   "subject": "习包子",
+   "relation": "被猜已与元老达成协定、以人身安全换取四中全会上辞职、采取华国锋模式而不是四人帮模式，现身均按元老剧本演到四中全会",
+   "object": "胡锦涛",
+   "status": "本期推测层",
+   "episode": "A1sd1R_OkVc",
+   "date": "2025-06-07",
+   "quote": "我猜元老也應該和習包子達成了一些協定以他的人身安全換取四中全會上進行辭職"
+  },
+  {
+   "id": "rel-5498",
+   "subject": "胡锦涛",
+   "relation": "以经济罪名定罪（未用政治罪名）",
+   "object": "薄熙来",
+   "status": "本档口径",
+   "quote": "胡耀邦在處理薄熙来的時候沒有使用政治罪名而是以經濟罪名蒙混過關",
+   "episode": "w90wey8FOeE",
+   "date": "2025-06-08"
+  },
+  {
+   "id": "rel-4674",
+   "subject": "吴仪",
+   "relation": "馬仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "李成钢是吳儀的馬仔吳儀是胡穎濤的馬仔",
+   "episode": "pLUp1E1kphw",
+   "date": "2025-06-09"
+  },
+  {
+   "id": "rel-4676",
+   "subject": "冯纪新",
+   "relation": "推薦",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "推薦了胡锦涛當總書記温家宝當總理吳儀當副總理堪稱是中共教父",
+   "episode": "pLUp1E1kphw",
+   "date": "2025-06-09"
+  },
+  {
+   "id": "rel-4682",
+   "subject": "李强",
+   "relation": "被其背書",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "李强也是胡锦涛背書的",
+   "episode": "pLUp1E1kphw",
+   "date": "2025-06-09"
+  },
+  {
+   "id": "rel-4684",
+   "subject": "黄菊",
+   "relation": "是其派系的人（邓小平胡锦涛派系）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "黄菊是邓小平混淆的人他不是江泽民的人",
+   "episode": "pLUp1E1kphw",
+   "date": "2025-06-09"
+  },
+  {
+   "id": "rel-4688",
+   "subject": "孟建柱",
+   "relation": "是其人（胡温的人）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "孟建柱他就是胡溫的人",
+   "episode": "pLUp1E1kphw",
+   "date": "2025-06-09"
+  },
+  {
+   "id": "rel-5486",
+   "subject": "许其亮",
+   "relation": "被提拔为上将",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "許其亮是胡锦涛提拔的上將",
+   "episode": "OgEwaYJpP0Q",
+   "date": "2025-06-10"
+  },
+  {
+   "id": "rel-7110",
+   "subject": "陆治原",
+   "relation": "获胡锦涛背书（其子入民政部推论）",
+   "object": "胡锦涛",
+   "status": "本期推论层",
+   "episode": "FTe2Rli6mf8",
+   "date": "2025-06-10",
+   "quote": "胡锦涛把他的兒子塞到民政部,就說明胡锦涛背書民政部,背書陸志源啊"
+  },
+  {
+   "id": "rel-7112",
+   "subject": "房峰辉",
+   "relation": "胡锦涛的人",
+   "object": "胡锦涛",
+   "status": "本档口径再申",
+   "episode": "FTe2Rli6mf8",
+   "date": "2025-06-10",
+   "quote": "房峰辉,張楊,吴胜利都是胡锦涛的人"
+  },
+  {
+   "id": "rel-7113",
+   "subject": "张阳",
+   "relation": "胡锦涛的人",
+   "object": "胡锦涛",
+   "status": "本档口径再申",
+   "episode": "FTe2Rli6mf8",
+   "date": "2025-06-10",
+   "quote": "房峰辉,張楊,吴胜利都是胡锦涛的人"
+  },
+  {
+   "id": "rel-7114",
+   "subject": "吴胜利",
+   "relation": "胡锦涛的人",
+   "object": "胡锦涛",
+   "status": "本档口径再申",
+   "episode": "FTe2Rli6mf8",
+   "date": "2025-06-10",
+   "quote": "房峰辉,張楊,吴胜利都是胡锦涛的人"
+  },
+  {
+   "id": "rel-7115",
+   "subject": "魏凤和",
+   "relation": "可能胡锦涛的人",
+   "object": "胡锦涛",
+   "status": "本期可能性层",
+   "episode": "FTe2Rli6mf8",
+   "date": "2025-06-10",
+   "quote": "魏鳳和可能也是胡锦涛的人啊"
+  },
+  {
+   "id": "rel-6005",
+   "subject": "田聪明",
+   "relation": "马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "田聰明是胡锦涛的馬仔",
+   "episode": "Rs4YbEBnhnk",
+   "date": "2025-06-11"
+  },
+  {
+   "id": "rel-6011",
+   "subject": "胡锦涛",
+   "relation": "未背书（送花圈未出席葬礼）",
+   "object": "许其亮",
+   "status": "本档口径",
+   "quote": "胡锦涛呢給許其亮送花圈但是沒有出席許其亮的葬禮",
+   "episode": "Rs4YbEBnhnk",
+   "date": "2025-06-11"
+  },
+  {
+   "id": "rel-1877",
+   "subject": "李成钢",
+   "relation": "胡锦涛的人（本期以其人事归属判读贸易决策出自谁手）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "5yfY9qRFxuY",
+   "date": "2025-06-12",
+   "quote": "李成钢是胡锦涛无一的人从人事关系上就可以推测是谁在做决定了"
+  },
+  {
+   "id": "rel-8993",
+   "subject": "李成钢",
+   "relation": "被传为胡锦涛温家宝胡春华的嫡系、代表温和派声音（与 ep868 胡锦涛马仔断互证）",
+   "object": "胡锦涛",
+   "status": "本期引述层",
+   "episode": "_y1Bds0-ZQo",
+   "date": "2025-06-12",
+   "quote": "据传他不仅是胡颖涛温家宝和胡无一的嫡系"
+  },
+  {
+   "id": "rel-4029",
+   "subject": "曹均章",
+   "relation": "是其人马",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "曹軍章就是胡锦涛劉震麗的人",
+   "episode": "gaGEYtLRTGA",
+   "date": "2025-06-13"
+  },
+  {
+   "id": "rel-9155",
+   "subject": "胡锦涛",
+   "relation": "被断军事政变成功后第一件事是团灭31军出身高级军官、31军已被其重创",
+   "object": "习包子",
+   "status": "本期断语层",
+   "episode": "ibb921CGugk",
+   "date": "2025-06-13",
+   "quote": "那胡锦涛軍事政變之後軍事政變成功之後幹的第一件事情就是團滅31軍出身的高級軍官呢"
+  },
+  {
+   "id": "rel-8483",
+   "subject": "曹均章",
+   "relation": "武警副司令（原文曹軍章），被断是胡锦涛的马仔，2025年5月8日亮相而司令缺席",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "U75ikHog-rY",
+   "date": "2025-06-14",
+   "quote": "武警副司令曹軍章是胡锦涛的馬仔"
+  },
+  {
+   "id": "rel-8928",
+   "subject": "胡锦涛",
+   "relation": "2007年8月3日批示關國亮案請吳官正等同志批示（原文賈寶關正）",
+   "object": "关国亮",
+   "status": "文件引述層",
+   "episode": "l-y712S_klI",
+   "date": "2025-06-15",
+   "quote": "2007年8月3日胡锦涛同志批示請賈寶關正同志批示"
+  },
+  {
+   "id": "rel-8677",
+   "subject": "陕西访民",
+   "relation": "五百多人2025年6月9日上書胡錦濤和汪洋，痛斥習包子家鄉富平成法外之地、要求廢除維穩產業鏈試點民主改革（陝西照原文）",
+   "object": "胡锦涛",
+   "status": "公開上書層＋本期引述層",
+   "episode": "wcNYBjcVyPI",
+   "date": "2025-06-17",
+   "quote": "2025年6月9日陝西500多訪民上書胡锦涛和汪洋痛斥習包子家鄉複平成法外之地"
+  },
+  {
+   "id": "rel-2038",
+   "subject": "王双全",
+   "relation": "是胡锦涛的马仔（总考：就是胡锦涛胡春华的马仔）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "XdIz7RAFWSw",
+   "date": "2025-06-19",
+   "quote": "這麼綜合來看這王双全他就是胡锦涛胡春华的馬仔"
+  },
+  {
+   "id": "rel-2045",
+   "subject": "杨松",
+   "relation": "最早就是胡锦涛的下属（任一江两河开发建设委员会办公室副主任，一江两河大开发系胡锦涛1989年向中央汇报时提出）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "XdIz7RAFWSw",
+   "date": "2025-06-19",
+   "quote": "也就是說楊松最早就是胡锦涛的下屬"
+  },
+  {
+   "id": "rel-2046",
+   "subject": "刘宁",
+   "relation": "是胡锦涛的马仔（同为水利出身）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "XdIz7RAFWSw",
+   "date": "2025-06-19",
+   "quote": "河南省委書記劉甯他就是胡锦涛的馬仔他也是搞水利出身的"
+  },
+  {
+   "id": "rel-8916",
+   "subject": "李强",
+   "relation": "其标志说法固本培元被断与胡锦涛不折腾异曲同工（风格层）",
+   "object": "胡锦涛",
+   "status": "本期评论层",
+   "episode": "A3slE7PuS08",
+   "date": "2025-06-20",
+   "quote": "和胡锦涛的不折騰倒是有異曲同工之妙"
+  },
+  {
+   "id": "rel-5990",
+   "subject": "温家宝",
+   "relation": "站出来支持发动军事政变",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "温家宝要站出來支持胡锦涛發動軍事政變",
+   "episode": "v5DFW3gGYn8",
+   "date": "2025-06-22"
+  },
+  {
+   "id": "rel-5991",
+   "subject": "胡海峰",
+   "relation": "亲生儿子留在中国（破釜沉舟）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "胡锦涛知道自己兒子沒事才敢把兒子留在中國的",
+   "episode": "v5DFW3gGYn8",
+   "date": "2025-06-22"
+  },
+  {
+   "id": "rel-1976",
+   "subject": "杨维林",
+   "relation": "大概率是胡锦涛的马仔（本期总考定版）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "mTMMGwoIleo",
+   "date": "2025-06-23",
+   "quote": "杨维林大概率是混淆的马仔"
+  },
+  {
+   "id": "rel-1981",
+   "subject": "王刚",
+   "relation": "曾经给江泽民和胡锦涛分别担任过大秘（给胡锦涛担任了五年）、1999至2007年任中办主任",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "mTMMGwoIleo",
+   "date": "2025-06-23",
+   "quote": "王刚曾经给江泽民和胡锦涛分别担任过大秘啊给胡锦涛担任了五年的大秘"
+  },
+  {
+   "id": "rel-6415",
+   "subject": "李肇星",
+   "relation": "马仔（本期表述层）",
+   "object": "胡锦涛",
+   "status": "本期断语",
+   "quote": "宋明江呢是李肇星的马仔,李肇星呢是邓小平胡锦涛的马仔啊",
+   "episode": "RNe0H5-Ec3A",
+   "date": "2025-06-27"
+  },
+  {
+   "id": "rel-6417",
+   "subject": "胡锦涛",
+   "relation": "决定打钱一个亿（或温家宝、二选未定）",
+   "object": "李备芬",
+   "status": "本期断语",
+   "quote": "这根本就不是李肇星能够决定的,就是胡锦涛决定的,要么就是温家宝啊",
+   "episode": "RNe0H5-Ec3A",
+   "date": "2025-06-27"
+  },
+  {
+   "id": "rel-6420",
+   "subject": "胡锦涛",
+   "relation": "抓（苗华何卫东、再申）",
+   "object": "苗华",
+   "status": "本期断语",
+   "quote": "苗华和卫东不是我们抓的,是中共抓的,是婚涛抓的",
+   "episode": "RNe0H5-Ec3A",
+   "date": "2025-06-27"
+  },
+  {
+   "id": "rel-6913",
+   "subject": "傅思和",
+   "relation": "疑被亲自提拔",
+   "object": "胡锦涛",
+   "status": "本期推测",
+   "episode": "-kZn2b6I6Yk",
+   "date": "2025-06-27",
+   "quote": "这个傅思和他是不是就是胡锦涛本人亲自提拔的我不知道只是有这种可能"
+  },
+  {
+   "id": "rel-6914",
+   "subject": "马立新",
+   "relation": "钦点首届标兵第一（2006年）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "-kZn2b6I6Yk",
+   "date": "2025-06-27",
+   "quote": "2006年6月26日胡锦涛钦点马立新为首届全军青年十大爱军精武镖兵排名第一"
+  },
+  {
+   "id": "rel-5244",
+   "subject": "胡春华",
+   "relation": "请求处理习包子（三次被否决）",
+   "object": "胡锦涛",
+   "status": "传言层",
+   "quote": "胡振华三次请求混淆直接处理习包子都被混淆否决了",
+   "episode": "x-chM8333Qw",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "rel-2553",
+   "subject": "胡锦涛",
+   "relation": "传任中央决策委员会主任（如属实即为党内一把手）",
+   "object": "中央决策委员会",
+   "status": "传闻・本期未证实",
+   "episode": "7nduMGV0ynA",
+   "date": "2025-07-01",
+   "quote": "传言呢胡锦涛担任中央决策委员会的主任李瑞环温家宝张德江担任副主任"
+  },
+  {
+   "id": "rel-5787",
+   "subject": "陈小江",
+   "relation": "马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "陈小江是胡锦涛的马仔",
+   "episode": "CMWHna50xFM",
+   "date": "2025-07-01"
+  },
+  {
+   "id": "rel-5789",
+   "subject": "刘宁",
+   "relation": "马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "河南省委书记刘宁就是胡锦涛的马仔",
+   "episode": "CMWHna50xFM",
+   "date": "2025-07-01"
+  },
+  {
+   "id": "rel-5790",
+   "subject": "胡春华",
+   "relation": "一手提拔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "胡春华是正经的胡锦涛一手提拔的亲自提拔的",
+   "episode": "CMWHna50xFM",
+   "date": "2025-07-01"
+  },
+  {
+   "id": "rel-1729",
+   "episode": "BQzjm0FlW1M",
+   "date": "2025-07-02",
+   "subject": "陈小江",
+   "relation": "是胡锦涛的马仔、有强烈的胡锦涛背景，新疆党委书记只能是胡锦涛提拔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "简单说就是胡锦涛的马仔又强烈的胡锦涛背景啊因为胡锦涛在清华大学他学的就是水利工程啊"
+  },
+  {
+   "id": "rel-1732",
+   "episode": "BQzjm0FlW1M",
+   "date": "2025-07-02",
+   "subject": "汪恕诚",
+   "relation": "是胡锦涛的同班同学、同系同届同窗，关系比其他校友近得多",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "但是论与胡锦涛的关系却比他们近得多他是胡锦涛系同届的同窗啊"
+  },
+  {
+   "id": "rel-4721",
+   "subject": "胡锦涛",
+   "relation": "主任（据传）",
+   "object": "中央决策委员会",
+   "status": "本档口径・据传层",
+   "quote": "据传中央决策委员会的主任是胡锦涛副主任是李瑞环温家宝张德江委员是习包子李强和赵乐际",
+   "episode": "CO41mgK0OYk",
+   "date": "2025-07-03"
+  },
+  {
+   "id": "rel-2956",
+   "subject": "石泰峰",
+   "relation": "是胡锦涛的马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "imn3RVhyc0U",
+   "date": "2025-07-04",
+   "quote": "史太峰是胡锦涛的马仔他担任中组部长就意味着胡春华要接班"
+  },
+  {
+   "id": "rel-7774",
+   "subject": "胡锦涛",
+   "relation": "被断2024年6月19日发动军事政变",
+   "object": "习包子",
+   "status": "本期叙事层",
+   "episode": "Mk6nuIz8om8",
+   "date": "2025-07-04",
+   "quote": "胡锦涛呢是2024年6月19日发动的军事政变呢"
+  },
+  {
+   "id": "rel-2885",
+   "subject": "陈小江",
+   "relation": "是胡锦涛的马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "HCMx_ci8enI",
+   "date": "2025-07-06",
+   "quote": "扶上去的那个陈小江就是混淆马仔呀"
+  },
+  {
+   "id": "rel-2887",
+   "subject": "胡锦涛",
+   "relation": "与江泽民两大政治军事集团共同发动2024年6月19日军事政变",
+   "object": "江泽民",
+   "status": "本档口径",
+   "episode": "HCMx_ci8enI",
+   "date": "2025-07-06",
+   "quote": "这也不是胡锦涛一个人的事情这是江泽民和胡锦涛两大政治军事集团的事情"
+  },
+  {
+   "id": "rel-8559",
+   "subject": "胡锦涛",
+   "relation": "被断操盘传位干儿子胡春华、保习包子体面即保胡春华接班体面",
+   "object": "胡春华",
+   "status": "本期断语层",
+   "episode": "FV5VVV8gecQ",
+   "date": "2025-07-07",
+   "quote": "胡锦涛想要传位给他的干儿子胡春华呀"
+  },
+  {
+   "id": "rel-8501",
+   "subject": "胡春华",
+   "relation": "作为胡锦涛派系（团派）成员高调活动、主持政协会议代班，被读作胡锦涛影响力回升限制习包子自由",
+   "object": "胡锦涛",
+   "status": "本期解读层",
+   "episode": "Bb89VJcQjQY",
+   "date": "2025-07-08",
+   "quote": "胡春华作为胡锦涛派系或者传统上叫做团派的成员"
+  },
+  {
+   "id": "rel-6246",
+   "subject": "蒋某某",
+   "relation": "传闻发布（胡病危说、备黑白版说）",
+   "object": "胡锦涛",
+   "status": "传闻层",
+   "quote": "蒋某某还说呢,中宣部已通知各网站随时准备黑白版",
+   "episode": "jVxQ6xD_SFA",
+   "date": "2025-07-13"
+  },
+  {
+   "id": "rel-6255",
+   "subject": "王旭",
+   "relation": "胡锦涛派系（6月30日政治局会议任命）",
+   "object": "胡锦涛",
+   "status": "本期断语",
+   "quote": "新疆党委书记陈小江和天津常务副市长王旭都是浑涛派系的。都是在6月30日的政治局会议上任命的",
+   "episode": "jVxQ6xD_SFA",
+   "date": "2025-07-13"
+  },
+  {
+   "id": "rel-6256",
+   "subject": "陈小江",
+   "relation": "胡锦涛派系（6月30日政治局会议任命）",
+   "object": "胡锦涛",
+   "status": "本期断语",
+   "quote": "新疆党委书记陈小江和天津常务副市长王旭都是浑涛派系的。都是在6月30日的政治局会议上任命的",
+   "episode": "jVxQ6xD_SFA",
+   "date": "2025-07-13"
+  },
+  {
+   "id": "rel-5786",
+   "subject": "李克强",
+   "relation": "派系",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "李克强是胡锦涛派系的",
+   "episode": "lUuU6ZBWbFA",
+   "date": "2025-07-15"
+  },
+  {
+   "id": "rel-2862",
+   "subject": "徐启方",
+   "relation": "经李建国链断为胡锦涛的人（港澳办常务副主任、正部级）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "8aF6smFnrgM",
+   "date": "2025-07-16",
+   "quote": "徐启方也是胡锦涛的人现在港澳办里面两个正部级徐启方和周霁都是胡锦涛的人"
+  },
+  {
+   "id": "rel-2864",
+   "subject": "李希",
+   "relation": "是胡锦涛的人、已经把习包子的人都抓光了",
+   "object": "胡锦涛",
+   "status": "本档口径（冲突1胡侧再证）",
+   "episode": "8aF6smFnrgM",
+   "date": "2025-07-16",
+   "quote": "李希如果不是胡锦涛的人李尚福 苗华 何为东是怎么进去的李希他就是甘肃的官员"
+  },
+  {
+   "id": "rel-3088",
+   "subject": "胡春华",
+   "relation": "是胡锦涛提拔的（非陈奎元提拔）",
+   "object": "胡锦涛",
+   "status": "本期定版",
+   "episode": "OIh3-ECLvSU",
+   "date": "2025-07-17",
+   "quote": "胡春华他不是陈奎元提拔的胡春华是胡锦涛提拔的"
+  },
+  {
+   "id": "rel-3090",
+   "subject": "热地",
+   "relation": "是胡锦涛在西藏的政敌",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "OIh3-ECLvSU",
+   "date": "2025-07-17",
+   "quote": "热地是胡锦涛在西藏的政敌"
+  },
+  {
+   "id": "rel-1771",
+   "episode": "9rl8FG3BZ8k",
+   "date": "2025-07-19",
+   "subject": "叶建春",
+   "relation": "是胡锦涛的人（水利出身、沿用强卫的大秘徐延彬担任省政府秘书长）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "叶建春就使用强卫的大秘徐焉斌担任省政府的秘书长就说明叶建春是胡锦涛派系的"
+  },
+  {
+   "id": "rel-1581",
+   "subject": "陈小江",
+   "relation": "是胡锦涛的马仔（陈小江是胡锦涛的马仔；陈小江要在四中全会上接替马兴瑞担任政治局委员、从陈小江接替马兴瑞也能看出来是胡春华接替习包子担任总书记）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "ZDPmLrwto4Q",
+   "date": "2025-07-22",
+   "quote": "陈小江之前担任国家民委主任2022年二十大的中央委员啊增补为政治局委员接替马兴瑞陈小江是胡锦涛的马仔啊"
+  },
+  {
+   "id": "rel-4919",
+   "subject": "林志峰",
+   "relation": "得到其背书",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "林志峰就是張德江李强的馬仔但是和胡海峰也有交集所以得到了胡锦涛的背書",
+   "episode": "6QuULlYaDV8",
+   "date": "2025-07-22"
+  },
+  {
+   "id": "rel-3258",
+   "subject": "习包子",
+   "relation": "二十大强行三连任、对抗江泽民胡锦涛两个退休的党中央（2021北戴河假意答应退休）",
+   "object": "胡锦涛",
+   "status": "本期断语",
+   "episode": "tIDo37D03wI",
+   "date": "2025-07-23",
+   "quote": "如果江泽民和胡锦涛都同意习包子二十大退休那么习包子二十大强行连任就是习包子这个党中央在对抗江泽民和胡锦涛这两个退休的党中央"
+  },
+  {
+   "id": "rel-1076",
+   "subject": "刘源",
+   "relation": "的确是胡锦涛的人（刘少奇和邓小平的确是一个政治集团；胡锦涛曾想掌握军纪委书记职位、传言由刘源接任）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "Cgj1iT5GiOM",
+   "date": "2025-07-24",
+   "quote": "首先刘源的确是胡锦涛的人他把刘少奇和邓小平一起被打倒刘少奇和邓小平的确是一个政治集团"
+  },
+  {
+   "id": "rel-1077",
+   "subject": "张升民",
+   "relation": "是胡锦涛的人（军纪委书记；大外宣称其为习包子的监军不成立——若是习的监军，李尚福、苗华、何卫东怎么会被抓）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "Cgj1iT5GiOM",
+   "date": "2025-07-24",
+   "quote": "后来军纪委书记张声明他不就是胡锦涛的人吗大外宣做了这个标题张声明是习的监军"
+  },
+  {
+   "id": "rel-8640",
+   "subject": "胡锦涛",
+   "relation": "其16字标语被读作胡锦涛胡春华借军报敲打习包子、主张回归集体领导、反对另立中央",
+   "object": "习包子",
+   "status": "本期解读层",
+   "episode": "ji0aOvLEsjA",
+   "date": "2025-07-24",
+   "quote": "胡锦涛胡春华可能借此敲打习包子主张回归党的集体领导反对习包子另立中央的做法啊"
+  },
+  {
+   "id": "rel-5619",
+   "subject": "李希",
+   "relation": "马仔",
+   "object": "胡锦涛",
+   "status": "本档口径・再申",
+   "quote": "中纪委书记李希就是胡锦涛的马仔胡锦涛他想怎么玩就怎么玩",
+   "episode": "Vg1QTAvXdSc",
+   "date": "2025-07-25"
+  },
+  {
+   "id": "rel-5894",
+   "subject": "石宗元",
+   "relation": "是其人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "我们看胡锦涛担任总书记那几年呢贵州的省委书记啊石宗元是胡锦涛的人栗战书和赵克志都是细胞的人",
+   "episode": "f2cTvBXJHn0",
+   "date": "2025-07-25"
+  },
+  {
+   "id": "rel-4448",
+   "subject": "胡锦涛",
+   "relation": "十六字方针（集中领导民主集中个别酝酿会议决定）",
+   "object": "中部战区",
+   "status": "本档口径",
+   "quote": "中部战区的标语集中领导民主集中个别酝酿会议决定这是胡锦涛的十六字方针",
+   "episode": "2PKSojYcDAA",
+   "date": "2025-07-26"
+  },
+  {
+   "id": "rel-1649",
+   "subject": "袁家军",
+   "relation": "就是胡锦涛的马仔（总书记的备胎人选）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "0RcYolWPO0M",
+   "date": "2025-07-27",
+   "quote": "所以这个袁家军他就是胡锦涛的马仔这也是总书记的备胎人最后到底是胡春华上还是让袁家军上就是胡锦涛一句话的事情"
+  },
+  {
+   "id": "rel-2406",
+   "subject": "邵新宇",
+   "relation": "大概率是胡锦涛的亲戚（泰州同乡、无人脸比对）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "Sm1ejmMJf7k",
+   "date": "2025-07-30",
+   "quote": "我没有做人脸比对但是邵新宇应该是胡锦涛家的亲戚"
+  },
+  {
+   "id": "rel-2407",
+   "subject": "邵新宇",
+   "relation": "是胡锦涛的人（中央军民融合办常务副主任）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "Sm1ejmMJf7k",
+   "date": "2025-07-30",
+   "quote": "军民融合办的邵新宇呢是胡锦涛的人"
+  },
+  {
+   "id": "rel-2408",
+   "subject": "石泰峰",
+   "relation": "是胡锦涛的人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "Sm1ejmMJf7k",
+   "date": "2025-07-30",
+   "quote": "石泰峰 姜信治是胡锦涛的人中组部已经完全不在习包子的控制之下了"
+  },
+  {
+   "id": "rel-2409",
+   "subject": "姜信治",
+   "relation": "是胡锦涛的人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "Sm1ejmMJf7k",
+   "date": "2025-07-30",
+   "quote": "石泰峰 姜信治是胡锦涛的人"
+  },
+  {
+   "id": "rel-2410",
+   "subject": "徐启方",
+   "relation": "是胡锦涛的人（中央港澳办）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "Sm1ejmMJf7k",
+   "date": "2025-07-30",
+   "quote": "中央港澳办呢徐启方周霁都是胡锦涛的人啊"
+  },
+  {
+   "id": "rel-2411",
+   "subject": "周霁",
+   "relation": "是胡锦涛的人（中央港澳办）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "Sm1ejmMJf7k",
+   "date": "2025-07-30",
+   "quote": "中央港澳办呢徐启方周霁都是胡锦涛的人啊"
+  },
+  {
+   "id": "rel-2412",
+   "subject": "郭文奇",
+   "relation": "是胡锦涛的人、胡春华的前下属（字幕作郭文琪）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "Sm1ejmMJf7k",
+   "date": "2025-07-30",
+   "quote": "中央和国家机关工委常务副书记郭文琪是胡锦涛的人啊胡春华的前下属"
+  },
+  {
+   "id": "rel-7103",
+   "subject": "马兴瑞",
+   "relation": "被免职（5月决定推论）",
+   "object": "胡锦涛",
+   "status": "本期推论层",
+   "episode": "Uj7fXpiWQQs",
+   "date": "2025-08-01",
+   "quote": "就除非马兴瑞是最后的孤中啊在五月的政治局会议上支持了洗包子所以被胡锦涛免职了"
+  },
+  {
+   "id": "rel-7107",
+   "subject": "胡锦涛",
+   "relation": "取消农业税主导",
+   "object": "农业税",
+   "status": "本期断语层",
+   "episode": "Uj7fXpiWQQs",
+   "date": "2025-08-01",
+   "quote": "当年这农业税就是胡锦涛取消的"
+  },
+  {
+   "id": "rel-9167",
+   "subject": "胡锦涛",
+   "relation": "讲话稿称其支持温家宝取消农业税、推行农村义务教育免费政策（拟作层）",
+   "object": "温家宝",
+   "status": "拟作层",
+   "episode": "jtNACbYvEv0",
+   "date": "2025-08-01",
+   "quote": "在锦涛同志的支持下,我们成功取消了农业税,推行农村义务教育免费政策"
+  },
+  {
+   "id": "rel-1482",
+   "subject": "刘振立",
+   "relation": "是胡锦涛的马仔（胡春华正部班底汇总名单：军委委员刘振立是胡锦涛的马仔、武警代理司令曹军章是胡锦涛的马仔。注：刘振立归属四态并存、本期为 2025-08 胡侧表述再添一证）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "iDYmUI7ErKU",
+   "date": "2025-08-03",
+   "quote": "军委委员刘振立是胡锦涛的马仔武警代理司令曹军章是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-4856",
+   "subject": "彭京堂",
+   "relation": "马仔",
+   "object": "胡锦涛",
+   "status": "本档口径・定版表述",
+   "quote": "所以我们基本就可以敲定啊驻港部队彭京堂就是迟浩田的马仔胡锦涛的马仔",
+   "episode": "16vrOUudrpU",
+   "date": "2025-08-04"
+  },
+  {
+   "id": "rel-3417",
+   "subject": "叶爱群",
+   "relation": "汶川带兵勤王（本期推断为其马仔）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "9lWqG3B3tJA",
+   "date": "2025-08-05",
+   "quote": "随便看一下应该还是胡锦涛的马仔啊叶爱群的爸爸叶建民当年在47军就是邓小平的部下啊"
+  },
+  {
+   "id": "rel-6047",
+   "subject": "胡锦涛",
+   "relation": "打到二线（2021年北戴河会议后）",
+   "object": "唐良智",
+   "status": "本档口径",
+   "quote": "唐良智提前四年被胡锦涛打到二线",
+   "episode": "TKgoS80IIr8",
+   "date": "2025-08-06"
+  },
+  {
+   "id": "rel-6049",
+   "subject": "李月成",
+   "relation": "派系",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "李月成呢是胡锦涛派系的",
+   "episode": "TKgoS80IIr8",
+   "date": "2025-08-06"
+  },
+  {
+   "id": "rel-1899",
+   "subject": "石宗元",
+   "relation": "胡锦涛的马仔（甘肃出身、曾任临夏州委书记）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "u56UOSEuEvA",
+   "date": "2025-08-08",
+   "quote": "石宗元呢是甘苏省出身的官员还是胡锦涛的马仔啊石宗元曾经担任甘苏省林夏州委书记"
+  },
+  {
+   "id": "rel-2786",
+   "subject": "汪洋",
+   "relation": "应该是胡锦涛的人（也有人把他说成墙头草、说成江派）",
+   "object": "胡锦涛",
+   "status": "本档口径・表述层",
+   "episode": "wIaSajVw1Po",
+   "date": "2025-08-12",
+   "quote": "汪洋呢应该是胡锦涛的人但是也有人把汪洋收成墙头草收成江派啊"
+  },
+  {
+   "id": "rel-2787",
+   "subject": "刘源",
+   "relation": "是胡锦涛的人（刘少奇与邓小平同派系的验证）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "wIaSajVw1Po",
+   "date": "2025-08-12",
+   "quote": "刘源呢是胡锦涛的人啊刘少奇和邓小平一起被打倒的说明他们就是一个派系的"
+  },
+  {
+   "id": "rel-3240",
+   "subject": "李鹏程",
+   "relation": "被胡锦涛抓走",
+   "object": "胡锦涛",
+   "status": "本期断语",
+   "episode": "5-NOqVJOUpo",
+   "date": "2025-08-12",
+   "quote": "南部战区海军司令李鹏成就是被胡锦涛抓走的"
+  },
+  {
+   "id": "rel-1442",
+   "subject": "徐忠波",
+   "relation": "被胡锦涛保下来了（2023 年 7 月徐忠波被免去火箭军政委、没有被习包子彻底打下来、没有送秦城、被胡锦涛保下来退居二线去人大了；说明 2023 年习包子也没有大外宣吹嘘的大权在握、连一个火箭军政委都想抓没抓成）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "41yq1ihkRaU",
+   "date": "2025-08-13",
+   "quote": "徐忠波也没有被洗包子彻底打下来宋秦城被胡锦涛保下来了退居二线去人大了说明2023年洗包子也没有大外宣吹嘘的大权在握"
+  },
+  {
+   "id": "rel-1448",
+   "subject": "胡锦涛",
+   "relation": "继承了邓小平的军中遗产（胡锦涛 1999 年任军委副主席、2004 年任军委主席一直到 2012 年、在军队长达 14 年；从 1981 年到 2012 年这 30 年、邓小平、刘华清、张震、张万年、迟浩田到胡锦涛、邓胡在军队的势力就没有中断；网友说胡少主继承了邓小平所有的军中遗产、中央红军嫡系刘邓二野比陕甘宁边区红军牛）",
+   "object": "邓小平",
+   "status": "本档口径",
+   "episode": "41yq1ihkRaU",
+   "date": "2025-08-13",
+   "quote": "从1981年到2012年这30年邓小平刘华清张震张万年迟浩田到胡锦涛邓胡在军队的势力就没有中断"
+  },
+  {
+   "id": "rel-7458",
+   "subject": "李鸿忠",
+   "relation": "胡锦涛的人（本期定版层）",
+   "object": "胡锦涛",
+   "status": "本期定版层",
+   "episode": "KGk9r75jQ6o",
+   "date": "2025-08-15",
+   "quote": "所以李鸿忠是胡锦涛的人"
+  },
+  {
+   "id": "rel-0461",
+   "subject": "王东明",
+   "relation": "本期称胡锦涛的人（四川省委书记）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "yBc-KpufV6M",
+   "date": "2025-08-17",
+   "quote": "王东明应该就是胡锦涛的人范瑞平和尹力都是习包子的人"
+  },
+  {
+   "id": "rel-0465",
+   "subject": "卢东亮",
+   "relation": "本期称胡锦涛布局的三代接班人梯队（山西省长）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "yBc-KpufV6M",
+   "date": "2025-08-17",
+   "quote": "我2025年3月25日在节目中说卢东亮是胡锦涛布局的三代接班人替队"
+  },
+  {
+   "id": "rel-0466",
+   "subject": "孙海燕",
+   "relation": "本期称大概率是胡锦涛的马仔（被查传闻两天即亮相）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "yBc-KpufV6M",
+   "date": "2025-08-17",
+   "quote": "孙海燕大概率是胡锦涛的马仔先要看派系只有细胞的人才会被抓孙海燕传言被抓两天就安排他出来两项"
+  },
+  {
+   "id": "rel-0472",
+   "subject": "李继耐",
+   "relation": "本期考辨改判为胡锦涛的人（驳大外宣江派说；总政主任与胡绑定到退休、十七大未被换下）",
+   "object": "胡锦涛",
+   "status": "本档口径・本期新判",
+   "episode": "jdGgiNlWtrs",
+   "date": "2025-08-19",
+   "quote": "李继耐这个总政治部主任一直和胡锦涛这个军委主席绑定到退休啊"
+  },
+  {
+   "id": "rel-0474",
+   "subject": "胡锦涛",
+   "relation": "本期称保了李继耐父子（李磊被查无逮捕双开判刑后续）",
+   "object": "李继耐",
+   "status": "本期推断",
+   "episode": "jdGgiNlWtrs",
+   "date": "2025-08-19",
+   "quote": "说明胡锦涛保的李继耐保的李继耐的儿子李磊"
+  },
+  {
+   "id": "rel-0475",
+   "subject": "蔡英挺",
+   "relation": "曾任张万年秘书，本期判为胡锦涛的人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "jdGgiNlWtrs",
+   "date": "2025-08-19",
+   "quote": "张万年的秘书蔡英挺就是胡锦涛的人"
+  },
+  {
+   "id": "rel-0478",
+   "subject": "张震",
+   "relation": "邓小平安排给胡锦涛保驾护航的军委副主席（因与曾希胜的私人交情）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "jdGgiNlWtrs",
+   "date": "2025-08-19",
+   "quote": "邓小平为什么安排张震给胡锦涛保驾护航不就是因为张震和曾熙胜有私人关系有私人交情吗"
+  },
+  {
+   "id": "rel-0484",
+   "subject": "吴胜利",
+   "relation": "本期称胡锦涛的铁杆（曾任南海舰队司令）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "jdGgiNlWtrs",
+   "date": "2025-08-19",
+   "quote": "吴胜利呢也曾经担任南海舰队的司令都是胡锦涛的铁杆帽子"
+  },
+  {
+   "id": "rel-0485",
+   "subject": "胡春华",
+   "relation": "本期断已秘密代理总书记并代理军委主席、九三阅兵由胡系组织",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "jdGgiNlWtrs",
+   "date": "2025-08-19",
+   "quote": "胡春华不仅秘密代理而总书记还代理了军委主席啊"
+  },
+  {
+   "id": "rel-3428",
+   "subject": "阿一凡",
+   "relation": "马仔（断语）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "X9p2sci3WbU",
+   "date": "2025-08-19",
+   "quote": "我前两天刚说阿一凡是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-4772",
+   "subject": "李金耐",
+   "relation": "是其人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "李金奈应该是胡锦涛的人不是江泽民的人",
+   "episode": "wpcu7kcH23A",
+   "date": "2025-08-20"
+  },
+  {
+   "id": "rel-4775",
+   "subject": "吴泽棵",
+   "relation": "马仔",
+   "object": "胡锦涛",
+   "status": "本档口径・推论层",
+   "quote": "按照目前的信息呢吴泽棵和徐贵忠都是胡锦涛的马仔",
+   "episode": "wpcu7kcH23A",
+   "date": "2025-08-20"
+  },
+  {
+   "id": "rel-4776",
+   "subject": "徐贵忠",
+   "relation": "马仔",
+   "object": "胡锦涛",
+   "status": "本档口径・推论层",
+   "quote": "按照目前的信息呢吴泽棵和徐贵忠都是胡锦涛的马仔",
+   "episode": "wpcu7kcH23A",
+   "date": "2025-08-20"
+  },
+  {
+   "id": "rel-1514",
+   "subject": "令计划",
+   "relation": "是胡锦涛当干儿子一样宠着的人（当年胡锦涛把令计划当干儿子一样宠着、走哪带哪；习包子把令计划给抓了、胡锦涛不高兴；胡春华代替石泰峰出席西藏 60 周年、可能由胡锦涛派系推动、报复习包子抓令计划）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "o5WIDCNJvDU",
+   "date": "2025-08-21",
+   "quote": "当年胡锦涛把令计划当干儿子一样宠着走哪带哪啊军方代表呢50周年是张阳是中央军委委员总政治部主任"
+  },
+  {
+   "id": "rel-1021",
+   "subject": "李建国",
+   "relation": "是胡锦涛、李瑞环的人（故王莉霞不是李建国提拔的）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "8w5m1a4vwQA",
+   "date": "2025-08-23",
+   "quote": "而不是当时的省委书记李建国提拔的李建国是胡锦涛李瑞环的人"
+  },
+  {
+   "id": "rel-3791",
+   "subject": "卢东亮",
+   "relation": "三代接班人梯队（布局）",
+   "object": "胡锦涛",
+   "status": "本档口径・再申",
+   "quote": "卢东亮是胡锦涛布局的三代接班人梯队",
+   "episode": "hZQCXdU2uew",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "rel-0539",
+   "subject": "张升民",
+   "relation": "本期再称胡锦涛的马仔（军委委员、军纪委书记）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "bIk1TANwoRU",
+   "date": "2025-08-25",
+   "quote": "军委委员军纪委书记张声明也是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-0540",
+   "subject": "曹均章",
+   "relation": "本期称胡锦涛的马仔（武警代司令；汶川救灾胡系人马）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "bIk1TANwoRU",
+   "date": "2025-08-25",
+   "quote": "武警代司令曹军章是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-0546",
+   "subject": "邵新宇",
+   "relation": "本期称胡锦涛的泰州老乡（中央军民融合办常务副主任）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "bIk1TANwoRU",
+   "date": "2025-08-25",
+   "quote": "中央军民融合办常务副主任正部级的邵新宇呢是胡锦涛泰州的老乡啊"
+  },
+  {
+   "id": "rel-0547",
+   "subject": "郝鹏",
+   "relation": "本期称胡锦涛的马仔（与姜信治、李希同为甘肃官员出身背景）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "bIk1TANwoRU",
+   "date": "2025-08-25",
+   "quote": "辽宁省委书记郝鹏呢是胡锦涛的马仔啊"
+  },
+  {
+   "id": "rel-0549",
+   "subject": "梁言顺",
+   "relation": "本期称胡锦涛在中央党校的马仔（安徽省委书记）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "bIk1TANwoRU",
+   "date": "2025-08-25",
+   "quote": "安徽省委书记梁言顺这种胡锦涛在中央党校的马仔"
+  },
+  {
+   "id": "rel-0550",
+   "subject": "陈小江",
+   "relation": "本期称胡锦涛的马仔（新疆党委书记、水利背景）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "bIk1TANwoRU",
+   "date": "2025-08-25",
+   "quote": "新疆党委书记陈小江河南省委书记刘宁江西省长叶建春都是胡锦涛的马仔啊"
+  },
+  {
+   "id": "rel-0551",
+   "subject": "刘宁",
+   "relation": "本期称胡锦涛的马仔（河南省委书记、水利背景）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "bIk1TANwoRU",
+   "date": "2025-08-25",
+   "quote": "新疆党委书记陈小江河南省委书记刘宁江西省长叶建春都是胡锦涛的马仔啊"
+  },
+  {
+   "id": "rel-0552",
+   "subject": "叶建春",
+   "relation": "本期称胡锦涛的马仔（水利背景）——与第 19 期李鹏系/汪洋大秘口径相左，并存待考",
+   "object": "胡锦涛",
+   "status": "本期新判",
+   "episode": "bIk1TANwoRU",
+   "date": "2025-08-25",
+   "quote": "新疆党委书记陈小江河南省委书记刘宁江西省长叶建春都是胡锦涛的马仔啊"
+  },
+  {
+   "id": "rel-1800",
+   "episode": "mp-l62GAFXs",
+   "date": "2025-08-27",
+   "subject": "刘振立",
+   "relation": "是胡锦涛的人、又不是张又侠的人（驳海军中校「刘振立是张又侠的人」说）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "刘震厉是胡锦涛的人又不是张又侠的人"
+  },
+  {
+   "id": "rel-6201",
+   "subject": "吕锡林",
+   "relation": "关系比较近（推测层）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "quote": "吕希林呢很可能和胡锦涛或者说邓小平的关系比较近",
+   "episode": "XTwxS6AgyKY",
+   "date": "2025-08-27"
+  },
+  {
+   "id": "rel-6202",
+   "subject": "高津",
+   "relation": "马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "高津一看就是胡锦涛的马仔啊",
+   "episode": "XTwxS6AgyKY",
+   "date": "2025-08-27"
+  },
+  {
+   "id": "rel-6203",
+   "subject": "乙晓光",
+   "relation": "马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "高津呢接替以小光啊以小光应该也是胡锦涛的马仔啊",
+   "episode": "XTwxS6AgyKY",
+   "date": "2025-08-27"
+  },
+  {
+   "id": "rel-8976",
+   "subject": "李成钢",
+   "relation": "被断为胡锦涛的马仔、在对美谈判中能说了算",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "cNVWCNiaJ88",
+   "date": "2025-08-29",
+   "quote": "李成钢就是无疑的马仔无疑就是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-8977",
+   "subject": "金正恩",
+   "relation": "被断为胡锦涛胡春华实用主义外交收集来对美博弈的一张小牌、参加九三阅兵系给钱请来",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "cNVWCNiaJ88",
+   "date": "2025-08-29",
+   "quote": "给钱那是肯定的"
+  },
+  {
+   "id": "rel-6182",
+   "subject": "石泰峰",
+   "relation": "的人（正文作互盘）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "石泰峰是互盘的,那么只能是王莉霞在查胡春华呀",
+   "episode": "kbDCnDM9W2c",
+   "date": "2025-08-30"
+  },
+  {
+   "id": "rel-1102",
+   "subject": "范长龙",
+   "relation": "是胡锦涛的人、不是江泽民的人（叉媒攻击反证＋军长师长模型自纠后落点；范长龙稳如泰山、习包子根本动不了）",
+   "object": "胡锦涛",
+   "status": "本档口径・订正旧说",
+   "episode": "BMYHfoCyN9M",
+   "date": "2025-08-31",
+   "quote": "既然叉媒都在攻击范长龙那就说明范长龙是胡锦涛的人不是江泽民的人"
+  },
+  {
+   "id": "rel-1103",
+   "subject": "徐才厚",
+   "relation": "是胡锦涛的人（与范长龙同出 16 军、曾任济南军区政委；济南军区是胡锦涛的大本营）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "BMYHfoCyN9M",
+   "date": "2025-08-31",
+   "quote": "济南军区政委徐才厚呢也是胡锦涛的人济南军区应该就是胡锦涛的大本营"
+  },
+  {
+   "id": "rel-1108",
+   "subject": "李继耐",
+   "relation": "很可能是胡锦涛的人（本期最近分析的发现；其总政治部主任任期覆盖胡锦涛军委主席任期，与范长龙济南军区司令任期同型）",
+   "object": "胡锦涛",
+   "status": "本期新判",
+   "episode": "BMYHfoCyN9M",
+   "date": "2025-08-31",
+   "quote": "但是最近分析过李继耐呢发现李继耐很可能是胡锦涛的人"
+  },
+  {
+   "id": "rel-2019",
+   "subject": "徐才厚",
+   "relation": "是胡锦涛的人（新四人帮站位图：徐才厚、令计划是胡锦涛的人）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "CTO6TzFGgw8",
+   "date": "2025-09-01",
+   "quote": "周永康是江泽民的人,徐才厚令计划是胡锦涛的人,薄熙来是习包子的人,这是三大派的混战"
+  },
+  {
+   "id": "rel-2020",
+   "subject": "令计划",
+   "relation": "是胡锦涛的大秘（胡锦涛走哪带哪、就是胡锦涛的丁薛祥）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "CTO6TzFGgw8",
+   "date": "2025-09-01",
+   "quote": "令计划明显就是胡锦涛的大秘,胡锦涛走哪带哪"
+  },
+  {
+   "id": "rel-4408",
+   "subject": "宋平",
+   "relation": "提拔之说被考辨否定（时空不合）",
+   "object": "胡锦涛",
+   "status": "本期考辨否定",
+   "quote": "宋平提拔胡锦涛这种说法离唇不对马嘴完全穿越时空了",
+   "episode": "FSdEUVtWQ3U",
+   "date": "2025-09-01"
+  },
+  {
+   "id": "rel-0828",
+   "subject": "韩胜延",
+   "relation": "本期断胡锦涛的马仔（中部战区空军司令、九三阅兵总指挥；胡锦涛病重他当不了总指挥）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "wTwcq7LzjpM",
+   "date": "2025-09-03",
+   "quote": "韩胜延是胡锦涛的马仔胡锦涛病重韩胜延怎么可能当总指挥呢"
+  },
+  {
+   "id": "rel-0830",
+   "subject": "郑群良",
+   "relation": "本期断胡锦涛的马仔（瓦房店人；胡锦涛亲自握手背书；瓦房店帮就是胡锦涛的）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "wTwcq7LzjpM",
+   "date": "2025-09-03",
+   "quote": "胡锦涛的马仔郑群良是瓦房电视人啊和徐才厚是一个县级市的老乡郑群良呢是胡锦涛和他握手啊胡锦涛亲自背书的"
+  },
+  {
+   "id": "rel-0831",
+   "subject": "徐才厚",
+   "relation": "本期再断胡锦涛的马仔（正大军区职务是邓小平活着时提拔的；习包子干掉的正是胡锦涛的马仔徐才厚）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "wTwcq7LzjpM",
+   "date": "2025-09-03",
+   "quote": "胡锦涛没有被架空许才厚就是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-0832",
+   "subject": "蔡英挺",
+   "relation": "本期再称胡锦涛的人（张万年的秘书、张万年是邓小平提拔的；站出来挺胡的原因只有一个、她本来就是胡的人）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "wTwcq7LzjpM",
+   "date": "2025-09-03",
+   "quote": "这个蔡英挺她不会突然抽风站出来挺胡锦涛她站出来挺胡锦涛的原因只有一个她本来就是胡锦涛的人蔡英挺是张万年的秘书"
+  },
+  {
+   "id": "rel-0833",
+   "subject": "房峰辉",
+   "relation": "转述称胡锦涛一手提拔的爱将（2007 年破格任北京军区司令、2009 年国庆阅兵总指挥；主播对转述中的四中全会兵变说存疑）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "wTwcq7LzjpM",
+   "date": "2025-09-03",
+   "quote": "北京军区司令房峰辉是胡锦涛一手提拔的被视为胡的爱将"
+  },
+  {
+   "id": "rel-0838",
+   "subject": "吴亚男",
+   "relation": "本期称胡锦涛的人（2022-01 胡锦涛把中部战区司令抢到手、由吴亚男接任）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "wTwcq7LzjpM",
+   "date": "2025-09-03",
+   "quote": "胡亚南黄明都是胡锦涛的人2022年1月胡锦涛把中部战区司令抢到手里啊无压难吗胡锦涛的妈仔"
+  },
+  {
+   "id": "rel-0839",
+   "subject": "尹庆丽",
+   "relation": "本期称应该也是胡锦涛的人（南京军区空军政委；人名待核）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "wTwcq7LzjpM",
+   "date": "2025-09-03",
+   "quote": "当时的南京军区空军政委尹庆丽应该也是胡锦涛的人这个以后可以慢慢洗袜呀"
+  },
+  {
+   "id": "rel-0625",
+   "subject": "徐才厚",
+   "relation": "本期断邓小平、胡锦涛派系（非江派；1992–93 连升非江泽民所为）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "u4BjqyOoQ84",
+   "date": "2025-09-04",
+   "quote": "最后他只能证明徐才厚张万年他就是邓小平胡锦涛的人他不是江泽民的人"
+  },
+  {
+   "id": "rel-0629",
+   "subject": "张万年",
+   "relation": "本期再称胡锦涛的马仔（济南军区司令任上）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "u4BjqyOoQ84",
+   "date": "2025-09-04",
+   "quote": "济南军区司令张万年范长龙都是胡锦涛的妈仔"
+  },
+  {
+   "id": "rel-0630",
+   "subject": "范长龙",
+   "relation": "本期再称胡锦涛的马仔（济南军区司令任上）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "u4BjqyOoQ84",
+   "date": "2025-09-04",
+   "quote": "济南军区司令张万年范长龙都是胡锦涛的妈仔"
+  },
+  {
+   "id": "rel-4600",
+   "subject": "韩胜延",
+   "relation": "马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "韩胜延是胡锦涛的马仔呢",
+   "episode": "Ny60iEYL4RI",
+   "date": "2025-09-04"
+  },
+  {
+   "id": "rel-4603",
+   "subject": "胡锦涛",
+   "relation": "曾经亲自背书",
+   "object": "郑群良",
+   "status": "本档口径",
+   "quote": "胡锦涛曾经亲自背书过郑群良",
+   "episode": "Ny60iEYL4RI",
+   "date": "2025-09-04"
+  },
+  {
+   "id": "rel-4605",
+   "subject": "徐才厚",
+   "relation": "马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "徐才厚肯定是胡锦涛的马仔",
+   "episode": "Ny60iEYL4RI",
+   "date": "2025-09-04"
+  },
+  {
+   "id": "rel-4222",
+   "subject": "徐才厚",
+   "relation": "是其人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "郭伯雄是江泽民的人徐才厚是胡锦涛的人梁光烈是习包子人",
+   "episode": "Bb5XWnxiIWc",
+   "date": "2025-09-05"
+  },
+  {
+   "id": "rel-0573",
+   "subject": "孟建柱",
+   "relation": "本期再断胡锦涛的马仔（驳江泽民的人之说；胡第二任期公安部长）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "GleV4nWq2KY",
+   "date": "2025-09-06",
+   "quote": "孟建柱就是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-0583",
+   "subject": "谌贻琴",
+   "relation": "本期称胡锦涛的马仔（时任贵州省委书记）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "GleV4nWq2KY",
+   "date": "2025-09-06",
+   "quote": "当时呢贵州正在换省委书记申一勤呢就是胡锦涛的妈仔"
+  },
+  {
+   "id": "rel-3481",
+   "subject": "贾利军",
+   "relation": "是其马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "2L89tnqgyNM",
+   "date": "2025-09-06",
+   "quote": "贾利军在610办公室就是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-3488",
+   "subject": "胡锦涛",
+   "relation": "赏识器重（战斗中形成的友谊）",
+   "object": "胡春华",
+   "status": "本档口径",
+   "episode": "2L89tnqgyNM",
+   "date": "2025-09-06",
+   "quote": "胡锦涛和胡春华也是战斗中形成的友谊"
+  },
+  {
+   "id": "rel-7617",
+   "subject": "胡锦涛",
+   "relation": "与温家宝同属一个派系（胡温派系）",
+   "object": "温家宝",
+   "status": "本期定版语",
+   "episode": "02B4wLCpASY",
+   "date": "2025-09-07",
+   "quote": "无疑就是胡温的人"
+  },
+  {
+   "id": "rel-1493",
+   "subject": "马辉",
+   "relation": "是胡锦涛的马仔（马辉也是中联部七局的局长、胡锦涛的人都躲在外国、马辉直接躲到古巴当大使去了；胡锦涛发动军事政变之后立马叫马辉回国担任中联部副部长；胡锦涛不掌握大权的时候在马辉和李明祥之间只能提拔一个副部长、他选了李明祥、马辉在胡锦涛那里排名第 100 名）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "PeTq63YjWlk",
+   "date": "2025-09-09",
+   "quote": "等到了马辉这里呢也是七局的局长马辉就直接躲到古巴去了胡锦涛的人都躲在外国躲在鸡脚嘎喇呢胡锦涛发动军事争辩之后呢立马叫马辉回国去担任中联部的副部长"
+  },
+  {
+   "id": "rel-1494",
+   "subject": "张志军",
+   "relation": "是胡锦涛提拔的（张志军是中联部七局最早的局长；就是胡锦涛退休的时候把张志军提拔成正部级、担任国台办主任、接替的正是现在的外交部长王毅；中联部七局毫无疑问是胡锦涛的一个据点）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "PeTq63YjWlk",
+   "date": "2025-09-09",
+   "quote": "最早呢中联部七局局长呢张志军就是胡锦涛退休的时候把张志军提拔成正部级担任国台办主任接替的正是现在的外交部长王毅"
+  },
+  {
+   "id": "rel-1318",
+   "subject": "蔡英挺",
+   "relation": "代表胡锦涛（蔡英挺是张万年的秘书，与林炳瑶同为泉州老乡、同曾任 31 军军长，但各为其主：林炳瑶背后指向军委副主席何卫东，蔡英挺指向张万年；蔡英挺给林炳瑶写悼词在政治上可理解为欲盖弥彰）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "nvK9zyNGoks",
+   "date": "2025-09-10",
+   "quote": "蔡英挺呢他就是代表胡锦涛你可以说这蔡英挺所谓有人性的表现也可以说这是欲盖弥彰啊就是说这林炳瑶是不是胡锦涛给弄死了但是他们分别属于不同的政治集团呢因为林炳瑶和蔡英挺背后分别指向了两个军委副主席何卫东和张万娘"
+  },
+  {
+   "id": "rel-7832",
+   "subject": "信长星",
+   "relation": "教师节前赴胡锦涛母校泰州中学慰问、被读作政治表态",
+   "object": "胡锦涛",
+   "status": "本期解读层（原文作信长兴）",
+   "episode": "8co0i0l00BQ",
+   "date": "2025-09-10",
+   "quote": "哪个高中都不去偏偏去胡锦涛的母校泰州中学这个政治表态已经太明显了"
+  },
+  {
+   "id": "rel-5275",
+   "subject": "蔡英挺",
+   "relation": "破格提拔（军区参谋长直升副总参谋长）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "蔡英挺就是被胡锦涛升拔上去",
+   "episode": "W9vcYLYhMZk",
+   "date": "2025-09-11"
+  },
+  {
+   "id": "rel-5276",
+   "subject": "范长龙",
+   "relation": "破格提拔（正军区直升军委副主席）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "蔡英挺 范长龙就是胡锦涛提拔的",
+   "episode": "W9vcYLYhMZk",
+   "date": "2025-09-11"
+  },
+  {
+   "id": "rel-5277",
+   "subject": "魏凤和",
+   "relation": "派系归属",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "魏凤和这边呢还是胡锦涛的马仔啊所以被抓了",
+   "episode": "W9vcYLYhMZk",
+   "date": "2025-09-11"
+  },
+  {
+   "id": "rel-4178",
+   "subject": "蔡英挺",
+   "relation": "由其破格提拔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "张万年的秘书蔡英挺是被胡锦涛从南京军区参谋长升拔成政大军区职务的破格提拔呢证明蔡英挺就是胡锦涛的人",
+   "episode": "9VFhrIUgSdM",
+   "date": "2025-09-12"
+  },
+  {
+   "id": "rel-4186",
+   "subject": "吴官正",
+   "relation": "在其老家布阵要压其风水",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "吴关正还跑到胡锦涛的老家去布阵要压胡锦涛的风水啊",
+   "episode": "9VFhrIUgSdM",
+   "date": "2025-09-12"
+  },
+  {
+   "id": "rel-2708",
+   "subject": "曹均章",
+   "relation": "取代王春宁任武警司令、被断为胡锦涛的马仔（字幕作曹军章）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "NJdrXRyg2vM",
+   "date": "2025-09-13",
+   "quote": "王春宁的武警司令职务都已经被曹军章取代了曹军章呢是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-8325",
+   "subject": "戴和根",
+   "relation": "系胡锦涛绩溪县老乡、被断为胡锦涛的马仔（原文作戴河根、济西县）",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "HHHvEVAo7qg",
+   "date": "2025-09-13",
+   "quote": "这是我发现的第二个胡锦涛济西县的老乡"
+  },
+  {
+   "id": "rel-3591",
+   "subject": "李成钢",
+   "relation": "马仔（本期定版断语）",
+   "object": "胡锦涛",
+   "status": "本档口径・定版断语",
+   "episode": "aJpjIuggbTQ",
+   "date": "2025-09-16",
+   "quote": "我说李成钢就是胡锦涛无疑的麻仔现在连装都不装根本就不让何立峰发言"
+  },
+  {
+   "id": "rel-8521",
+   "subject": "胡锦涛",
+   "relation": "被断为反习派核心人物、其还能活多久是房间里的大象，83岁按江泽民平替估还有7年政治生命",
+   "object": "胡春华",
+   "status": "本期推算层",
+   "episode": "Scwx8PnOZLw",
+   "date": "2025-09-19",
+   "quote": "反习派的核心人物就是胡锦涛"
+  },
+  {
+   "id": "rel-8522",
+   "subject": "胡锦涛",
+   "relation": "被断对易会满动了杀机、9月6日易会满被抓侧证其当时还有劲收拾人",
+   "object": "易会满",
+   "status": "本期侧证层",
+   "episode": "Scwx8PnOZLw",
+   "date": "2025-09-19",
+   "quote": "至少2025年9月6日易会满被抓的时候呢胡锦涛还火蒙万跳的呢"
+  },
+  {
+   "id": "rel-1656",
+   "subject": "陈小江",
+   "relation": "是胡锦涛的马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "U4fkdMutHOc",
+   "date": "2025-09-20",
+   "quote": "陈小江是胡锦涛的马仔从陈小江接替马兴瑞也能看出来是胡春华接替细胞的担任总书记"
+  },
+  {
+   "id": "rel-7699",
+   "subject": "胡锦涛",
+   "relation": "被断惦记抓姜德果进秦城、2018年想抓没抓成",
+   "object": "姜德果",
+   "status": "本期断语层",
+   "episode": "ujO4WCYFCt8",
+   "date": "2025-09-21",
+   "quote": "姜德果他是被胡锦涛惦记上了一定要让他进秦城念念不忘必有回响"
+  },
+  {
+   "id": "rel-7700",
+   "subject": "刘源",
+   "relation": "胡锦涛的马仔、替谷俊山洗地",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "ujO4WCYFCt8",
+   "date": "2025-09-21",
+   "quote": "刘源他就是胡锦涛的马仔刘源他为什么要替谷俊山洗地呢"
+  },
+  {
+   "id": "rel-0633",
+   "subject": "令计划",
+   "relation": "本期断从未背叛胡锦涛（胡锦涛的大秘；胡重掌权后仍提拔令计划的余党）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "xog0f_AC2ps",
+   "date": "2025-09-22",
+   "quote": "令计划就是胡锦涛的大秘这是不可改变的事实"
+  },
+  {
+   "id": "rel-3710",
+   "subject": "胡锦涛",
+   "relation": "2018年欲抓被习保下（叙事层）",
+   "object": "姜德果",
+   "status": "本档口径・叙事断语",
+   "quote": "应该就是胡锦涛2018年想抓姜德果没抓成习包子保着姜德果不让抓",
+   "episode": "2HSCnJm3RUM",
+   "date": "2025-09-22"
+  },
+  {
+   "id": "rel-8168",
+   "subject": "佟金路",
+   "relation": "退休近4年被查被断是胡锦涛找后账、非习包子要查",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "HGHYdVDq5E0",
+   "date": "2025-09-23",
+   "quote": "明显就是胡锦涛要查呀就看一下他的背景就知道是胡锦涛要查呀"
+  },
+  {
+   "id": "rel-7542",
+   "subject": "葛慧君",
+   "relation": "2007年连升三级、提拔人胡锦涛说（未定版）",
+   "object": "胡锦涛",
+   "status": "他人说法层＋本期未定版层",
+   "episode": "U8d7IbW1Ex4",
+   "date": "2025-09-24",
+   "quote": "有人说呢2007年葛慧君连升三级只能是当时的总书记胡锦涛提拔的这个也不好说呀"
+  },
+  {
+   "id": "rel-2051",
+   "subject": "姜大明",
+   "relation": "是胡锦涛派系的",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "XpaZSkyE78c",
+   "date": "2025-10-01",
+   "quote": "姜大明就是胡锦涛派系的郭树清就是习包子派系的"
+  },
+  {
+   "id": "rel-4283",
+   "subject": "刘海星",
+   "relation": "马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "刘海星他就是胡锦涛李克强胡春华的马仔",
+   "episode": "jertgYwUoIU",
+   "date": "2025-10-02"
+  },
+  {
+   "id": "rel-0782",
+   "subject": "林向阳",
+   "relation": "本期称原 31 军军长、东部战区司令、大概率被胡锦涛抓走（攻台主力被团灭）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "vEODFLmJCjo",
+   "date": "2025-10-04",
+   "quote": "现在东部战区司令林向阳原31军军长大概率是被胡锦涛抓走了攻台主力都被团灭了"
+  },
+  {
+   "id": "rel-0151",
+   "subject": "刘小涛",
+   "relation": "本期称胡锦涛派系（2021年任浙江省委常委、温州市委书记）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "64EYE3nMYjc",
+   "date": "2025-10-05",
+   "quote": "江苏呢刘小涛接替许昆林这两个人呢都是胡锦涛派系的"
+  },
+  {
+   "id": "rel-0152",
+   "subject": "郝鹏",
+   "relation": "本期称胡锦涛派系（辽宁省委书记序列）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "64EYE3nMYjc",
+   "date": "2025-10-05",
+   "quote": "辽宁的省委书记李克强李希郝鹏许昆林都是胡锦涛派系的"
+  },
+  {
+   "id": "rel-0155",
+   "subject": "刘宁",
+   "relation": "本期称胡锦涛派系（辽宁省长序列）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "64EYE3nMYjc",
+   "date": "2025-10-05",
+   "quote": "刘宁李悦成王新伟呢都是胡锦涛派系的"
+  },
+  {
+   "id": "rel-8160",
+   "subject": "胡锦涛",
+   "relation": "与李瑞环温家宝张德江等元老被传借带病提拔问责逼宫习包子",
+   "object": "习包子",
+   "status": "网传层",
+   "episode": "60PYdd20QDo",
+   "date": "2025-10-07",
+   "quote": "传言称胡锦涛李瑞环温家宝张德江等元老或借此逼宫迫使细胞子拿下自己人"
+  },
+  {
+   "id": "rel-3102",
+   "subject": "胡海峰",
+   "relation": "是胡锦涛之子，2024年1月任民政部副部长",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "zE06KOWTAt4",
+   "date": "2025-10-11",
+   "quote": "前总书记胡锦涛之子民政部副部长胡海峰今年53岁"
+  },
+  {
+   "id": "rel-1276",
+   "subject": "田聪明",
+   "relation": "是胡锦涛的马仔（田聪明在西藏就是胡锦涛的副手；他在内蒙古是赵紫阳和周惠的人；田聪明公开说蔡名照是个坏人、又说令计划是胡锦涛身边的坏人，主播读为挑拨离间；周惠字幕作周慧）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "ktW46i2kMRM",
+   "date": "2025-10-12",
+   "quote": "田聪明和令计划确定都是胡锦涛的马仔胡锦涛派系的田聪明他在内蒙古就是赵紫阳和周慧的人赵紫阳曾经在内蒙古担任过一年的副书记田聪明在西藏就是胡锦涛的副手"
+  },
+  {
+   "id": "rel-1277",
+   "subject": "李桥铭",
+   "relation": "被胡锦涛保下来（李桥铭不是习包子的人；胡锦涛发动军事政变之前，习包子已经开始调查李桥铭，之后李桥铭被胡锦涛保下来、提前退休去人大了）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "ktW46i2kMRM",
+   "date": "2025-10-12",
+   "quote": "李桥铭呢他就不是习包子的人胡锦涛发动军事政变之前呢习包子已经开始调查李桥铭了之后呢李桥铭被胡锦涛保下来啊提前退休去人大了"
+  },
+  {
+   "id": "rel-1278",
+   "subject": "胡海峰",
+   "relation": "大概率是胡锦涛亲生的（主播人脸比对自测：胡海峰与胡锦涛 70 岁照片相似度 32%，亲生子女对父母的区间是 30% 到 50%；与年轻照片只有 9%、22%，是因为胡海峰长得太着急、40 岁照片像他爸 70 岁）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "ktW46i2kMRM",
+   "date": "2025-10-12",
+   "quote": "这胡海峰长得太着急了40岁的照片和他爸爸70岁的照片长得像和他爸年轻的时候长得反而不那么像所以这胡海峰大概率是亲生的你自己再去找别的照片比对"
+  },
+  {
+   "id": "rel-2585",
+   "subject": "刘源",
+   "relation": "是胡锦涛的马仔（与徐才厚、谷俊山同列，『把谷俊山调走』为刘源亲口语）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "FLQFKiCgTx0",
+   "date": "2025-10-15",
+   "quote": "刘源就是胡颖涛的马仔徐才厚刘源谷俊山都是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-2586",
+   "subject": "刘仲藜",
+   "relation": "很可能是胡锦涛派系的（1994年任财政部部长；被猜测是赵紫阳大秘、国务院秘书长陈俊生提拔的）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "FLQFKiCgTx0",
+   "date": "2025-10-15",
+   "quote": "当时中国财政部部长是刘忠黎刘忠黎很可能是胡锦涛派系的"
+  },
+  {
+   "id": "rel-2587",
+   "subject": "李小加",
+   "relation": "很可能认识赵紫阳或者胡锦涛（1994年作为财政部代表律师参与10亿美元发债被美林相中、5年升中国区总裁的反推）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "FLQFKiCgTx0",
+   "date": "2025-10-15",
+   "quote": "李小加很可能认识赵紫阳或者胡锦涛必须是总书记"
+  },
+  {
+   "id": "rel-2588",
+   "subject": "吴仪",
+   "relation": "是胡锦涛的马仔（与胡锦涛同为冯纪新提拔；非典时胡锦涛第一个想起用她；与胡锦涛一样痛恨薄熙来）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "FLQFKiCgTx0",
+   "date": "2025-10-15",
+   "quote": "吴仪就是胡锦涛的马仔非典的时候胡锦涛第一个想起来用的人就是吴仪"
+  },
+  {
+   "id": "rel-2590",
+   "subject": "宋平",
+   "relation": "提拔胡锦涛的说法被本期考辨否定（胡锦涛提拔时宋平不在甘肃、时间线对不上）",
+   "object": "胡锦涛",
+   "status": "本期考辨否定",
+   "episode": "FLQFKiCgTx0",
+   "date": "2025-10-15",
+   "quote": "宋平提拔胡锦涛就是胡扯蛋时间线对不上"
+  },
+  {
+   "id": "rel-2591",
+   "subject": "曾俊华",
+   "relation": "大概率是胡锦涛的马仔（由其任香港财政司司长任命李小加任港交所总裁反推）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "FLQFKiCgTx0",
+   "date": "2025-10-15",
+   "quote": "曾俊华大概率是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-2592",
+   "subject": "胡春华",
+   "relation": "是胡锦涛的干儿子，被胡锦涛安排担任主管农业的副总理（与胡锦涛取消农业税、李小加补偿农民论构成后习时代政策清单）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "FLQFKiCgTx0",
+   "date": "2025-10-15",
+   "quote": "胡锦涛安排他的干儿子胡春华担任主管农业的副总理"
+  },
+  {
+   "id": "rel-7367",
+   "subject": "吴仪",
+   "relation": "胡锦涛的马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "TwdDQxvhRGA",
+   "date": "2025-10-15",
+   "quote": "无疑是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-6722",
+   "subject": "张宇燕",
+   "relation": "归属推断",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "tJNul2kAZRc",
+   "date": "2025-10-16",
+   "quote": "所以张宇燕也只能是胡锦涛的人"
+  },
+  {
+   "id": "rel-6725",
+   "subject": "张宇燕",
+   "relation": "课后单独交流金融安全",
+   "object": "胡锦涛",
+   "status": "本期转述",
+   "episode": "tJNul2kAZRc",
+   "date": "2025-10-16",
+   "quote": "就在课后和胡锦涛单独交流过金融安全的话题"
+  },
+  {
+   "id": "rel-3695",
+   "subject": "胡锦涛",
+   "relation": "主导清空其军中马仔（定性）",
+   "object": "习包子",
+   "status": "本档口径・定版断语",
+   "quote": "2024年11月12日我最早说过一个不留斩草除根",
+   "episode": "jcEfJV78_mc",
+   "date": "2025-10-18"
+  },
+  {
+   "id": "rel-3701",
+   "subject": "胡锦涛",
+   "relation": "人设忠厚实则杀伐（总论）",
+   "object": "习包子",
+   "status": "本档口径",
+   "quote": "没想到80多岁还要大开杀戒",
+   "episode": "jcEfJV78_mc",
+   "date": "2025-10-18"
+  },
+  {
+   "id": "rel-1602",
+   "subject": "张震",
+   "relation": "是邓小平安排保护胡锦涛的人（张震是刘少奇的人所以是邓小平的人、张震是邓小平安排保护胡锦涛的人；张震曾经担任新四军第四师的参谋长）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "0zceKTs4T0M",
+   "date": "2025-10-19",
+   "quote": "张震他为什么是邓小平的人呢因为新四军最早是刘少奇指挥的张震是刘少奇的人所以是邓小平的人张震呢是邓小平安排保护胡锦涛的人"
+  },
+  {
+   "id": "rel-1603",
+   "subject": "张文台",
+   "relation": "是邓小平胡锦涛派系的（张文台是邓小平胡锦涛派系的；张文台的女婿陈洁被习包子整死了涉及谷俊山案；从张文台这里也能串出谷俊山张万年徐才厚这都是胡锦涛派系的人）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "0zceKTs4T0M",
+   "date": "2025-10-19",
+   "quote": "梁光烈呢就是习包子派系的张文台呢是邓小平胡锦涛派系的张文台的女婿陈洁呢被习包子整死了涉及谷俊山案"
+  },
+  {
+   "id": "rel-7961",
+   "subject": "胡春华",
+   "relation": "胡锦涛的干儿子与代理人、情同父子",
+   "object": "胡锦涛",
+   "status": "本期断语层（与接班诸说分账）",
+   "episode": "vksYhw1yjco",
+   "date": "2025-10-20",
+   "quote": "胡锦涛和胡春华也是情同父子就是他的代理人"
+  },
+  {
+   "id": "rel-4938",
+   "subject": "张又侠",
+   "relation": "秘密会见并通报异常情况（传闻）",
+   "object": "胡锦涛",
+   "status": "海外消息层",
+   "quote": "张耀霞秘密会见胡锦涛 温家宝 汪洋 胡春华通报了一些异常情况",
+   "episode": "1dSziNRNvMw",
+   "date": "2025-10-21"
+  },
+  {
+   "id": "rel-1527",
+   "subject": "黄华华",
+   "relation": "确认是胡锦涛的马仔（黄华华 1992 年被邓小平从地级市的市长跳过市委书记副省长两步连升三级直接担任广东省委常委、2003 年任广东省长；给黄华华担任了五年大秘的徐尚武是田纪云的秘书、田纪云是赵紫阳的头号马仔；1992 年任常委 2003 年任省长刚好跨过邓小平去世胡锦涛任总书记之前的时间线）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "pbSICgE65JM",
+   "date": "2025-10-22",
+   "quote": "大家看这个年份1992年省委常委2003年省长正部级刚好跨过了我说邓小平死了胡锦涛担任总书记之前的时间线1997年到2002年是邓小平胡锦涛派系最虚弱的时候时间线比较完美不用多费口舌黄花花确认是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-2817",
+   "subject": "卢东亮",
+   "relation": "是胡锦涛布局的三代接班人梯队，22大可能接总书记或者总理、最低政治局常委（本期预测）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "FxGXAll-j0M",
+   "date": "2025-10-22",
+   "quote": "22大卢东亮可能接总书记或者总理最低是政治局常委我说两个月之后卢东亮就已经当上山西省长了我是2月25年3月25日在节目中说卢东亮是胡颖涛布局的三代接班人"
+  },
+  {
+   "id": "rel-2818",
+   "subject": "令计划",
+   "relation": "是胡锦涛的干儿子（与王富玉同为高湛祥秘书链）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "FxGXAll-j0M",
+   "date": "2025-10-22",
+   "quote": "令计划是胡锦涛的干儿子这就是胡锦涛的人事布局"
+  },
+  {
+   "id": "rel-8432",
+   "subject": "张又侠",
+   "relation": "被海外消息称担心习派会场危险举动、为此向胡锦涛等人寻求建议，并与元老同为目前控局者（转述层）",
+   "object": "胡锦涛",
+   "status": "长文转述层",
+   "episode": "NYkCbD3JJBo",
+   "date": "2025-10-22",
+   "quote": "张又侠为此向胡颖涛等人寻求建议"
+  },
+  {
+   "id": "rel-3004",
+   "subject": "刘振立",
+   "relation": "两次接替许林平军长、是胡锦涛所信任之人",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "Rhm3yT8_8MQ",
+   "date": "2025-10-23",
+   "quote": "因此不排除刘振立也是胡锦涛所信任之人"
+  },
+  {
+   "id": "rel-3005",
+   "subject": "许林平",
+   "relation": "是胡锦涛提拔并信任的将领",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "Rhm3yT8_8MQ",
+   "date": "2025-10-23",
+   "quote": "是胡锦涛提拔并信任的许林平"
+  },
+  {
+   "id": "rel-3006",
+   "subject": "王西欣",
+   "relation": "是胡锦涛的人、刘振立的师傅",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "Rhm3yT8_8MQ",
+   "date": "2025-10-23",
+   "quote": "王西欣呢是胡颖涛的人"
+  },
+  {
+   "id": "rel-3009",
+   "subject": "陈辉",
+   "relation": "是胡锦涛的铁杆马仔、组织关系上景文春提拔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "Rhm3yT8_8MQ",
+   "date": "2025-10-23",
+   "quote": "所以这个物资政委陈辉肯定是胡颖涛的马仔"
+  },
+  {
+   "id": "rel-3011",
+   "subject": "景文春",
+   "relation": "是胡氏宗亲、与胡锦涛同宗（关系性质推测）",
+   "object": "胡锦涛",
+   "status": "本期推测",
+   "episode": "Rhm3yT8_8MQ",
+   "date": "2025-10-23",
+   "quote": "写的很清楚景文春是胡氏宗亲"
+  },
+  {
+   "id": "rel-3012",
+   "subject": "徐勇",
+   "relation": "是胡锦涛的人、癌症死亡与政争无关",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "Rhm3yT8_8MQ",
+   "date": "2025-10-23",
+   "quote": "徐勇呢是胡颖涛的人"
+  },
+  {
+   "id": "rel-5319",
+   "subject": "刘少武",
+   "relation": "马仔（局长候选落败）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "刘少武就是胡锦涛的人",
+   "episode": "tK4X4jqI41k",
+   "date": "2025-10-23"
+  },
+  {
+   "id": "rel-5324",
+   "subject": "景文春",
+   "relation": "马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "当时的中国空军副司令景文春就是胡锦涛的妈仔",
+   "episode": "tK4X4jqI41k",
+   "date": "2025-10-23"
+  },
+  {
+   "id": "rel-5286",
+   "subject": "侯树森",
+   "relation": "直升副总参谋长（火箭式提拔）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "胡锦涛直接把军区参谋长提拔成副总参谋长这种事情他干了两遍",
+   "episode": "FItFhJtFY54",
+   "date": "2025-10-24"
+  },
+  {
+   "id": "rel-1061",
+   "subject": "卢东亮",
+   "relation": "是胡锦涛布局的三代接班人梯队（本档 2025-03-25 首判、说得比路透社还准，两个月后即接陕西省委副书记、任山西代省长）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "5MUrAqn-Js8",
+   "date": "2025-10-25",
+   "quote": "我是2025年3月25日在节目中说卢东亮是胡锦涛布局的三代接班人替队呢"
+  },
+  {
+   "id": "rel-1065",
+   "subject": "胡锦涛",
+   "relation": "完全继承了赵紫阳的人事资产（但是并没有继承赵紫阳的路线、不然中国早就民主化了）",
+   "object": "赵紫阳",
+   "status": "本档口径",
+   "episode": "5MUrAqn-Js8",
+   "date": "2025-10-25",
+   "quote": "胡锦涛呢他完全继承了赵紫阳的人事资产但是胡锦涛并没有继承赵紫阳的路线不然中国早就民主化了"
+  },
+  {
+   "id": "rel-5427",
+   "subject": "张又侠",
+   "relation": "只听胡锦涛指挥（网友说）",
+   "object": "胡锦涛",
+   "status": "网友层・主播附议",
+   "quote": "张耀霞他就听胡锦涛指挥",
+   "episode": "QsYArkvLSJQ",
+   "date": "2025-10-25"
+  },
+  {
+   "id": "rel-5428",
+   "subject": "王文全",
+   "relation": "72军政委（胡锦涛的人）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "72军政委王文全就是胡锦涛的人",
+   "episode": "QsYArkvLSJQ",
+   "date": "2025-10-25"
+  },
+  {
+   "id": "rel-5430",
+   "subject": "徐才厚",
+   "relation": "马仔（百分百，铁证层）",
+   "object": "胡锦涛",
+   "status": "本档口径定版再证",
+   "quote": "这回找到一个铁证许才厚百分百是胡锦涛的马仔",
+   "episode": "QsYArkvLSJQ",
+   "date": "2025-10-25"
+  },
+  {
+   "id": "rel-5432",
+   "subject": "胡锦涛",
+   "relation": "不交权（不给胡春华也不给江派）",
+   "object": "胡春华",
+   "status": "本档口径",
+   "quote": "现在胡颖涛他不交权给胡春华呢他自然也不交权给江派",
+   "episode": "QsYArkvLSJQ",
+   "date": "2025-10-25"
+  },
+  {
+   "id": "rel-2023",
+   "subject": "张升民",
+   "relation": "肯定是胡锦涛派系（2015年任二炮政治部主任时习包子刚开始向火箭军渗透、其为习包子的人可能性近乎于零）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "AANpwfQhCUc",
+   "date": "2025-10-26",
+   "quote": "当时《喜报》他刚刚开始向火箭军渗透张升民是《喜报》的人可能性近乎于零"
+  },
+  {
+   "id": "rel-2024",
+   "subject": "魏凤和",
+   "relation": "就是胡锦涛派系的",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "AANpwfQhCUc",
+   "date": "2025-10-26",
+   "quote": "我们看这个魏凤和就是胡锦涛派系的"
+  },
+  {
+   "id": "rel-1817",
+   "episode": "ffQNtsAxoWI",
+   "date": "2025-10-27",
+   "subject": "范长龙",
+   "relation": "就是胡锦涛的人（胡锦涛一当上军委主席就提拔范长龙担任济南军区司令、长达八年）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "范长龙就是胡锦涛的人胡锦涛一当上军委主席就提拔范长龙担任济南军区司令"
+  },
+  {
+   "id": "rel-4422",
+   "subject": "胡锦涛",
+   "relation": "以其子在浙江为由插手",
+   "object": "第一军（72军）",
+   "status": "本档口径",
+   "quote": "他就给了胡锦涛借口和理由去插手第一军呢",
+   "episode": "u6b_mXo6WKc",
+   "date": "2025-10-28"
+  },
+  {
+   "id": "rel-4423",
+   "subject": "胡锦涛",
+   "relation": "至少两次换掉其在第一军的军长人选",
+   "object": "习包子",
+   "status": "本档口径",
+   "quote": "胡锦涛至少两次把习包子人都给换掉了",
+   "episode": "u6b_mXo6WKc",
+   "date": "2025-10-28"
+  },
+  {
+   "id": "rel-4424",
+   "subject": "曾庆红",
+   "relation": "与其走得近（老乡）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "胡锦涛个人感觉和他老乡曾庆红走的挺近的",
+   "episode": "u6b_mXo6WKc",
+   "date": "2025-10-28"
+  },
+  {
+   "id": "rel-7734",
+   "subject": "夏志和",
+   "relation": "很可能是胡锦涛的人（本期派系推断层）",
+   "object": "胡锦涛",
+   "status": "本期推断层",
+   "episode": "bEiWz1FKuEk",
+   "date": "2025-10-28",
+   "quote": "夏志和很可能是胡锦涛的人而钟绍军则面临调查"
+  },
+  {
+   "id": "rel-7736",
+   "subject": "李成钢",
+   "relation": "胡温的马仔无疑（本期定版语）",
+   "object": "胡锦涛",
+   "status": "本期断语层（原文作胡温和/麻仔）",
+   "episode": "bEiWz1FKuEk",
+   "date": "2025-10-28",
+   "quote": "李成钢就是胡温和无疑的麻仔"
+  },
+  {
+   "id": "rel-7766",
+   "subject": "胡春华",
+   "relation": "1989年任胡锦涛文字秘书起家",
+   "object": "胡锦涛",
+   "status": "转述层",
+   "episode": "FF287o7pQlc",
+   "date": "2025-11-01",
+   "quote": "胡春华就是靠给胡锦涛当文字秘书上位的"
+  },
+  {
+   "id": "rel-7771",
+   "subject": "热地",
+   "relation": "胡锦涛在西藏的政敌、二把手地头蛇代表",
+   "object": "胡锦涛",
+   "status": "本期层（与ep676分账）",
+   "episode": "FF287o7pQlc",
+   "date": "2025-11-01",
+   "quote": "热地呢就是胡锦涛在西藏的政敌啊"
+  },
+  {
+   "id": "rel-1576",
+   "subject": "吴胜利",
+   "relation": "是胡锦涛的马仔（吴胜利是胡锦涛的马仔；据香港媒体报道吴胜利卸任解放军海军司令三年半以来多次传出他被调查的消息、因为吴胜利是胡锦涛的马仔、习包子早就想抓了一直没抓成）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "k0wMrK0DDwo",
+   "date": "2025-11-06",
+   "quote": "据香港媒体报道吴胜利卸任解放军海军司令三年半以来多次传出他被调查的消息因为吴胜利是胡锦涛的马仔细胞子早就想抓了一直没抓成"
+  },
+  {
+   "id": "rel-1578",
+   "subject": "李桥铭",
+   "relation": "被胡锦涛保下来（李桥铭是习包子查的、被胡锦涛保下来去人大了；查李桥铭的军纪委副书记唐永被撤销政协委员资格）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "k0wMrK0DDwo",
+   "date": "2025-11-06",
+   "quote": "李桥铭那就是习包子查的被胡锦涛保下来去人大了查李桥铭的军纪委副书记唐永被撤销政协委员资格"
+  },
+  {
+   "id": "rel-8036",
+   "subject": "张声明",
+   "relation": "被断为胡锦涛提拔、主管军纪委、现任军委副主席",
+   "object": "胡锦涛",
+   "status": "本期断语层（张声明公开名待核、未与张升民合并）",
+   "episode": "axVxZ7mr6HI",
+   "date": "2025-11-07",
+   "quote": "张声明是2017年十九大就已经是军委委员了当时张又侠也只是军委委员张声明就是胡锦涛提拔的"
+  },
+  {
+   "id": "rel-6105",
+   "subject": "胡锦涛",
+   "relation": "安排干儿子接掌广东",
+   "object": "胡春华",
+   "status": "本档口径",
+   "quote": "所以胡锦涛才安排干儿子胡春华去广东的",
+   "episode": "eiArSMeige4",
+   "date": "2025-11-09"
+  },
+  {
+   "id": "rel-1212",
+   "subject": "令计划",
+   "relation": "是胡锦涛的人（胡锦涛的干儿子、胡锦涛走哪带到哪，是胡锦涛第二个任期的中办主任；习包子抓令计划时就已经和胡锦涛闹僵）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "PjMg0OZ8yKA",
+   "date": "2025-11-14",
+   "quote": "令计划是胡锦涛的干儿子胡锦涛走哪带到哪啊令计划是胡锦涛第二个任期的中班主任啊怎么可能不是胡锦涛的人呢"
+  },
+  {
+   "id": "rel-1213",
+   "subject": "胡锦涛",
+   "relation": "三中全会掌权后仍提拔令计划的残余马仔（令计划的马仔早被基本清洗、能剩几个胡锦涛还是提拔了，反证令计划是胡锦涛的人）",
+   "object": "令计划",
+   "status": "本档口径",
+   "episode": "PjMg0OZ8yKA",
+   "date": "2025-11-14",
+   "quote": "胡锦涛三中全会掌权之后呢他还提拔过几个令计划的马仔呀令计划的马仔早就基本都被清洗了能剩下几个呀胡锦涛还是提拔了呀令计划肯定是胡锦涛的人啊"
+  },
+  {
+   "id": "rel-1215",
+   "subject": "胡锦涛",
+   "relation": "已动搞习远平的念头（佘智江被押回中国即是信号、本期断已动杀机；习包子一方只能拿马仔当肉盾耗中纪委的调查资源）",
+   "object": "习远平",
+   "status": "本期推断",
+   "episode": "PjMg0OZ8yKA",
+   "date": "2025-11-14",
+   "quote": "现在蛇之江被压回中国了说明胡锦涛已经动了要搞习远平的念头了要不然这么折腾喂了什么呢"
+  },
+  {
+   "id": "rel-2070",
+   "subject": "胡锦涛",
+   "relation": "亲口点名背书（十七大西藏厅故有重逢）",
+   "object": "郝鹏",
+   "status": "本档口径",
+   "episode": "hGtDWBVJ7lw",
+   "date": "2025-11-16",
+   "quote": "好彭就是刚刚退休的辽宁省委书记胡锦涛亲口说他认识好彭"
+  },
+  {
+   "id": "rel-4634",
+   "subject": "李成钢",
+   "relation": "马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "李成钢我说过了就是无疑的马仔就是胡锦涛的马仔",
+   "episode": "4XP8CgXRsoQ",
+   "date": "2025-11-19"
+  },
+  {
+   "id": "rel-7033",
+   "subject": "令计划",
+   "relation": "资产绑定不背叛",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "MN37nlWE8Ro",
+   "date": "2025-11-21",
+   "quote": "令计划和胡锦涛那是几百个马仔几百个政局级的官员几千亿的资产绑定在一起的"
+  },
+  {
+   "id": "rel-7036",
+   "subject": "王成",
+   "relation": "提拔（推断）",
+   "object": "胡锦涛",
+   "status": "本期推论层",
+   "episode": "MN37nlWE8Ro",
+   "date": "2025-11-21",
+   "quote": "中国一共只有31个省委副书记专职的副书记只有总书记或者总理才能提拔这就是胡锦涛提拔的"
+  },
+  {
+   "id": "rel-8964",
+   "subject": "齐心",
+   "relation": "被称深夜致电胡锦涛为习远平求情、胡只回我知道了保重（未坐实）",
+   "object": "胡锦涛",
+   "status": "网友爆料层",
+   "episode": "ylAhUH2LKVw",
+   "date": "2025-11-23",
+   "quote": "锦涛啊你得救救远平啊他们要把我们全家一锅端了"
+  },
+  {
+   "id": "rel-5064",
+   "subject": "李希",
+   "relation": "马仔（胡侧再证）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "当时的辽宁省委书记就是李希李希就是胡锦涛的马仔",
+   "episode": "xDhHeeP2kRM",
+   "date": "2025-11-24"
+  },
+  {
+   "id": "rel-5069",
+   "subject": "唐军",
+   "relation": "派系（未定版）",
+   "object": "胡锦涛",
+   "status": "本档口径・未定版",
+   "quote": "当时的大连市委书记唐军呢也可能是胡锦涛派系的我不太确定",
+   "episode": "xDhHeeP2kRM",
+   "date": "2025-11-24"
+  },
+  {
+   "id": "rel-2131",
+   "subject": "郭金龙",
+   "relation": "团队核心成员",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "TA1yd4EcQnM",
+   "date": "2025-11-26",
+   "quote": "郭金龙是胡锦涛团队的核心成员"
+  },
+  {
+   "id": "rel-5974",
+   "subject": "李乐成、周霁",
+   "relation": "胡锦涛派系",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "李乐成和周霁也是胡锦涛派系的",
+   "episode": "62DBnGlJ75E",
+   "date": "2025-11-26"
+  },
+  {
+   "id": "rel-8601",
+   "subject": "张又侠",
+   "relation": "被断就是一个党棍、听胡锦涛的听党中央的、是政治局委员而非独立军头",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "7lsHlCaImaM",
+   "date": "2025-11-27",
+   "quote": "张又侠他听胡锦涛的听党中央的他就是一个政治局委员呢"
+  },
+  {
+   "id": "rel-5001",
+   "subject": "黄华华",
+   "relation": "派系归属（邓胡的人）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "黄华华呢就是邓小平胡锦涛的人啊担任了长达九年的广东省长啊",
+   "episode": "N-g0PACTFeA",
+   "date": "2025-12-01"
+  },
+  {
+   "id": "rel-8056",
+   "subject": "吕锡文",
+   "relation": "被断为胡锦涛的人（任北京市委组织部部长）",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "D-nLE4zM6qc",
+   "date": "2025-12-10",
+   "quote": "当时的北京市组织部部长是吕锡文吕锡文应该就是胡锦涛的人"
+  },
+  {
+   "id": "rel-9063",
+   "subject": "秦博勇",
+   "relation": "被称被调查系胡锦涛过不去坎儿的第四个信号",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "0TMl6SILHa4",
+   "date": "2025-12-15",
+   "quote": "第四个信号就是这个秦博勇秦博勇被调查就说明胡锦涛心里过不去这个坎儿"
+  },
+  {
+   "id": "rel-1708",
+   "episode": "udgWCYZ7O7M",
+   "date": "2025-12-17",
+   "subject": "李希",
+   "relation": "是胡锦涛的马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "李希就是胡锦涛的马仔我都分析好多遍了如果李希是细胞的人他为什么天天抓细胞的人"
+  },
+  {
+   "id": "rel-8771",
+   "subject": "张丁球",
+   "relation": "死讯被断是假的、被断就是胡锦涛的马仔（原文长丁球，身份待核）",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "XR6E3m3v1SQ",
+   "date": "2025-12-19",
+   "quote": "长丁球他就是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-2974",
+   "subject": "杨志斌",
+   "relation": "提拔少将时很可能是胡锦涛的马仔",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "I8AE_WCJheQ",
+   "date": "2025-12-21",
+   "quote": "杨志斌提拔少将的时候杨志斌很可能是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-2977",
+   "subject": "邓昌友",
+   "relation": "空军政委任期与胡锦涛军委主席任期几乎同步（派系未定版）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "I8AE_WCJheQ",
+   "date": "2025-12-21",
+   "quote": "邓昌友空军政委的任期和胡锦涛军委主席的任期几乎同步"
+  },
+  {
+   "id": "rel-8685",
+   "subject": "张继春",
+   "relation": "东部战区副政委、火箭军出身，被断是胡锦涛的马仔与先锋：安徽老乡、96165部队政委、2012年报道题科学发展的先锋、胡锦涛曾视察其部队",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "xgFCybkP_vg",
+   "date": "2025-12-21",
+   "quote": "张继春就是胡锦涛的马仔张继春和杨志斌都是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-8686",
+   "subject": "杨志斌",
+   "relation": "与张继春同被断为胡锦涛的马仔：曾任空军武汉指挥所司令、沈阳军区空军出身（与 ep714 胡时期空军渊源层同向、与 ep608/609 许其亮提拔层分账）",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "xgFCybkP_vg",
+   "date": "2025-12-21",
+   "quote": "张继春和杨志斌都是胡锦涛的马仔胡锦涛完全掌握军权"
+  },
+  {
+   "id": "rel-8022",
+   "subject": "杨志斌",
+   "relation": "与胡锦涛时期空军将领邓昌友、郑群良渊源更深，2008年胡锦涛亲访其部队",
+   "object": "胡锦涛",
+   "status": "本期考辨断语层",
+   "episode": "23ueyPMPPOw",
+   "date": "2025-12-23",
+   "quote": "胡锦涛曾经于2008年亲自前往杨志斌所属的部队驻地呢"
+  },
+  {
+   "id": "rel-8023",
+   "subject": "韩胜延",
+   "relation": "被断为胡锦涛的马仔、九三阅兵总指挥、现任中部战区司令",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "23ueyPMPPOw",
+   "date": "2025-12-23",
+   "quote": "中部战局司令韩胜延呢也就是九三阅兵的总指挥呢也是胡锦涛的马仔关系紧密"
+  },
+  {
+   "id": "rel-8887",
+   "subject": "李强",
+   "relation": "被本期解读为代表胡锦涛温家宝在主持中央工作、其标志词顾本培元被写入民主生活会报道并置于增强党性之前",
+   "object": "胡锦涛",
+   "status": "本期解读层",
+   "episode": "7-r-g1Fx8cs",
+   "date": "2025-12-27",
+   "quote": "往高里说李强他是代表胡锦涛温家宝在主持中央工作不是习包子在主持工作"
+  },
+  {
+   "id": "rel-9042",
+   "subject": "孙海燕",
+   "relation": "被断是胡锦涛的马仔、不可能被抓",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "L2th45Nmbyw",
+   "date": "2025-12-28",
+   "quote": "当时我就说孙海燕她是胡锦涛的马仔她不可能被抓"
+  },
+  {
+   "id": "rel-7425",
+   "subject": "胡锦涛",
+   "relation": "清华时期帮助残疾邓朴方上学说（网友层）",
+   "object": "邓朴方",
+   "status": "网友层（主播考辨未定、悬置）",
+   "episode": "xFMGmdCtmWQ",
+   "date": "2025-12-29",
+   "quote": "胡锦涛在清华大学天天帮助残疾的邓朴方上学走进了邓小平家呀"
+  },
+  {
+   "id": "rel-9025",
+   "subject": "张又侠",
+   "relation": "被称是江泽民的人却听胡锦涛指挥、因江泽民在军队剩下的人不多",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "CPCL7Dle4qY",
+   "date": "2025-12-29",
+   "quote": "张耀霞是江泽民的人为什么他听胡锦涛指挥呢因为江泽民在军队剩下的人不多了"
+  },
+  {
+   "id": "rel-3435",
+   "subject": "姜信治",
+   "relation": "马仔（断语）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "Ag1XYOFP4Xk",
+   "date": "2026-01-01",
+   "quote": "姜信治就是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-3437",
+   "subject": "石泰峰",
+   "relation": "被其亲自背书（断语）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "Ag1XYOFP4Xk",
+   "date": "2026-01-01",
+   "quote": "胡锦涛曾经亲自背书过石泰峰"
+  },
+  {
+   "id": "rel-3438",
+   "subject": "巴特尔",
+   "relation": "马仔（断语）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "Ag1XYOFP4Xk",
+   "date": "2026-01-01",
+   "quote": "首先内蒙古主席巴特尔就是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-7822",
+   "subject": "石泰峰",
+   "relation": "胡锦涛在中央党校的马仔、曾获胡锦涛亲自背书",
+   "object": "胡锦涛",
+   "status": "本期层",
+   "episode": "i4HHnsMF3IE",
+   "date": "2026-01-03",
+   "quote": "石泰峰是胡锦涛在中央党校的马仔胡锦涛曾经亲自背书过石泰峰"
+  },
+  {
+   "id": "rel-8418",
+   "subject": "王教成",
+   "relation": "被断为胡锦涛马仔（与李克强同为滁州籍贯推论＋冯文平胡海峰军地链实证）",
+   "object": "胡锦涛",
+   "status": "本期论证总断层",
+   "episode": "XhUhVho3W4s",
+   "date": "2026-01-05",
+   "quote": "王教成毫无疑问是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-8420",
+   "subject": "黄明",
+   "relation": "被断应该也是胡锦涛的马仔、非张又侠马仔（标题作黄铭）",
+   "object": "胡锦涛",
+   "status": "本期论证层",
+   "episode": "XhUhVho3W4s",
+   "date": "2026-01-05",
+   "quote": "吴亚男和黄明应该也是胡锦涛的马仔这个逻辑是一样的"
+  },
+  {
+   "id": "rel-8577",
+   "subject": "李希",
+   "relation": "被断是胡锦涛的人、任中纪委书记占中纪委权力50%，被抓的几乎都是习包子马仔即为证",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "bURMwc79ycU",
+   "date": "2026-01-06",
+   "quote": "而且还说明李希就是胡锦涛的人"
+  },
+  {
+   "id": "rel-6621",
+   "subject": "陈宝生",
+   "relation": "后台是胡锦涛说",
+   "object": "胡锦涛",
+   "status": "本期考辨否定",
+   "quote": "陈宝生真正的后台是胡锦涛而与李克强属于同门师兄弟",
+   "episode": "nWWECvC1kzw",
+   "date": "2026-01-07"
+  },
+  {
+   "id": "rel-5714",
+   "subject": "胡春华",
+   "relation": "干儿子和打手",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "胡春华就是胡锦涛的干儿子和打手",
+   "episode": "KP06x6JWYbU",
+   "date": "2026-01-10"
+  },
+  {
+   "id": "rel-8892",
+   "subject": "胡锦涛",
+   "relation": "被断下达秘密指令不允许上将随便上镜上电视、避免外界看出谁被抓谁没被抓（本期推论层）",
+   "object": "杨志斌",
+   "status": "本期断语层",
+   "episode": "ifZNnJdSFlc",
+   "date": "2026-01-14",
+   "quote": "胡锦涛下达了一个秘密指令不允许上将随便上上镜上电视"
+  },
+  {
+   "id": "rel-8877",
+   "subject": "唐方裕",
+   "relation": "被断是赵紫阳胡锦涛背景、邓小平广安老乡，其任中央政策研究室主任被断是下任总书记的大秘信号",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "rbLCxWUw3jE",
+   "date": "2026-01-15",
+   "quote": "唐方裕是赵紫阳胡锦涛的背景四川出身的官员"
+  },
+  {
+   "id": "rel-2140",
+   "subject": "姜信治",
+   "relation": "本期表述为胡锦涛马仔（原句『这都是胡锦涛的马仔』指涉范围含混，弱账）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "aDIUnh7CBV4",
+   "date": "2026-01-16",
+   "quote": "现任的全国政协金坤氏主任是姜信治啊这都是胡锦涛的马仔啊"
+  },
+  {
+   "id": "rel-1938",
+   "subject": "石泰峰",
+   "relation": "胡锦涛团队核心成员、胡锦涛的中组部长",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "2eDUIOtWbT4",
+   "date": "2026-01-21",
+   "quote": "石泰峰是中组部长如果现在是胡锦涛掌权真正的总书记是胡锦涛石泰峰是担任胡锦涛的中组部长"
+  },
+  {
+   "id": "rel-1939",
+   "subject": "刘振立",
+   "relation": "现存胡锦涛两大核心之一（帮胡锦涛掌握军队）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "2eDUIOtWbT4",
+   "date": "2026-01-21",
+   "quote": "这两个应该是现存的胡锦涛的两大核心了一个帮胡锦涛掌管组织人事大权一个帮胡锦涛掌握军队"
+  },
+  {
+   "id": "rel-1940",
+   "subject": "张又侠",
+   "relation": "并不是胡锦涛派系的（网友语、主播论述同向）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "2eDUIOtWbT4",
+   "date": "2026-01-21",
+   "quote": "张又侠并不是胡锦涛派系的"
+  },
+  {
+   "id": "rel-3386",
+   "subject": "李冠兴",
+   "relation": "清华大学同学（在校重叠7年）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "DUNsHGi3alE",
+   "date": "2026-01-23",
+   "quote": "李冠兴呢是胡锦涛清华大学的同学在一起有7年的交接"
+  },
+  {
+   "id": "rel-6531",
+   "subject": "孙海燕",
+   "relation": "马仔",
+   "object": "胡锦涛",
+   "status": "本期断语",
+   "quote": "当时我就说孙海燕是胡锦涛的马仔,不可能被抓",
+   "episode": "nY0TpCBA-Oc",
+   "date": "2026-01-24"
+  },
+  {
+   "id": "rel-6534",
+   "subject": "李冠兴",
+   "relation": "同学（清华大学）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "李冠兴是胡锦涛清华大学的同学",
+   "episode": "nY0TpCBA-Oc",
+   "date": "2026-01-24"
+  },
+  {
+   "id": "rel-0951",
+   "subject": "张又侠",
+   "relation": "本期复盘主播从未判定张又侠是胡锦涛的人（初版标注为习包子的人、黄色）",
+   "object": "胡锦涛",
+   "status": "本期考辨否定",
+   "episode": "hNUHWMse_J8",
+   "date": "2026-01-25",
+   "quote": "但我从来没有说过张又霞是胡锦涛的人"
+  },
+  {
+   "id": "rel-0954",
+   "subject": "吴亚楠",
+   "relation": "是胡锦涛的马仔（张又侠任沈阳军区司令 5 年未晋升、张离开后不到两年晋升）",
+   "object": "胡锦涛",
+   "status": "本档口径・早期判定",
+   "episode": "hNUHWMse_J8",
+   "date": "2026-01-25",
+   "quote": "吴亚男黄明是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-0955",
+   "subject": "黄明",
+   "relation": "是胡锦涛的马仔（与吴亚楠同：张又侠在沈阳期间未获晋升）",
+   "object": "胡锦涛",
+   "status": "本档口径・早期判定",
+   "episode": "hNUHWMse_J8",
+   "date": "2026-01-25",
+   "quote": "张又霞离开沈阳军区不到两年吴亚男黄明纷纷晋升纷纷晋升副军长少将"
+  },
+  {
+   "id": "rel-7862",
+   "subject": "张声明",
+   "relation": "被断百分百是胡锦涛的马仔",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "WETkyX7FNUU",
+   "date": "2026-01-25",
+   "quote": "这张声明百分百胡锦涛的马仔"
+  },
+  {
+   "id": "rel-7867",
+   "subject": "范长龙",
+   "relation": "被排除法推断为胡锦涛发动军事政变的幕后主持者",
+   "object": "胡锦涛",
+   "status": "本期推断层",
+   "episode": "WETkyX7FNUU",
+   "date": "2026-01-25",
+   "quote": "排除法也只能是范长龙了范长龙其实也都78岁了"
+  },
+  {
+   "id": "rel-3267",
+   "subject": "张又侠",
+   "relation": "被胡锦涛抓走（与刘振立）",
+   "object": "胡锦涛",
+   "status": "本期断语・再申",
+   "episode": "rqM4R2BFRJM",
+   "date": "2026-01-26",
+   "quote": "张又侠刘振立就是胡锦涛抓的"
+  },
+  {
+   "id": "rel-2911",
+   "subject": "迟浩田",
+   "relation": "是胡锦涛的人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "s_-iJ4Fi9EY",
+   "date": "2026-01-27",
+   "quote": "迟浩田范长龙是胡锦涛的人曹刚川可能是江泽民的人我不太确定"
+  },
+  {
+   "id": "rel-2912",
+   "subject": "范长龙",
+   "relation": "是胡锦涛的人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "s_-iJ4Fi9EY",
+   "date": "2026-01-27",
+   "quote": "迟浩田范长龙是胡锦涛的人曹刚川可能是江泽民的人我不太确定"
+  },
+  {
+   "id": "rel-3637",
+   "subject": "张万年",
+   "relation": "的人（邓小平提拔）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "s0_RvICLVKg",
+   "date": "2026-01-27",
+   "quote": "张万年是邓小平提拔的胡锦涛的人"
+  },
+  {
+   "id": "rel-3806",
+   "subject": "胡锦涛",
+   "relation": "提拔",
+   "object": "陈兴中",
+   "status": "本档口径",
+   "quote": "陈兴中他在外交部是胡锦涛和吴恳提拔的",
+   "episode": "0amDu92MYe0",
+   "date": "2026-01-28"
+  },
+  {
+   "id": "rel-3810",
+   "subject": "乔宝平",
+   "relation": "下属（李克强之前）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "乔宝平在担任李克强下属之前他是胡锦涛本人的下属乔宝平已经死了跳了2021年65岁就死了",
+   "episode": "0amDu92MYe0",
+   "date": "2026-01-28"
+  },
+  {
+   "id": "rel-1739",
+   "episode": "32Fap6MfpZs",
+   "date": "2026-01-29",
+   "subject": "范长龙",
+   "relation": "的确就是胡锦涛的马仔、他不是江泽民的人（与张万年徐才厚于永波同属一拨一派系）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "而且范长龙的确就是胡锦涛的马仔他不是江泽民的人张万年徐才厚范长龙这三个军委副主席再加上于永波一个军委委员这四个人是环环相扣的他们都是一拨的一个派系的"
+  },
+  {
+   "id": "rel-1741",
+   "episode": "32Fap6MfpZs",
+   "date": "2026-01-29",
+   "subject": "谷俊山",
+   "relation": "是胡锦涛提拔担任总后勤部副部长的（张万年提拔的谷俊山、谷俊山牵出徐才厚）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "谷俊山是河南省的官员河南省属于济南军区李克强也是河南省的官员谷俊山签出了徐才厚谁提拔担任总后勤部的副部长那不就是胡锦涛提拔的吗"
+  },
+  {
+   "id": "rel-8441",
+   "subject": "胡锦涛",
+   "relation": "被断在控制局面、不希望各大战区表态效忠党中央和习包子，战区沉默对其有利",
+   "object": "习包子",
+   "status": "本期解读层",
+   "episode": "1rfyu0HMN2o",
+   "date": "2026-01-29",
+   "quote": "胡锦涛肯定不希望各大战区表态效忠党中央和细胞子"
+  },
+  {
+   "id": "rel-4259",
+   "subject": "吴胜利",
+   "relation": "马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "而且吴胜利的确是胡锦涛的马仔",
+   "episode": "3EF6DuUm5cU",
+   "date": "2026-01-31"
+  },
+  {
+   "id": "rel-3984",
+   "subject": "俞正声",
+   "relation": "派系（邓小平胡锦涛派系）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "罗清泉是习包子派系的俞正声是邓小平胡锦涛派系的",
+   "episode": "kl1Vhjsvwlg",
+   "date": "2026-02-01"
+  },
+  {
+   "id": "rel-3988",
+   "subject": "王刚",
+   "relation": "中办主任（后服务）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "王刚先给江泽民担任中办主任,后给胡锦涛担任中办主任",
+   "episode": "kl1Vhjsvwlg",
+   "date": "2026-02-01"
+  },
+  {
+   "id": "rel-0426",
+   "subject": "沈跃跃",
+   "relation": "本期称胡锦涛的人（中组部常务副部长，胡的二把手）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "zDDrIOZDyG4",
+   "date": "2026-02-02",
+   "quote": "贺国强沈跃跃是胡锦涛的人"
+  },
+  {
+   "id": "rel-0427",
+   "subject": "贺国强",
+   "relation": "本期称胡锦涛的人（胡任内的中组部长）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "zDDrIOZDyG4",
+   "date": "2026-02-02",
+   "quote": "分别是中组部长贺国强和中组部的常务副部长沈跃跃"
+  },
+  {
+   "id": "rel-0428",
+   "subject": "姜信治",
+   "relation": "本期称胡锦涛的人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "zDDrIOZDyG4",
+   "date": "2026-02-02",
+   "quote": "姜信治石泰峰是胡锦涛的人"
+  },
+  {
+   "id": "rel-0429",
+   "subject": "石泰峰",
+   "relation": "本期称胡锦涛的人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "zDDrIOZDyG4",
+   "date": "2026-02-02",
+   "quote": "姜信治石泰峰是胡锦涛的人"
+  },
+  {
+   "id": "rel-3219",
+   "subject": "张又侠",
+   "relation": "被亲自拿下",
+   "object": "胡锦涛",
+   "status": "本期新判",
+   "episode": "HCOPUp61PtA",
+   "date": "2026-02-02",
+   "quote": "这证实张又侠刘振立被查的确是胡锦涛亲自拿下的"
+  },
+  {
+   "id": "rel-3220",
+   "subject": "刘振立",
+   "relation": "被亲自拿下",
+   "object": "胡锦涛",
+   "status": "本期新判",
+   "episode": "HCOPUp61PtA",
+   "date": "2026-02-02",
+   "quote": "这证实张又侠刘振立被查的确是胡锦涛亲自拿下的"
+  },
+  {
+   "id": "rel-3224",
+   "subject": "胡锦涛",
+   "relation": "主导军内大清洗",
+   "object": "解放军",
+   "status": "本期新判",
+   "episode": "HCOPUp61PtA",
+   "date": "2026-02-02",
+   "quote": "表明当前中共军内的整肃张又侠刘震历被查是胡锦涛主导的大清洗"
+  },
+  {
+   "id": "rel-3225",
+   "subject": "廖锡龙",
+   "relation": "葬礼花圈署名者",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "HCOPUp61PtA",
+   "date": "2026-02-02",
+   "quote": "央视新闻联播画面显示胡锦涛署名的花圈出现"
+  },
+  {
+   "id": "rel-4904",
+   "subject": "邓小平",
+   "relation": "提拔（接班人只有其能提拔）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "只有邓小平才能提拔胡锦涛其他人都不好使",
+   "episode": "OY3rebW8jaw",
+   "date": "2026-02-03"
+  },
+  {
+   "id": "rel-5255",
+   "subject": "蔡奇",
+   "relation": "立案审查（政治局会议决定）",
+   "object": "胡锦涛",
+   "status": "本档口径・2026世界线待核",
+   "quote": "胡锦涛阵营主持政治局会议决定对蔡奇立案调查",
+   "episode": "I7AQUJBGU-M",
+   "date": "2026-02-03"
+  },
+  {
+   "id": "rel-5260",
+   "subject": "胡锦涛",
+   "relation": "主导清洗（廖锡龙葬礼送花圈露面）",
+   "object": "廖锡龙",
+   "status": "本档口径",
+   "quote": "1月29日廖锡龙葬礼胡锦涛送花圈胡锦涛用这种方式露面显示胡锦涛在主导清洗",
+   "episode": "I7AQUJBGU-M",
+   "date": "2026-02-03"
+  },
+  {
+   "id": "rel-2736",
+   "subject": "许其亮",
+   "relation": "被胡锦涛阵营扒管（软禁）后引发上将大清洗、拔掉张又侠根基",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "reTtmy0bTis",
+   "date": "2026-02-05",
+   "quote": "把管许其亮对上将进行大清洗将张耀霞的根基拔掉"
+  },
+  {
+   "id": "rel-2738",
+   "subject": "魏凤和",
+   "relation": "可能是胡锦涛的马仔（主播明言不是十分确定）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "reTtmy0bTis",
+   "date": "2026-02-05",
+   "quote": "魏凤和可能是胡锦涛的马仔我不是十分确定"
+  },
+  {
+   "id": "rel-2741",
+   "subject": "朱镕基",
+   "relation": "可能被胡锦涛阵营扒管（其子朱云来涉金融丑闻、中金高层被查；预测层）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "reTtmy0bTis",
+   "date": "2026-02-05",
+   "quote": "元老把管朱镕基和贾庆林可能被把管"
+  },
+  {
+   "id": "rel-2742",
+   "subject": "贾庆林",
+   "relation": "可能被胡锦涛阵营扒管（与习福建渊源、妻女涉海外资产丑闻传闻；预测层）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "reTtmy0bTis",
+   "date": "2026-02-05",
+   "quote": "贾庆林如果被把管象征着习包子福建帮的崩盘"
+  },
+  {
+   "id": "rel-6219",
+   "subject": "陈元",
+   "relation": "马仔（证据比较层判胡侧强）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "quote": "陈元是胡锦涛马仔的这两个证据啊很明显强过陈元是习包子马仔的两个证据啊",
+   "episode": "KQfHjoXBF28",
+   "date": "2026-02-06"
+  },
+  {
+   "id": "rel-6221",
+   "subject": "张又侠",
+   "relation": "非其马仔（再申）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "一共就三个总书记确定张又侠不是胡锦涛的马仔",
+   "episode": "KQfHjoXBF28",
+   "date": "2026-02-06"
+  },
+  {
+   "id": "rel-6222",
+   "subject": "张又侠",
+   "relation": "掌权后亦须听命（权力层）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "胡锦涛掌权之后胡锦涛就是中共实际的最高领导人所有的官员都要听胡锦涛的张又侠当然也要听胡锦涛的",
+   "episode": "KQfHjoXBF28",
+   "date": "2026-02-06"
+  },
+  {
+   "id": "rel-6225",
+   "subject": "王教成",
+   "relation": "马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "王教成就是胡锦涛的马仔",
+   "episode": "KQfHjoXBF28",
+   "date": "2026-02-06"
+  },
+  {
+   "id": "rel-0167",
+   "subject": "徐才厚",
+   "relation": "本期翻案称胡锦涛的核心马仔（非江泽民的人）",
+   "object": "胡锦涛",
+   "status": "本档口径・翻案",
+   "episode": "b36JFs5W5jI",
+   "date": "2026-02-08",
+   "quote": "徐才厚是胡锦涛的核心马仔瓦房店帮是胡锦涛军方支柱"
+  },
+  {
+   "id": "rel-0170",
+   "subject": "邓昌友",
+   "relation": "本期称胡锦涛的马仔（空军政委，瓦房店帮）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "b36JFs5W5jI",
+   "date": "2026-02-08",
+   "quote": "空军政委邓昌有空军副司令景文春空军副司令郑群良都是胡锦涛的马仔（字幕邓昌有）"
+  },
+  {
+   "id": "rel-0171",
+   "subject": "景文春",
+   "relation": "本期称胡锦涛的马仔（空军副司令）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "b36JFs5W5jI",
+   "date": "2026-02-08",
+   "quote": "空军政委邓昌有空军副司令景文春空军副司令郑群良都是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-0172",
+   "subject": "郑群良",
+   "relation": "本期称胡锦涛的马仔（瓦房店帮）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "b36JFs5W5jI",
+   "date": "2026-02-08",
+   "quote": "于永波徐才厚郑群良都是瓦房店人形成帮派"
+  },
+  {
+   "id": "rel-0176",
+   "subject": "范长龙",
+   "relation": "本期称胡锦涛的马仔、现军委副主席（与胡发动军事政变赶习下台）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "b36JFs5W5jI",
+   "date": "2026-02-08",
+   "quote": "许才厚范长龙都是胡锦涛的马仔不是江泽民的马仔是胡锦涛范长龙发动的军事政变把习包子赶下台"
+  },
+  {
+   "id": "rel-0177",
+   "subject": "张升民",
+   "relation": "本期称现军委副主席（与范长龙并列，习已被架空）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "b36JFs5W5jI",
+   "date": "2026-02-08",
+   "quote": "现在真正的军委主席是胡锦涛军委副主席是范长龙和张声明（字幕张声明即张升民）"
+  },
+  {
+   "id": "rel-0179",
+   "subject": "刘源",
+   "relation": "本期称习包子查谷俊山针对的是刘源与胡锦涛本人，意在逼胡裸退",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "b36JFs5W5jI",
+   "date": "2026-02-08",
+   "quote": "习包子针对的是你刘源本人针对的是我胡锦涛本人"
+  },
+  {
+   "id": "rel-2996",
+   "subject": "张升民",
+   "relation": "百分百是胡锦涛的铁杆马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "I96WNNtNSnY",
+   "date": "2026-02-09",
+   "quote": "张声明呢百分百是胡锦涛的铁杆马仔"
+  },
+  {
+   "id": "rel-3001",
+   "subject": "令计划",
+   "relation": "肯定是胡锦涛的铁杆马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "I96WNNtNSnY",
+   "date": "2026-02-09",
+   "quote": "令计划肯定是胡锦涛的铁杆马仔"
+  },
+  {
+   "id": "rel-1456",
+   "subject": "刘宁",
+   "relation": "是胡锦涛的马仔（网友问河南刘宁和王凯都是谁的马仔——刘宁是胡锦涛的马仔、王凯是朱镕基、习包子的马仔）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "2LlzW6bGzMI",
+   "date": "2026-02-12",
+   "quote": "刘宁是胡锦涛的马仔王凯呢是注重机喜包子的马仔"
+  },
+  {
+   "id": "rel-1676",
+   "subject": "隗福临",
+   "relation": "是胡锦涛的马仔（十六军出身、十六军是胡锦涛的嫡系部队）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "GhPT9o7yBJU",
+   "date": "2026-02-12",
+   "quote": "魏福林是胡锦涛的马仔他也是十六军出身的十六军是胡锦涛的嫡系部队"
+  },
+  {
+   "id": "rel-0819",
+   "subject": "魏凤和",
+   "relation": "本期断胡锦涛的马仔、是习包子抓的不是胡锦涛抓的（2023-09 被抓、一次老同志也没当上）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "B28ALNXeIpM",
+   "date": "2026-02-14",
+   "quote": "魏凤和是胡锦涛的马仔他是细胞子抓的他不是胡锦涛抓的"
+  },
+  {
+   "id": "rel-0822",
+   "subject": "朱镕基",
+   "relation": "本期称很可能还没死（2026 年老同志名单第二位、与名单第一的胡锦涛是现在中共两个人在 PK）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "B28ALNXeIpM",
+   "date": "2026-02-14",
+   "quote": "我们看一下今天的名单呢第一是胡锦涛第二是朱镕基这就是中共现在两个人在pk呢朱镕基很可能还没死呢"
+  },
+  {
+   "id": "rel-0825",
+   "subject": "秦刚",
+   "relation": "本期称胡锦涛拿下的（但没有给处分、只是免职了）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "B28ALNXeIpM",
+   "date": "2026-02-14",
+   "quote": "薄熙来苏荣李尚福何卫东张又侠马兴瑞这6个人呢都是胡锦涛拿下的秦刚也是但是秦刚没有给处分只是免职了"
+  },
+  {
+   "id": "rel-0826",
+   "subject": "李源潮",
+   "relation": "本期称正经出现在老同志名单之中（若其被查处、将打破不追究退休副国级的潜规则）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "B28ALNXeIpM",
+   "date": "2026-02-14",
+   "quote": "但是呢李源潮呢正经的出现在这个名单之中呢"
+  },
+  {
+   "id": "rel-8308",
+   "subject": "王晓晖",
+   "relation": "被断为胡锦涛的马仔",
+   "object": "胡锦涛",
+   "status": "网友长文层＋主播采纳层",
+   "episode": "XjnTZEwr378",
+   "date": "2026-02-14",
+   "quote": "现在的四川省委书记王晓晖是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-8311",
+   "subject": "罗林",
+   "relation": "刀郎与胡锦涛渊源层：2009年创作《一家人》为胡锦涛政府化解危机、2011年胡锦涛亲自颁奖握手，被断为胡站台复出",
+   "object": "胡锦涛",
+   "status": "网友渊源层＋本期断语层（原文作五零一功成奖）",
+   "episode": "XjnTZEwr378",
+   "date": "2026-02-14",
+   "quote": "2011年胡锦涛亲自颁发五零一功成奖刀郎唯一一次参加颁奖胡锦涛握手寒暄显示两个人早就认识了"
+  },
+  {
+   "id": "rel-3508",
+   "subject": "胡锦涛",
+   "relation": "真正要抓的人",
+   "object": "习包子",
+   "status": "本档口径",
+   "episode": "7uxS_vAAWRE",
+   "date": "2026-02-16",
+   "quote": "胡锦涛真正想要抓的人是习包子本人不是别人"
+  },
+  {
+   "id": "rel-3509",
+   "subject": "胡锦涛",
+   "relation": "指定接班人",
+   "object": "胡春华",
+   "status": "本档口径",
+   "episode": "7uxS_vAAWRE",
+   "date": "2026-02-16",
+   "quote": "胡锦涛也会和邓小平一样指定两个接班人就是胡春华和周金星这件事情已经定了"
+  },
+  {
+   "id": "rel-3510",
+   "subject": "胡锦涛",
+   "relation": "指定接班人（第二棒）",
+   "object": "周金星",
+   "status": "本档口径",
+   "episode": "7uxS_vAAWRE",
+   "date": "2026-02-16",
+   "quote": "胡锦涛也会和邓小平一样指定两个接班人就是胡春华和周金星这件事情已经定了"
+  },
+  {
+   "id": "rel-3512",
+   "subject": "周金星",
+   "relation": "系其救命恩人的亲戚",
+   "object": "胡锦涛",
+   "status": "本档口径（原因未披露）",
+   "episode": "7uxS_vAAWRE",
+   "date": "2026-02-16",
+   "quote": "周金星是胡锦涛救命恩人的亲戚"
+  },
+  {
+   "id": "rel-5231",
+   "subject": "徐才厚",
+   "relation": "铁杆马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "徐才厚是邓小平提拔的100%是胡锦涛的铁盖马仔",
+   "episode": "3wWcR6YyhnA",
+   "date": "2026-02-17"
+  },
+  {
+   "id": "rel-5233",
+   "subject": "迟浩田",
+   "relation": "马仔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "二把手池万春是胡锦涛的人",
+   "episode": "3wWcR6YyhnA",
+   "date": "2026-02-17"
+  },
+  {
+   "id": "rel-2989",
+   "subject": "李桥铭",
+   "relation": "与宋普选、王教成同为胡锦涛的马仔（同集转述此前论证）",
+   "object": "胡锦涛",
+   "status": "本档口径・同集两表述",
+   "episode": "CNaSdSmRDKE",
+   "date": "2026-02-19",
+   "quote": "王教成宋普选李桥铭都是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-2990",
+   "subject": "李桥铭",
+   "relation": "2024年6月19日受胡锦涛指使发动军事政变、指挥黄明谭海林端掉习张何",
+   "object": "胡锦涛",
+   "status": "本档2026世界线叙事层・双标记",
+   "episode": "CNaSdSmRDKE",
+   "date": "2026-02-19",
+   "quote": "2024年6月19日胡锦涛指使李桥铭悍然发动军事政变"
+  },
+  {
+   "id": "rel-2991",
+   "subject": "宋普选",
+   "relation": "是张万年提拔的、是胡锦涛的人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "CNaSdSmRDKE",
+   "date": "2026-02-19",
+   "quote": "黄明和宋普选就是胡锦涛的人"
+  },
+  {
+   "id": "rel-2994",
+   "subject": "范长龙",
+   "relation": "有可能在秘密主持军委工作",
+   "object": "胡锦涛",
+   "status": "本期推测",
+   "episode": "CNaSdSmRDKE",
+   "date": "2026-02-19",
+   "quote": "有可能就是范长龙在秘密主持中共的军委工作"
+  },
+  {
+   "id": "rel-5122",
+   "subject": "魏凤和",
+   "relation": "的人",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "李尚福是习包子的人魏凤和是胡锦涛的人",
+   "episode": "Nc2WTKPVZA0",
+   "date": "2026-02-20"
+  },
+  {
+   "id": "rel-7911",
+   "subject": "胡锦涛",
+   "relation": "网传现身海南三亚、由胡春华陪同（网传层）",
+   "object": "胡春华",
+   "status": "网传层（真伪未证实）",
+   "episode": "iV1cZi4F6Zs",
+   "date": "2026-02-20",
+   "quote": "网传胡锦涛现身海南三亚还是哪的胡春华陪同"
+  },
+  {
+   "id": "rel-7912",
+   "subject": "范长龙",
+   "relation": "被断协助胡锦涛掌握军权、系真正的军委副主席之一",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "iV1cZi4F6Zs",
+   "date": "2026-02-20",
+   "quote": "谁是真正的军委副主席啊就是范长龙和张声明"
+  },
+  {
+   "id": "rel-7915",
+   "subject": "宋普选",
+   "relation": "所率54集团军被断系胡锦涛嫡系部队",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "iV1cZi4F6Zs",
+   "date": "2026-02-20",
+   "quote": "54军就是胡锦涛的嫡系部队宋普选所率的部队曾参与强险救灾"
+  },
+  {
+   "id": "rel-7231",
+   "subject": "胡锦涛",
+   "relation": "江苏泰州人（照片居首信号）",
+   "object": "泰州市",
+   "status": "背景层",
+   "episode": "iMupa-gy9k8",
+   "date": "2026-02-21",
+   "quote": "胡锦涛就是江苏省泰州市人呢"
+  },
+  {
+   "id": "rel-3183",
+   "subject": "崔永元",
+   "relation": "马仔（大概率）",
+   "object": "胡锦涛",
+   "status": "本期新判",
+   "episode": "gFgkjsOJEaY",
+   "date": "2026-02-22",
+   "quote": "崔永元他应该是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-3184",
+   "subject": "库尔班江",
+   "relation": "马仔（大概率）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "episode": "gFgkjsOJEaY",
+   "date": "2026-02-22",
+   "quote": "他大概率就是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-3188",
+   "subject": "杨志斌",
+   "relation": "参与军事政变（时任西部战区副司令）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "gFgkjsOJEaY",
+   "date": "2026-02-22",
+   "quote": "杨志斌担任了四年的陕西省军区司令胡锦涛发动军事政变的时候杨志斌的职务是西部战区副司令"
+  },
+  {
+   "id": "rel-3189",
+   "subject": "韩胜延",
+   "relation": "参与军事政变（掌中部战区空军）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "gFgkjsOJEaY",
+   "date": "2026-02-22",
+   "quote": "中部战区司令韩胜延在这场军事政变之中扮演的角色是什么兼中部战区空军司令"
+  },
+  {
+   "id": "rel-3191",
+   "subject": "李桥铭",
+   "relation": "关键指挥官",
+   "object": "胡锦涛（军事政变）",
+   "status": "本档口径",
+   "episode": "gFgkjsOJEaY",
+   "date": "2026-02-22",
+   "quote": "李桥铭只是胡锦涛发动军事政变的一个关键指挥官而已"
+  },
+  {
+   "id": "rel-6262",
+   "subject": "黄明",
+   "relation": "胡锦涛派系（很大概率）",
+   "object": "胡锦涛",
+   "status": "本期推断",
+   "quote": "黄明很大概率是胡锦涛派系的",
+   "episode": "3Nc_qqQtPSw",
+   "date": "2026-02-23"
+  },
+  {
+   "id": "rel-2732",
+   "subject": "张又侠",
+   "relation": "与刘振立是胡锦涛抓的（本期以解放军报引胡锦涛四大考验四种危险语录论证）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "wAFdGDm6UVI",
+   "date": "2026-02-24",
+   "quote": "证明张有霞刘正丽就是胡锦涛抓的"
+  },
+  {
+   "id": "rel-3131",
+   "subject": "蔡奇",
+   "relation": "被审查限制使用、陪同须经其批准",
+   "object": "胡锦涛",
+   "status": "本期断语",
+   "episode": "HA9lfhjNi68",
+   "date": "2026-02-26",
+   "quote": "表明蔡奇已经被审查限制使用要经过胡锦涛的批准"
+  },
+  {
+   "id": "rel-5966",
+   "subject": "李桥铭",
+   "relation": "马仔（战损说、采纳层）",
+   "object": "胡锦涛",
+   "status": "本期考辨",
+   "quote": "只能采纳李桥铭是胡锦涛的马仔战损说这个说法",
+   "episode": "zOlgGXRHNRw",
+   "date": "2026-02-27"
+  },
+  {
+   "id": "rel-1099",
+   "subject": "袁家军",
+   "relation": "就是胡锦涛的马仔（本期断；朱镕基 2006 年给袁家军发奖、袁没有去，本期称此为给袁洗白）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "gKuAQfG7EJ0",
+   "date": "2026-02-28",
+   "quote": "袁家军他就是胡锦涛的马仔"
+  },
+  {
+   "id": "rel-5593",
+   "subject": "胡锦涛",
+   "relation": "实际担任过渡总书记（过渡期实际掌控者）",
+   "object": "中共",
+   "status": "本档口径・2026世界线",
+   "quote": "胡锦涛作为原稿的象征和总协调人实际担任过渡总书记的角色负责拨乱反正稳住局面为下一阶段的权力重组铺路",
+   "episode": "AekE_9TUffA",
+   "date": "2026-03-02"
+  },
+  {
+   "id": "rel-5594",
+   "subject": "胡锦涛",
+   "relation": "送花圈（与现任常委并列）",
+   "object": "廖锡龙",
+   "status": "本档2026世界线",
+   "quote": "廖锡龙胡锦涛时代的总后勤部部长提拔张用霞的人1月29日火化央视画面明确显示胡锦涛署名的花圈与现任常委并列",
+   "episode": "AekE_9TUffA",
+   "date": "2026-03-02"
+  },
+  {
+   "id": "rel-5596",
+   "subject": "温家宝",
+   "relation": "亲笔贺卡曝光现身",
+   "object": "胡锦涛",
+   "status": "本档2026世界线",
+   "quote": "温家宝那2026年春节前后的亲笔贺卡曝光漏款是2月11日2月17日到18日在网上热传",
+   "episode": "AekE_9TUffA",
+   "date": "2026-03-02"
+  },
+  {
+   "id": "rel-1238",
+   "subject": "宋平",
+   "relation": "压着胡锦涛不给提拔（胡锦涛在甘肃建委副处长位置待了五年、宋平在甘九年胡未提正局级，宋平离甘前半年胡才升副局级；大外宣「宋平曾大力举荐胡锦涛」说颠倒黑白）",
+   "object": "胡锦涛",
+   "status": "本期考辨否定",
+   "episode": "9VMhil0n0M0",
+   "date": "2026-03-05",
+   "quote": "宋平一共在甘肃省前后待了9年都没有把胡锦涛提拔成一个政局级宋平眼瞅着就要离开甘肃省了宋平一开甘肃省之前半年胡锦涛才提拔成一个副局级"
+  },
+  {
+   "id": "rel-1239",
+   "subject": "冯纪新",
+   "relation": "是胡锦涛在甘肃的提拔人（冯纪新 1979 年底任甘肃省长，胡锦涛半年后升副局级；冯纪新升省委书记后，胡锦涛升正局级——宋平手下九年未动的胡锦涛在冯纪新上位后才起飞）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "9VMhil0n0M0",
+   "date": "2026-03-05",
+   "quote": "冯纪新当上甘肃省长的时候胡锦涛提拔的副局级冯纪新当上甘肃省委书记的时候胡锦涛提拔政局级冯纪新1979年年底当上省长一年后就升任了省委书记"
+  },
+  {
+   "id": "rel-1243",
+   "subject": "胡锦涛",
+   "relation": "抓了宋平的马仔唐一军（胡锦涛不但不是宋平提拔的，还抓了好几个宋平的马仔；抓唐一军表面反腐、实际为了抓韩正、蔡奇、习远平）",
+   "object": "唐一军",
+   "status": "本档口径",
+   "episode": "9VMhil0n0M0",
+   "date": "2026-03-05",
+   "quote": "实际上胡锦涛不但不是宋平提拔的胡锦涛还抓了好几个宋平的马仔比如说唐一军"
+  },
+  {
+   "id": "rel-1254",
+   "subject": "邓小平",
+   "relation": "是胡锦涛的提拔人（胡锦涛是邓小平让当时的甘肃省委书记冯纪新提拔的，邓小平早就认识胡锦涛；媒体称宋平是胡锦涛最大伯乐纯属扯淡，胡锦涛在宋平手下连一个正局级都没提拔上去）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "episode": "1PT1-YLU-Aw",
+   "date": "2026-03-05",
+   "quote": "胡锦涛是邓小平让当时的甘肃省委书记冯纪新提拔的邓小平早就认识胡锦涛如果连提拔总书记的人都能搞错可见简体中文圈大部分内容都是假的"
+  },
+  {
+   "id": "rel-5179",
+   "subject": "美丽中国",
+   "relation": "首次提出（十八大报告）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "2012年11月8日在中共18大报告中胡锦涛首次提出努力建设美利中国",
+   "episode": "bGsDGj0D5Ek",
+   "date": "2026-03-06"
+  },
+  {
+   "id": "rel-5180",
+   "subject": "平安中国",
+   "relation": "首次提出（2004年中央政法工作会议）",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "首次提出时间是2004年来源是2004年中央政法工作会议当时的中央政法委书记是罗干国家主席是胡锦涛",
+   "episode": "bGsDGj0D5Ek",
+   "date": "2026-03-06"
+  },
+  {
+   "id": "rel-5181",
+   "subject": "八项规定",
+   "relation": "意志归属",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "所以八项规定是胡锦涛的规定不是习包子规定体现的是胡锦涛的意志不是习包子意志",
+   "episode": "bGsDGj0D5Ek",
+   "date": "2026-03-06"
+  },
+  {
+   "id": "rel-5183",
+   "subject": "胡锦涛",
+   "relation": "实际总书记（断语）",
+   "object": "中共",
+   "status": "本档口径・2026世界线待核",
+   "quote": "现在中共的实际权力结构就是总书记是胡锦涛副总书记是习包子",
+   "episode": "bGsDGj0D5Ek",
+   "date": "2026-03-06"
+  },
+  {
+   "id": "rel-5185",
+   "subject": "冯纪新",
+   "relation": "提拔",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "陆浩是冯纪新的秘书冯纪新提拔的胡锦涛陆浩还提拔了姜信治郝鹏和李希",
+   "episode": "bGsDGj0D5Ek",
+   "date": "2026-03-06"
+  },
+  {
+   "id": "rel-8806",
+   "subject": "李强",
+   "relation": "2026年政府工作报告被断胡锦涛口号71次对习口号39次、体现胡锦涛意志，本期推论胡或温家宝主导修改",
+   "object": "胡锦涛",
+   "status": "网友统计层＋本期推论层",
+   "episode": "Hr7Y0NC0jJ4",
+   "date": "2026-03-06",
+   "quote": "占比是65%对35%"
+  },
+  {
+   "id": "rel-8807",
+   "subject": "胡锦涛",
+   "relation": "被断重新掌权、直接废除了习包子对香港的强硬管制路线",
+   "object": "习包子",
+   "status": "本期总断层",
+   "episode": "Hr7Y0NC0jJ4",
+   "date": "2026-03-06",
+   "quote": "胡锦涛掌权后呢直接废除了习包子的强硬路线"
+  },
+  {
+   "id": "rel-8808",
+   "subject": "温家宝",
+   "relation": "2月11日写贺卡露面，被断体现了胡锦涛的意志",
+   "object": "胡锦涛",
+   "status": "本期断语层",
+   "episode": "Hr7Y0NC0jJ4",
+   "date": "2026-03-06",
+   "quote": "温家宝2月11号写了一张贺卡呢露面呢体现了胡锦涛的意志"
+  }
+ ],
+ "date_from": "2023-10-13",
+ "date_to": "2026-03-06"
+}

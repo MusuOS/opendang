@@ -1,0 +1,103 @@
+{
+ "id": "wang-qi-shan",
+ "name": "王岐山",
+ "aliases": [],
+ "stats": {
+  "episodes": 299,
+  "mentions": 1641,
+  "alias_mentions": {},
+  "first_date": "2023-11-05",
+  "last_date": "2026-10-14",
+  "title_count": 38
+ },
+ "register_links": [
+  {
+   "register": "capital-groups",
+   "entry": "海航系",
+   "matched_as": [
+    "王岐山"
+   ],
+   "n_eps": 46
+  },
+  {
+   "register": "capital-groups",
+   "entry": "天兴资本",
+   "matched_as": [
+    "王岐山"
+   ],
+   "n_eps": 1
+  },
+  {
+   "register": "fat-posts",
+   "entry": "隆基绿能高位接盘差价",
+   "matched_as": [
+    "王岐山"
+   ],
+   "n_eps": 1
+  }
+ ],
+ "counts": {
+  "events": 392,
+  "relations": 218
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/wang-qi-shan/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 75,
+    "date_from": "2023-11-05",
+    "date_to": "2025-06-16",
+    "bytes": 176974
+   },
+   {
+    "file": "events-002.json",
+    "count": 81,
+    "date_from": "2025-06-20",
+    "date_to": "2025-12-09",
+    "bytes": 177667
+   },
+   {
+    "file": "events-003.json",
+    "count": 77,
+    "date_from": "2025-12-09",
+    "date_to": "2026-04-13",
+    "bytes": 176436
+   },
+   {
+    "file": "events-004.json",
+    "count": 76,
+    "date_from": "2026-04-13",
+    "date_to": "2026-06-05",
+    "bytes": 174945
+   },
+   {
+    "file": "events-005.json",
+    "count": 61,
+    "date_from": "2026-06-06",
+    "date_to": "2026-09-04",
+    "bytes": 175808
+   },
+   {
+    "file": "events-006.json",
+    "count": 22,
+    "date_from": "2026-09-06",
+    "date_to": "2026-10-11",
+    "bytes": 57204
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 218,
+    "date_from": "2023-12-26",
+    "date_to": "2026-10-11",
+    "bytes": 75227
+   }
+  ],
+  "base": "entities/persons-chunked/wang-qi-shan/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

@@ -1,0 +1,73 @@
+{
+ "id": "wang-yi",
+ "name": "王毅",
+ "aliases": [],
+ "stats": {
+  "episodes": 107,
+  "mentions": 491,
+  "alias_mentions": {},
+  "first_date": "2023-10-13",
+  "last_date": "2026-09-27",
+  "title_count": 32
+ },
+ "current_caliber": [
+  {
+   "id": "rul-43",
+   "date": "2026-10-20",
+   "category": "口径冲突裁定",
+   "item": "冲突32 王毅归属",
+   "ruling": "现行口径：王毅归习派（指挥前台铁杆）。ep821 未定版层在前、ep830 明确断语在后，取 ep830。",
+   "effect": "归属取 ep830 口径；胡主导外交诸层降历史层。"
+  }
+ ],
+ "time_notes": [
+  {
+   "id": "rul-102",
+   "date": "2026-10-20",
+   "category": "人物卡注记",
+   "subject": "王毅",
+   "item": "王毅人物卡时点注记（编纂定版·2026-10-20）",
+   "ruling": "王毅人物卡加时点注记。时点列：归属主播明言未定、单列悬置（ep431）；2025-04-25 政治局集体学习缺席、常务副部长马昭旭出席疑为顶替（缺席层，ep350）；王毅邀乌外长、断胡派主导对乌外交层（ep697）；胡主导外交六信号层（ep703）；习派守外交部定性（ep739）；援乌层与 ep697 互证（ep752）；本期明言没搞明白、未定版（ep821）；指挥前台铁杆断语（ep830）；滞留莱索托（小说体层，ep851）。",
+   "basis": "编纂定版（2026-10-20）",
+   "history": "归属见 rul-43（归习派，依据 ep830）。本注记只处理时点呈现，不改归属裁定。",
+   "rule": "版式注记（非口径裁定）",
+   "effect": "烤制王毅词条时按本注记逐时点呈现并标层级。"
+  }
+ ],
+ "counts": {
+  "events": 106,
+  "relations": 37
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/wang-yi/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 83,
+    "date_from": "2023-10-13",
+    "date_to": "2026-04-22",
+    "bytes": 176524
+   },
+   {
+    "file": "events-002.json",
+    "count": 23,
+    "date_from": "2026-04-22",
+    "date_to": "2026-09-27",
+    "bytes": 72067
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 37,
+    "date_from": "2023-10-13",
+    "date_to": "2026-09-27",
+    "bytes": 13818
+   }
+  ],
+  "base": "entities/persons-chunked/wang-yi/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

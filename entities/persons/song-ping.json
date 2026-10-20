@@ -1,0 +1,49 @@
+{
+ "id": "song-ping",
+ "name": "宋平",
+ "aliases": [],
+ "stats": {
+  "episodes": 75,
+  "mentions": 403,
+  "alias_mentions": {},
+  "first_date": "2023-12-26",
+  "last_date": "2026-10-06",
+  "title_count": 10
+ },
+ "counts": {
+  "events": 84,
+  "relations": 45
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/song-ping/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 66,
+    "date_from": "2024-11-13",
+    "date_to": "2026-05-08",
+    "bytes": 176410
+   },
+   {
+    "file": "events-002.json",
+    "count": 18,
+    "date_from": "2026-05-14",
+    "date_to": "2026-10-06",
+    "bytes": 41726
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 45,
+    "date_from": "2024-11-21",
+    "date_to": "2026-09-26",
+    "bytes": 17232
+   }
+  ],
+  "base": "entities/persons-chunked/song-ping/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

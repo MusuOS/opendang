@@ -1,0 +1,130 @@
+{
+ "id": "ma-xing-rui",
+ "name": "马兴瑞",
+ "aliases": [],
+ "stats": {
+  "episodes": 264,
+  "mentions": 1614,
+  "alias_mentions": {},
+  "first_date": "2023-10-08",
+  "last_date": "2026-10-11",
+  "title_count": 95
+ },
+ "current_caliber": [
+  {
+   "id": "rul-37",
+   "date": "2026-10-20",
+   "category": "口径冲突裁定",
+   "item": "冲突26 马兴瑞提拔人",
+   "ruling": "现行口径：马兴瑞提拔人＝李鹏。",
+   "effect": "提拔人取李鹏口径；旧归属四层降历史层。状态账（ep730后诸层）分账保留。"
+  }
+ ],
+ "time_notes": [
+  {
+   "id": "rul-97",
+   "date": "2026-10-20",
+   "category": "人物卡注记",
+   "subject": "马兴瑞",
+   "item": "马兴瑞人物卡时点注记（编纂定版·2026-10-20）",
+   "ruling": "马兴瑞人物卡加时点注记，定性为「拿下时点诸说互斥、分账不归一」：其被拿下时点有 2025-06-30 说、2026-04 被查说与迄未官宣说三账互斥，另有当场抓推测、免职、双开诸表述层，分账并列不归一。时点列：11月28日当场抓推测（推测层，ep160）；2025-04-09 周边工作会议语境已作已经被拿下表述（ep171）；缺席专题研讨班名单（缺席层，ep191）；长期无法出现（2025-08 现身总账，ep443）；2025-06-30 被拿下说（ep285）；免职表述（ep203）；缺席 11-28 政治局会议后集体学习、未出席中央经济工作会议、12-25 会议后预期官宣被拿下而暂未官宣（状态层，ep514）；已双开待五中确认表述（ep324）；2026年4月被查表述（ep357）；被抓李希挑人洗地文经本期考辨否定（考辨层，ep213）。",
+   "basis": "编纂定版（2026-10-20）",
+   "history": "提拔人见 rul-37（李鹏，依据 ep730）。本注记只处理时点呈现，不改归属裁定。",
+   "rule": "版式注记（非口径裁定）",
+   "effect": "烤制马兴瑞词条时按本注记逐时点呈现并标层级。"
+  }
+ ],
+ "register_links": [
+  {
+   "register": "listed-companies",
+   "entry": "九丰能源",
+   "matched_as": [
+    "马兴瑞"
+   ],
+   "n_eps": 2,
+   "codes": [
+    "605090.SH"
+   ]
+  },
+  {
+   "register": "capital-groups",
+   "entry": "太盟投资集团",
+   "matched_as": [
+    "马兴瑞"
+   ],
+   "n_eps": 3
+  },
+  {
+   "register": "capital-groups",
+   "entry": "红警集团",
+   "matched_as": [
+    "马兴瑞"
+   ],
+   "n_eps": 1
+  }
+ ],
+ "counts": {
+  "events": 387,
+  "relations": 183
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/ma-xing-rui/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 80,
+    "date_from": "2023-10-08",
+    "date_to": "2025-09-19",
+    "bytes": 171800
+   },
+   {
+    "file": "events-002.json",
+    "count": 84,
+    "date_from": "2025-09-20",
+    "date_to": "2026-01-26",
+    "bytes": 176782
+   },
+   {
+    "file": "events-003.json",
+    "count": 88,
+    "date_from": "2026-01-28",
+    "date_to": "2026-04-12",
+    "bytes": 176226
+   },
+   {
+    "file": "events-004.json",
+    "count": 67,
+    "date_from": "2026-04-12",
+    "date_to": "2026-06-11",
+    "bytes": 177310
+   },
+   {
+    "file": "events-005.json",
+    "count": 65,
+    "date_from": "2026-06-12",
+    "date_to": "2026-10-11",
+    "bytes": 176842
+   },
+   {
+    "file": "events-006.json",
+    "count": 3,
+    "date_from": "2026-10-11",
+    "date_to": "2026-10-11",
+    "bytes": 15196
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 183,
+    "date_from": "2024-07-09",
+    "date_to": "2026-10-01",
+    "bytes": 64978
+   }
+  ],
+  "base": "entities/persons-chunked/ma-xing-rui/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

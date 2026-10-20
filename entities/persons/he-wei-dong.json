@@ -1,0 +1,94 @@
+{
+ "id": "he-wei-dong",
+ "name": "何卫东",
+ "aliases": [],
+ "stats": {
+  "episodes": 161,
+  "mentions": 529,
+  "alias_mentions": {},
+  "first_date": "2024-10-22",
+  "last_date": "2026-10-08",
+  "title_count": 54
+ },
+ "current_caliber": [
+  {
+   "id": "rul-59",
+   "date": "2026-10-20",
+   "category": "注记组A裁定",
+   "item": "注记A 何卫东提拔人三说",
+   "ruling": "现行口径：何卫东提拔人取赵克石说。",
+   "effect": "提拔人取 ep523 口径。"
+  }
+ ],
+ "time_notes": [
+  {
+   "id": "rul-96",
+   "date": "2026-10-20",
+   "category": "人物卡注记",
+   "subject": "何卫东",
+   "item": "何卫东人物卡时点注记（编纂定版·2026-10-20）",
+   "ruling": "何卫东人物卡加时点注记，定性为「失踪后全为缺席与传闻层、未官宣」：三中全会后内控说先行，数次露面被读作强行上线；2025-03-11 后再无公开出现，其后状态全为缺席记录、外媒免职传闻与时程推估，无官宣。时点列：三中全会后已被内控、几次露面皆报平安式强行上线（状态层，ep222）；2024-11-05 陪习视察火箭军、11-12 珠海航展、12-04 参观信息支援部队（现身层，ep222、ep215）；2024-12-09 缺席政治局集体学习（缺席层，ep222）；2025-03-11 全国人大会议闭幕后再未公开出现、缺席 04-08至09 中央周边工作会议（状态层，ep194）；失踪四个月、大概率被抓但未官宣（ep186）；金融时报引述称已在最近几周被免职（外媒引述层，ep250）；习包子去云南时把何卫东抓了（表述层，ep175）；从失踪到被罢免人大代表用了9个月（时程对账层，ep263、ep271）。",
+   "basis": "编纂定版（2026-10-20）",
+   "history": "提拔人见 rul-59（取赵克石说，ep523）。本注记只处理时点呈现。",
+   "rule": "版式注记（非口径裁定）",
+   "effect": "烤制何卫东词条时按本注记逐时点呈现并标层级。"
+  }
+ ],
+ "counts": {
+  "events": 331,
+  "relations": 71
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/he-wei-dong/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 77,
+    "date_from": "2024-10-22",
+    "date_to": "2025-06-06",
+    "bytes": 176456
+   },
+   {
+    "file": "events-002.json",
+    "count": 80,
+    "date_from": "2025-06-08",
+    "date_to": "2025-09-14",
+    "bytes": 176481
+   },
+   {
+    "file": "events-003.json",
+    "count": 70,
+    "date_from": "2025-09-17",
+    "date_to": "2025-12-17",
+    "bytes": 177385
+   },
+   {
+    "file": "events-004.json",
+    "count": 80,
+    "date_from": "2025-12-17",
+    "date_to": "2026-05-17",
+    "bytes": 174927
+   },
+   {
+    "file": "events-005.json",
+    "count": 24,
+    "date_from": "2026-05-20",
+    "date_to": "2026-10-09",
+    "bytes": 69869
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 71,
+    "date_from": "2024-11-08",
+    "date_to": "2026-09-02",
+    "bytes": 25325
+   }
+  ],
+  "base": "entities/persons-chunked/he-wei-dong/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

@@ -1,0 +1,31 @@
+{
+ "id": "zhu-juan",
+ "name": "朱隽",
+ "aliases": [],
+ "stats": {
+  "episodes": 0,
+  "mentions": 0,
+  "alias_mentions": {},
+  "first_date": null,
+  "last_date": null,
+  "title_count": 0
+ },
+ "counts": {
+  "events": 0,
+  "relations": 1
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "events": [],
+ "relations": [
+  {
+   "id": "rel-6946",
+   "subject": "朱卷",
+   "relation": "妻子（原文作朱卷，名待核）",
+   "object": "陆浩",
+   "status": "本期表述层",
+   "episode": "eD03qDdFhic",
+   "date": "2026-01-02",
+   "quote": "朱卷是朱镕基的秘书陆浩的媳妇"
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "id": "hu-chun-hua",
+ "name": "胡春华",
+ "aliases": [],
+ "stats": {
+  "episodes": 367,
+  "mentions": 2546,
+  "alias_mentions": {},
+  "first_date": "2023-10-08",
+  "last_date": "2026-10-11",
+  "title_count": 191
+ },
+ "time_notes": [
+  {
+   "id": "rul-83",
+   "date": "2026-10-20",
+   "category": "人物卡注记",
+   "subject": "胡春华",
+   "item": "胡春华人物卡时点注记（编纂定版·2026-10-20）",
+   "ruling": "胡春华人物卡加时点注记，定性为「接班叙事最密、但全无官宣」：接班人选诸说期数全档最密，从三套方案到秘密接任、内定接班诸版并存，皆为断语层、网传层、推论层或信号层，无一官宣。时点列：胡温三套接班方案（推论层，ep460）；代理军委主席框架——推定决定苗华开除（框架层，ep384）；已秘密接任总书记断（断语层，ep497）；接班诸说添例组（ep647、ep653、ep660、ep669、ep671、ep672）；增补军委副主席网传组（网传层，ep763、ep794、ep846）；五中代何立峰、六中接班说（推论层，ep825）；内定接班（标题层，ep862）；21大交班说（ep900）；胡海峰代父背书列为接班第六大信号（信号层，ep210）；接替三指标观察框架（框架层，ep202）。",
+   "basis": "编纂定版（2026-10-20）",
+   "history": "接班诸说归 rul-24 冲突13对账组照录不裁。本注记只处理时点呈现。",
+   "rule": "版式注记（非口径裁定）",
+   "effect": "烤制胡春华词条时按本注记逐时点呈现并标层级。"
+  }
+ ],
+ "counts": {
+  "events": 513,
+  "relations": 220
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/hu-chun-hua/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 88,
+    "date_from": "2023-10-08",
+    "date_to": "2025-06-21",
+    "bytes": 177413
+   },
+   {
+    "file": "events-002.json",
+    "count": 80,
+    "date_from": "2025-06-21",
+    "date_to": "2025-08-25",
+    "bytes": 176612
+   },
+   {
+    "file": "events-003.json",
+    "count": 74,
+    "date_from": "2025-08-25",
+    "date_to": "2025-10-12",
+    "bytes": 176504
+   },
+   {
+    "file": "events-004.json",
+    "count": 90,
+    "date_from": "2025-10-12",
+    "date_to": "2026-01-30",
+    "bytes": 177652
+   },
+   {
+    "file": "events-005.json",
+    "count": 81,
+    "date_from": "2026-01-30",
+    "date_to": "2026-04-19",
+    "bytes": 177214
+   },
+   {
+    "file": "events-006.json",
+    "count": 81,
+    "date_from": "2026-04-19",
+    "date_to": "2026-09-11",
+    "bytes": 176287
+   },
+   {
+    "file": "events-007.json",
+    "count": 19,
+    "date_from": "2026-09-11",
+    "date_to": "2026-10-11",
+    "bytes": 82405
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 220,
+    "date_from": "2024-08-17",
+    "date_to": "2026-10-03",
+    "bytes": 79797
+   }
+  ],
+  "base": "entities/persons-chunked/hu-chun-hua/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

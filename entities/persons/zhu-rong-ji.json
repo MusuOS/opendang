@@ -1,0 +1,172 @@
+{
+ "id": "zhu-rong-ji",
+ "name": "朱镕基",
+ "aliases": [
+  "陈长庚"
+ ],
+ "stats": {
+  "episodes": 406,
+  "mentions": 2396,
+  "alias_mentions": {
+   "陈长庚": 7
+  },
+  "first_date": "2023-12-26",
+  "last_date": "2026-10-14",
+  "title_count": 63
+ },
+ "faction_current": "朱镕基归习包子派系（传承链：陈云→李鹏→朱镕基→习包子，本档口径）",
+ "caliber_notes": [
+  "陈长庚和朱镕基是一个人：索引层并入朱镕基（分项留存），正文不动",
+  "朱镕基归习包子派系（传承链：陈云→李鹏→朱镕基→习包子，本档口径）",
+  "频道称陈长庚（即朱镕基）为陈云之子——按本档口径记录，非史实断言；原文出处待抽 2026-10-14 期（aPBLKoLF4qo）补齐"
+ ],
+ "current_caliber": [
+  {
+   "id": "rul-05",
+   "date": "2026-10-18",
+   "category": "索引归一",
+   "ruling": "陈长庚和朱镕基是一个人：索引层并入朱镕基（分项留存），正文不动",
+   "effect": "mentions-index 重建"
+  },
+  {
+   "id": "rul-09",
+   "date": "2026-10-18",
+   "category": "派系归属",
+   "ruling": "朱镕基归习包子派系（传承链：陈云→李鹏→朱镕基→习包子，本档口径）",
+   "effect": "人物卡归属从此判"
+  },
+  {
+   "id": "rul-11",
+   "date": "2026-10-18",
+   "category": "身世口径",
+   "ruling": "频道称陈长庚（即朱镕基）为陈云之子——按本档口径记录，非史实断言；出处：2026-10-14期（aPBLKoLF4qo）",
+   "effect": "人物卡口径栏留录"
+  },
+  {
+   "id": "rul-54",
+   "date": "2026-10-20",
+   "category": "注记组A裁定",
+   "item": "注记A 朱镕基源头账（与裁定9关系）",
+   "ruling": "现行口径：朱镕基派系源头取 ep871 新断（陈云—薄一波派系源头）。本条与既有裁定 rul-09（朱镕基归习系）不抵触：源头账与现行归属账分层并存，rul-09 保留。朱镕基生父说（ep869 未定版）、朱道弘身份（ep892 未定版）均无定版——维持悬置。",
+   "effect": "源头取 ep871 口径；生父与朱道弘两项点名悬置。"
+  }
+ ],
+ "time_notes": [
+  {
+   "id": "rul-100",
+   "date": "2026-10-20",
+   "category": "人物卡注记",
+   "subject": "朱镕基",
+   "item": "朱镕基人物卡时点注记（编纂定版·2026-10-20）",
+   "ruling": "朱镕基人物卡加时点注记。时点列：缺席 2021 年党庆、二十大开幕式与九三阅兵（状态层，ep490）；2025-10-17 清华经管顾问委员会年会、委托校长李路明转达问候（转述层，ep490）；97岁、行动不便但可能意识清醒、大力挺习说（ep498）；2026-01 去世传言层（ep696）；去世断语作 2026-08-12、享年 98 岁与 97 岁两写并存（断语层，ep324）；讣告复盘、7小时发布断早已备稿（ep434）。",
+   "basis": "编纂定版（2026-10-20）",
+   "history": "归属见 rul-09（归习系）、派系源头见 rul-54（取 ep871 陈云—薄一波源头新断）；生父说与朱道弘身份维持悬置。本注记只处理时点呈现，不改归属裁定。",
+   "rule": "版式注记（非口径裁定）",
+   "effect": "烤制朱镕基词条时按本注记逐时点呈现并标层级。"
+  }
+ ],
+ "register_links": [
+  {
+   "register": "capital-groups",
+   "entry": "海航系",
+   "matched_as": [
+    "朱镕基"
+   ],
+   "n_eps": 46
+  },
+  {
+   "register": "capital-groups",
+   "entry": "红杉中国",
+   "matched_as": [
+    "朱镕基"
+   ],
+   "n_eps": 2
+  },
+  {
+   "register": "fat-posts",
+   "entry": "广州市委书记（郭永航）",
+   "matched_as": [
+    "朱镕基"
+   ],
+   "n_eps": 1
+  }
+ ],
+ "counts": {
+  "events": 579,
+  "relations": 347
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/zhu-rong-ji/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 76,
+    "date_from": "2023-12-26",
+    "date_to": "2025-04-16",
+    "bytes": 173980
+   },
+   {
+    "file": "events-002.json",
+    "count": 92,
+    "date_from": "2025-04-16",
+    "date_to": "2025-09-10",
+    "bytes": 176370
+   },
+   {
+    "file": "events-003.json",
+    "count": 74,
+    "date_from": "2025-09-10",
+    "date_to": "2025-12-08",
+    "bytes": 177898
+   },
+   {
+    "file": "events-004.json",
+    "count": 77,
+    "date_from": "2025-12-08",
+    "date_to": "2026-03-05",
+    "bytes": 174739
+   },
+   {
+    "file": "events-005.json",
+    "count": 72,
+    "date_from": "2026-03-05",
+    "date_to": "2026-04-14",
+    "bytes": 177951
+   },
+   {
+    "file": "events-006.json",
+    "count": 72,
+    "date_from": "2026-04-14",
+    "date_to": "2026-06-14",
+    "bytes": 177061
+   },
+   {
+    "file": "events-007.json",
+    "count": 70,
+    "date_from": "2026-06-14",
+    "date_to": "2026-09-06",
+    "bytes": 177353
+   },
+   {
+    "file": "events-008.json",
+    "count": 46,
+    "date_from": "2026-09-06",
+    "date_to": "2026-10-14",
+    "bytes": 149443
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 347,
+    "date_from": "2024-01-29",
+    "date_to": "2026-10-14",
+    "bytes": 117750
+   }
+  ],
+  "base": "entities/persons-chunked/zhu-rong-ji/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

@@ -1,0 +1,561 @@
+{
+ "id": "zhang-de-jiang",
+ "name": "张德江",
+ "kind": "relations",
+ "part": 1,
+ "count": 55,
+ "relations": [
+  {
+   "id": "rel-2399",
+   "subject": "黄兴国",
+   "relation": "是张德江的人（吉林帮）",
+   "object": "张德江",
+   "status": "本期推断",
+   "episode": "B0e_o__kzC0",
+   "date": "2024-02-04",
+   "quote": "王如林和黄兴国都是吉林邦都是张德江的人"
+  },
+  {
+   "id": "rel-2084",
+   "subject": "于少良",
+   "relation": "提拔任湖北省委组织部长",
+   "object": "张德江",
+   "status": "本档口径",
+   "episode": "JdMAVlGIPfQ",
+   "date": "2024-10-02",
+   "quote": "就张大江提拔的呀张大江提拔了于少良担任湖北的组织部长"
+  },
+  {
+   "id": "rel-4384",
+   "subject": "孟祥锋",
+   "relation": "秘书",
+   "object": "张德江",
+   "status": "本档口径",
+   "quote": "他也是给张德江当秘书的",
+   "episode": "_L1svsPmGKI",
+   "date": "2024-11-08"
+  },
+  {
+   "id": "rel-2205",
+   "subject": "林志峰",
+   "relation": "是张德江的人（字幕名待核）",
+   "object": "张德江",
+   "status": "本档口径",
+   "episode": "qMeOPuRaeMA",
+   "date": "2024-12-04",
+   "quote": "林志峰啊是张德江的人啊"
+  },
+  {
+   "id": "rel-4717",
+   "subject": "张德江",
+   "relation": "提拔",
+   "object": "李强",
+   "status": "本档口径",
+   "quote": "张德江已经提拔了一个李强这个总理就是张德江提拔的陈敏尔也是张德江提拔的",
+   "episode": "sc7X_g49wMc",
+   "date": "2024-12-21"
+  },
+  {
+   "id": "rel-4718",
+   "subject": "张德江",
+   "relation": "提拔",
+   "object": "陈敏尔",
+   "status": "本档口径",
+   "quote": "张德江已经提拔了一个李强这个总理就是张德江提拔的陈敏尔也是张德江提拔的",
+   "episode": "sc7X_g49wMc",
+   "date": "2024-12-21"
+  },
+  {
+   "id": "rel-3889",
+   "subject": "胡春华",
+   "relation": "被联手推动挑战习权威（推胡阵营成员）",
+   "object": "张德江",
+   "status": "本档口径",
+   "quote": "这可能是由胡锦涛、温家宝、李瑞环、张德江等人联手推动,挑战洗包子的权威啊",
+   "episode": "G-BG9nejkMM",
+   "date": "2025-04-10"
+  },
+  {
+   "id": "rel-2507",
+   "subject": "刘非",
+   "relation": "是张德江的人（经王儒林线推断）",
+   "object": "张德江",
+   "status": "本期推断",
+   "episode": "Zfv6ITVQM_Q",
+   "date": "2025-04-26",
+   "quote": "他八成是张德江的人"
+  },
+  {
+   "id": "rel-3303",
+   "subject": "王儒林",
+   "relation": "张德江的人、江泽民的人",
+   "object": "张德江",
+   "status": "本期断语",
+   "episode": "18GtQF59hXc",
+   "date": "2025-04-26",
+   "quote": "王如林呢就是张德江的人啊也是江泽民的人"
+  },
+  {
+   "id": "rel-3309",
+   "subject": "刘非",
+   "relation": "很有可能是张德江提拔的、属江泽民派系",
+   "object": "张德江",
+   "status": "本期推断・未定版",
+   "episode": "18GtQF59hXc",
+   "date": "2025-04-26",
+   "quote": "刘非呢他很有可能是张德江提拔的呀"
+  },
+  {
+   "id": "rel-2556",
+   "subject": "张德江",
+   "relation": "传任中央决策委员会副主任",
+   "object": "中央决策委员会",
+   "status": "传闻・本期未证实",
+   "episode": "7nduMGV0ynA",
+   "date": "2025-07-01",
+   "quote": "传言呢胡锦涛担任中央决策委员会的主任李瑞环温家宝张德江担任副主任"
+  },
+  {
+   "id": "rel-4724",
+   "subject": "张德江",
+   "relation": "副主任（据传）",
+   "object": "中央决策委员会",
+   "status": "本档口径・据传层",
+   "quote": "据传中央决策委员会的主任是胡锦涛副主任是李瑞环温家宝张德江委员是习包子李强和赵乐际",
+   "episode": "CO41mgK0OYk",
+   "date": "2025-07-03"
+  },
+  {
+   "id": "rel-4728",
+   "subject": "张德江",
+   "relation": "江派新共主",
+   "object": "江派",
+   "status": "本档口径",
+   "quote": "张德江是江泽民死后江派的新的共主张德江在2012年至2017年担任政治局常委和全国人大委员长",
+   "episode": "CO41mgK0OYk",
+   "date": "2025-07-03"
+  },
+  {
+   "id": "rel-4729",
+   "subject": "张德江",
+   "relation": "提拔",
+   "object": "李强",
+   "status": "本档口径",
+   "quote": "张德江的特殊身份在于张德江提拔的李强在浙江提拔的李强早年在民政部也有交集",
+   "episode": "CO41mgK0OYk",
+   "date": "2025-07-03"
+  },
+  {
+   "id": "rel-4730",
+   "subject": "张德江",
+   "relation": "三人中说了算",
+   "object": "李强",
+   "status": "本档口径",
+   "quote": "从黄建发的派系背景来看张德江李强江绵恒三个人张德江说了算谁掌握了人事权谁就是老大",
+   "episode": "CO41mgK0OYk",
+   "date": "2025-07-03"
+  },
+  {
+   "id": "rel-4731",
+   "subject": "张德江",
+   "relation": "三人中说了算",
+   "object": "江绵恒",
+   "status": "本档口径",
+   "quote": "从黄建发的派系背景来看张德江李强江绵恒三个人张德江说了算谁掌握了人事权谁就是老大",
+   "episode": "CO41mgK0OYk",
+   "date": "2025-07-03"
+  },
+  {
+   "id": "rel-2954",
+   "subject": "张德江",
+   "relation": "是江派共主",
+   "object": "江派",
+   "status": "本档口径",
+   "episode": "imn3RVhyc0U",
+   "date": "2025-07-04",
+   "quote": "从排名中张德江就是江派的公主"
+  },
+  {
+   "id": "rel-2955",
+   "subject": "李强",
+   "relation": "是张德江提拔的",
+   "object": "张德江",
+   "status": "本档口径",
+   "episode": "imn3RVhyc0U",
+   "date": "2025-07-04",
+   "quote": "温暖就是李强提拔的李强就是张德江提拔的"
+  },
+  {
+   "id": "rel-7778",
+   "subject": "张德江",
+   "relation": "被断为江派共主、掌握人事大权",
+   "object": "江派",
+   "status": "本期断语层",
+   "episode": "Mk6nuIz8om8",
+   "date": "2025-07-04",
+   "quote": "因为张德江掌握人事大权啊所以张德江是江派的共主"
+  },
+  {
+   "id": "rel-4908",
+   "subject": "王国平",
+   "relation": "大秘",
+   "object": "张德江",
+   "status": "本档口径",
+   "quote": "王國平是張德江的大秘",
+   "episode": "6QuULlYaDV8",
+   "date": "2025-07-22"
+  },
+  {
+   "id": "rel-4909",
+   "subject": "林志峰",
+   "relation": "由其提拔（推定）",
+   "object": "张德江",
+   "status": "本档口径・推论层",
+   "quote": "林志峰是在習包子去浙江之後第一個月被提拔的應該就是張德江提拔的",
+   "episode": "6QuULlYaDV8",
+   "date": "2025-07-22"
+  },
+  {
+   "id": "rel-4917",
+   "subject": "林志峰",
+   "relation": "马仔",
+   "object": "张德江",
+   "status": "本档口径・定版表述",
+   "quote": "總結就是林志峰是張德江和李强的馬仔",
+   "episode": "6QuULlYaDV8",
+   "date": "2025-07-22"
+  },
+  {
+   "id": "rel-3254",
+   "subject": "王国平",
+   "relation": "张德江的大秘（时任杭州市委书记）",
+   "object": "张德江",
+   "status": "本档口径",
+   "episode": "tIDo37D03wI",
+   "date": "2025-07-23",
+   "quote": "2002年林志峰第一次晋升正处级担任淳安县组织部长当时的杭州市委书记是王国平张德江的大秘"
+  },
+  {
+   "id": "rel-2413",
+   "subject": "孟祥锋",
+   "relation": "好像是张德江的人",
+   "object": "张德江",
+   "status": "本期推断",
+   "episode": "Sm1ejmMJf7k",
+   "date": "2025-07-30",
+   "quote": "这个孟祥锋呢好像是张德江的人"
+  },
+  {
+   "id": "rel-4862",
+   "subject": "张又侠",
+   "relation": "若江派须听命",
+   "object": "张德江",
+   "status": "本档口径・假设层",
+   "quote": "张又侠如果是江泽民派系的他能不听张德江和曾庆红的吗",
+   "episode": "16vrOUudrpU",
+   "date": "2025-08-04"
+  },
+  {
+   "id": "rel-5263",
+   "subject": "黄建发",
+   "relation": "派系链（经温暖—李强）",
+   "object": "张德江",
+   "status": "本档口径・推论层",
+   "quote": "组织部副部长温暖是当年李强亲手提拔的李强是张德江提拔的",
+   "episode": "TcVPWZ96a-c",
+   "date": "2025-08-04"
+  },
+  {
+   "id": "rel-5264",
+   "subject": "张德江",
+   "relation": "江派共主",
+   "object": "江派",
+   "status": "本档口径",
+   "quote": "说明江派的共主是张德江",
+   "episode": "TcVPWZ96a-c",
+   "date": "2025-08-04"
+  },
+  {
+   "id": "rel-5267",
+   "subject": "张德江",
+   "relation": "更接近邓小平家族",
+   "object": "邓朴方、俞正声",
+   "status": "本档口径",
+   "quote": "据说张德江与已故的江泽民关系密切但由于张德江与邓朴方和余正生的关系他实际上更接近邓小平家族",
+   "episode": "TcVPWZ96a-c",
+   "date": "2025-08-04"
+  },
+  {
+   "id": "rel-1444",
+   "subject": "孙绍骋",
+   "relation": "是张德江、李强的马仔（1984 至 1987 年孙绍骋在民政部救灾司任干部、救灾司一共就 20 个人、上级是民政部副部长张德江；孙绍骋和李强曾经在一个 20 个人的单位一起工作过半年；在浙江李强也是张德江的下属、张德江任浙江省委书记时李强参加中青班培训取得副部级资格）",
+   "object": "张德江",
+   "status": "本档口径",
+   "episode": "41yq1ihkRaU",
+   "date": "2025-08-13",
+   "quote": "孙绍秤就是张德江李强的马仔"
+  },
+  {
+   "id": "rel-2057",
+   "subject": "孙绍骋",
+   "relation": "在民政部就是张德江的下属（其后接替孟凡利任内蒙古书记）",
+   "object": "张德江",
+   "status": "本档口径",
+   "episode": "XpaZSkyE78c",
+   "date": "2025-10-01",
+   "quote": "孙绍称接替内蒙古书记孙绍称在民政部就是张德江的下属"
+  },
+  {
+   "id": "rel-0165",
+   "subject": "王伟中",
+   "relation": "本期称科技部主管副总理张德江提拔的，派系待研究",
+   "object": "张德江",
+   "status": "本期存疑",
+   "episode": "64EYE3nMYjc",
+   "date": "2025-10-05",
+   "quote": "我一开始注意到的是王伟中他在科技部是主管副总理张德江提拔的"
+  },
+  {
+   "id": "rel-4998",
+   "subject": "王国平",
+   "relation": "大秘",
+   "object": "张德江",
+   "status": "本档口径",
+   "quote": "九年多他是张德江的大名所以杭州市很可能是张德江派系的地盘啊",
+   "episode": "N-g0PACTFeA",
+   "date": "2025-12-01"
+  },
+  {
+   "id": "rel-6538",
+   "subject": "林中麟",
+   "relation": "可能有背景",
+   "object": "张德江",
+   "status": "本期推断",
+   "quote": "而且林中林有可能有张德江的背景,江派的张德江说了算,张德江提拔的李强",
+   "episode": "nY0TpCBA-Oc",
+   "date": "2026-01-24"
+  },
+  {
+   "id": "rel-6539",
+   "subject": "张德江",
+   "relation": "提拔",
+   "object": "李强",
+   "status": "本档口径",
+   "quote": "张德江提拔的李强",
+   "episode": "nY0TpCBA-Oc",
+   "date": "2026-01-24"
+  },
+  {
+   "id": "rel-3864",
+   "subject": "曾庆红",
+   "relation": "江派做主权被否定（张德江说了算）",
+   "object": "张德江",
+   "status": "本档口径・断语",
+   "quote": "江派不是曾庆红说了算江派是张德江说了算",
+   "episode": "JjNLMDYN4S0",
+   "date": "2026-02-11"
+  },
+  {
+   "id": "rel-3871",
+   "subject": "陈俊年",
+   "relation": "曾下属",
+   "object": "张德江",
+   "status": "本档口径・参考注记",
+   "quote": "陈俊年曾经是政局级官员曾经是张德江的下属啊",
+   "episode": "JjNLMDYN4S0",
+   "date": "2026-02-11"
+  },
+  {
+   "id": "rel-0500",
+   "subject": "张德江",
+   "relation": "本期称现在才是江派的老大",
+   "object": "江泽民",
+   "status": "本档口径",
+   "episode": "jlSFC0Ggpj4",
+   "date": "2026-04-04",
+   "quote": "张德江现在才是江派的老大"
+  },
+  {
+   "id": "rel-5148",
+   "subject": "张德江",
+   "relation": "江派话事人（江泽民死后）",
+   "object": "江派",
+   "status": "本档口径",
+   "quote": "江派是江泽民说了算直接说江泽民就行了不是曾庆红说了算江泽民死了是张德江说了算曾庆红他就没有说了算的时候",
+   "episode": "TXp0dxbjfnY",
+   "date": "2026-04-11"
+  },
+  {
+   "id": "rel-0696",
+   "subject": "肖志恒",
+   "relation": "本期称张德江的大秘（汪洋任广东省委书记时第一个大秘）",
+   "object": "张德江",
+   "status": "本档口径",
+   "episode": "CBKl-5LU8FQ",
+   "date": "2026-04-13",
+   "quote": "汪洋担任广东省委书记期间第一个大秘肖志恒是张德江的大秘"
+  },
+  {
+   "id": "rel-1136",
+   "subject": "王伟中",
+   "relation": "应该是张德江的人",
+   "object": "张德江",
+   "status": "本期推断",
+   "episode": "dMNJsrmmK3A",
+   "date": "2026-04-14",
+   "quote": "陆新社什么派系的不清楚王伟中应该是张德江的人"
+  },
+  {
+   "id": "rel-5407",
+   "subject": "王旺盛",
+   "relation": "马仔（政敌层表述）",
+   "object": "张德江",
+   "status": "本档口径",
+   "quote": "王旺盛很明显是胡春华的政敌而不是胡春华的马仔是张德江的马仔",
+   "episode": "l5WrEtpDP8A",
+   "date": "2026-05-02"
+  },
+  {
+   "id": "rel-4091",
+   "subject": "王伟中",
+   "relation": "马仔",
+   "object": "张德江",
+   "status": "本档口径・定版表述",
+   "quote": "那王伟中他就是张德江的马仔",
+   "episode": "xtoP0rq4w1o",
+   "date": "2026-06-05"
+  },
+  {
+   "id": "rel-4097",
+   "subject": "孙绍称",
+   "relation": "有可能就是其马仔（推测）",
+   "object": "张德江",
+   "status": "本档口径・推测层",
+   "quote": "孙绍称有可能就是张德江的马仔被习包子抓走了",
+   "episode": "xtoP0rq4w1o",
+   "date": "2026-06-05"
+  },
+  {
+   "id": "rel-1523",
+   "subject": "赵一德",
+   "relation": "的正局级是张德江提拔的（2000 年 6 月赵一德任共青团浙江省委副书记、浙江省青联主席、这一步赵一德已经晋升了正局级、是最关键的、当时的浙江省委书记是张德江；2003 年赵一德任共青团浙江省委书记、实际上是从青联主席正局级平调、不是习包子提拔的）",
+   "object": "张德江",
+   "status": "本档口径",
+   "episode": "T8bZ-P4Rxfs",
+   "date": "2026-06-29",
+   "quote": "赵一德的政局即是张德江提拔的不是习包子提拔的"
+  },
+  {
+   "id": "rel-5165",
+   "subject": "孙卫东",
+   "relation": "第一个后台（可能）",
+   "object": "张德江",
+   "status": "本期推断",
+   "quote": "所以孙卫东的第一个后台呢可能就是张德江啊",
+   "episode": "scS6TqTTKvg",
+   "date": "2026-07-05"
+  },
+  {
+   "id": "rel-5166",
+   "subject": "张德江",
+   "relation": "江派现在的老大",
+   "object": "江派",
+   "status": "本档口径",
+   "quote": "江泰现在真正的老大应该是张德江啊",
+   "episode": "scS6TqTTKvg",
+   "date": "2026-07-05"
+  },
+  {
+   "id": "rel-5168",
+   "subject": "张德江",
+   "relation": "隔空传承（民政部）",
+   "object": "王国权",
+   "status": "本档口径・推论层",
+   "quote": "这依然呈现出一种清晰的派系传承的逻辑",
+   "episode": "scS6TqTTKvg",
+   "date": "2026-07-05"
+  },
+  {
+   "id": "rel-3028",
+   "subject": "王伟中",
+   "relation": "派系两说并存：张德江马仔说与邓楠马仔说，本期未定版",
+   "object": "张德江",
+   "status": "传闻・本期未证实",
+   "episode": "s5cOSzlnMIA",
+   "date": "2026-07-06",
+   "quote": "有人说是张德江的马仔有人说是邓小平女儿邓楠的马仔"
+  },
+  {
+   "id": "rel-6466",
+   "subject": "施克辉",
+   "relation": "干儿子",
+   "object": "张德江",
+   "status": "本期断语",
+   "quote": "施克辉和朱忠明呢他就相当于张德江和赵洪祝的两个干儿子",
+   "episode": "kuA3ooYLGy8",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "rel-1957",
+   "subject": "张德江",
+   "relation": "江泽民死后江派真正的老大（再证）",
+   "object": "江泽民",
+   "status": "本档口径",
+   "episode": "CR8O-4p1z6I",
+   "date": "2026-09-05",
+   "quote": "在江泽民死后张德江就是江派真正的老大"
+  },
+  {
+   "id": "rel-1958",
+   "subject": "朱忠明",
+   "relation": "30岁任财政厅办公室副主任系张德江定向培养定向提拔",
+   "object": "张德江",
+   "status": "本档口径",
+   "episode": "CR8O-4p1z6I",
+   "date": "2026-09-05",
+   "quote": "朱忠明在30岁的时候就被张德江安排在财政厅办公室副主任的位置上这就是江派早期的最典型的定向培养定向提拔"
+  },
+  {
+   "id": "rel-1960",
+   "subject": "陈德荣",
+   "relation": "嘉兴市长系张德江任内提拔",
+   "object": "张德江",
+   "status": "本档口径",
+   "episode": "CR8O-4p1z6I",
+   "date": "2026-09-05",
+   "quote": "陈德荣的嘉兴师长是在张德江的任期内提拔的"
+  },
+  {
+   "id": "rel-0943",
+   "subject": "张德江",
+   "relation": "是现任的江派老大（政变后主导稳定政局、有资格参与分赃）",
+   "object": "江泽民",
+   "status": "本档口径",
+   "episode": "soZ69_i9k_k",
+   "date": "2026-09-06",
+   "quote": "张德江作为现任的江派老大他为什么能够参与分赃呢"
+  },
+  {
+   "id": "rel-0945",
+   "subject": "孙绍诚",
+   "relation": "归属待深挖：若是张德江的马仔，则在抛牌战中是张的战损（本期未定）",
+   "object": "张德江",
+   "status": "本期推断",
+   "episode": "soZ69_i9k_k",
+   "date": "2026-09-06",
+   "quote": "孙绍称如果是张德江的马仔那就是战损啊"
+  },
+  {
+   "id": "rel-1780",
+   "episode": "EfHvY0-CR5E",
+   "date": "2026-09-12",
+   "subject": "陈德荣",
+   "relation": "嘉兴市长一职是张德江在浙江书记任内亲手提拔安排的",
+   "object": "张德江",
+   "status": "本档口径",
+   "quote": "陈德荣的嘉兴市长是在张德江这个江派老大现任的老大江泽民死了之后张德江就是老大没得说在任内提拔的亲手安排的"
+  }
+ ],
+ "date_from": "2024-02-04",
+ "date_to": "2026-09-12"
+}

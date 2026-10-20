@@ -1,0 +1,20 @@
+{
+ "id": "lu-jun-zheng",
+ "name": "陆军政",
+ "aliases": [],
+ "stats": {
+  "episodes": 38,
+  "mentions": 64,
+  "alias_mentions": {},
+  "first_date": "2024-09-06",
+  "last_date": "2026-10-07",
+  "title_count": 7
+ },
+ "counts": {
+  "events": 0,
+  "relations": 0
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "events": [],
+ "relations": []
+}

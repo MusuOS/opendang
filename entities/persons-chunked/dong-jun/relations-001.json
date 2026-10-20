@@ -1,0 +1,451 @@
+{
+ "id": "dong-jun",
+ "name": "董军",
+ "kind": "relations",
+ "part": 1,
+ "count": 44,
+ "relations": [
+  {
+   "id": "rel-0295",
+   "subject": "董军",
+   "relation": "本期称苗华的亲信（至今未进军委）",
+   "object": "苗华",
+   "status": "本档口径",
+   "episode": "MIzLfbL0vTw",
+   "date": "2024-10-14",
+   "quote": "加上苗华的亲信董军呢至今没有进军委也没有被任命为国务委员"
+  },
+  {
+   "id": "rel-4951",
+   "subject": "董军",
+   "relation": "可能受到波及",
+   "object": "苗华",
+   "status": "转述层",
+   "quote": "包括去年才上任的新任国防部长海军上将董军也会受到波及",
+   "episode": "EfsBA5SCaRQ",
+   "date": "2024-11-12"
+  },
+  {
+   "id": "rel-5773",
+   "subject": "董军",
+   "relation": "提拔",
+   "object": "苗华",
+   "status": "本档口径",
+   "quote": "国防部长董军 火箭军 司令王厚斌 海军政委袁花之这几个苗花提拔的",
+   "episode": "Fv-JNgiRVrU",
+   "date": "2024-11-29"
+  },
+  {
+   "id": "rel-5704",
+   "subject": "吴亚男",
+   "relation": "接任国防部长（预测）",
+   "object": "董军",
+   "status": "本期预测",
+   "quote": "国防部长应该是江泽民派系的南部战区司令吴亚男啊",
+   "episode": "p_NvYFmeH0I",
+   "date": "2024-12-06"
+  },
+  {
+   "id": "rel-2248",
+   "subject": "董军",
+   "relation": "与苗华高度绑定、难逃处理",
+   "object": "苗华",
+   "status": "本档口径",
+   "episode": "U30TYdTH7aw",
+   "date": "2024-12-11",
+   "quote": "由于董军和苗华是高度绑定的几乎没有分析人员相信董军能逃得过去"
+  },
+  {
+   "id": "rel-2249",
+   "subject": "吴亚男",
+   "relation": "本期推测将接替董军任国防部长",
+   "object": "董军",
+   "status": "本期推断",
+   "episode": "U30TYdTH7aw",
+   "date": "2024-12-11",
+   "quote": "推测是南部战区司令吴亚男接替董军国防部长的职位"
+  },
+  {
+   "id": "rel-2905",
+   "subject": "吴亚男",
+   "relation": "被预测接替董军任国防部长",
+   "object": "董军",
+   "status": "本期推断",
+   "episode": "YWGr1tKBTKw",
+   "date": "2024-12-16",
+   "quote": "吴亚男有可能就要接替董军国防部长的位置"
+  },
+  {
+   "id": "rel-1233",
+   "subject": "董军",
+   "relation": "最早是大连舰艇学院出身、是朱镕基的关系（仕途与苗华有关；未获军委委员或国务委员头衔、地位脆弱，被处理概率很高）",
+   "object": "朱镕基",
+   "status": "本档口径",
+   "episode": "LKE5je4i88I",
+   "date": "2025-04-11",
+   "quote": "董军的仕途与苗花有关呢但是最早是在大连舰艇学院啊是朱镕基的关系董军没有获得军委委员或者国务院的头衔呢地位脆弱"
+  },
+  {
+   "id": "rel-1234",
+   "subject": "刘振立",
+   "relation": "频频现身、暗示将接替董军（2025-04-09 董军缺席国防大学研讨会、由刘振立代替出面）",
+   "object": "董军",
+   "status": "本期推断",
+   "episode": "LKE5je4i88I",
+   "date": "2025-04-11",
+   "quote": "第二天呢董军没有现身国防大学五官研讨会刘振立代替董军出面呢令人生疑刘振立频频现身暗示将接替董军呢"
+  },
+  {
+   "id": "rel-1969",
+   "subject": "苗华",
+   "relation": "被视为董军升迁的推荐人",
+   "object": "董军",
+   "status": "本档口径",
+   "episode": "OSxH8Ycccvo",
+   "date": "2025-04-15",
+   "quote": "苗华被视为是董军升迁的推荐人"
+  },
+  {
+   "id": "rel-1970",
+   "subject": "董军",
+   "relation": "曾经是苗华在海军时期的部下",
+   "object": "苗华",
+   "status": "本档口径",
+   "episode": "OSxH8Ycccvo",
+   "date": "2025-04-15",
+   "quote": "董军曾经是苗华在海军时期的部下"
+  },
+  {
+   "id": "rel-1971",
+   "subject": "董军",
+   "relation": "可能因为提供苗华案相关信息而戴罪立功、暂时保住职位（二五仔说）",
+   "object": "苗华",
+   "status": "本期推断",
+   "episode": "OSxH8Ycccvo",
+   "date": "2025-04-15",
+   "quote": "董军可能因为苗华案提供相关信息而戴罪立功,暂时保住职位,也就是董军是个二五载"
+  },
+  {
+   "id": "rel-1972",
+   "subject": "刘振立",
+   "relation": "经常顶替董军履行国防部长场合的职责（军事代表团会议等）",
+   "object": "董军",
+   "status": "本档口径",
+   "episode": "OSxH8Ycccvo",
+   "date": "2025-04-15",
+   "quote": "刘振立经常顶替董军的工作"
+  },
+  {
+   "id": "rel-1973",
+   "subject": "胡锦涛",
+   "relation": "三中全会后不让董军当军委委员、当国务委员，阻其晋升副国级",
+   "object": "董军",
+   "status": "本档口径",
+   "episode": "OSxH8Ycccvo",
+   "date": "2025-04-15",
+   "quote": "胡锦涛他不让董军当军委员当国务委员,就不让董军晋升副国级"
+  },
+  {
+   "id": "rel-3608",
+   "subject": "赵小哲",
+   "relation": "绑定（同案线）",
+   "object": "董军",
+   "status": "本档口径",
+   "episode": "6EBeQCvd6uU",
+   "date": "2025-04-27",
+   "quote": "赵小哲他和董军是绑定的说明董军还得被抓"
+  },
+  {
+   "id": "rel-3611",
+   "subject": "董军",
+   "relation": "早年靠其关系入线（大连舰艇学院）",
+   "object": "赵小哲",
+   "status": "本档口径",
+   "episode": "6EBeQCvd6uU",
+   "date": "2025-04-27",
+   "quote": "董军早年在大连舰艇学院走的就是赵小哲和朱镕基的关系后期才是苗华彭丽媛提拔的"
+  },
+  {
+   "id": "rel-3612",
+   "subject": "董军",
+   "relation": "后期提拔",
+   "object": "苗华",
+   "status": "本档口径",
+   "episode": "6EBeQCvd6uU",
+   "date": "2025-04-27",
+   "quote": "董军早年在大连舰艇学院走的就是赵小哲和朱镕基的关系后期才是苗华彭丽媛提拔的"
+  },
+  {
+   "id": "rel-3613",
+   "subject": "董军",
+   "relation": "后期提拔",
+   "object": "彭丽媛",
+   "status": "本档口径",
+   "episode": "6EBeQCvd6uU",
+   "date": "2025-04-27",
+   "quote": "董军早年在大连舰艇学院走的就是赵小哲和朱镕基的关系后期才是苗华彭丽媛提拔的"
+  },
+  {
+   "id": "rel-5503",
+   "subject": "董军",
+   "relation": "缺席",
+   "object": "香格里拉对话会",
+   "status": "外部报道层",
+   "quote": "中共的國防部長董軍罕見的缺席啊",
+   "episode": "w90wey8FOeE",
+   "date": "2025-06-08"
+  },
+  {
+   "id": "rel-7682",
+   "subject": "张展南",
+   "relation": "早年提拔董军",
+   "object": "董军",
+   "status": "本期层（董军提拔人多层添例）",
+   "episode": "_NMJ_G740g8",
+   "date": "2025-06-28",
+   "quote": "张展南早年提拔的海军参谋长李汉军和国防部长董军啊"
+  },
+  {
+   "id": "rel-7304",
+   "subject": "董军",
+   "relation": "张展南提拔（军训部长）",
+   "object": "张展南",
+   "status": "本期推测层",
+   "episode": "OLTQGV-U0a0",
+   "date": "2025-06-29",
+   "quote": "2006年至2009年之间呢张展南担任海军副司令中将的时候呢提拔的董军担任海军军训部的部长正师级啊"
+  },
+  {
+   "id": "rel-2779",
+   "subject": "张展南",
+   "relation": "提拔了国防部长董军",
+   "object": "董军",
+   "status": "本档口径",
+   "episode": "wIaSajVw1Po",
+   "date": "2025-08-12",
+   "quote": "张展南提拔的中国国防部长董军"
+  },
+  {
+   "id": "rel-7020",
+   "subject": "董军",
+   "relation": "提拔",
+   "object": "张展南",
+   "status": "本期表述层",
+   "episode": "qGbHqZB8kgI",
+   "date": "2025-08-24",
+   "quote": "董军和李汉军一样都是中国的海军副司令张展南提拔的"
+  },
+  {
+   "id": "rel-7023",
+   "subject": "董军",
+   "relation": "不利口供被宽大处理（网传）",
+   "object": "苗华",
+   "status": "传闻・未证实",
+   "episode": "qGbHqZB8kgI",
+   "date": "2025-08-24",
+   "quote": "网传总君因为对苗华做出了不利的口供被宽大处理"
+  },
+  {
+   "id": "rel-1801",
+   "episode": "mp-l62GAFXs",
+   "date": "2025-08-27",
+   "subject": "董军",
+   "relation": "本是已经落马的军委政治工作部主任苗华的人",
+   "object": "苗华",
+   "status": "本档口径",
+   "quote": "只是张又侠对董军不信任董军本是已经落马的军委政治工作部主任苗华的人董军是张展南提拔的"
+  },
+  {
+   "id": "rel-1802",
+   "episode": "mp-l62GAFXs",
+   "date": "2025-08-27",
+   "subject": "董军",
+   "relation": "是张展南提拔的（本期海军中校转述语境、张展南是中国前海军副司令）",
+   "object": "张展南",
+   "status": "本期推断",
+   "quote": "董军是张展南提拔的张展南是中国前海军副司令董军的确是不会出来阅兵"
+  },
+  {
+   "id": "rel-5517",
+   "subject": "董军",
+   "relation": "未被抓（国防部长全抓面子上不好看）",
+   "object": "习包子",
+   "status": "本期推断",
+   "quote": "董军没抓呢只能解释成国防部长啊全都抓了面子上不好看不可能是洗包子保下来的",
+   "episode": "_1BL3kefC9E",
+   "date": "2025-09-02"
+  },
+  {
+   "id": "rel-2707",
+   "subject": "张林",
+   "relation": "与董军、李汉军是同一个案子（同批罢免人大代表）",
+   "object": "董军",
+   "status": "本档口径",
+   "episode": "NJdrXRyg2vM",
+   "date": "2025-09-13",
+   "quote": "如果张林最早就是张展南提拔的张林呢和董军李汉军呢都是一个案子"
+  },
+  {
+   "id": "rel-7249",
+   "subject": "董军",
+   "relation": "习包子唯一的孤忠",
+   "object": "习包子",
+   "status": "本档口径再申",
+   "episode": "KHl5ZRXzQTo",
+   "date": "2025-10-02",
+   "quote": "这个世界上真正忠于习包子的人只有一个就是董军唯一的孤中啊最后的孤中"
+  },
+  {
+   "id": "rel-7577",
+   "subject": "董军",
+   "relation": "被断为习军中唯一未被抓者（本期推测层）",
+   "object": "习包子",
+   "status": "本期推测层",
+   "episode": "ZJq4Afa4ph4",
+   "date": "2025-10-06",
+   "quote": "最合理的推测就是细胞子在军队之中呢除了董军所有人都被抓了"
+  },
+  {
+   "id": "rel-8018",
+   "subject": "董军",
+   "relation": "国防部长、非军委委员，为固定出台的四名上将之一",
+   "object": "国防部长",
+   "status": "本期盘点层",
+   "episode": "23ueyPMPPOw",
+   "date": "2025-12-23",
+   "quote": "董军虽然不是军委委员但是是国防部长呢"
+  },
+  {
+   "id": "rel-4252",
+   "subject": "董军",
+   "relation": "被断为二人被抓之后的下一个（预测）",
+   "object": "张又侠",
+   "status": "本档口径・预测",
+   "quote": "张又侠刘振立被抓了之后下一个应该就是董军了",
+   "episode": "3EF6DuUm5cU",
+   "date": "2026-01-31"
+  },
+  {
+   "id": "rel-4253",
+   "subject": "董军",
+   "relation": "很可能由其提拔",
+   "object": "张展南",
+   "status": "本档口径・推论层",
+   "quote": "董军很可能是张展南提拔的",
+   "episode": "3EF6DuUm5cU",
+   "date": "2026-01-31"
+  },
+  {
+   "id": "rel-4254",
+   "subject": "李汉军",
+   "relation": "接替其（军训部部长）",
+   "object": "董军",
+   "status": "本档口径・推论层",
+   "quote": "那么推测董军就是李汉军前任的也就是说李汉军接替董军",
+   "episode": "3EF6DuUm5cU",
+   "date": "2026-01-31"
+  },
+  {
+   "id": "rel-4262",
+   "subject": "董军",
+   "relation": "曾任司令员",
+   "object": "海军92269部队",
+   "status": "本档口径",
+   "quote": "董军本人就曾经担任海军92269部队司令员",
+   "episode": "3EF6DuUm5cU",
+   "date": "2026-01-31"
+  },
+  {
+   "id": "rel-3993",
+   "subject": "张展南",
+   "relation": "提拔",
+   "object": "董军",
+   "status": "本档口径・再申",
+   "quote": "张展南提拔的董军和李汉军赵克石提拔的何伟东和苗淮",
+   "episode": "kl1Vhjsvwlg",
+   "date": "2026-02-01"
+  },
+  {
+   "id": "rel-1092",
+   "subject": "董军",
+   "relation": "是张展南在海军给习包子提拔的（董军、李汉军、张林、沈金龙四人中三人已抓、只剩董军；本期断董军就是习包子马仔、平安退休是奇迹）",
+   "object": "张展南",
+   "status": "本档口径",
+   "episode": "gKuAQfG7EJ0",
+   "date": "2026-02-28",
+   "quote": "这四个人都是张展南在海军给习包子提拔的其中三个人抓了就剩董军了"
+  },
+  {
+   "id": "rel-8781",
+   "subject": "王小洪",
+   "relation": "与王毅董军同团出访越南开3加3会议，被网友设问组团叛逃、本期断内部有安排防跑（未坐实）",
+   "object": "董军",
+   "status": "网友设问层＋本期推论层",
+   "episode": "vkTEUofNs6Q",
+   "date": "2026-03-14",
+   "quote": "王毅王小洪董军要出访越南"
+  },
+  {
+   "id": "rel-1784",
+   "episode": "Kc6HUbMDRgU",
+   "date": "2026-05-20",
+   "subject": "董军",
+   "relation": "是许其亮提拔的（经胡彦林线、许其亮级别比苗华高、所以董军排名可以超过苗华）",
+   "object": "许其亮",
+   "status": "本档口径",
+   "quote": "其实还不是苗华提拔的董军是许其亮提拔的许其亮的级别比苗华高啊所以董军的级别他可以超过苗华呢"
+  },
+  {
+   "id": "rel-1785",
+   "episode": "Kc6HUbMDRgU",
+   "date": "2026-05-20",
+   "subject": "董军",
+   "relation": "最早是海军政委胡彦林提拔的（2006 年 9 月后任海军司令部军训部部长一步）",
+   "object": "胡彦林",
+   "status": "本档口径",
+   "quote": "董军最早他是海军政委胡彦林提拔的胡彦林从空军转到海军就是和苗华关系密切的魏金山的下属"
+  },
+  {
+   "id": "rel-1662",
+   "subject": "董军",
+   "relation": "是胡彦林提拔的",
+   "object": "胡彦林",
+   "status": "本档口径",
+   "episode": "buPsjx0HPG0",
+   "date": "2026-05-26",
+   "quote": "胡彦林最早他关联着许其亮之后又关联着苗华和董军胡彦林提拔的董军那现在又发现胡彦林关联着吴志坚和张又侠真是一脉相承一网打尽"
+  },
+  {
+   "id": "rel-6831",
+   "subject": "董军",
+   "relation": "连续缺席三个重要场合（状态）",
+   "object": "会见穆尼尔/习会见武契奇/香格里拉对话会",
+   "status": "本期状态考",
+   "episode": "TNKMR-mkA9U",
+   "date": "2026-05-27",
+   "quote": "等于董军已经缺席了三个场合"
+  },
+  {
+   "id": "rel-6832",
+   "subject": "董军",
+   "relation": "状态断为控制使用、暂未被抓",
+   "object": "国防部",
+   "status": "本期推断",
+   "episode": "TNKMR-mkA9U",
+   "date": "2026-05-27",
+   "quote": "说明董军目前还是控制使用"
+  },
+  {
+   "id": "rel-1812",
+   "episode": "4LUROfqEUf4",
+   "date": "2026-08-29",
+   "subject": "董军",
+   "relation": "是胡彦林提拔的（海军政治部军训部部长一步、胡彦林毕惠义两代海军政治部主任向后提拔）",
+   "object": "胡彦林",
+   "status": "本档口径",
+   "quote": "向后他提拔了董军海军政治部的军训部部长通过魏金山女婿刘晓荣呢老丈人叶翰林呢奶大了苗华呀"
+  }
+ ],
+ "date_from": "2024-10-14",
+ "date_to": "2026-08-29"
+}

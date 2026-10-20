@@ -1,0 +1,201 @@
+{
+ "id": "li-shang-fu",
+ "name": "李尚福",
+ "kind": "relations",
+ "part": 1,
+ "count": 19,
+ "relations": [
+  {
+   "id": "rel-5752",
+   "subject": "王家胜",
+   "relation": "马仔（单信息推断）",
+   "object": "李尚福",
+   "status": "本期推论",
+   "quote": "他应该就是习近平和李上福的人",
+   "episode": "YpG7j6QQXZU",
+   "date": "2024-08-01"
+  },
+  {
+   "id": "rel-5892",
+   "subject": "徐克俊",
+   "relation": "提拔",
+   "object": "李尚福",
+   "status": "本档口径",
+   "quote": "徐克俊提拔了中国的国防部长李尚福中国的海军司令张展南提拔了中国的国防部长董军和海军的参谋长李汉军赵克石提拔了何卫东何苗华",
+   "episode": "f2cTvBXJHn0",
+   "date": "2025-07-25"
+  },
+  {
+   "id": "rel-1648",
+   "subject": "李尚福",
+   "relation": "是习包子的铁杆（从马兴瑞黄文虎线与张振南赵克石线两头说都是）",
+   "object": "习包子",
+   "status": "本档口径",
+   "episode": "0RcYolWPO0M",
+   "date": "2025-07-27",
+   "quote": "这个李尚福不管从马兴瑞黄文虎这头说还是从张展南赵克石武昌实验中学这头说都是细胞子的铁杆吗"
+  },
+  {
+   "id": "rel-2778",
+   "subject": "徐克俊",
+   "relation": "提拔了国防部长李尚福（与张展南、赵克石系武昌实验中学校友）",
+   "object": "李尚福",
+   "status": "本档口径",
+   "episode": "wIaSajVw1Po",
+   "date": "2025-08-12",
+   "quote": "徐克俊提拔的中国国防部长李尚福抓了张展南提拔的中国国防部长董军赵克石提拔的何伟东和苗华都抓了"
+  },
+  {
+   "id": "rel-5272",
+   "subject": "李尚福",
+   "relation": "铁杆马仔",
+   "object": "习包子",
+   "status": "本档口径",
+   "quote": "从哪个角度说李尚福都是习包子铁杆马仔",
+   "episode": "W9vcYLYhMZk",
+   "date": "2025-09-11"
+  },
+  {
+   "id": "rel-7497",
+   "subject": "胡世祥",
+   "relation": "提拔李尚福（原文作胡适祥）",
+   "object": "李尚福",
+   "status": "转述层（公开名待核）",
+   "episode": "CY3ENN1hNS4",
+   "date": "2025-09-25",
+   "quote": "胡适祥提拔的李尚福"
+  },
+  {
+   "id": "rel-4258",
+   "subject": "徐克俊",
+   "relation": "提拔",
+   "object": "李尚福",
+   "status": "本档口径",
+   "quote": "徐克俊提拔的李尚福",
+   "episode": "3EF6DuUm5cU",
+   "date": "2026-01-31"
+  },
+  {
+   "id": "rel-3995",
+   "subject": "徐克俊",
+   "relation": "提拔（正文音名待核）",
+   "object": "李尚福",
+   "status": "本档口径・再申",
+   "quote": "徐克俊提拔的李尚福,张展南提拔的董军和李汉军",
+   "episode": "kl1Vhjsvwlg",
+   "date": "2026-02-01"
+  },
+  {
+   "id": "rel-2737",
+   "subject": "李尚福",
+   "relation": "是习包子马仔、2023年被查为建制张又侠路线的开端（另有张又侠的人一说，主播称没法说了）",
+   "object": "习包子",
+   "status": "本档口径",
+   "episode": "reTtmy0bTis",
+   "date": "2026-02-05",
+   "quote": "李尚福是习包子马仔魏凤和可能是胡锦涛的马仔我不是十分确定李尚福我一直说的是习包子马仔"
+  },
+  {
+   "id": "rel-8207",
+   "subject": "李尚福",
+   "relation": "从被调查到罢免人大代表用时11个月（时间线标尺）",
+   "object": "罢免人大代表",
+   "status": "公开时间线层",
+   "episode": "zAFQ7fxZXso",
+   "date": "2026-02-05",
+   "quote": "从李尚福被调查呢到罢免人大代表呢用了11个月"
+  },
+  {
+   "id": "rel-5123",
+   "subject": "李尚福",
+   "relation": "的人",
+   "object": "习包子",
+   "status": "本档口径",
+   "quote": "李尚福是习包子的人魏凤和是胡锦涛的人",
+   "episode": "Nc2WTKPVZA0",
+   "date": "2026-02-20"
+  },
+  {
+   "id": "rel-7093",
+   "subject": "夏青月",
+   "relation": "大秘",
+   "object": "李尚福",
+   "status": "本档口径",
+   "episode": "YR_Nl3d9vjI",
+   "date": "2026-03-22",
+   "quote": "李尚福接替张又侠担任装备发展部的部长夏青月继续担任李尚福两年多的大秘"
+  },
+  {
+   "id": "rel-5865",
+   "subject": "李尚福",
+   "relation": "接替装备发展部职务",
+   "object": "张又侠",
+   "status": "本档口径",
+   "quote": "李尚福他接替的是张有霞装备发展部的职务",
+   "episode": "pxmLMdLegfE",
+   "date": "2026-04-12"
+  },
+  {
+   "id": "rel-7739",
+   "subject": "胡锦涛",
+   "relation": "2023年查李尚福系其切入习包子军权外围的第一步（复盘框架层）",
+   "object": "李尚福",
+   "status": "本期复盘层",
+   "episode": "t59zSoecyaM",
+   "date": "2026-04-12",
+   "quote": "李尚福被查标志着胡锦涛成功的切入了细胞子军权的外围"
+  },
+  {
+   "id": "rel-7744",
+   "subject": "萧天亮",
+   "relation": "连接北京军区、老山、铁道兵多方势力的关键枢纽（本期论）",
+   "object": "李尚福",
+   "status": "本期论证层（原文萧天亮、标题作肖天亮待核）",
+   "episode": "t59zSoecyaM",
+   "date": "2026-04-12",
+   "quote": "萧天亮之所以成为特别好的瓜是因为他是连接多方势力的关键枢纽"
+  },
+  {
+   "id": "rel-6147",
+   "subject": "黄文虎",
+   "relation": "创立航天学院提拔",
+   "object": "李尚福",
+   "status": "本档口径",
+   "quote": "黄文虎和胡适祥创立航天学院提拔的李尚福",
+   "episode": "k8REol9nwKQ",
+   "date": "2026-05-08"
+  },
+  {
+   "id": "rel-6148",
+   "subject": "胡适祥",
+   "relation": "创立航天学院提拔",
+   "object": "李尚福",
+   "status": "本档口径",
+   "quote": "黄文虎和胡适祥创立航天学院提拔的李尚福",
+   "episode": "k8REol9nwKQ",
+   "date": "2026-05-08"
+  },
+  {
+   "id": "rel-6149",
+   "subject": "许克俊",
+   "relation": "提拔",
+   "object": "李尚福",
+   "status": "本档口径",
+   "quote": "许克俊提拔过李尚福",
+   "episode": "k8REol9nwKQ",
+   "date": "2026-05-08"
+  },
+  {
+   "id": "rel-6152",
+   "subject": "李尚福",
+   "relation": "绑定（经夏青全大秘链）",
+   "object": "张又侠",
+   "status": "本档口径",
+   "quote": "因此李尚福和张有霞是绑定",
+   "episode": "k8REol9nwKQ",
+   "date": "2026-05-08"
+  }
+ ],
+ "date_from": "2024-08-01",
+ "date_to": "2026-05-08"
+}

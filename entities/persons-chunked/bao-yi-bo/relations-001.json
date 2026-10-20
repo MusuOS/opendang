@@ -1,0 +1,291 @@
+{
+ "id": "bao-yi-bo",
+ "name": "薄一波",
+ "kind": "relations",
+ "part": 1,
+ "count": 28,
+ "relations": [
+  {
+   "id": "rel-0380",
+   "subject": "曹伯纯",
+   "relation": "本期称薄一波的马仔（薄掌权时提拔去大连与薄熙来搭档）",
+   "object": "薄一波",
+   "status": "本档口径",
+   "episode": "U1r_Ow8ktBc",
+   "date": "2024-07-30",
+   "quote": "曹伯纯就是薄熙来他爸薄一波的马仔怎么可能跟薄熙来斗呢"
+  },
+  {
+   "id": "rel-5755",
+   "subject": "薄一波",
+   "relation": "马仔",
+   "object": "陈云",
+   "status": "本档口径",
+   "quote": "薄熙来的老爸薄一波就是陈云的马仔",
+   "episode": "YpG7j6QQXZU",
+   "date": "2024-08-01"
+  },
+  {
+   "id": "rel-7451",
+   "subject": "王茂林",
+   "relation": "出资30万助薄一波出书",
+   "object": "薄一波",
+   "status": "本档口径",
+   "episode": "e_dBDvZsPZM",
+   "date": "2024-10-28",
+   "quote": "薄熙来的老爸薄一波1991年出了一本书啊,70年的回顾与思考,王茂林给了30万,山西省给了30万"
+  },
+  {
+   "id": "rel-0050",
+   "subject": "薄一波",
+   "relation": "借工人日报发难渤海二号责任",
+   "object": "康世恩",
+   "status": "本档口径",
+   "episode": "WYvqQMUuQ3Q",
+   "date": "2024-11-16",
+   "quote": "这薄一波站出来对康世恩发难就是针对于秋离啊"
+  },
+  {
+   "id": "rel-0803",
+   "subject": "董宏",
+   "relation": "本期再称薄一波的秘书（后为王岐山秘书；习包子安排其去青岛受审包庇）",
+   "object": "薄一波",
+   "status": "本档口径",
+   "episode": "VgETRJvc4l0",
+   "date": "2024-11-25",
+   "quote": "王岐山的秘书董宏就是薄一波的秘书啊习近平他包庇王岐山和薄熙来安排董宏去山东青岛受审"
+  },
+  {
+   "id": "rel-1296",
+   "subject": "薄一波",
+   "relation": "是陈云那条线的人（建政后中财委陈云主任、薄一波副主任，是黄金搭档；1953 年陈云为薄一波说话解困，1979 年在陈云过问下薄一波得以重新出来工作）",
+   "object": "陈云",
+   "status": "本档口径",
+   "episode": "5AX04gJVMow",
+   "date": "2024-12-02",
+   "quote": "中国沦陷之后呢陈云是中财委的主任薄一波是副主任陈云和薄一波两个人是黄金搭档啊1953年陈云为薄一波说话解困1979年在陈云的过问下薄一波得以重新出来工作这些人都是陈云那条线上的人啊"
+  },
+  {
+   "id": "rel-1297",
+   "subject": "董宏",
+   "relation": "是薄一波的秘书、后来又是王岐山的秘书（十八大时王岐山的秘书就是董宏；一人同侍薄一波与王岐山，说明王岐山、薄熙来、习包子三个人是一家人）",
+   "object": "薄一波",
+   "status": "本档口径",
+   "episode": "5AX04gJVMow",
+   "date": "2024-12-02",
+   "quote": "第五条就是王岐山的秘书董宏他就是薄一波的秘书啊事实上18大的时候王岐山的秘书就是董宏啊那王岐山和习近平的关系十分密切甚至可以说是穿一条裤子"
+  },
+  {
+   "id": "rel-3533",
+   "subject": "王茂林",
+   "relation": "铁杆马仔",
+   "object": "薄一波",
+   "status": "本档口径",
+   "episode": "YAC63EVFWZ0",
+   "date": "2025-01-26",
+   "quote": "李维维既然是薄熙来他老爸薄一波的马仔王茂林提拔的"
+  },
+  {
+   "id": "rel-0994",
+   "subject": "董宏",
+   "relation": "是薄一波的秘书（后任王岐山的秘书）",
+   "object": "薄一波",
+   "status": "本档口径",
+   "episode": "Kzheo0tt4lk",
+   "date": "2025-04-13",
+   "quote": "王岐山的秘书董宏就是薄一波的秘书"
+  },
+  {
+   "id": "rel-0206",
+   "subject": "董宏",
+   "relation": "本期称薄一波的大秘（后为王岐山秘书）",
+   "object": "薄一波",
+   "status": "本档口径",
+   "episode": "OoJhke1HwII",
+   "date": "2025-04-15",
+   "quote": "董宏是博一波的政治秘书俗称大秘当然行走左右随互不离（字幕博一波即薄一波）"
+  },
+  {
+   "id": "rel-1898",
+   "subject": "刘捷",
+   "relation": "国务院第三办公室副主任（主任薄一波、主管副总理谷牧）",
+   "object": "薄一波",
+   "status": "本档口径",
+   "episode": "u56UOSEuEvA",
+   "date": "2025-08-08",
+   "quote": "1955年5月5日中共中央决定调刘捷进入国务院第三办公室担任副主任主任是薄一波负责组织原子能事业筹建工作"
+  },
+  {
+   "id": "rel-4131",
+   "subject": "董宏",
+   "relation": "曾任其秘书",
+   "object": "薄一波",
+   "status": "本档口径",
+   "quote": "王岐山的秘书董宏就是薄一波的秘书",
+   "episode": "PVS2DYmMM74",
+   "date": "2025-09-12"
+  },
+  {
+   "id": "rel-4132",
+   "subject": "薄一波",
+   "relation": "马仔",
+   "object": "陈云",
+   "status": "本档口径",
+   "quote": "薄一波就是陈云的马仔啊",
+   "episode": "PVS2DYmMM74",
+   "date": "2025-09-12"
+  },
+  {
+   "id": "rel-3149",
+   "subject": "董宏",
+   "relation": "秘书",
+   "object": "薄一波",
+   "status": "本期断语",
+   "episode": "U5R7-v71DuQ",
+   "date": "2025-10-11",
+   "quote": "王岐山的秘书董宏呢他就是薄一波的秘书啊"
+  },
+  {
+   "id": "rel-4635",
+   "subject": "金立群",
+   "relation": "马仔",
+   "object": "薄一波",
+   "status": "本档口径",
+   "quote": "金立群是薄一波和姚依林的马仔",
+   "episode": "4XP8CgXRsoQ",
+   "date": "2025-11-19"
+  },
+  {
+   "id": "rel-4637",
+   "subject": "吴波",
+   "relation": "大秘",
+   "object": "薄一波",
+   "status": "本档口径",
+   "quote": "吴波是薄一波的大秘",
+   "episode": "4XP8CgXRsoQ",
+   "date": "2025-11-19"
+  },
+  {
+   "id": "rel-2119",
+   "subject": "陆昊",
+   "relation": "一开始就是其人（陈云薄一波政治通讯员说）",
+   "object": "薄一波",
+   "status": "本档口径",
+   "episode": "TA1yd4EcQnM",
+   "date": "2025-11-26",
+   "quote": "陆浩他一开始就是薄一波李鹏的人"
+  },
+  {
+   "id": "rel-3405",
+   "subject": "贺光辉",
+   "relation": "秘书",
+   "object": "薄一波",
+   "status": "本档口径",
+   "episode": "MAru9xlEZ5w",
+   "date": "2026-04-02",
+   "quote": "因为贺光辉他是薄一波的秘书"
+  },
+  {
+   "id": "rel-2294",
+   "subject": "王茂林",
+   "relation": "本期称是薄一波的头号马仔",
+   "object": "薄一波",
+   "status": "本档口径",
+   "episode": "6Zo1oGY0nAo",
+   "date": "2026-04-16",
+   "quote": "王茂林是薄一波的头号马仔"
+  },
+  {
+   "id": "rel-4547",
+   "subject": "张安疆",
+   "relation": "徒子徒孙",
+   "object": "薄一波",
+   "status": "本档口径",
+   "quote": "所以张安疆是薄一波的徒子徒孙",
+   "episode": "JwreJI4PfBk",
+   "date": "2026-05-08"
+  },
+  {
+   "id": "rel-4548",
+   "subject": "孙英",
+   "relation": "马仔",
+   "object": "薄一波",
+   "status": "本档口径",
+   "quote": "张安疆在甘肃工业大学的校长孙英是薄一波的马仔",
+   "episode": "JwreJI4PfBk",
+   "date": "2026-05-08"
+  },
+  {
+   "id": "rel-0365",
+   "subject": "骆琳",
+   "relation": "本期称薄一波的马仔（辽宁省委副书记，习派系）",
+   "object": "薄一波",
+   "status": "本档口径",
+   "episode": "3MZZT8t9Xd0",
+   "date": "2026-06-06",
+   "quote": "骆琳就是薄熙来的马仔或者说薄一波的马仔"
+  },
+  {
+   "id": "rel-0337",
+   "subject": "令狐安",
+   "relation": "本期称薄一波安排去大连提拔薄熙来的托",
+   "object": "薄一波",
+   "status": "本档口径",
+   "episode": "9_wxhCeIvC8",
+   "date": "2026-06-25",
+   "quote": "令狐安在辽宁省大连市就是薄熙来的上级是薄熙来他老爸薄一波安排的托儿去提拔薄熙来的"
+  },
+  {
+   "id": "rel-2552",
+   "subject": "陆军第十四集团军",
+   "relation": "军史源头是薄一波亲手创建的决死第一纵队，被定为薄家的老部队；张又侠、陈培忠均发迹于此军",
+   "object": "薄一波",
+   "status": "本档口径",
+   "episode": "LhkN7Ru5j0o",
+   "date": "2026-07-25",
+   "quote": "十四军的军史源头就是薄一波的绝死队"
+  },
+  {
+   "id": "rel-6025",
+   "subject": "董宏",
+   "relation": "政治秘书（大秘）",
+   "object": "薄一波",
+   "status": "本档口径",
+   "quote": "董宏是薄一波政治秘书俗称大秘",
+   "episode": "cb0S3emjm8o",
+   "date": "2026-09-27"
+  },
+  {
+   "id": "rel-6036",
+   "subject": "薄一波",
+   "relation": "党内位置相当于（类比层）",
+   "object": "蔡奇",
+   "status": "本档口径",
+   "quote": "薄一波在中共党内的位置呢他就大概相当于现在的蔡奇",
+   "episode": "cb0S3emjm8o",
+   "date": "2026-09-27"
+  },
+  {
+   "id": "rel-0670",
+   "subject": "鲁昕",
+   "relation": "本期断最早是薄一波的家奴（非李克强的人；2026-09-28 被抓）",
+   "object": "薄一波",
+   "status": "本档口径",
+   "episode": "iSII6zsWebE",
+   "date": "2026-09-29",
+   "quote": "鲁辛呢最早他的确就是薄熙来其实不是薄熙来薄熙来他爸薄一波的家奴啊"
+  },
+  {
+   "id": "rel-0671",
+   "subject": "刘振华",
+   "relation": "本期称薄一波退休之前把他提拔为中央候补委员（鲁昕的老上级、抚顺市委书记）",
+   "object": "薄一波",
+   "status": "本档口径",
+   "episode": "iSII6zsWebE",
+   "date": "2026-09-29",
+   "quote": "薄一波退休之前把鲁昕的老上级刘振华提拔为中央候补委员"
+  }
+ ],
+ "date_from": "2024-07-30",
+ "date_to": "2026-09-29"
+}

@@ -1,0 +1,125 @@
+{
+ "id": "cai-qi",
+ "name": "蔡奇",
+ "aliases": [
+  "蔡公公"
+ ],
+ "stats": {
+  "episodes": 327,
+  "mentions": 2077,
+  "alias_mentions": {
+   "蔡公公": 6
+  },
+  "first_date": "2023-10-08",
+  "last_date": "2026-10-09",
+  "title_count": 150
+ },
+ "caliber_notes": [
+  "蔡公公和蔡奇是一个人：索引层并入蔡奇（分项留存），正文不动"
+ ],
+ "current_caliber": [
+  {
+   "id": "rul-06",
+   "date": "2026-10-18",
+   "category": "索引归一",
+   "ruling": "蔡公公和蔡奇是一个人：索引层并入蔡奇（分项留存），正文不动",
+   "effect": "mentions-index 重建"
+  }
+ ],
+ "time_notes": [
+  {
+   "id": "rul-88",
+   "date": "2026-10-20",
+   "category": "人物卡注记",
+   "subject": "蔡奇",
+   "item": "蔡奇人物卡时点注记（编纂定版·2026-10-20）",
+   "ruling": "蔡奇人物卡加时点注记。时点列：最后露面日期两账并存：ep336 作 2025-11-08 陪习梅州、ep417 作 11-04（状态层）；隐身第10天（状态层，ep417）；2024-11-04至05 习湖北考察未陪同、断权利被限制（缺席层／断语层，ep409）；消失一周——未陪习出席全运会、缺席西班牙国王与泰国国王接见（状态层，ep196）；立案审查断语——2026-01-30 政治局会议决定（断语层，ep484）；正被中纪委调查倒推层、未坐实（ep733）；预定秦城断语（ep775）；小红书禁搜断秦城层（ep792）。",
+   "basis": "编纂定版（2026-10-20）",
+   "history": "无归属裁定；状态诸层分账见 rul-72。本注记只处理时点呈现。",
+   "rule": "版式注记（非口径裁定）",
+   "effect": "烤制蔡奇词条时按本注记逐时点呈现并标层级。"
+  }
+ ],
+ "register_links": [
+  {
+   "register": "dev-projects",
+   "entry": "京张高铁",
+   "matched_as": [
+    "蔡奇"
+   ],
+   "n_eps": 2
+  },
+  {
+   "register": "fat-posts",
+   "entry": "京张高铁回扣",
+   "matched_as": [
+    "蔡奇"
+   ],
+   "n_eps": 1
+  }
+ ],
+ "counts": {
+  "events": 429,
+  "relations": 202
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/cai-qi/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 68,
+    "date_from": "2023-10-08",
+    "date_to": "2025-07-01",
+    "bytes": 176742
+   },
+   {
+    "file": "events-002.json",
+    "count": 74,
+    "date_from": "2025-07-02",
+    "date_to": "2025-10-03",
+    "bytes": 176213
+   },
+   {
+    "file": "events-003.json",
+    "count": 91,
+    "date_from": "2025-10-05",
+    "date_to": "2026-01-17",
+    "bytes": 177487
+   },
+   {
+    "file": "events-004.json",
+    "count": 76,
+    "date_from": "2026-01-17",
+    "date_to": "2026-03-24",
+    "bytes": 176085
+   },
+   {
+    "file": "events-005.json",
+    "count": 65,
+    "date_from": "2026-03-26",
+    "date_to": "2026-06-19",
+    "bytes": 171320
+   },
+   {
+    "file": "events-006.json",
+    "count": 55,
+    "date_from": "2026-06-20",
+    "date_to": "2026-10-09",
+    "bytes": 146005
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 202,
+    "date_from": "2024-02-23",
+    "date_to": "2026-10-06",
+    "bytes": 74039
+   }
+  ],
+  "base": "entities/persons-chunked/cai-qi/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

@@ -1,0 +1,70 @@
+{
+ "id": "deng-xiao-ping",
+ "name": "邓小平",
+ "aliases": [],
+ "stats": {
+  "episodes": 389,
+  "mentions": 2100,
+  "alias_mentions": {},
+  "first_date": "2023-12-26",
+  "last_date": "2026-10-14",
+  "title_count": 20
+ },
+ "counts": {
+  "events": 311,
+  "relations": 115
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/deng-xiao-ping/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 61,
+    "date_from": "2023-12-26",
+    "date_to": "2025-01-21",
+    "bytes": 177011
+   },
+   {
+    "file": "events-002.json",
+    "count": 69,
+    "date_from": "2025-01-22",
+    "date_to": "2025-09-12",
+    "bytes": 174962
+   },
+   {
+    "file": "events-003.json",
+    "count": 76,
+    "date_from": "2025-09-14",
+    "date_to": "2026-02-25",
+    "bytes": 177343
+   },
+   {
+    "file": "events-004.json",
+    "count": 62,
+    "date_from": "2026-02-27",
+    "date_to": "2026-06-04",
+    "bytes": 173847
+   },
+   {
+    "file": "events-005.json",
+    "count": 43,
+    "date_from": "2026-06-07",
+    "date_to": "2026-10-13",
+    "bytes": 149206
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 115,
+    "date_from": "2024-08-14",
+    "date_to": "2026-10-08",
+    "bytes": 39896
+   }
+  ],
+  "base": "entities/persons-chunked/deng-xiao-ping/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

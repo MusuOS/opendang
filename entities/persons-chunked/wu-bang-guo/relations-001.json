@@ -1,0 +1,451 @@
+{
+ "id": "wu-bang-guo",
+ "name": "吴邦国",
+ "kind": "relations",
+ "part": 1,
+ "count": 44,
+ "relations": [
+  {
+   "id": "rel-9092",
+   "subject": "吴磊",
+   "relation": "被称吴邦国之子、被任命为上海电气集团党委书记并提名董事长人选（原文上海电器、任选）",
+   "object": "吴邦国",
+   "status": "引述层",
+   "episode": "kHKrm2TW-ys",
+   "date": "2024-01-29",
+   "quote": "2023年12月12日,中共前政治局常委吴邦国之子吴磊被任命为上海电器集团党委书记并提名董事长任选"
+  },
+  {
+   "id": "rel-0382",
+   "subject": "吴邦国",
+   "relation": "本期称陈云提拔的马仔（黄菊之前任上海市委书记）",
+   "object": "陈云",
+   "status": "本档口径",
+   "episode": "U1r_Ow8ktBc",
+   "date": "2024-07-30",
+   "quote": "吴邦国也是陈云的马仔呀吴邦国是在黄菊前面担任的上海市委书记当时就是陈云提拔的吴邦国呀"
+  },
+  {
+   "id": "rel-1047",
+   "subject": "韩正",
+   "relation": "任卢湾区代区长等晋升发生在吴邦国任上海市委书记期间（吴邦国是陈云、朱镕基的马仔）",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "episode": "lDnnVXd8Hv0",
+   "date": "2025-01-18",
+   "quote": "这两次金生当时的上海市委书记就是陈云朱镕基的马仔吴邦国"
+  },
+  {
+   "id": "rel-7690",
+   "subject": "吴邦国",
+   "relation": "提拔丁薛祥",
+   "object": "丁薛祥",
+   "status": "本期层",
+   "episode": "tKnnBpBUUzc",
+   "date": "2025-06-07",
+   "quote": "吴邦国提拔的丁薛祥啊"
+  },
+  {
+   "id": "rel-6907",
+   "subject": "吴磊",
+   "relation": "儿子",
+   "object": "吴邦国",
+   "status": "本期人脸比对说法",
+   "episode": "-kZn2b6I6Yk",
+   "date": "2025-06-27",
+   "quote": "吴磊和吴邦国的人脸相似度是54%"
+  },
+  {
+   "id": "rel-1895",
+   "subject": "石秀诗",
+   "relation": "吴邦国的大秘",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "episode": "u56UOSEuEvA",
+   "date": "2025-08-08",
+   "quote": "石秀诗呢是吴邦国的大秘"
+  },
+  {
+   "id": "rel-3367",
+   "subject": "石秀诗",
+   "relation": "秘书",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "episode": "i0tWuAGYwbc",
+   "date": "2025-08-11",
+   "quote": "石秀诗石秀诗是吴邦国的秘书"
+  },
+  {
+   "id": "rel-0109",
+   "subject": "易会满",
+   "relation": "本期称工行副行长是吴邦国提拔的",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "episode": "28hbM9Lo-dU",
+   "date": "2025-09-08",
+   "quote": "易会满的工行的副行长就是吴邦国提拔的"
+  },
+  {
+   "id": "rel-7491",
+   "subject": "吴邦国",
+   "relation": "提拔陈兴超（找中组部安排其调江西）",
+   "object": "陈兴超",
+   "status": "本档口径（原文作无邦国）",
+   "episode": "CY3ENN1hNS4",
+   "date": "2025-09-25",
+   "quote": "就是吴邦国找当时的中组部安排把陈兴超调到江西省"
+  },
+  {
+   "id": "rel-8623",
+   "subject": "张金涛",
+   "relation": "2015年4月在龙虎山嗣汉天师府向吴邦国赠送天师平安符",
+   "object": "吴邦国",
+   "status": "公开报道层",
+   "episode": "w3N1iP9Bk1M",
+   "date": "2025-09-25",
+   "quote": "张金涛向吴邦国赠送这个天师平安符啊"
+  },
+  {
+   "id": "rel-2056",
+   "subject": "石秀诗",
+   "relation": "是吴邦国的秘书",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "episode": "XpaZSkyE78c",
+   "date": "2025-10-01",
+   "quote": "石秀诗就是吴邦国的秘书"
+  },
+  {
+   "id": "rel-0791",
+   "subject": "吴邦国",
+   "relation": "本期称陈云提拔的、是陈云李鹏派系的、不是江泽民的人（1995 年 3 月副总理也是李鹏提拔的）",
+   "object": "陈云",
+   "status": "本档口径",
+   "episode": "vEODFLmJCjo",
+   "date": "2025-10-04",
+   "quote": "吴邦国他就是陈云提拔的是陈云李鹏派系的不是江泽民的人"
+  },
+  {
+   "id": "rel-9116",
+   "subject": "张学彬",
+   "relation": "被称最早就是吴邦国的马仔（原文张学彬/张学兵）",
+   "object": "吴邦国",
+   "status": "本期梳理层",
+   "episode": "v7zFXOS0P_E",
+   "date": "2025-11-23",
+   "quote": "张学彬最早就是吴邦国的马仔"
+  },
+  {
+   "id": "rel-4652",
+   "subject": "吴磊",
+   "relation": "儿子",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "quote": "董事长是吴邦国的儿子吴磊",
+   "episode": "B3PRuGVvkWo",
+   "date": "2025-12-12"
+  },
+  {
+   "id": "rel-4654",
+   "subject": "丁薛祥",
+   "relation": "由其提拔",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "quote": "丁薛祥呢就是吴邦国提拔的",
+   "episode": "B3PRuGVvkWo",
+   "date": "2025-12-12"
+  },
+  {
+   "id": "rel-4655",
+   "subject": "丁薛祥",
+   "relation": "干儿子",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "quote": "吴邦国为了亲儿子吴磊为了干儿子丁薛祥",
+   "episode": "B3PRuGVvkWo",
+   "date": "2025-12-12"
+  },
+  {
+   "id": "rel-8816",
+   "subject": "潘良",
+   "relation": "被判定是吴邦国的秘书（排名第二常委的秘书，原文潘梁）",
+   "object": "吴邦国",
+   "status": "本期判定层",
+   "episode": "Mjczd5w2xTA",
+   "date": "2025-12-13",
+   "quote": "潘梁只能是吴邦国的秘书"
+  },
+  {
+   "id": "rel-8817",
+   "subject": "丁薛祥",
+   "relation": "被断是吴邦国提拔的、是吴邦国的干儿子，抓潘良就是为了查他（与ep745互证分账）",
+   "object": "吴邦国",
+   "status": "本期总断层",
+   "episode": "Mjczd5w2xTA",
+   "date": "2025-12-13",
+   "quote": "丁薛祥就是吴邦国提拔的丁薛祥就是吴邦国的干儿子"
+  },
+  {
+   "id": "rel-8820",
+   "subject": "石秀诗",
+   "relation": "被称是吴邦国的秘书、国务院办公厅秘书二局局长",
+   "object": "吴邦国",
+   "status": "本期旁链层",
+   "episode": "Mjczd5w2xTA",
+   "date": "2025-12-13",
+   "quote": "石秀诗就是吴邦国的秘书"
+  },
+  {
+   "id": "rel-8154",
+   "subject": "吴伟",
+   "relation": "吴邦国之子，上海电气董事长",
+   "object": "吴邦国",
+   "status": "本期梳理层（原文无邦国）",
+   "episode": "V5CV-u1Wg1s",
+   "date": "2025-12-15",
+   "quote": "上海电器的董事长是无邦国的儿子吴伟"
+  },
+  {
+   "id": "rel-6762",
+   "subject": "吴邦国",
+   "relation": "提拔",
+   "object": "丁薛祥",
+   "status": "本期断语",
+   "episode": "tOCBxsfSObI",
+   "date": "2025-12-31",
+   "quote": "吴邦国提拔的丁薛祥"
+  },
+  {
+   "id": "rel-2371",
+   "subject": "丁薛祥",
+   "relation": "是吴邦国的干儿子",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "episode": "_MZnn9KmZVo",
+   "date": "2026-01-14",
+   "quote": "丁薛祥他就是吴邦国的干儿子"
+  },
+  {
+   "id": "rel-2373",
+   "subject": "吴磊",
+   "relation": "是吴邦国的儿子",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "episode": "_MZnn9KmZVo",
+   "date": "2026-01-14",
+   "quote": "吴邦国的儿子吴磊吴磊1977年7月出生安徽肥东人现任上海电器集团党委书记董事长"
+  },
+  {
+   "id": "rel-6509",
+   "subject": "丁薛祥",
+   "relation": "干儿子",
+   "object": "吴邦国",
+   "status": "本期断语",
+   "quote": "五邦国已经死了丁薛祥就是五邦国的干儿子干五邦国的人就是干丁薛祥的人",
+   "episode": "qu7sda3MGoY",
+   "date": "2026-01-18"
+  },
+  {
+   "id": "rel-7729",
+   "subject": "丁薛祥",
+   "relation": "吴邦国提拔（本期再申层）",
+   "object": "吴邦国",
+   "status": "本期层",
+   "episode": "0oZcArOgz4o",
+   "date": "2026-01-20",
+   "quote": "吴邦国提拔的丁薛祥啊"
+  },
+  {
+   "id": "rel-1946",
+   "subject": "赵启正",
+   "relation": "朱镕基、吴邦国的马仔（习包子派系）",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "episode": "2eDUIOtWbT4",
+   "date": "2026-01-21",
+   "quote": "赵启政呢是朱镕基五邦国的马仔这都是习包子派系的"
+  },
+  {
+   "id": "rel-4316",
+   "subject": "吴磊",
+   "relation": "儿子",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "quote": "吴邦国的儿子吴磊陪同陈吉宁和马兴瑞的勾结特别深",
+   "episode": "vtPi67azfIU",
+   "date": "2026-02-07"
+  },
+  {
+   "id": "rel-4317",
+   "subject": "丁薛祥",
+   "relation": "干儿子",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "quote": "由于有吴邦国的亲生儿子吴磊吴邦国的干儿子丁薛祥是否也一起被拿下都是有可能的",
+   "episode": "vtPi67azfIU",
+   "date": "2026-02-07"
+  },
+  {
+   "id": "rel-1253",
+   "subject": "吴邦国",
+   "relation": "是习包子派系的（本期称最近死的这两个吴邦国和宋平都是习包子派系的；吴邦国 84 岁、宋平 109 岁）",
+   "object": "习包子",
+   "status": "本档口径",
+   "episode": "1PT1-YLU-Aw",
+   "date": "2026-03-05",
+   "quote": "我的回复是死的这两个吴邦国和宋平都是习包子派系的宋平是109岁吴邦国是84岁宋平比吴邦国多活了25岁"
+  },
+  {
+   "id": "rel-6883",
+   "subject": "郭允冲",
+   "relation": "秘书",
+   "object": "吴邦国",
+   "status": "本期转述",
+   "episode": "Fjp_6hL-ph0",
+   "date": "2026-03-23",
+   "quote": "无邦国的秘书郭允冲就是南通帮"
+  },
+  {
+   "id": "rel-1404",
+   "subject": "石秀诗",
+   "relation": "是吴邦国的大秘（2008-12-03 全国人大常委会委员、财经委主任委员石秀诗率专题调研组到东莞调研扩大内需、东莞市委书记刘志庚汇报情况；吴邦国是朱镕基提拔的、不是江泽民的人；石秀诗人名字幕作石秀施、待核）",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "episode": "9LMO-UDcOyo",
+   "date": "2026-04-03",
+   "quote": "石秀施是吴邦国的大秘吴邦国是朱中基提拔的不是江泽民的人"
+  },
+  {
+   "id": "rel-4851",
+   "subject": "吴邦国",
+   "relation": "马仔",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "吴邦国和贾庆林都是陈云李鹏的马仔跟习包子是一个派系的",
+   "episode": "8B24NyBcz9Q",
+   "date": "2026-04-27"
+  },
+  {
+   "id": "rel-2035",
+   "subject": "石秀诗",
+   "relation": "是吴邦国的大秘",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "episode": "SInY-QWA-Ug",
+   "date": "2026-05-18",
+   "quote": "石秀诗是吴邦国的大秘"
+  },
+  {
+   "id": "rel-3459",
+   "subject": "马志庚",
+   "relation": "马仔（后期・推论）",
+   "object": "吴邦国",
+   "status": "本期推断",
+   "episode": "rX1tuGn7t18",
+   "date": "2026-05-24",
+   "quote": "马志耕后期很可能是胡邦国的马仔"
+  },
+  {
+   "id": "rel-4101",
+   "subject": "吴邦国",
+   "relation": "不是其提拔（本期推论）",
+   "object": "邓小平",
+   "status": "本档口径・推论层",
+   "quote": "因为吴邦国他就不是邓小平提拔的",
+   "episode": "uQDzwdsmpUY",
+   "date": "2026-05-29"
+  },
+  {
+   "id": "rel-0917",
+   "subject": "潘良",
+   "relation": "本期考定其最大可能是吴邦国的秘书（秘书二局前后任局长皆吴邦国秘书）",
+   "object": "吴邦国",
+   "status": "本期推断",
+   "episode": "xGy2cef24zA",
+   "date": "2026-06-09",
+   "quote": "潘良最大的可能性就是吴邦国的秘书"
+  },
+  {
+   "id": "rel-0918",
+   "subject": "丁薛祥",
+   "relation": "是吴邦国提拔的、吴邦国的干儿子",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "episode": "xGy2cef24zA",
+   "date": "2026-06-09",
+   "quote": "丁薛祥就是吴邦国提拔的丁薛祥就是吴邦国的干儿子"
+  },
+  {
+   "id": "rel-7076",
+   "subject": "吕维峰",
+   "relation": "提拔（断语）",
+   "object": "吴邦国",
+   "status": "本期断语层",
+   "episode": "_f5e-yjBAac",
+   "date": "2026-06-15",
+   "quote": "因此吕维峰2008年1月的副省长毫无疑问就是当时的中国的名义上的二把手人大委员长吴邦国提拔的"
+  },
+  {
+   "id": "rel-4570",
+   "subject": "丁薛祥",
+   "relation": "由其提拔",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "quote": "吴邦国担任上海市课委书记的时候提拔了丁薛祥",
+   "episode": "pyrAm-yWj0E",
+   "date": "2026-06-19"
+  },
+  {
+   "id": "rel-4571",
+   "subject": "施祖辉",
+   "relation": "秘书",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "quote": "施祖辉是江苏省南通市启东人吴邦国的秘书",
+   "episode": "pyrAm-yWj0E",
+   "date": "2026-06-19"
+  },
+  {
+   "id": "rel-8264",
+   "subject": "丁薛祥",
+   "relation": "被断为吴邦国的干儿子、吴邦国任上海科委书记时一手提拔了丁薛祥",
+   "object": "吴邦国",
+   "status": "本期考辨断语层",
+   "episode": "JISunSQV5KY",
+   "date": "2026-06-19",
+   "quote": "丁薛祥是吴邦国的干儿子吴邦国担任上海科委书记的时候一手提拔了丁薛祥"
+  },
+  {
+   "id": "rel-8265",
+   "subject": "吴邦国",
+   "relation": "被断为陈云的马仔",
+   "object": "陈云",
+   "status": "本期断语层",
+   "episode": "JISunSQV5KY",
+   "date": "2026-06-19",
+   "quote": "吴邦国就是陈云的马仔"
+  },
+  {
+   "id": "rel-4436",
+   "subject": "丁薛祥",
+   "relation": "干儿子、一手提拔",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "quote": "丁薛祥就是吴邦国一手提拔的,丁薛祥就是吴邦国的干儿子",
+   "episode": "GdyBoxgjJe0",
+   "date": "2026-07-01"
+  },
+  {
+   "id": "rel-4437",
+   "subject": "吴磊",
+   "relation": "儿子",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "quote": "前政治局常委,吴邦国的儿子吴磊先任上海电器集团董事长等职务",
+   "episode": "GdyBoxgjJe0",
+   "date": "2026-07-01"
+  }
+ ],
+ "date_from": "2024-01-29",
+ "date_to": "2026-07-01"
+}

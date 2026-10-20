@@ -1,0 +1,1741 @@
+{
+ "id": "li-ke-qiang",
+ "name": "李克强",
+ "kind": "relations",
+ "part": 1,
+ "count": 173,
+ "relations": [
+  {
+   "id": "rel-9176",
+   "subject": "张天亮",
+   "relation": "被本期斥为大外宣：其「尸检结果必被预定、无需尸检」论被斥为公安要挟家属的维稳口吻",
+   "object": "李克强",
+   "status": "本期断语层",
+   "episode": "F6HPqdZt3c0",
+   "date": "2023-10-31",
+   "quote": "我认为张天亮就是一个大外宣"
+  },
+  {
+   "id": "rel-9177",
+   "subject": "谢万君",
+   "relation": "发推称李克强家属要求尸检没有被批准、断坐实投毒致死（推文层、真伪未证实）",
+   "object": "李克强",
+   "status": "推文引述层",
+   "episode": "F6HPqdZt3c0",
+   "date": "2023-10-31",
+   "quote": "李克强家属要求尸检没有被批准"
+  },
+  {
+   "id": "rel-0252",
+   "subject": "尤权",
+   "relation": "本期称李克强的秘书、嫡系（温家宝李克强任副总理期间）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "EAvVVGLFcu0",
+   "date": "2023-12-26",
+   "quote": "尤权是李克强的秘书,都能把他说成,难道都能把尤权说成是习近平派系的吗"
+  },
+  {
+   "id": "rel-8901",
+   "subject": "安伟",
+   "relation": "被断是李克强的人、因李克强要拿下郑州大水责任人徐立毅而被破格提拔为省委常委",
+   "object": "李克强",
+   "status": "本期断语层",
+   "episode": "FnLb6QULYpo",
+   "date": "2024-01-16",
+   "quote": "安伟应该是李克强的人是被破格提拔的"
+  },
+  {
+   "id": "rel-4372",
+   "subject": "王岐山",
+   "relation": "被断有行刺动机（抓人太多、不能退）",
+   "object": "李克强",
+   "status": "本档口径・推论层",
+   "quote": "所以要说行刺李克强的动机的话王岐山比习近平还要强烈",
+   "episode": "i37mlCCP99Q",
+   "date": "2024-03-12"
+  },
+  {
+   "id": "rel-2274",
+   "subject": "罗志军",
+   "relation": "是李克强的亲信",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "i0hygGMuis8",
+   "date": "2024-08-08",
+   "quote": "罗志军是李克强的亲信"
+  },
+  {
+   "id": "rel-2239",
+   "subject": "连维良",
+   "relation": "是李克强的人（亲信）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "eHRVx219pq4",
+   "date": "2024-08-13",
+   "quote": "连维良是李克强的亲信"
+  },
+  {
+   "id": "rel-8301",
+   "subject": "胡锦涛",
+   "relation": "李克强被称胡锦涛的另外一个干儿子、断被习包子弄死",
+   "object": "李克强",
+   "status": "本期断语层",
+   "episode": "J9jWDriqZQI",
+   "date": "2024-08-17",
+   "quote": "胡锦涛的另外一个干儿子李克强他没有保护好就被习包子给弄死了"
+  },
+  {
+   "id": "rel-5019",
+   "subject": "楼继伟",
+   "relation": "炮轰（被指为习终身连任舆论准备）",
+   "object": "李克强",
+   "status": "本档口径・指控层",
+   "quote": "楼继伟他炮轰李克强就是为了习近平终身连任进行舆论准备",
+   "episode": "cCu_R4uBSKc",
+   "date": "2024-09-20"
+  },
+  {
+   "id": "rel-5023",
+   "subject": "刘尚进",
+   "relation": "亲信（任其大秘）",
+   "object": "李克强",
+   "status": "本档口径",
+   "quote": "袁家军去了重庆又用了李克强的亲信刘尚进担任自己的大秘",
+   "episode": "cCu_R4uBSKc",
+   "date": "2024-09-20"
+  },
+  {
+   "id": "rel-0453",
+   "subject": "苗圩",
+   "relation": "本期称李克强的中学同学（合肥八中，同年毕业据说同班）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "seikxnCc7ZY",
+   "date": "2024-09-27",
+   "quote": "苗尾是李克强的中学同学啊苗尾和李克强都是在安徽省合肥市第八中学的上学的（字幕苗尾即苗圩）"
+  },
+  {
+   "id": "rel-2085",
+   "subject": "于少良",
+   "relation": "提拔任上海市委组织部长（本期推论，先猜赵乐际后自纠为李克强）",
+   "object": "李克强",
+   "status": "本期推断",
+   "episode": "JdMAVlGIPfQ",
+   "date": "2024-10-02",
+   "quote": "就是李克强提拔于少良担任上海组织部长的"
+  },
+  {
+   "id": "rel-3826",
+   "subject": "肖捷",
+   "relation": "大秘",
+   "object": "李克强",
+   "status": "本档口径（正文多作消节）",
+   "quote": "是李克强的大秘啊",
+   "episode": "hcCbtbbely8",
+   "date": "2024-10-12"
+  },
+  {
+   "id": "rel-3829",
+   "subject": "苗圩",
+   "relation": "中学同班同学",
+   "object": "李克强",
+   "status": "本档口径（正文作苗伟）",
+   "quote": "苗伟和李克强在安徽省合肥市第八中学是同班同学啊",
+   "episode": "hcCbtbbely8",
+   "date": "2024-10-12"
+  },
+  {
+   "id": "rel-0019",
+   "subject": "刘满仓",
+   "relation": "传闻为其亲家（本期考辨不成立）",
+   "object": "李克强",
+   "status": "传闻·已否定",
+   "episode": "KVH1n7I4YyE",
+   "date": "2024-10-20",
+   "quote": "所以从这儿就能看出来刘板仓他不是李克强的派系的"
+  },
+  {
+   "id": "rel-0343",
+   "subject": "王宇燕",
+   "relation": "本期称李克强亲自提拔的（2003年副厅，合35岁定律）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "kAFURN2Y_ys",
+   "date": "2024-10-24",
+   "quote": "李克强亲自提拔的王宇燕担任副局级"
+  },
+  {
+   "id": "rel-0344",
+   "subject": "陈全国",
+   "relation": "本期称李克强派系（王德政的秘书）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "kAFURN2Y_ys",
+   "date": "2024-10-24",
+   "quote": "陈全国大佐啊是李克强派系的"
+  },
+  {
+   "id": "rel-0349",
+   "subject": "石迎军",
+   "relation": "本期称李克强的直接下属（省政府办公厅四年，李克强任省长）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "kAFURN2Y_ys",
+   "date": "2024-10-24",
+   "quote": "石英军在河南省政府办公厅工作了4年期间李克强正是河南省长所以石英军他是不是就是李克强的秘书啊不知道但是石英军很明显是李克强的直接下属（字幕石英军即石迎军）"
+  },
+  {
+   "id": "rel-7644",
+   "subject": "姜大明",
+   "relation": "少数敢去吊唁（原文调研）李克强的人、被断人品经得住考验",
+   "object": "李克强",
+   "status": "本期断语层",
+   "episode": "NEcoqgtw4rA",
+   "date": "2024-11-26",
+   "quote": "姜大明是少数几个敢去调研李克强的人"
+  },
+  {
+   "id": "rel-7645",
+   "subject": "张绍华",
+   "relation": "李克强派系（由李克强从山东潍坊调入中央政法委）",
+   "object": "李克强",
+   "status": "本期总断层",
+   "episode": "NEcoqgtw4rA",
+   "date": "2024-11-26",
+   "quote": "所以张绍华就是李克强把他从山东维方调到中央政法委的"
+  },
+  {
+   "id": "rel-0514",
+   "subject": "陈全国",
+   "relation": "本期称赵紫阳和李克强的马仔",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "e3kJ7ahYIPc",
+   "date": "2025-01-03",
+   "quote": "新疆书记陈全国啊他是赵紫阳和李克强的马仔"
+  },
+  {
+   "id": "rel-4665",
+   "subject": "李克强",
+   "relation": "被其弄死",
+   "object": "习包子",
+   "status": "本档口径・指控层",
+   "quote": "所以李克强才被习近平弄死的",
+   "episode": "YVWyeT7qnNQ",
+   "date": "2025-01-12"
+  },
+  {
+   "id": "rel-3893",
+   "subject": "胡春华",
+   "relation": "高调亮相其政治老巢（信号层）",
+   "object": "李克强",
+   "status": "本档口径・信号层",
+   "quote": "胡春华异常活跃,尤其是高调亮相安徽啊。这是李克强的政治老巢",
+   "episode": "G-BG9nejkMM",
+   "date": "2025-04-10"
+  },
+  {
+   "id": "rel-0200",
+   "subject": "李克强",
+   "relation": "本期称赵紫阳提拔的（非胡锦涛提拔）",
+   "object": "赵紫阳",
+   "status": "本档口径",
+   "episode": "OoJhke1HwII",
+   "date": "2025-04-15",
+   "quote": "李克强也不是胡锦涛提拔的李克强是赵紫阳提拔的赵紫阳和胡锦涛是一个派系的"
+  },
+  {
+   "id": "rel-8584",
+   "subject": "王忠林",
+   "relation": "被断是李克强提拔的、李克强在山东的马仔姜大明具体提拔，王忠林是李克强任疫情小组长时提拔的",
+   "object": "李克强",
+   "status": "本期断语层",
+   "episode": "JoJls53NsGc",
+   "date": "2025-04-17",
+   "quote": "王忠林是李克强提拔的李克强在山东的马仔姜大明提拔的王忠林啊"
+  },
+  {
+   "id": "rel-3021",
+   "subject": "姜大明",
+   "relation": "是李克强的马仔、少数敢去吊唁李克强的官员",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "fll1x-SjJS0",
+   "date": "2025-04-18",
+   "quote": "山东省长姜大明啊是李克强的马仔"
+  },
+  {
+   "id": "rel-5744",
+   "subject": "熊维平",
+   "relation": "干弟弟",
+   "object": "李克强",
+   "status": "本档口径",
+   "quote": "熊為平呢基本上就是李克强的幹弟弟吧那李克强是胡锦涛的乾兒子所以熊為平他也可以說是胡锦涛的乾兒子",
+   "episode": "ZJrwyjLcROE",
+   "date": "2025-05-31"
+  },
+  {
+   "id": "rel-5745",
+   "subject": "李克强",
+   "relation": "干儿子",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "熊為平呢基本上就是李克强的幹弟弟吧那李克强是胡锦涛的乾兒子所以熊為平他也可以說是胡锦涛的乾兒子",
+   "episode": "ZJrwyjLcROE",
+   "date": "2025-05-31"
+  },
+  {
+   "id": "rel-4294",
+   "subject": "李克强",
+   "relation": "由其提拔",
+   "object": "赵紫阳",
+   "status": "本档口径",
+   "quote": "李克强呢就是赵紫阳提拔的",
+   "episode": "fJE9ed84HVA",
+   "date": "2025-06-01"
+  },
+  {
+   "id": "rel-8304",
+   "subject": "熊维平",
+   "relation": "与李克强1990年同为全国青联常委、被称干兄弟、背后为卢东亮背书",
+   "object": "李克强",
+   "status": "网友论证层",
+   "episode": "JgOKH8xfX0A",
+   "date": "2025-06-01",
+   "quote": "1990年熊维平与李克强同为全国青年常委堪称干兄弟"
+  },
+  {
+   "id": "rel-8305",
+   "subject": "厉以宁",
+   "relation": "系李克强的导师、李克强为其第七位学生",
+   "object": "李克强",
+   "status": "网友梳理层（原文作李宁）",
+   "episode": "JgOKH8xfX0A",
+   "date": "2025-06-01",
+   "quote": "不仅是中国前总理李克强的导师还培养了六位核心弟子"
+  },
+  {
+   "id": "rel-8307",
+   "subject": "郭宁宁",
+   "relation": "被称与李克强经济理念一脉相承、妥妥的李克强2.0（光华系受益人）",
+   "object": "李克强",
+   "status": "网友分析层",
+   "episode": "JgOKH8xfX0A",
+   "date": "2025-06-01",
+   "quote": "网友称这是妥妥的李克强2.0"
+  },
+  {
+   "id": "rel-8221",
+   "subject": "李以宁",
+   "relation": "系李克强的北大导师",
+   "object": "李克强",
+   "status": "本期断语层（原文作李宇宁）",
+   "episode": "w8KFEij-lTA",
+   "date": "2025-06-04",
+   "quote": "李宇宁呢是李克强的导师啊北大的导师吧"
+  },
+  {
+   "id": "rel-8223",
+   "subject": "卢东亮",
+   "relation": "被断为李克强的马仔、未来总书记或总理人选",
+   "object": "李克强",
+   "status": "本期断语与预测层",
+   "episode": "w8KFEij-lTA",
+   "date": "2025-06-04",
+   "quote": "这都是李克强的马仔"
+  },
+  {
+   "id": "rel-4680",
+   "subject": "白少康",
+   "relation": "北大法律系同學",
+   "object": "李克强",
+   "status": "本档口径",
+   "quote": "他給李克强的北大法律系的同學白少康當大秘啊",
+   "episode": "pLUp1E1kphw",
+   "date": "2025-06-09"
+  },
+  {
+   "id": "rel-4686",
+   "subject": "尤权",
+   "relation": "共用大秘（三人共用）",
+   "object": "李克强",
+   "status": "本档口径",
+   "quote": "温家宝黄菊李克强三個人共用一個大密郵券",
+   "episode": "pLUp1E1kphw",
+   "date": "2025-06-09"
+  },
+  {
+   "id": "rel-4690",
+   "subject": "李克强",
+   "relation": "親自護送其任上海市公安局局長",
+   "object": "白少康",
+   "status": "本档口径",
+   "quote": "2013年3月28日中共新一任的總理李克强趕到上海浦東調研親自護送公安部行政局局長白少康擔任上海市公安局局長",
+   "episode": "pLUp1E1kphw",
+   "date": "2025-06-09"
+  },
+  {
+   "id": "rel-1879",
+   "subject": "熊维平",
+   "relation": "李克强的干弟弟",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "5yfY9qRFxuY",
+   "date": "2025-06-12",
+   "quote": "吴东亮是李克强干弟弟熊维平的马仔"
+  },
+  {
+   "id": "rel-1882",
+   "subject": "李克强",
+   "relation": "赵紫阳提拔的",
+   "object": "赵紫阳",
+   "status": "本档口径",
+   "episode": "5yfY9qRFxuY",
+   "date": "2025-06-12",
+   "quote": "李克强就是赵紫阳提拔的"
+  },
+  {
+   "id": "rel-4042",
+   "subject": "李春林",
+   "relation": "可能有其背景（推测）",
+   "object": "李克强",
+   "status": "本档口径・推论层",
+   "quote": "有可能有温家宝李瑞环李克强的背景啊",
+   "episode": "gaGEYtLRTGA",
+   "date": "2025-06-13"
+  },
+  {
+   "id": "rel-4044",
+   "subject": "熊维平",
+   "relation": "干弟弟",
+   "object": "李克强",
+   "status": "本档口径",
+   "quote": "卢东亮呢是李克强幹弟弟熊维平的馬仔",
+   "episode": "gaGEYtLRTGA",
+   "date": "2025-06-13"
+  },
+  {
+   "id": "rel-4046",
+   "subject": "李克强",
+   "relation": "由其提拔",
+   "object": "赵紫阳",
+   "status": "本档口径",
+   "quote": "李克强他就是赵紫阳提拔的",
+   "episode": "gaGEYtLRTGA",
+   "date": "2025-06-13"
+  },
+  {
+   "id": "rel-8927",
+   "subject": "汪洋",
+   "relation": "網友私信稱其通過馬仔偷偷保存了李克强的心血證據、本期明言真假不知道（標題落點）",
+   "object": "李克强",
+   "status": "網友層",
+   "episode": "l-y712S_klI",
+   "date": "2025-06-15",
+   "quote": "據說是汪洋通過馬仔偷偷保存了李克强的心血證據"
+  },
+  {
+   "id": "rel-6635",
+   "subject": "卢东亮",
+   "relation": "同属派系",
+   "object": "李克强",
+   "status": "本期断语",
+   "quote": "李克强的馬仔卢东亮升任山西省長顯出接班人的架勢",
+   "episode": "P3JzYR99PYU",
+   "date": "2025-06-16"
+  },
+  {
+   "id": "rel-8674",
+   "subject": "彭丽媛",
+   "relation": "被斷涉及李克強遇刺案、且係習包子指使她親自下手，習赴哈薩克斯坦她未隨行被引為證（未坐實）",
+   "object": "李克强",
+   "status": "本期斷語層",
+   "episode": "wcNYBjcVyPI",
+   "date": "2025-06-17",
+   "quote": "只有一種解釋,彭丽媛涉及李克强案而且習包子指使彭丽媛親自下手的"
+  },
+  {
+   "id": "rel-8676",
+   "subject": "胡春华",
+   "relation": "被斷計劃四中全會接班，李克強案處理方式決定其接班成敗、民怨失控接班將泡湯",
+   "object": "李克强",
+   "status": "本期分析層",
+   "episode": "wcNYBjcVyPI",
+   "date": "2025-06-17",
+   "quote": "李克强遇刺案是中共的燙手山芋處理的方式將決定胡春华的接班問題"
+  },
+  {
+   "id": "rel-2001",
+   "subject": "尹德明",
+   "relation": "任团中央组织部干部二处处长时第一书记是李克强、管干部的处长很可能是一把手亲自提拔",
+   "object": "李克强",
+   "status": "本期推断",
+   "episode": "TuFrcrgQzDU",
+   "date": "2025-06-24",
+   "quote": "当时的共青团第一书记是李克强虽然尹德明只是一个处长但是管干部的处长很可能是一把手亲自提拔的"
+  },
+  {
+   "id": "rel-2620",
+   "subject": "郭宁宁",
+   "relation": "被设问是否为李克强马仔并在福州重判刘跃进（郭宁宁中国银行出身、李礼辉提拔的，李礼辉和李克强在北大的导师都是李扬；主播明言不知道、悬置）",
+   "object": "李克强",
+   "status": "传闻・本期未证实",
+   "episode": "TKdWX7KENX8",
+   "date": "2025-06-24",
+   "quote": "是不是李克强的马仔郭宁宁呢把刘跃进判死缓的我不知道啊"
+  },
+  {
+   "id": "rel-1731",
+   "episode": "BQzjm0FlW1M",
+   "date": "2025-07-02",
+   "subject": "陈小江",
+   "relation": "之后的副部级和正部级应该都是李克强提拔的",
+   "object": "李克强",
+   "status": "本档口径",
+   "quote": "陈小江之后的副部级和正部级应该都是李克强提拔的现在陈小江担任新疆党委书记要进政治局那只能是昏陶提拔"
+  },
+  {
+   "id": "rel-2502",
+   "subject": "曲青山",
+   "relation": "主笔李克强70诞辰纪念文章（中央党史和文献研究院院长）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "-PMofWKDF5U",
+   "date": "2025-07-06",
+   "quote": "纪念文章由中共中央党史和文献研究院撰写其院长屈青山的背景为事件增添了复杂性"
+  },
+  {
+   "id": "rel-2503",
+   "subject": "朱镕基",
+   "relation": "与彭丽媛被匿名信指为代号23107的李克强案指使者（指控层）",
+   "object": "李克强",
+   "status": "传闻・本期未证实",
+   "episode": "-PMofWKDF5U",
+   "date": "2025-07-06",
+   "quote": "李克强的死是一场代号为23107的政治谋杀由朱镕基彭丽媛指使公正指挥韩正的上海党羽执行"
+  },
+  {
+   "id": "rel-2504",
+   "subject": "龚正",
+   "relation": "被匿名信指为李克强案的指挥者（指控层）",
+   "object": "李克强",
+   "status": "传闻・本期未证实",
+   "episode": "-PMofWKDF5U",
+   "date": "2025-07-06",
+   "quote": "李克强的死是一场代号为23107的政治谋杀由朱镕基彭丽媛指使公正指挥韩正的上海党羽执行"
+  },
+  {
+   "id": "rel-2505",
+   "subject": "陈元",
+   "relation": "被匿名信指为李克强案的直接实施者（上海武警司令，指控层）",
+   "object": "李克强",
+   "status": "传闻・本期未证实",
+   "episode": "-PMofWKDF5U",
+   "date": "2025-07-06",
+   "quote": "上海武警司令陈元被指为直接的实施者"
+  },
+  {
+   "id": "rel-2506",
+   "subject": "黄胜强",
+   "relation": "被指为李克强案知情人、可能协助敏感物资未经海关验放通关（指控层）",
+   "object": "李克强",
+   "status": "传闻・本期未证实",
+   "episode": "-PMofWKDF5U",
+   "date": "2025-07-06",
+   "quote": "黄胜强指使前手下未经海关验放就让某种药物通关"
+  },
+  {
+   "id": "rel-6249",
+   "subject": "王辉耀",
+   "relation": "国务院参事（2015年2月其聘任）",
+   "object": "李克强",
+   "status": "本档口径",
+   "quote": "2015年2月王辉耀被时任的总理李克强聘任为国务院参事",
+   "episode": "jVxQ6xD_SFA",
+   "date": "2025-07-13"
+  },
+  {
+   "id": "rel-6250",
+   "subject": "王辉耀",
+   "relation": "马仔",
+   "object": "李克强",
+   "status": "本期断语",
+   "quote": "王辉耀应该就是李克强的马仔啊",
+   "episode": "jVxQ6xD_SFA",
+   "date": "2025-07-13"
+  },
+  {
+   "id": "rel-6254",
+   "subject": "尤权",
+   "relation": "大秘（先后给温家宝黄菊李克强三人）",
+   "object": "李克强",
+   "status": "本档口径",
+   "quote": "尤权先后给温家宝黄菊李克强三个人当过大秘啊",
+   "episode": "jVxQ6xD_SFA",
+   "date": "2025-07-13"
+  },
+  {
+   "id": "rel-5786",
+   "subject": "李克强",
+   "relation": "派系",
+   "object": "胡锦涛",
+   "status": "本档口径",
+   "quote": "李克强是胡锦涛派系的",
+   "episode": "lUuU6ZBWbFA",
+   "date": "2025-07-15"
+  },
+  {
+   "id": "rel-1081",
+   "subject": "李建中",
+   "relation": "在李克强任河南省委书记期间晋升河南省公安厅副厅长（本期据此断刘源和李克强是一个派系的）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "Cgj1iT5GiOM",
+   "date": "2025-07-24",
+   "quote": "李建中提拔河南省公安厅副厅长的时候河南省委书记就是李克强李克强为什么提拔刘源的下属王明义的大秘呢刘源和李克强是一个派系的呀"
+  },
+  {
+   "id": "rel-1082",
+   "subject": "秦玉海",
+   "relation": "是李克强的马仔（任焦作市长、市委书记期间省长是李克强；2014-09-21 被查。本期自陈没有深入研究、报道转述级）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "Cgj1iT5GiOM",
+   "date": "2025-07-24",
+   "quote": "秦玉海担任河南省交做市长市委书记期间呢河南的省长就是李克强"
+  },
+  {
+   "id": "rel-1084",
+   "subject": "陈全国",
+   "relation": "应该是李克强的人（河南省委副书记任内；与 ep22 陈全国李克强派系考同向再申）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "Cgj1iT5GiOM",
+   "date": "2025-07-24",
+   "quote": "陈全国大佐应该是李克强的人"
+  },
+  {
+   "id": "rel-2404",
+   "subject": "邵新宇",
+   "relation": "是李克强的下属（任全国学联副主席时李克强任共青团中央书记处书记）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "Sm1ejmMJf7k",
+   "date": "2025-07-30",
+   "quote": "已经认识李克强了，是李克强的下属"
+  },
+  {
+   "id": "rel-2405",
+   "subject": "李克强",
+   "relation": "多次提拔（起码三次）",
+   "object": "邵新宇",
+   "status": "本档口径",
+   "episode": "Sm1ejmMJf7k",
+   "date": "2025-07-30",
+   "quote": "我们已知李克强起码提拔过绍兴语三次（字幕形照录，正字邵新宇）"
+  },
+  {
+   "id": "rel-2416",
+   "subject": "王忠林",
+   "relation": "是李克强的马仔（姜大明在山东提拔）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "Sm1ejmMJf7k",
+   "date": "2025-07-30",
+   "quote": "我说王忠林就是李克强的马仔姜大明在山东提拔的"
+  },
+  {
+   "id": "rel-7100",
+   "subject": "卢东亮",
+   "relation": "李克强背景",
+   "object": "李克强",
+   "status": "本期断语层",
+   "episode": "Uj7fXpiWQQs",
+   "date": "2025-08-01",
+   "quote": "任命吴东亮为山西省长任命周霁为中联办主任这都是有李克强背景的两个人啊"
+  },
+  {
+   "id": "rel-7101",
+   "subject": "周霁",
+   "relation": "李克强背景",
+   "object": "李克强",
+   "status": "本期断语层",
+   "episode": "Uj7fXpiWQQs",
+   "date": "2025-08-01",
+   "quote": "任命吴东亮为山西省长任命周霁为中联办主任这都是有李克强背景的两个人啊"
+  },
+  {
+   "id": "rel-1480",
+   "subject": "卢东亮",
+   "relation": "是李克强、熊维平提拔的（山西省长卢东亮是李克强、熊维平提拔的；熊维平是厉以宁的学生、李克强也是厉以宁的学生）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "iDYmUI7ErKU",
+   "date": "2025-08-03",
+   "quote": "山西省长卢东亮是李克强熊为平提拔的熊为平也是李宁的学生啊"
+  },
+  {
+   "id": "rel-4863",
+   "subject": "李洪程",
+   "relation": "可能承担保护",
+   "object": "李克强",
+   "status": "本档口径・推论层",
+   "quote": "李洪程可能还承担了保护李克强的角色呀",
+   "episode": "16vrOUudrpU",
+   "date": "2025-08-04"
+  },
+  {
+   "id": "rel-3412",
+   "subject": "李鸿成",
+   "relation": "大保镖（本期断语）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "9lWqG3B3tJA",
+   "date": "2025-08-05",
+   "quote": "李鸿成在某种意义上充当了李克强大保镖的角色"
+  },
+  {
+   "id": "rel-0469",
+   "subject": "徐贵忠",
+   "relation": "本期称有李克强的背景（经南华大学邹树梁—萧捷核电项目与国防科工委渊源线）",
+   "object": "李克强",
+   "status": "本期推断",
+   "episode": "jdGgiNlWtrs",
+   "date": "2025-08-19",
+   "quote": "中部战区阅兵办副主任徐贵忠呢有李克强的背景"
+  },
+  {
+   "id": "rel-0486",
+   "subject": "萧捷",
+   "relation": "李克强的大秘（2006 年陪邹树梁跑桃花江核电项目）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "jdGgiNlWtrs",
+   "date": "2025-08-19",
+   "quote": "邹树梁跟着李克强的大秘萧杰去国防科工委跑核电项目"
+  },
+  {
+   "id": "rel-4774",
+   "subject": "萧杰",
+   "relation": "大秘",
+   "object": "李克强",
+   "status": "本档口径",
+   "quote": "李克强的大秘萧杰",
+   "episode": "wpcu7kcH23A",
+   "date": "2025-08-20"
+  },
+  {
+   "id": "rel-0548",
+   "subject": "卢东亮",
+   "relation": "本期再称李克强的马仔（山西省长）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "bIk1TANwoRU",
+   "date": "2025-08-25",
+   "quote": "山西省长卢东亮是李克强的马仔"
+  },
+  {
+   "id": "rel-0554",
+   "subject": "王宇燕",
+   "relation": "本期再称李克强在河南亲自提拔的",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "bIk1TANwoRU",
+   "date": "2025-08-25",
+   "quote": "河南省委副书记王宇燕是李克强在河南亲自提拔的副局级"
+  },
+  {
+   "id": "rel-0574",
+   "subject": "郭瑞民",
+   "relation": "本期称李克强的嫡系马仔、李克强一手提拔的",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "GleV4nWq2KY",
+   "date": "2025-09-06",
+   "quote": "郭瑞民呢就是李克强的嫡系马仔李克强一手提拔的"
+  },
+  {
+   "id": "rel-0575",
+   "subject": "宋玄涛",
+   "relation": "本期称李克强的马仔（李克强任河南省委书记后换上的人）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "GleV4nWq2KY",
+   "date": "2025-09-06",
+   "quote": "郭瑞民宋玄涛都是李克强的马仔"
+  },
+  {
+   "id": "rel-0576",
+   "subject": "陈全国",
+   "relation": "本期列入李克强的马仔名单（河南官员外调群）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "GleV4nWq2KY",
+   "date": "2025-09-06",
+   "quote": "陈全国连维良王宇艳宋玄涛这些都是李克强的马仔"
+  },
+  {
+   "id": "rel-0577",
+   "subject": "连维良",
+   "relation": "本期列入李克强的马仔名单（河南官员外调群）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "GleV4nWq2KY",
+   "date": "2025-09-06",
+   "quote": "陈全国连维良王宇艳宋玄涛这些都是李克强的马仔"
+  },
+  {
+   "id": "rel-3486",
+   "subject": "李克强",
+   "relation": "亲手提拔",
+   "object": "郭瑞民",
+   "status": "本档口径",
+   "episode": "2L89tnqgyNM",
+   "date": "2025-09-06",
+   "quote": "郭瑞民和宋玄涛都是李克强的马仔李克强亲手提拔的"
+  },
+  {
+   "id": "rel-3487",
+   "subject": "李克强",
+   "relation": "亲手提拔",
+   "object": "宋玄涛",
+   "status": "本档口径",
+   "episode": "2L89tnqgyNM",
+   "date": "2025-09-06",
+   "quote": "郭瑞民和宋玄涛都是李克强的马仔李克强亲手提拔的"
+  },
+  {
+   "id": "rel-7610",
+   "subject": "赵勇",
+   "relation": "李克强亲自提拔的马仔",
+   "object": "李克强",
+   "status": "本期定版语",
+   "episode": "02B4wLCpASY",
+   "date": "2025-09-07",
+   "quote": "当时的唐山市委书记赵勇是李克强亲自提拔的"
+  },
+  {
+   "id": "rel-7612",
+   "subject": "贾利军",
+   "relation": "公安部政治部主任、有李克强背景",
+   "object": "李克强",
+   "status": "本期断语层",
+   "episode": "02B4wLCpASY",
+   "date": "2025-09-07",
+   "quote": "北京市副市长唐文弘公安部政治部主任贾利军都有李克强的背景"
+  },
+  {
+   "id": "rel-7613",
+   "subject": "李克强",
+   "relation": "其马仔上位是给胡春华接班铺路（与胡春华北大相识）",
+   "object": "胡春华",
+   "status": "本期总断层",
+   "episode": "02B4wLCpASY",
+   "date": "2025-09-07",
+   "quote": "李克强的马仔上位就是给胡春华用的"
+  },
+  {
+   "id": "rel-8321",
+   "subject": "沈莹",
+   "relation": "被断准确说是李克强的人（原文李靠强）",
+   "object": "李克强",
+   "status": "本期断语层",
+   "episode": "HHHvEVAo7qg",
+   "date": "2025-09-13",
+   "quote": "准确的说是李靠强的人这就是胡春华接班的班底"
+  },
+  {
+   "id": "rel-1265",
+   "subject": "刘满仓",
+   "relation": "与李克强不是亲家（网传亲家说不成立：李克强的追悼会刘满仓没有去、没有照片证明他去了）",
+   "object": "李克强",
+   "status": "本期考辨否定",
+   "episode": "tGM6DUOn3qI",
+   "date": "2025-09-17",
+   "quote": "网上说刘满仓和李克强是亲家但是李克强的追悼会刘满仓去了吗没有去啊没有照片证明刘满仓去了所谓亲家李克强的追悼会啊"
+  },
+  {
+   "id": "rel-6489",
+   "subject": "习包子",
+   "relation": "计划物理消灭（推论层）",
+   "object": "李克强",
+   "status": "指控层",
+   "quote": "习报的计划就是这样的驾出胡锦涛灭了李克强再灭李强这就是习报的计划",
+   "episode": "TL2pi0U1qu8",
+   "date": "2025-09-29"
+  },
+  {
+   "id": "rel-0324",
+   "subject": "刘海星",
+   "relation": "本期称2022年升国安办常务副主任是李克强提拔的",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "SuakLrAnZtc",
+   "date": "2025-10-01",
+   "quote": "这就是李克强提拔的蔡奇没有权利提拔政部级啊"
+  },
+  {
+   "id": "rel-2050",
+   "subject": "姜大明",
+   "relation": "肯定是李克强的人、是李克强的大马仔",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "XpaZSkyE78c",
+   "date": "2025-10-01",
+   "quote": "姜大明的这一张照片就说明问题肯定是李克强的人"
+  },
+  {
+   "id": "rel-6403",
+   "subject": "秦玉海",
+   "relation": "马仔",
+   "object": "李克强",
+   "status": "本期断语",
+   "quote": "河南省公安厅厅长秦玉海呢就是李克强的马仔",
+   "episode": "JTAoqNtLcEA",
+   "date": "2025-10-03"
+  },
+  {
+   "id": "rel-0149",
+   "subject": "白少康",
+   "relation": "本期称李克强亲自护送上任强力背书的人",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "64EYE3nMYjc",
+   "date": "2025-10-05",
+   "quote": "白少康就是李克强的人"
+  },
+  {
+   "id": "rel-3152",
+   "subject": "李克强",
+   "relation": "被其弄死（指控）",
+   "object": "习包子",
+   "status": "本期指控",
+   "episode": "U5R7-v71DuQ",
+   "date": "2025-10-11",
+   "quote": "细胞子抓鸡眼了才把李克强弄死了"
+  },
+  {
+   "id": "rel-6656",
+   "subject": "肖捷",
+   "relation": "大秘",
+   "object": "李克强",
+   "status": "本档口径",
+   "quote": "李克强的大秘肖杰曾经担任过国库司的司长",
+   "episode": "Isl7S2MbCOU",
+   "date": "2025-10-17"
+  },
+  {
+   "id": "rel-2816",
+   "subject": "熊维平",
+   "relation": "是李克强的哥们儿，曾被李克强推荐拜访厉以宁从事经济学博士后研究",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "FxGXAll-j0M",
+   "date": "2025-10-22",
+   "quote": "熊维平呢是李克强的哥们儿"
+  },
+  {
+   "id": "rel-2826",
+   "subject": "罗东川",
+   "relation": "据说是李克强北大法律系的同学，之后经历与派系没有破解（悬置）",
+   "object": "李克强",
+   "status": "本期推断・未定版",
+   "episode": "FxGXAll-j0M",
+   "date": "2025-10-22",
+   "quote": "青海省长罗东川呢罗东川也没有很好的破解据说是李克强伟大法律系的同学啊时间线都是对的但是之后呢罗东川的经历没有很好的破解"
+  },
+  {
+   "id": "rel-5289",
+   "subject": "傅政华",
+   "relation": "正部级解决人（假设层）",
+   "object": "李克强",
+   "status": "本期推断・未定版",
+   "quote": "如果说傅政华是胡温的人那么就是李克强给傅政华解决的",
+   "episode": "FItFhJtFY54",
+   "date": "2025-10-24"
+  },
+  {
+   "id": "rel-2067",
+   "subject": "尤权",
+   "relation": "曾任大秘（给三位副总理当过大秘之一）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "hGtDWBVJ7lw",
+   "date": "2025-11-16",
+   "quote": "尤权呢给三个副总理当过大秘分别是温家宝黄菊李克强"
+  },
+  {
+   "id": "rel-5065",
+   "subject": "刚瑞",
+   "relation": "亲自提拔",
+   "object": "李克强",
+   "status": "本档口径",
+   "quote": "刚瑞呢提拔本溪市委副书记市长的时候呢当时的辽宁省委书记就是李克强本人",
+   "episode": "xDhHeeP2kRM",
+   "date": "2025-11-24"
+  },
+  {
+   "id": "rel-5066",
+   "subject": "徐大庆",
+   "relation": "马仔（推论层）",
+   "object": "李克强",
+   "status": "本档口径・推论层",
+   "quote": "徐大庆和谭成旭应该都是李克强的马仔分别担任过华晨汽车的董事长党组书记",
+   "episode": "xDhHeeP2kRM",
+   "date": "2025-11-24"
+  },
+  {
+   "id": "rel-5067",
+   "subject": "谭成旭",
+   "relation": "马仔（推论层）",
+   "object": "李克强",
+   "status": "本档口径・推论层",
+   "quote": "徐大庆和谭成旭应该都是李克强的马仔分别担任过华晨汽车的董事长党组书记",
+   "episode": "xDhHeeP2kRM",
+   "date": "2025-11-24"
+  },
+  {
+   "id": "rel-5068",
+   "subject": "吴澜",
+   "relation": "本溪市委书记（本溪帮推论层）",
+   "object": "李克强",
+   "status": "本档口径・推论层",
+   "quote": "刚瑞崔峰林谭成旭吴澜这四个本溪市委书记可能都是李克强的马仔",
+   "episode": "xDhHeeP2kRM",
+   "date": "2025-11-24"
+  },
+  {
+   "id": "rel-2121",
+   "subject": "陆昊",
+   "relation": "是其人（本期考辨否定，李克强提名只是程序）",
+   "object": "李克强",
+   "status": "本期考辨否定",
+   "episode": "TA1yd4EcQnM",
+   "date": "2025-11-26",
+   "quote": "不存在换派系这种说法"
+  },
+  {
+   "id": "rel-2126",
+   "subject": "姜大明",
+   "relation": "铁杆马仔（本期再申）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "TA1yd4EcQnM",
+   "date": "2025-11-26",
+   "quote": "姜大明呢是李克强的铁杆马仔"
+  },
+  {
+   "id": "rel-5973",
+   "subject": "苗圩",
+   "relation": "中学同学",
+   "object": "李克强",
+   "status": "本档口径",
+   "quote": "李克强身边三大金刚",
+   "episode": "62DBnGlJ75E",
+   "date": "2025-11-26"
+  },
+  {
+   "id": "rel-6733",
+   "subject": "罗豪才",
+   "relation": "授课老师于",
+   "object": "李克强",
+   "status": "本期转述",
+   "episode": "6TOgU3Ok7IM",
+   "date": "2025-11-29",
+   "quote": "1981年他和龚祥瑞先生给我们七七开设功法课程"
+  },
+  {
+   "id": "rel-6734",
+   "subject": "宋功德",
+   "relation": "归属断语（马仔）",
+   "object": "李克强",
+   "status": "本期断语",
+   "episode": "6TOgU3Ok7IM",
+   "date": "2025-11-29",
+   "quote": "如果宋功德他就是李克强的马仔其实现在就是胡锦涛提拔的"
+  },
+  {
+   "id": "rel-1876",
+   "subject": "徐立毅",
+   "relation": "李克强救过他（不免职只能被抓）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "4TURlyvXdT4",
+   "date": "2025-12-01",
+   "quote": "这个徐立毅还是李克强救过他他不免职只能被抓啊"
+  },
+  {
+   "id": "rel-3449",
+   "subject": "王忠林",
+   "relation": "铁杆马仔（再申）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "rtnqKFCySe0",
+   "date": "2025-12-03",
+   "quote": "王忠林就是李克强的铁杆马仔姜大明在山东提拔的"
+  },
+  {
+   "id": "rel-3450",
+   "subject": "熊征宇",
+   "relation": "后期提拔或与之任湖北疫情防控小组组长有关（推论）",
+   "object": "李克强",
+   "status": "本期推断",
+   "episode": "rtnqKFCySe0",
+   "date": "2025-12-03",
+   "quote": "王仲林和熊征宇后期的提拔可能和李克强担任湖北疫情防控小组的小组长有关系"
+  },
+  {
+   "id": "rel-7439",
+   "subject": "王忠林",
+   "relation": "李克强的马仔、姜大明提拔",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "IGEnm_jlHRY",
+   "date": "2025-12-08",
+   "quote": "王忠林他是李克强的马仔姜大明提拔的"
+  },
+  {
+   "id": "rel-8683",
+   "subject": "熊维平",
+   "relation": "中铝集团董事长，经李克强推荐去认识厉以宁（原文李宇宁）做经济学博士后；其与李克强关系被断决定卢东亮提拔高度（与 ep751 光华系账互证）",
+   "object": "李克强",
+   "status": "本期梳理层",
+   "episode": "xgFCybkP_vg",
+   "date": "2025-12-21",
+   "quote": "他是李克强推荐熊维平去认识李宇宁的"
+  },
+  {
+   "id": "rel-8332",
+   "subject": "李克强",
+   "relation": "以国安委副主席身份、在胡锦涛支持下安排刘海星2017年进入国安办任副主任",
+   "object": "刘海星",
+   "status": "本期推论层",
+   "episode": "Ypqh0kpBTy4",
+   "date": "2026-01-01",
+   "quote": "刘海星呢是2017年进入国安办担任副主任的就是在胡锦涛的支持下李克强安排他进去的"
+  },
+  {
+   "id": "rel-6442",
+   "subject": "马怀德",
+   "relation": "北大法律系同学",
+   "object": "李克强",
+   "status": "本期断语",
+   "quote": "马怀德是李克强北大法律系的同学",
+   "episode": "ymCXvPF0IXY",
+   "date": "2026-01-11"
+  },
+  {
+   "id": "rel-2133",
+   "subject": "李克强",
+   "relation": "就是赵紫阳提拔的",
+   "object": "赵紫阳",
+   "status": "本档口径",
+   "episode": "aDIUnh7CBV4",
+   "date": "2026-01-16",
+   "quote": "李克强,贺国强就是赵紫阳提拔的就这么简单的经历"
+  },
+  {
+   "id": "rel-2137",
+   "subject": "唐方裕",
+   "relation": "60岁任重庆市政协主席晋升正部级系其退休前任命（标题明言、本期论证）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "aDIUnh7CBV4",
+   "date": "2026-01-16",
+   "quote": "唐方裕去重庆没有任何意义只是为了解决正部级如果是习包子提拔唐方裕他直接任命唐方裕担任中央政策研究室副主任阔胡正部长级不就行了吗"
+  },
+  {
+   "id": "rel-2139",
+   "subject": "吴志潘",
+   "relation": "本期推断为其同学（同为芮沐门生）",
+   "object": "李克强",
+   "status": "本期推断",
+   "episode": "aDIUnh7CBV4",
+   "date": "2026-01-16",
+   "quote": "吴志潘应该是李克强的同学吧吴志潘和李克强都是锐木的学生"
+  },
+  {
+   "id": "rel-5378",
+   "subject": "蒿慧杰",
+   "relation": "马仔",
+   "object": "李克强",
+   "status": "本档口径",
+   "quote": "浩慧洁可以说是李克强的马仔",
+   "episode": "ElNgAaJS4-4",
+   "date": "2026-01-17"
+  },
+  {
+   "id": "rel-2002",
+   "subject": "张大卫",
+   "relation": "就是李克强的铁杆马仔（李任省委书记第2个月即提拔其任省发改委主任）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "u9WpTMGa1jU",
+   "date": "2026-01-19",
+   "quote": "总体来看张大卫就是李克强的铁杆马仔"
+  },
+  {
+   "id": "rel-2004",
+   "subject": "连维良",
+   "relation": "确定是李克强的马仔（被习包子打压了10年都升不了正部）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "u9WpTMGa1jU",
+   "date": "2026-01-19",
+   "quote": "连维良确定是李克强的妈仔"
+  },
+  {
+   "id": "rel-2008",
+   "subject": "谢福瞻",
+   "relation": "就是温家宝李克强的马仔",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "u9WpTMGa1jU",
+   "date": "2026-01-19",
+   "quote": "谢福瞻就是温家宝李克强的马仔"
+  },
+  {
+   "id": "rel-3259",
+   "subject": "陈育煌",
+   "relation": "温家宝、李克强的马仔",
+   "object": "李克强",
+   "status": "本期新判",
+   "episode": "rqM4R2BFRJM",
+   "date": "2026-01-26",
+   "quote": "陈育煌是温家宝李克强的马仔温家宝李克强的大秘笔吧"
+  },
+  {
+   "id": "rel-3265",
+   "subject": "罗东川",
+   "relation": "北大法律系、与李克强同专业（1982级，李为刚毕业留校的学长）",
+   "object": "李克强",
+   "status": "本期推断",
+   "episode": "rqM4R2BFRJM",
+   "date": "2026-01-26",
+   "quote": "罗东川呢他不但是北大的他还是法律系的和李克强一个专业的而且当时1982年李克强他就在北京大学"
+  },
+  {
+   "id": "rel-3813",
+   "subject": "尤权",
+   "relation": "大秘",
+   "object": "李克强",
+   "status": "本档口径・再证（承 ep303/322）",
+   "quote": "梁建勇是尤权的大秘尤权的是温家宝和李克强的大秘",
+   "episode": "0amDu92MYe0",
+   "date": "2026-01-28"
+  },
+  {
+   "id": "rel-4366",
+   "subject": "田庆盈",
+   "relation": "铁杆马仔、直接下属",
+   "object": "李克强",
+   "status": "本档口径",
+   "quote": "能够确定的是田庆盈是李克强的铁盖马仔姜大明的直接下属",
+   "episode": "QIN7KJ4_fwk",
+   "date": "2026-02-10"
+  },
+  {
+   "id": "rel-4368",
+   "subject": "姜大明",
+   "relation": "2023年11月亲赴吊唁",
+   "object": "李克强",
+   "status": "本档口径",
+   "quote": "2023年11月姜大明是少数几位敢于前去调验李克强的官员之一",
+   "episode": "QIN7KJ4_fwk",
+   "date": "2026-02-10"
+  },
+  {
+   "id": "rel-6668",
+   "subject": "王忠林",
+   "relation": "铁杆马仔（定版）",
+   "object": "李克强",
+   "status": "本期定版",
+   "quote": "王忠林就是李克强的铁杆马仔姜大明在山东提拔的",
+   "episode": "as_0ApiLbiY",
+   "date": "2026-02-13"
+  },
+  {
+   "id": "rel-6393",
+   "subject": "陆浩",
+   "relation": "谈话警告（1985年会堂）",
+   "object": "李克强",
+   "status": "传闻层",
+   "quote": "1985年陆浩拉住李克强在一个会堂里谈话交谈的肢体语言",
+   "episode": "9IexOlj1r5I",
+   "date": "2026-02-16"
+  },
+  {
+   "id": "rel-2993",
+   "subject": "李桥铭",
+   "relation": "有可能是李克强家的亲戚（纯猜测）",
+   "object": "李克强",
+   "status": "纯猜测层・双标记",
+   "episode": "CNaSdSmRDKE",
+   "date": "2026-02-19",
+   "quote": "有两种可能性当然纯猜测李桥铭有可能是李克强家的亲戚"
+  },
+  {
+   "id": "rel-5121",
+   "subject": "张大卫",
+   "relation": "马仔",
+   "object": "李克强",
+   "status": "本档口径",
+   "quote": "2003年李克强当省委书记第二个月立刻提拔张大卫担任河南省发改委主任",
+   "episode": "Nc2WTKPVZA0",
+   "date": "2026-02-20"
+  },
+  {
+   "id": "rel-7917",
+   "subject": "李桥铭",
+   "relation": "与李克强、彭小枫的关系被预告待展开（原文李鹤强）",
+   "object": "李克强",
+   "status": "预告悬置层",
+   "episode": "iV1cZi4F6Zs",
+   "date": "2026-02-20",
+   "quote": "李桥铭和李鹤强的关系呢和彭小枫的关系我们以后再说吧"
+  },
+  {
+   "id": "rel-3192",
+   "subject": "李桥铭",
+   "relation": "关系非比寻常",
+   "object": "李克强",
+   "status": "本期推断",
+   "episode": "gFgkjsOJEaY",
+   "date": "2026-02-22",
+   "quote": "李克强跟李桥铭的关系应该是非比寻常"
+  },
+  {
+   "id": "rel-6264",
+   "subject": "王教成",
+   "relation": "同乡（安徽滁州、同地级市）",
+   "object": "李克强",
+   "status": "本档口径",
+   "quote": "王教成呢是安徽省出州市人李克强也是安徽省出州市人王教成和李克强是一个地级市的老乡",
+   "episode": "3Nc_qqQtPSw",
+   "date": "2026-02-23"
+  },
+  {
+   "id": "rel-3559",
+   "subject": "李克强",
+   "relation": "任河南省长期间打压七年未予晋升",
+   "object": "朱长青",
+   "status": "本期推断",
+   "episode": "ZjOxBh3TYxg",
+   "date": "2026-02-25",
+   "quote": "李克强整整打压了朱长青7年朱长青还是没有晋升正局级"
+  },
+  {
+   "id": "rel-4023",
+   "subject": "彭丽媛",
+   "relation": "参与暗杀（网友拿到的情报）",
+   "object": "李克强",
+   "status": "传闻・网友层",
+   "quote": "之前我拿到的情报是彭丽媛参与了暗杀李克强",
+   "episode": "ttyiGROgHcU",
+   "date": "2026-03-11"
+  },
+  {
+   "id": "rel-1747",
+   "episode": "d_HjOUPjCGI",
+   "date": "2026-03-21",
+   "subject": "刘尚进",
+   "relation": "是李克强的马仔、袁家军的大秘（重庆市委秘书长）",
+   "object": "李克强",
+   "status": "本档口径",
+   "quote": "袁家军的大秘重庆市委秘书长刘尚进是李克强的马仔李克强就是胡锦涛的干儿子"
+  },
+  {
+   "id": "rel-7082",
+   "subject": "靳磊",
+   "relation": "李克强派系",
+   "object": "李克强",
+   "status": "本档口径（网友消息+主播采纳）",
+   "episode": "YR_Nl3d9vjI",
+   "date": "2026-03-22",
+   "quote": "基本可以确定靳磊就是李克强派系的人"
+  },
+  {
+   "id": "rel-7085",
+   "subject": "张大卫",
+   "relation": "铁杆马仔",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "YR_Nl3d9vjI",
+   "date": "2026-03-22",
+   "quote": "李克强看什么小说张大卫他都知道"
+  },
+  {
+   "id": "rel-7086",
+   "subject": "李公乐",
+   "relation": "铁杆马仔",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "YR_Nl3d9vjI",
+   "date": "2026-03-22",
+   "quote": "当时的安阳市委书记叫做李公乐也是李克强的铁杆麻崽"
+  },
+  {
+   "id": "rel-7087",
+   "subject": "连维良",
+   "relation": "马仔",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "YR_Nl3d9vjI",
+   "date": "2026-03-22",
+   "quote": "连维良是公认的李克强的马仔"
+  },
+  {
+   "id": "rel-6113",
+   "subject": "王亚军",
+   "relation": "同乡（马仔可能性大、未定版）",
+   "object": "李克强",
+   "status": "本期推断",
+   "quote": "他也不必然百分百是李克强的马仔但是可能性就很大了",
+   "episode": "fDpaXF2k_2Y",
+   "date": "2026-03-28"
+  },
+  {
+   "id": "rel-3217",
+   "subject": "李克强",
+   "relation": "受提拔于",
+   "object": "赵紫阳",
+   "status": "本期新判",
+   "episode": "I-2nBCrR3FA",
+   "date": "2026-03-30",
+   "quote": "李克强一开始不是胡锦涛提拔的"
+  },
+  {
+   "id": "rel-4884",
+   "subject": "薄熙来",
+   "relation": "争夺其总理位置",
+   "object": "李克强",
+   "status": "本档口径",
+   "quote": "唱红打黑呢就是想要闲鱼翻身争夺李克强这个总理的位置",
+   "episode": "pdn4YcrsnW8",
+   "date": "2026-04-13"
+  },
+  {
+   "id": "rel-0812",
+   "subject": "汪洋",
+   "relation": "本期称与习包子一起逼李克强一起退休（汪洋二十大退休很可能是要拖着同岁的李克强一起下水）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "zSm9cT9P4Yk",
+   "date": "2026-04-14",
+   "quote": "汪洋退休很可能是跟习包子一起逼李克强一起退休"
+  },
+  {
+   "id": "rel-6890",
+   "subject": "葛巧红",
+   "relation": "马仔",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "9Iw0USKtVWE",
+   "date": "2026-04-15",
+   "quote": "其仕途始于河南,可能是李克强马仔"
+  },
+  {
+   "id": "rel-6898",
+   "subject": "齐金丽",
+   "relation": "马仔（副局级由其提拔）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "9Iw0USKtVWE",
+   "date": "2026-04-15",
+   "quote": "他的副局级就是当时的河南省长李克强提拔的"
+  },
+  {
+   "id": "rel-5402",
+   "subject": "习包子、张又侠、彭丽媛",
+   "relation": "断深度卷入李克强遇害案",
+   "object": "李克强",
+   "status": "指控层・待核",
+   "quote": "张又侠和彭丽媛习包子可能深入卷可能深度卷入了李克强遇害案件",
+   "episode": "2oF_1NLzRHI",
+   "date": "2026-04-24"
+  },
+  {
+   "id": "rel-5813",
+   "subject": "李克强",
+   "relation": "提拔",
+   "object": "赵紫阳",
+   "status": "本档口径",
+   "quote": "贺国强就是赵紫阳提拔的李克强他也是赵紫阳提拔的",
+   "episode": "EO-BtKtIT5E",
+   "date": "2026-04-30"
+  },
+  {
+   "id": "rel-5818",
+   "subject": "刘浩凌",
+   "relation": "提拔（推论）",
+   "object": "李克强",
+   "status": "本期推论",
+   "quote": "后面刘浩灵很可能就是李克强提拔的",
+   "episode": "EO-BtKtIT5E",
+   "date": "2026-04-30"
+  },
+  {
+   "id": "rel-3684",
+   "subject": "李克强",
+   "relation": "在二十大原始版常委名单之上（推测留任人大委员长）",
+   "object": "二十大原始版常委名单",
+   "status": "本期推测",
+   "episode": "RatKvbM5BUQ",
+   "date": "2026-05-12",
+   "quote": "如果李克强他仅仅是留任一个人大委员长的话留一个李希中纪委书记给李克强保命蔡奇很明显不在原始的名单之中"
+  },
+  {
+   "id": "rel-8548",
+   "subject": "汪洋",
+   "relation": "新版20大名单推测中被列为与李克强双接班人选之一、王沪宁退下（网友与本期推测层）",
+   "object": "李克强",
+   "status": "推测层",
+   "episode": "crAQp4LxB84",
+   "date": "2026-05-13",
+   "quote": "有可能是李克强呢和西包子拍戏的汪洋呢双接班"
+  },
+  {
+   "id": "rel-1948",
+   "subject": "熊维平",
+   "relation": "基本就是李克强的干弟弟（李克强推荐其师从厉以宁的干亲链推论）",
+   "object": "李克强",
+   "status": "本期推断",
+   "episode": "u4pVFibTrgo",
+   "date": "2026-05-19",
+   "quote": "熊维平基本就是李克强的干弟弟"
+  },
+  {
+   "id": "rel-1949",
+   "subject": "卢东亮",
+   "relation": "李克强的马仔（2021年任山西省委常委表述）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "u4pVFibTrgo",
+   "date": "2026-05-19",
+   "quote": "2021年10月李克强的马仔卢东亮任山西省委常委"
+  },
+  {
+   "id": "rel-2461",
+   "subject": "姜大明",
+   "relation": "是李克强的铁杆马仔",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "BI-5rsE8FYA",
+   "date": "2026-05-29",
+   "quote": "姜大明这一去呢等于百分百向全天下肇事了他作为李克强铁杆马仔的政治身份"
+  },
+  {
+   "id": "rel-6561",
+   "subject": "王忠林",
+   "relation": "疫情时从山东调入湖北",
+   "object": "李克强",
+   "status": "本档口径",
+   "quote": "李克强把王忠林从山东调到湖北省",
+   "episode": "DKnQpbim5wA",
+   "date": "2026-05-30"
+  },
+  {
+   "id": "rel-1791",
+   "episode": "UlXj4wNlQzo",
+   "date": "2026-05-31",
+   "subject": "曾维",
+   "relation": "应该是李克强的马仔（2004 至 2007 年给时任辽宁省委书记李克强担任三年大秘、主播默认此判但注稍有疑点）",
+   "object": "李克强",
+   "status": "本期推断",
+   "quote": "曾为的确给李克强担任过三年的大秘我们先默认曾为的确是李克强的马仔其实曾为也是稍微有点疑点的应该问题不大应该是李克强的马仔"
+  },
+  {
+   "id": "rel-1190",
+   "subject": "胡春华",
+   "relation": "承接李克强留下的所有政治遗产（克强经济学、务实的技术官僚群体、国务院系统官员的政治怨气与同情票；胡春华是胡锦涛时代亲自选定、党内长期共识的储君）",
+   "object": "李克强",
+   "status": "本期推断",
+   "episode": "EzmaUkj9pwg",
+   "date": "2026-06-08",
+   "quote": "胡春华作为混淆派系的继承人自然而然的承接了李克强所留下的所有政治遗产和所谓的同情票"
+  },
+  {
+   "id": "rel-0906",
+   "subject": "魏晓奎",
+   "relation": "本期假设其为李克强的人（据其大秘林昌元的身份推）",
+   "object": "李克强",
+   "status": "本期推断",
+   "episode": "xGy2cef24zA",
+   "date": "2026-06-09",
+   "quote": "假设魏晓奎就是李克强的马仔"
+  },
+  {
+   "id": "rel-0907",
+   "subject": "林昌元（待核）",
+   "relation": "魏晓奎的大秘、很可能是李克强的秘书或者铁杆马仔",
+   "object": "李克强",
+   "status": "本期推断",
+   "episode": "xGy2cef24zA",
+   "date": "2026-06-09",
+   "quote": "魏晓奎的大秘林昌元很有可能是李克强的秘书或者是铁杆马仔"
+  },
+  {
+   "id": "rel-0909",
+   "subject": "尤权",
+   "relation": "曾任李克强的大秘（三任大秘之一）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "xGy2cef24zA",
+   "date": "2026-06-09",
+   "quote": "尤权给三个人当过大秘温家宝黄菊李克强"
+  },
+  {
+   "id": "rel-3353",
+   "subject": "魏晓奎",
+   "relation": "胡锦涛李克强派系（经林长远推论）",
+   "object": "李克强",
+   "status": "本期推断・未定版",
+   "episode": "jeKiwe8WBSM",
+   "date": "2026-06-09",
+   "quote": "如果林昌远的确是李克强的秘书那么魏晓葵就是胡锦涛李克强的派系的这个还需要继续研究"
+  },
+  {
+   "id": "rel-3354",
+   "subject": "李克强",
+   "relation": "2008–2013年分管卫生药监、任国务院食品安全委员会主任",
+   "object": "国务院食品安全委员会",
+   "status": "本档口径",
+   "episode": "jeKiwe8WBSM",
+   "date": "2026-06-09",
+   "quote": "国务院于2010年特设了国务院食品安全委员会李克强亲自兼任该委员会的主任"
+  },
+  {
+   "id": "rel-2318",
+   "subject": "刘满仓",
+   "relation": "「是李克强亲家」说本期考辨否定（未出席李克强追悼会、无照片证明）",
+   "object": "李克强",
+   "status": "本期考辨否定",
+   "episode": "lgQamVxWA8M",
+   "date": "2026-06-17",
+   "quote": "大卫宣造谣说刘满仓是李克强的亲家没有照片证明"
+  },
+  {
+   "id": "rel-8260",
+   "subject": "李涛",
+   "relation": "被断为李克强的马仔（郑东新区马仔）、非陈润尔提拔",
+   "object": "李克强",
+   "status": "本期断语层",
+   "episode": "JISunSQV5KY",
+   "date": "2026-06-19",
+   "quote": "刘伟和李涛就是当年李克强搞郑东新区的马仔"
+  },
+  {
+   "id": "rel-8261",
+   "subject": "刘伟",
+   "relation": "被断为李克强的马仔（当年省发改委处长、郑东新区马仔）",
+   "object": "李克强",
+   "status": "本期断语层",
+   "episode": "JISunSQV5KY",
+   "date": "2026-06-19",
+   "quote": "刘伟当年就是河南省发改委的处长李克强让当时的发改委主任搞什么郑东新区"
+  },
+  {
+   "id": "rel-1589",
+   "subject": "郭瑞民",
+   "relation": "是李克强亲自提拔的（郭瑞民是河南省官员调到贵州省的、李克强担任河南省委书记期间亲自提拔郭瑞民为驻马店市委副书记）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "2k2Sqdg1TgA",
+   "date": "2026-06-20",
+   "quote": "郭瑞民是河南省官员调到贵州省的李克强担任河南省委书记期间亲自提拔郭瑞民为驻马店市委副书记"
+  },
+  {
+   "id": "rel-7923",
+   "subject": "高善文",
+   "relation": "2016年应邀出席李克强主持的经济形势和企业家座谈会（主播明言不证派系）",
+   "object": "李克强",
+   "status": "公开层",
+   "episode": "RPpmBGk-4fM",
+   "date": "2026-07-08",
+   "quote": "李克强当总理的时候2016年高善文应邀出席过一次李克强主持召开的经济形式和企业家座谈会"
+  },
+  {
+   "id": "rel-3101",
+   "subject": "彭丽媛",
+   "relation": "被指在李克强案件中可能扮演了凶手的角色",
+   "object": "李克强",
+   "status": "指控层・双标记",
+   "episode": "wqQfdwUGfhw",
+   "date": "2026-07-10",
+   "quote": "那当然彭丽媛可能也插手甚至在李克强案件中扮演了凶手的角色"
+  },
+  {
+   "id": "rel-2568",
+   "subject": "傅华",
+   "relation": "2022年9月2日《中国网信》署名文章「三个一分钟」被读作警告李克强，其背后主使被断为汪洋与习包子",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "4zO5itAlmQw",
+   "date": "2026-07-16",
+   "quote": "傅华背后的主使就是当时的政协主席汪洋就是当时的总书记习包子这才是核心的问题"
+  },
+  {
+   "id": "rel-4672",
+   "subject": "李克强",
+   "relation": "被其弄死（2023年10月27日）",
+   "object": "习包子",
+   "status": "本档口径・指控层",
+   "quote": "2023年10月27日把李克强弄死呢",
+   "episode": "kX_WWpobb94",
+   "date": "2026-08-13"
+  },
+  {
+   "id": "rel-5664",
+   "subject": "尹德明",
+   "relation": "心腹（团中央管干部处长）",
+   "object": "李克强",
+   "status": "本档口径",
+   "quote": "是李克强,在团中央管干部的处长,那就是第一书记的绝对心腹",
+   "episode": "C9GzUbMbtMs",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rel-1467",
+   "subject": "姜大明",
+   "relation": "是李克强的马仔（姜大明是在李克强死后、少数几个顶着政治高压去送李克强最后一程的人；如果李克强不喜欢姜大明、姜大明会冒着被习包子彻底清算的政治风险去吗；姜大明是山东省委副书记、闫剑波孙永祥这条线的源头）",
+   "object": "李克强",
+   "status": "本档口径",
+   "episode": "0brkaaZe2gg",
+   "date": "2026-09-25",
+   "quote": "姜大明是在李克强死了的情况下少数几个顶着政治高压去调研李克强的人"
+  },
+  {
+   "id": "rel-1764",
+   "episode": "OyJhQzL5NP8",
+   "date": "2026-10-10",
+   "subject": "苗圩",
+   "relation": "是李克强的马仔",
+   "object": "李克强",
+   "status": "本档口径",
+   "quote": "那这里面苗尾呢这是李克强的马仔而郭开朗呢是江泽民的秘书"
+  },
+  {
+   "id": "rel-7147",
+   "subject": "李克强",
+   "relation": "批准特斯拉上海项目（推测）",
+   "object": "特斯拉",
+   "status": "本期推测层",
+   "episode": "B_OkVjfPsFo",
+   "date": "2026-10-11",
+   "quote": "那只能推测在当时的常委会中是李克强总理批准的而不是习包子这个总书记批准的"
+  },
+  {
+   "id": "rel-7148",
+   "subject": "李克强",
+   "relation": "胡锦涛的马仔（特斯拉主导表述）",
+   "object": "胡锦涛",
+   "status": "本期表述层",
+   "episode": "B_OkVjfPsFo",
+   "date": "2026-10-11",
+   "quote": "真正主导上海引进特斯拉工厂的是胡锦涛的马仔李克强和江泽民的马仔李强和周波"
+  }
+ ],
+ "date_from": "2023-10-31",
+ "date_to": "2026-10-11"
+}

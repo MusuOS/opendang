@@ -1,0 +1,1031 @@
+{
+ "id": "ding-xue-xiang",
+ "name": "丁薛祥",
+ "kind": "relations",
+ "part": 1,
+ "count": 102,
+ "relations": [
+  {
+   "id": "rel-8257",
+   "subject": "丁薛祥",
+   "relation": "被断为朱镕基的马仔（闸北区朱镕基全家桶）",
+   "object": "朱镕基",
+   "status": "本期断语层",
+   "episode": "01jrILfjLvY",
+   "date": "2024-07-09",
+   "quote": "闸北区是朱镕基的全家桶包括丁薛祥包括施晓林都是朱镕基的马仔"
+  },
+  {
+   "id": "rel-3719",
+   "subject": "丁薛祥",
+   "relation": "总书记候选可能性为零（早期判定）",
+   "object": "习包子",
+   "status": "本档口径・早期判定",
+   "quote": "丁薛祥百分之百没戏啊丁薛祥就是习近平的铁杆马仔",
+   "episode": "OkG3Je__U0o",
+   "date": "2024-10-18"
+  },
+  {
+   "id": "rel-0017",
+   "subject": "张宏亮",
+   "relation": "大秘（秘书）",
+   "object": "丁薛祥",
+   "status": "本档口径",
+   "episode": "KVH1n7I4YyE",
+   "date": "2024-10-20",
+   "quote": "丁薛祥的秘书张洪亮升任中国国务院办公厅秘书二局局长"
+  },
+  {
+   "id": "rel-0018",
+   "subject": "丁薛祥",
+   "relation": "铁杆亲信",
+   "object": "习包子",
+   "status": "本档口径",
+   "episode": "KVH1n7I4YyE",
+   "date": "2024-10-20",
+   "quote": "所以丁薛祥是习近平的铁杆马仔丁薛祥不可能接任习近平担任总书记"
+  },
+  {
+   "id": "rel-7446",
+   "subject": "丁薛祥",
+   "relation": "若连任常委大概率任政协主席（本期推测层）",
+   "object": "全国政协",
+   "status": "本期推测层",
+   "episode": "e_dBDvZsPZM",
+   "date": "2024-10-28",
+   "quote": "丁薛祥如果连任的话,大概率是政协主席啊"
+  },
+  {
+   "id": "rel-1369",
+   "subject": "丁薛祥",
+   "relation": "跑到清华与唱红打黑的总后台朱镕基、王岐山抱团取暖（丁薛祥会见清华经管学院顾问委委员代表；墙内版本根本没有朱镕基和王岐山、两人只能跑到海外大外宣宣传造势、新华网人民网根本不让发声；习包子、朱镕基、王岐山、丁薛祥四人帮要拿笔杆子和枪杆子对抗）",
+   "object": "朱镕基",
+   "status": "本档口径",
+   "episode": "LbkOdk74tPI",
+   "date": "2024-11-02",
+   "quote": "所以丁薛祥就跑到了清华那里啊和唱红打黑的总后台啊和王书记抱团取暖啊"
+  },
+  {
+   "id": "rel-0794",
+   "subject": "丁薛祥",
+   "relation": "本期断习包子的铁杆马仔（习包子第二个任期的中办主任；和江泽民一毛钱关系都没有、不是上海帮）",
+   "object": "习包子",
+   "status": "本档口径",
+   "episode": "VgETRJvc4l0",
+   "date": "2024-11-25",
+   "quote": "丁薛祥他就是习近平的铁杆马仔"
+  },
+  {
+   "id": "rel-0066",
+   "subject": "丁薛祥",
+   "relation": "本期称习包子的干儿子（集齐四大派系标记）",
+   "object": "习包子",
+   "status": "本档口径",
+   "episode": "ekED_GhE2zA",
+   "date": "2024-12-20",
+   "quote": "习近平的干儿子,丁薛祥啊"
+  },
+  {
+   "id": "rel-0067",
+   "subject": "丁薛祥",
+   "relation": "传言被停职检查，由何立峰代管常务副总理职责",
+   "object": "何立峰",
+   "status": "传闻",
+   "episode": "ekED_GhE2zA",
+   "date": "2024-12-20",
+   "quote": "传言丁薛祥被停职,由何立峰代管国务院常务副总理的职责"
+  },
+  {
+   "id": "rel-0068",
+   "subject": "何卫东",
+   "relation": "传言在协查，与丁薛祥同属内定要处理",
+   "object": "丁薛祥",
+   "status": "传闻",
+   "episode": "ekED_GhE2zA",
+   "date": "2024-12-20",
+   "quote": "前两天传言何维东也在协检查何维东和丁薛祥这可能级别比较高啊内定是要处理的"
+  },
+  {
+   "id": "rel-0069",
+   "subject": "张宏亮",
+   "relation": "本期称丁薛祥的秘书",
+   "object": "丁薛祥",
+   "status": "本档口径",
+   "episode": "ekED_GhE2zA",
+   "date": "2024-12-20",
+   "quote": "丁薛祥的秘书张洪亮给边巴扎西当过秘书（字幕张洪亮）"
+  },
+  {
+   "id": "rel-4716",
+   "subject": "丁薛祥",
+   "relation": "抢救小组副组长",
+   "object": "习包子",
+   "status": "本档口径",
+   "quote": "雷海潮和丁薛祥担任习近平抢救小组的副组长",
+   "episode": "sc7X_g49wMc",
+   "date": "2024-12-21"
+  },
+  {
+   "id": "rel-6865",
+   "subject": "丁薛祥",
+   "relation": "干儿子",
+   "object": "习包子",
+   "status": "本期再申",
+   "episode": "LD1xHH8Yw_A",
+   "date": "2024-12-22",
+   "quote": "丁薛祥是习近平的干儿子"
+  },
+  {
+   "id": "rel-6866",
+   "subject": "丁薛祥",
+   "relation": "停职传言（涉朱之松案）",
+   "object": "港澳事务领导小组",
+   "status": "传闻层未定版",
+   "episode": "LD1xHH8Yw_A",
+   "date": "2024-12-22",
+   "quote": "网络传言丁薛祥停职作为港澳事务领导小组的组长没有去澳门"
+  },
+  {
+   "id": "rel-0506",
+   "subject": "金壮龙",
+   "relation": "本期称是朱之松、应勇、丁薛祥这条线上的官员（传言被抓）",
+   "object": "丁薛祥",
+   "status": "传闻・本期未证实",
+   "episode": "e3kJ7ahYIPc",
+   "date": "2025-01-03",
+   "quote": "金壮龙就是朱之松应勇丁薛祥这条线上的官员啊"
+  },
+  {
+   "id": "rel-6780",
+   "subject": "丁薛祥",
+   "relation": "缺席政治局会议与迎新春活动",
+   "object": "政治局会议",
+   "status": "本期转述",
+   "episode": "gB49pNMFr3c",
+   "date": "2025-01-21",
+   "quote": "1月20号开了政治局会议呀丁薛祥也缺席了"
+  },
+  {
+   "id": "rel-6781",
+   "subject": "丁薛祥",
+   "relation": "待遇降格断语",
+   "object": "政治局委员",
+   "status": "本期断语",
+   "episode": "gB49pNMFr3c",
+   "date": "2025-01-21",
+   "quote": "丁薛祥已经沦为了政治局委员这种可有可无的角色"
+  },
+  {
+   "id": "rel-8343",
+   "subject": "张国清",
+   "relation": "顶替丁薛祥出席2025巴黎人工智能行动峰会（作为习包子特别代表）",
+   "object": "丁薛祥",
+   "status": "外交部公开宣布层＋本期解读层",
+   "episode": "7OG0O1uIm0g",
+   "date": "2025-02-10",
+   "quote": "丁薛祥他缺席了2025巴黎人工智能峰会由张国清顶替"
+  },
+  {
+   "id": "rel-8344",
+   "subject": "蔡奇",
+   "relation": "团拜会合影中挡在丁薛祥身前、被主播读为新华社有意遮挡丁薛祥（照片解读层）",
+   "object": "丁薛祥",
+   "status": "本期照片解读层",
+   "episode": "7OG0O1uIm0g",
+   "date": "2025-02-10",
+   "quote": "1月27号的团拜会上新华社新闻配发的一张中共的七常委加韩正所有人都得以露脸而被蔡奇挡在身后的丁薛祥"
+  },
+  {
+   "id": "rel-1208",
+   "subject": "丁薛祥",
+   "relation": "跳船（习包子的大秘、中办主任、铁杆马仔；2025-04-14 至 16 陕西调研只说认真学习贯彻习包子总书记重要讲话精神，等于什么都没有说）",
+   "object": "习包子",
+   "status": "本期推断",
+   "episode": "oLpol3boBlk",
+   "date": "2025-04-20",
+   "quote": "丁薛祥是习包子的大秘中办主任习包子的铁杆麻仔丁薛祥这说的更虚啊习包子重要讲话精神这等于什么都没有说呀"
+  },
+  {
+   "id": "rel-8714",
+   "subject": "丁薛祥",
+   "relation": "在钓鱼台集体会见上合组织财长央行行长代表，却不和同住钓鱼台的卢卡申科会见",
+   "object": "卢卡申科",
+   "status": "公開報道層＋本期觀察層",
+   "episode": "-Yfdk29OM08",
+   "date": "2025-06-05",
+   "quote": "就這丁薛祥他都不和卢卡申科會見"
+  },
+  {
+   "id": "rel-7690",
+   "subject": "吴邦国",
+   "relation": "提拔丁薛祥",
+   "object": "丁薛祥",
+   "status": "本期层",
+   "episode": "tKnnBpBUUzc",
+   "date": "2025-06-07",
+   "quote": "吴邦国提拔的丁薛祥啊"
+  },
+  {
+   "id": "rel-7691",
+   "subject": "丁薛祥",
+   "relation": "给习包子当了十年的大秘",
+   "object": "习包子",
+   "status": "本期层",
+   "episode": "tKnnBpBUUzc",
+   "date": "2025-06-07",
+   "quote": "丁薛祥給習包子當了十年的大秘這都能洗地"
+  },
+  {
+   "id": "rel-7692",
+   "subject": "张洪亮",
+   "relation": "边巴扎西任西藏副主席期间的大秘、现在是丁薛祥的秘书",
+   "object": "丁薛祥",
+   "status": "本期层",
+   "episode": "tKnnBpBUUzc",
+   "date": "2025-06-07",
+   "quote": "邊巴紮西擔任西藏副主席期間的大秘張洪亮現在是丁薛祥的秘書啊"
+  },
+  {
+   "id": "rel-5174",
+   "subject": "丁薛祥",
+   "relation": "秘书（2012年起）",
+   "object": "习包子",
+   "status": "本档口径",
+   "quote": "丁薛祥作为习包子的长期马仔从2012年起担任习包子秘书",
+   "episode": "nqHZ8wgyNJU",
+   "date": "2025-06-29"
+  },
+  {
+   "id": "rel-5175",
+   "subject": "丁薛祥",
+   "relation": "接班总书记（否定）",
+   "object": "弗林配图说",
+   "status": "本期考辨否定",
+   "quote": "如果丁薛祥接班仅仅是换汤不换药延续习包子派系的统治",
+   "episode": "nqHZ8wgyNJU",
+   "date": "2025-06-29"
+  },
+  {
+   "id": "rel-8502",
+   "subject": "丁薛祥",
+   "relation": "2025年6月赴俄罗斯会晤普京，属通常由习包子亲自部署而改由他人代为出席的场合",
+   "object": "普京",
+   "status": "公开层＋本期解读层",
+   "episode": "Bb89VJcQjQY",
+   "date": "2025-07-08",
+   "quote": "副总理丁薛祥赴俄罗斯会晤普京"
+  },
+  {
+   "id": "rel-3091",
+   "subject": "张洪亮",
+   "relation": "现为丁薛祥的大秘（原边巴扎西大秘）",
+   "object": "丁薛祥",
+   "status": "本档口径",
+   "episode": "OIh3-ECLvSU",
+   "date": "2025-07-17",
+   "quote": "边巴扎西之后担任西藏副主席期间的大秘张洪亮现在是丁薛祥的大秘"
+  },
+  {
+   "id": "rel-8175",
+   "subject": "丁薛祥",
+   "relation": "越南清洗类比中约等于阮春福，被假设四中与习王蔡同日解职（类比层）",
+   "object": "阮春福",
+   "status": "自媒体类比层",
+   "episode": "IhPLTmuPPmk",
+   "date": "2025-07-20",
+   "quote": "阮春福就约等于丁薛祥阮春福是总理国家主席主管经济类似丁薛祥第一副总理"
+  },
+  {
+   "id": "rel-7898",
+   "subject": "丁薛祥",
+   "relation": "网传四中名单任总书记（主播斥不可信）",
+   "object": "总书记",
+   "status": "网传层＋本期否定层",
+   "episode": "tgR_FvnsIyY",
+   "date": "2025-07-28",
+   "quote": "丁薛祥任总书记陈继宁任总理"
+  },
+  {
+   "id": "rel-4477",
+   "subject": "丁薛祥",
+   "relation": "大秘（十年）",
+   "object": "习包子",
+   "status": "本档口径",
+   "quote": "丁薛祥给细胞子当个十年的大秘",
+   "episode": "-_lkvFA4kTE",
+   "date": "2025-08-02"
+  },
+  {
+   "id": "rel-2539",
+   "subject": "丁薛祥",
+   "relation": "在2025年北戴河会议上作检讨（隐身12天推断）",
+   "object": "北戴河会议",
+   "status": "本期推断",
+   "episode": "e6a01RylbIU",
+   "date": "2025-08-05",
+   "quote": "为什么说习包子和丁薛祥李干杰在北戴河会议做检讨呢"
+  },
+  {
+   "id": "rel-8532",
+   "subject": "施晓林",
+   "relation": "被猜测在江油事件镇压上挑事、与丁薛祥同为闸北区出身应该就是丁薛祥的马仔（非百分百确定）",
+   "object": "丁薛祥",
+   "status": "本期猜测层",
+   "episode": "Tm2nZwpGSRg",
+   "date": "2025-08-06",
+   "quote": "施晓林应该就是丁薛祥的马仔"
+  },
+  {
+   "id": "rel-8998",
+   "subject": "栗战书",
+   "relation": "被推测为 2019 年中办基层减负通知的发文者之一（或为丁薛祥）",
+   "object": "丁薛祥",
+   "status": "本期推测层",
+   "episode": "33hvGM1E40A",
+   "date": "2025-08-07",
+   "quote": "2019年中办的通知有可能是栗战书发的,或者是丁薛祥发的"
+  },
+  {
+   "id": "rel-4248",
+   "subject": "丁薛祥",
+   "relation": "铁杆马仔",
+   "object": "习包子",
+   "status": "本档口径・定版",
+   "quote": "这就是习包子的铁杆马仔跟江哈一毛钱关系都没有",
+   "episode": "ZoLOUhNV6Ow",
+   "date": "2025-08-17"
+  },
+  {
+   "id": "rel-4249",
+   "subject": "丁薛祥",
+   "relation": "与其一毛钱关系都没有（钦点秘书说考辨否定）",
+   "object": "江泽民",
+   "status": "本期考辨否定",
+   "quote": "这就是习包子的铁杆马仔跟江哈一毛钱关系都没有",
+   "episode": "ZoLOUhNV6Ow",
+   "date": "2025-08-17"
+  },
+  {
+   "id": "rel-5130",
+   "subject": "丁薛祥",
+   "relation": "包庇（指控）",
+   "object": "中储粮",
+   "status": "本档口径・指控层",
+   "quote": "丁薛祥亲自下场包庇中楚良",
+   "episode": "7iD7D8mxDd8",
+   "date": "2025-08-30"
+  },
+  {
+   "id": "rel-4405",
+   "subject": "丁薛祥",
+   "relation": "当其大秘十年",
+   "object": "习包子",
+   "status": "本档口径",
+   "quote": "丁薛祥他就是总书记的大秘当了十年",
+   "episode": "FSdEUVtWQ3U",
+   "date": "2025-09-01"
+  },
+  {
+   "id": "rel-5520",
+   "subject": "丁薛祥",
+   "relation": "四大金刚（十年秘书・党权）",
+   "object": "习包子",
+   "status": "本档口径",
+   "quote": "丁薛祥给洗包子当了十年的秘书只不过前五年是中办副主任后五年是中办主任啊",
+   "episode": "_1BL3kefC9E",
+   "date": "2025-09-02"
+  },
+  {
+   "id": "rel-7373",
+   "subject": "顾祥胜",
+   "relation": "推断习包子任命、配合丁薛祥（李克强任命说并存）",
+   "object": "丁薛祥",
+   "status": "本期推断层",
+   "episode": "B_NARfzJYw4",
+   "date": "2025-09-03",
+   "quote": "自然是习包子任命的去配合丁薛祥的可能性最大"
+  },
+  {
+   "id": "rel-3623",
+   "subject": "丁学东",
+   "relation": "大秘",
+   "object": "丁薛祥",
+   "status": "本档口径",
+   "episode": "qZezjNzM0Xo",
+   "date": "2025-09-08",
+   "quote": "丁学东呢是韩正和丁学翔的大秘"
+  },
+  {
+   "id": "rel-3156",
+   "subject": "丁学东",
+   "relation": "大秘",
+   "object": "丁薛祥",
+   "status": "本期断语",
+   "episode": "U5R7-v71DuQ",
+   "date": "2025-10-11",
+   "quote": "丁学东是韩正丁学祥的大秘"
+  },
+  {
+   "id": "rel-7770",
+   "subject": "张洪亮",
+   "relation": "边巴扎西任西藏副主席期间的大秘、现任丁薛祥秘书",
+   "object": "丁薛祥",
+   "status": "本期层",
+   "episode": "FF287o7pQlc",
+   "date": "2025-11-01",
+   "quote": "边巴扎西呢担任西藏副主席期间的大秘张洪亮呢现在担任的是丁薛祥的大秘啊"
+  },
+  {
+   "id": "rel-6511",
+   "subject": "丁薛祥",
+   "relation": "署名文章提及（7次）",
+   "object": "习包子",
+   "status": "本档口径",
+   "quote": "丁薛祥这篇文章呢提了7次习包子三次习核心三次习思想呢但是没有说2442",
+   "episode": "TgjLSBrt4RE",
+   "date": "2025-11-04"
+  },
+  {
+   "id": "rel-6512",
+   "subject": "丁薛祥",
+   "relation": "表忠总量低于",
+   "object": "蔡奇",
+   "status": "本期断语",
+   "quote": "表忠的话加起来呢丁薛祥是低于蔡奇高于李强和王沪宁啊",
+   "episode": "TgjLSBrt4RE",
+   "date": "2025-11-04"
+  },
+  {
+   "id": "rel-9118",
+   "subject": "丁薛祥",
+   "relation": "被称与边巴扎西使用同一个秘书张洪亮、给习包子当了十年大秘（原文丁学翔）",
+   "object": "张洪亮",
+   "status": "旁支梳理层",
+   "episode": "v7zFXOS0P_E",
+   "date": "2025-11-23",
+   "quote": "边巴扎西和丁学翔使用同一个秘书张洪亮丁学翔给习包子当了十年的大秘"
+  },
+  {
+   "id": "rel-4644",
+   "subject": "丁麒铭",
+   "relation": "大儿子",
+   "object": "丁薛祥",
+   "status": "本档口径・推论层",
+   "quote": "丁七鸣呢不用人脸比对他百分百是丁薛祥的大儿子",
+   "episode": "B3PRuGVvkWo",
+   "date": "2025-12-12"
+  },
+  {
+   "id": "rel-4654",
+   "subject": "丁薛祥",
+   "relation": "由其提拔",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "quote": "丁薛祥呢就是吴邦国提拔的",
+   "episode": "B3PRuGVvkWo",
+   "date": "2025-12-12"
+  },
+  {
+   "id": "rel-4655",
+   "subject": "丁薛祥",
+   "relation": "干儿子",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "quote": "吴邦国为了亲儿子吴磊为了干儿子丁薛祥",
+   "episode": "B3PRuGVvkWo",
+   "date": "2025-12-12"
+  },
+  {
+   "id": "rel-8817",
+   "subject": "丁薛祥",
+   "relation": "被断是吴邦国提拔的、是吴邦国的干儿子，抓潘良就是为了查他（与ep745互证分账）",
+   "object": "吴邦国",
+   "status": "本期总断层",
+   "episode": "Mjczd5w2xTA",
+   "date": "2025-12-13",
+   "quote": "丁薛祥就是吴邦国提拔的丁薛祥就是吴邦国的干儿子"
+  },
+  {
+   "id": "rel-8152",
+   "subject": "丁麒铭",
+   "relation": "丁薛祥的大儿子，国开制造业基金副总经理",
+   "object": "丁薛祥",
+   "status": "本期梳理层",
+   "episode": "V5CV-u1Wg1s",
+   "date": "2025-12-15",
+   "quote": "丁薛祥这个大儿子丁麒铭我也没有说透"
+  },
+  {
+   "id": "rel-8498",
+   "subject": "靳东",
+   "relation": "演习仲勋被断肯定经中办批准、应该是丁薛祥批准的（原文进东）",
+   "object": "丁薛祥",
+   "status": "本期断语层",
+   "episode": "8vP_hpUlxec",
+   "date": "2025-12-20",
+   "quote": "那肯定中办批准了就丁薛祥给他批准的呀"
+  },
+  {
+   "id": "rel-8947",
+   "subject": "丁七鸣",
+   "relation": "被称丁薛祥的大儿子（本期又作丁其明，两写并存待核）",
+   "object": "丁薛祥",
+   "status": "本期断语层",
+   "episode": "05fc250DmQM",
+   "date": "2025-12-20",
+   "quote": "丁薛祥都是为了大儿子丁七鸣"
+  },
+  {
+   "id": "rel-6761",
+   "subject": "丁其明",
+   "relation": "父子",
+   "object": "丁薛祥",
+   "status": "本档口径",
+   "episode": "tOCBxsfSObI",
+   "date": "2025-12-31",
+   "quote": "丁薛祥的儿子丁其明"
+  },
+  {
+   "id": "rel-6762",
+   "subject": "吴邦国",
+   "relation": "提拔",
+   "object": "丁薛祥",
+   "status": "本期断语",
+   "episode": "tOCBxsfSObI",
+   "date": "2025-12-31",
+   "quote": "吴邦国提拔的丁薛祥"
+  },
+  {
+   "id": "rel-6763",
+   "subject": "边巴扎西",
+   "relation": "共用秘书张洪亮",
+   "object": "丁薛祥",
+   "status": "本期断语",
+   "episode": "tOCBxsfSObI",
+   "date": "2025-12-31",
+   "quote": "鞭巴扎西和丁薛祥使用同一个秘书张洪亮"
+  },
+  {
+   "id": "rel-3441",
+   "subject": "边巴扎西",
+   "relation": "与之共用秘书赵宏亮",
+   "object": "丁薛祥",
+   "status": "本档口径",
+   "episode": "Ag1XYOFP4Xk",
+   "date": "2026-01-01",
+   "quote": "鞭巴扎西和丁薛祥使用同一个秘书赵宏亮"
+  },
+  {
+   "id": "rel-8329",
+   "subject": "丁麒铭",
+   "relation": "系丁薛祥的大儿子、被指为新西兰间谍（未证实，与ep641同形）",
+   "object": "丁薛祥",
+   "status": "本期指控层",
+   "episode": "Ypqh0kpBTy4",
+   "date": "2026-01-01",
+   "quote": "丁薛祥的大儿子丁麒铭为什么是新西兰间谍呢"
+  },
+  {
+   "id": "rel-8655",
+   "subject": "丁七鸣",
+   "relation": "被称是丁薛祥的儿子、在华东理工大学读研究生、在上海上学（原文丁七鸣，与丁麒铭丁其明分账待核）",
+   "object": "丁薛祥",
+   "status": "本期旁及层",
+   "episode": "dcGgu9NwNqk",
+   "date": "2026-01-13",
+   "quote": "丁薛祥的儿子丁七鸣呢是华东理工大学上的研究生在上海上学啊"
+  },
+  {
+   "id": "rel-2370",
+   "subject": "丁麒铭",
+   "relation": "是丁薛祥的儿子",
+   "object": "丁薛祥",
+   "status": "本档口径",
+   "episode": "_MZnn9KmZVo",
+   "date": "2026-01-14",
+   "quote": "丁薛祥的儿子丁麒铭"
+  },
+  {
+   "id": "rel-2371",
+   "subject": "丁薛祥",
+   "relation": "是吴邦国的干儿子",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "episode": "_MZnn9KmZVo",
+   "date": "2026-01-14",
+   "quote": "丁薛祥他就是吴邦国的干儿子"
+  },
+  {
+   "id": "rel-6509",
+   "subject": "丁薛祥",
+   "relation": "干儿子",
+   "object": "吴邦国",
+   "status": "本期断语",
+   "quote": "五邦国已经死了丁薛祥就是五邦国的干儿子干五邦国的人就是干丁薛祥的人",
+   "episode": "qu7sda3MGoY",
+   "date": "2026-01-18"
+  },
+  {
+   "id": "rel-7729",
+   "subject": "丁薛祥",
+   "relation": "吴邦国提拔（本期再申层）",
+   "object": "吴邦国",
+   "status": "本期层",
+   "episode": "0oZcArOgz4o",
+   "date": "2026-01-20",
+   "quote": "吴邦国提拔的丁薛祥啊"
+  },
+  {
+   "id": "rel-3815",
+   "subject": "丁薛祥",
+   "relation": "下毒（指控）",
+   "object": "崔永元",
+   "status": "本档口径・指控层",
+   "quote": "崔永元中毒就是丁薛祥下毒丁薛祥是国安办的主任大特务头子习包子所有的特务都归丁薛祥管现在归蔡奇管",
+   "episode": "0amDu92MYe0",
+   "date": "2026-01-28"
+  },
+  {
+   "id": "rel-2740",
+   "subject": "丁薛祥",
+   "relation": "是习包子曾经的大内总管，马仔接连被查、根基动摇（预测进秦城）",
+   "object": "习包子",
+   "status": "本档口径",
+   "episode": "reTtmy0bTis",
+   "date": "2026-02-05",
+   "quote": "丁薛祥作为习包子曾经的大内总管一旦拔根习包子中枢瘫痪"
+  },
+  {
+   "id": "rel-4317",
+   "subject": "丁薛祥",
+   "relation": "干儿子",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "quote": "由于有吴邦国的亲生儿子吴磊吴邦国的干儿子丁薛祥是否也一起被拿下都是有可能的",
+   "episode": "vtPi67azfIU",
+   "date": "2026-02-07"
+  },
+  {
+   "id": "rel-3185",
+   "subject": "丁薛祥",
+   "relation": "涉嫌毒害",
+   "object": "崔永元",
+   "status": "传闻・指控层",
+   "episode": "gFgkjsOJEaY",
+   "date": "2026-02-22",
+   "quote": "崔永元疑似药物中毒被送往医院抢救"
+  },
+  {
+   "id": "rel-3186",
+   "subject": "丁薛祥",
+   "relation": "死亡事件最大嫌疑人",
+   "object": "于建华、吕品等",
+   "status": "传闻・指控层",
+   "episode": "gFgkjsOJEaY",
+   "date": "2026-02-22",
+   "quote": "这三件事情是谁干的呢不知道但是最大的嫌疑人克格勃头子官办主任丁薛祥"
+  },
+  {
+   "id": "rel-5601",
+   "subject": "丁薛祥",
+   "relation": "弄死（指控）",
+   "object": "于建华、吕聘（待核）",
+   "status": "指控层",
+   "quote": "丁薛祥至少弄死两个人海关总署署长于建华和国盾量子的董事长吕聘王小洪现在只知道一个董亦军肯定不止这一个比如说湖南省财政厅厅长刘文杰这个业绩没有足够的证据能够直接算到王小洪头上",
+   "episode": "AekE_9TUffA",
+   "date": "2026-03-02"
+  },
+  {
+   "id": "rel-3236",
+   "subject": "丁薛祥",
+   "relation": "段广仁大学大一届师兄（东北重型机械学院）",
+   "object": "段广仁",
+   "status": "本档口径",
+   "episode": "tQsV8omA5Jw",
+   "date": "2026-03-17",
+   "quote": "丁薛祥是段广仁的大一届的师兄啊两个人在大学中有三年的交集"
+  },
+  {
+   "id": "rel-7284",
+   "subject": "余发祥",
+   "relation": "丁薛祥的白手套（祥源系）",
+   "object": "丁薛祥",
+   "status": "本期断语・指控层双标记",
+   "episode": "aIJ6IxMl7Wg",
+   "date": "2026-03-26",
+   "quote": "彭祥系百亿富豪余发祥被警方采取刑事强制措施余发祥是丁薛祥的白手套"
+  },
+  {
+   "id": "rel-4711",
+   "subject": "丁薛祥",
+   "relation": "师兄（大一届）",
+   "object": "段广仁",
+   "status": "本档口径",
+   "quote": "丁薛祥是段广仁大一届的师兄",
+   "episode": "iE226RpATeA",
+   "date": "2026-03-31"
+  },
+  {
+   "id": "rel-7625",
+   "subject": "季琦",
+   "relation": "丁薛祥的白手套（洗钱工具断语）",
+   "object": "丁薛祥",
+   "status": "本期总论断语层",
+   "episode": "Euocj5kC7FY",
+   "date": "2026-04-04",
+   "quote": "季琦就是韩正和丁薛祥的白手套"
+  },
+  {
+   "id": "rel-7626",
+   "subject": "丁其明",
+   "relation": "丁薛祥之子、在江肇百的公司上班",
+   "object": "丁薛祥",
+   "status": "本期梳理层（原文丁其明，与ep641丁麒铭两写分账）",
+   "episode": "Euocj5kC7FY",
+   "date": "2026-04-04",
+   "quote": "丁薛祥的儿子丁其明就在江肇百的公司上班"
+  },
+  {
+   "id": "rel-0693",
+   "subject": "丁薛祥",
+   "relation": "本期称曾任汪洋的大秘（汪洋国务院副总理任内三任大秘之首）",
+   "object": "汪洋",
+   "status": "本档口径",
+   "episode": "CBKl-5LU8FQ",
+   "date": "2026-04-13",
+   "quote": "汪洋担任国务院副总理期间的三个大秘第一个大秘丁薛东是丁薛祥的大秘"
+  },
+  {
+   "id": "rel-4534",
+   "subject": "丁薛东",
+   "relation": "共用大秘",
+   "object": "丁薛祥",
+   "status": "本档口径",
+   "quote": "汪洋和韩正和丁薛祥共用一个大秘丁薛东",
+   "episode": "ay7lE3-OG2U",
+   "date": "2026-04-21"
+  },
+  {
+   "id": "rel-4825",
+   "subject": "张宏亮（正文作张洪亮）",
+   "relation": "秘书",
+   "object": "丁薛祥",
+   "status": "本档口径",
+   "quote": "丁薛祥的秘书张洪亮和王波在同一个时间去原葬的",
+   "episode": "T40bCRYTlAE",
+   "date": "2026-04-23"
+  },
+  {
+   "id": "rel-3202",
+   "subject": "江泽林",
+   "relation": "大秘",
+   "object": "丁薛祥",
+   "status": "本档口径",
+   "episode": "moKrhpRYkkI",
+   "date": "2026-04-29",
+   "quote": "后来是丁薛祥的大秘丁薛东"
+  },
+  {
+   "id": "rel-4552",
+   "subject": "丁薛祥",
+   "relation": "对其死亡有重大作案嫌疑和动机（指控层）",
+   "object": "张安疆",
+   "status": "本档口径・指控层",
+   "quote": "丁薛祥和蔡奇有重大的作案嫌疑和作案动机",
+   "episode": "JwreJI4PfBk",
+   "date": "2026-05-08"
+  },
+  {
+   "id": "rel-6087",
+   "subject": "丁麒铭",
+   "relation": "大儿子",
+   "object": "丁薛祥",
+   "status": "本档口径",
+   "quote": "丁薛祥的大儿子丁其明就是国开金融的",
+   "episode": "3lkjtFMd2eM",
+   "date": "2026-05-09"
+  },
+  {
+   "id": "rel-8692",
+   "subject": "丁薛祥",
+   "relation": "考察宁德时代活动延迟十天播出、新华网无照片无时间，被断权力开始崩塌、重复习包子蔡奇套路，与习蔡同断肯定全都进秦城",
+   "object": "习包子",
+   "status": "本期断语层",
+   "episode": "QOCTOSHPmHM",
+   "date": "2026-05-10",
+   "quote": "习包子蔡奇丁薛祥肯定全都进秦城"
+  },
+  {
+   "id": "rel-6229",
+   "subject": "周成虎",
+   "relation": "案发指向（冲着其去）",
+   "object": "丁薛祥",
+   "status": "本期推断",
+   "quote": "这个人就是冲着丁薛祥去的",
+   "episode": "R-ChdwMvbAA",
+   "date": "2026-05-25"
+  },
+  {
+   "id": "rel-0918",
+   "subject": "丁薛祥",
+   "relation": "是吴邦国提拔的、吴邦国的干儿子",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "episode": "xGy2cef24zA",
+   "date": "2026-06-09",
+   "quote": "丁薛祥就是吴邦国提拔的丁薛祥就是吴邦国的干儿子"
+  },
+  {
+   "id": "rel-8120",
+   "subject": "丁薛祥",
+   "relation": "任上海市科委副主任时与秘书长李明俊同班子，被断由此拿到习家军核心圈入场券",
+   "object": "李明俊",
+   "status": "公开履历层＋本期断语层",
+   "episode": "3Uyd0r1kwpk",
+   "date": "2026-06-11",
+   "quote": "当时的上海市科委副主任是丁薛祥秘书长是伺候整个班子的大管家"
+  },
+  {
+   "id": "rel-4566",
+   "subject": "黄春怡",
+   "relation": "情妇（本期断语）",
+   "object": "丁薛祥",
+   "status": "本档口径",
+   "quote": "黄春仪是丁薛祥和韩正的情妇不是陈宇剑的情妇",
+   "episode": "pyrAm-yWj0E",
+   "date": "2026-06-19"
+  },
+  {
+   "id": "rel-4568",
+   "subject": "陈宇剑",
+   "relation": "把情妇贡献给",
+   "object": "丁薛祥",
+   "status": "本档口径・推论层",
+   "quote": "主动把自己的情妇贡献出来送给了更高级别的首长的卧榻",
+   "episode": "pyrAm-yWj0E",
+   "date": "2026-06-19"
+  },
+  {
+   "id": "rel-4570",
+   "subject": "丁薛祥",
+   "relation": "由其提拔",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "quote": "吴邦国担任上海市课委书记的时候提拔了丁薛祥",
+   "episode": "pyrAm-yWj0E",
+   "date": "2026-06-19"
+  },
+  {
+   "id": "rel-4572",
+   "subject": "丁薛祥",
+   "relation": "秘书长（同为市委二把手之秘书长）",
+   "object": "韩正",
+   "status": "本档口径",
+   "quote": "丁薛祥他也是韩正的秘书长",
+   "episode": "pyrAm-yWj0E",
+   "date": "2026-06-19"
+  },
+  {
+   "id": "rel-8264",
+   "subject": "丁薛祥",
+   "relation": "被断为吴邦国的干儿子、吴邦国任上海科委书记时一手提拔了丁薛祥",
+   "object": "吴邦国",
+   "status": "本期考辨断语层",
+   "episode": "JISunSQV5KY",
+   "date": "2026-06-19",
+   "quote": "丁薛祥是吴邦国的干儿子吴邦国担任上海科委书记的时候一手提拔了丁薛祥"
+  },
+  {
+   "id": "rel-8267",
+   "subject": "陈宇剑",
+   "relation": "被断为丁薛祥的马仔（山东郯城县人）",
+   "object": "丁薛祥",
+   "status": "本期总断层（原文作谭城县）",
+   "episode": "JISunSQV5KY",
+   "date": "2026-06-19",
+   "quote": "陈宇剑他就是丁薛祥的马仔"
+  },
+  {
+   "id": "rel-2432",
+   "subject": "丁薛祥",
+   "relation": "在保张光军（贬往其主管的科技部）",
+   "object": "张光军",
+   "status": "本期推断",
+   "episode": "CdO_0MXBmV4",
+   "date": "2026-06-26",
+   "quote": "不然的话丁薛祥不会保张光军丁薛祥就是主管科技的副总理"
+  },
+  {
+   "id": "rel-2434",
+   "subject": "刘多",
+   "relation": "是丁薛祥、李源潮的复旦管理学院校友，与张光军同遭政治贬谪、是习包子派系",
+   "object": "丁薛祥",
+   "status": "本期推断",
+   "episode": "CdO_0MXBmV4",
+   "date": "2026-06-26",
+   "quote": "更可能的原因是刘多是丁薛祥李源潮的校友遭到了政治对手的贬处"
+  },
+  {
+   "id": "rel-4927",
+   "subject": "丁薛祥",
+   "relation": "被列为可同时指挥两系统的幕后嫌疑人",
+   "object": "华恒生物案",
+   "status": "本档口径・推论层",
+   "quote": "那就是当时的中国政法委书记郭声琨和国安办主任丁薛祥",
+   "episode": "7DTVnTvnNtQ",
+   "date": "2026-06-29"
+  },
+  {
+   "id": "rel-8073",
+   "subject": "李自为",
+   "relation": "被断为丁薛祥、齐桥桥、王岐山的白手套，53岁讣告称病故",
+   "object": "丁薛祥",
+   "status": "本期总断层＋讣告层",
+   "episode": "pJjuMYNqGmo",
+   "date": "2026-06-30",
+   "quote": "丁薛祥齐悄桥王岐山的白手套李自为53岁就嗝屁了"
+  },
+  {
+   "id": "rel-8076",
+   "subject": "丁其明",
+   "relation": "被普遍认为是丁薛祥的儿子，执掌国开制造业基金与国开科创",
+   "object": "丁薛祥",
+   "status": "传闻层（海外时政讨论层、未官宣）",
+   "episode": "pJjuMYNqGmo",
+   "date": "2026-06-30",
+   "quote": "他普遍被认为是中共中央政治局常委国务院副总理丁薛祥的儿子"
+  },
+  {
+   "id": "rel-8079",
+   "subject": "李自为",
+   "relation": "与于建华、吕品、张安疆并列被断都和丁薛祥有关系、四人皆中年死亡",
+   "object": "丁薛祥",
+   "status": "本期并列断语层（死因未明）",
+   "episode": "pJjuMYNqGmo",
+   "date": "2026-06-30",
+   "quote": "海关总署署长于建华63岁死亡国盾量子吕品46岁死亡重庆市公安局局长张安疆55岁死亡苏州亨通集团李自为53岁死亡"
+  },
+  {
+   "id": "rel-4436",
+   "subject": "丁薛祥",
+   "relation": "干儿子、一手提拔",
+   "object": "吴邦国",
+   "status": "本档口径",
+   "quote": "丁薛祥就是吴邦国一手提拔的,丁薛祥就是吴邦国的干儿子",
+   "episode": "GdyBoxgjJe0",
+   "date": "2026-07-01"
+  },
+  {
+   "id": "rel-5695",
+   "subject": "丁麒铭",
+   "relation": "父亲",
+   "object": "丁薛祥",
+   "status": "本档口径",
+   "quote": "丁薛祥的儿子丁麒铭年纪轻轻就担任了国开制造业转型升级基金简称国开制造业基金的副总经理",
+   "episode": "9v5pFeoEf20",
+   "date": "2026-07-09"
+  },
+  {
+   "id": "rel-5847",
+   "subject": "丁麒铭",
+   "relation": "儿子",
+   "object": "丁薛祥",
+   "status": "本档口径",
+   "quote": "丁薛祥的大儿子丁七鸣正是国开金融的核心人物",
+   "episode": "hQwSdbG8IF0",
+   "date": "2026-07-12"
+  },
+  {
+   "id": "rel-2569",
+   "subject": "上海鹏欣集团",
+   "relation": "被断为丁薛祥的白手套、也就是习包子的白手套（2011年收购新西兰16个奶牛场获批为注脚）",
+   "object": "丁薛祥",
+   "status": "本期推断",
+   "episode": "4zO5itAlmQw",
+   "date": "2026-07-16",
+   "quote": "鹏心集团是丁薛祥的白手套也就是习包子白手套"
+  },
+  {
+   "id": "rel-8917",
+   "subject": "辛保安",
+   "relation": "被断科技进步一等奖是丁薛祥在科技主政领域为自己人特批的政治资历（丁薛祥握审批授奖权）",
+   "object": "丁薛祥",
+   "status": "本期断语层",
+   "episode": "VKsWnM8O24M",
+   "date": "2026-08-09",
+   "quote": "辛保安在这个时候拿这个一灯奖是丁薛祥在科技主政领域为自己人特批的政治资历"
+  },
+  {
+   "id": "rel-5669",
+   "subject": "丁薛祥",
+   "relation": "被支开出国（清场）",
+   "object": "胡锦涛",
+   "status": "本期推论",
+   "quote": "丁薛祥,习包子,蔡奇的同时出国,根本不是什么正常的外交访问,而是胡锦涛在幕后施展的清场手段",
+   "episode": "C9GzUbMbtMs",
+   "date": "2026-09-02"
+  }
+ ],
+ "date_from": "2024-07-09",
+ "date_to": "2026-09-02"
+}

@@ -1,0 +1,80 @@
+{
+ "id": "zhao-le-ji",
+ "name": "赵乐际",
+ "aliases": [],
+ "stats": {
+  "episodes": 105,
+  "mentions": 360,
+  "alias_mentions": {},
+  "first_date": "2023-10-08",
+  "last_date": "2026-10-11",
+  "title_count": 27
+ },
+ "current_caliber": [
+  {
+   "id": "rul-52",
+   "date": "2026-10-20",
+   "category": "注记组A裁定",
+   "item": "注记A 赵乐际归属悬置",
+   "ruling": "现行口径：赵乐际归江派。",
+   "effect": "归属取 ep744 口径。"
+  }
+ ],
+ "time_notes": [
+  {
+   "id": "rul-111",
+   "date": "2026-10-20",
+   "category": "人物卡注记",
+   "subject": "赵乐际",
+   "item": "赵乐际人物卡时点注记（编纂定版·2026-10-20）",
+   "ruling": "赵乐际人物卡加时点注记。时点列：双最后的王表述、与王沪宁反习派江派定版同集（ep408）；江派定版再申（ep587）；江泽民的人断语层（ep644）；石油帮提拔链、江派最后的王表述层（ep744）；刀把子在赵乐际手推论层（ep830）；状态两账：ep443 作 2025 年整个 8 月未现身、ep176 引 2025-08-26 主持人大常委会委员长会议记录，分账并列。",
+   "basis": "编纂定版（2026-10-20）",
+   "history": "归属见 rul-52（归江派，依据 ep744）。本注记只处理时点呈现，不改归属裁定。",
+   "rule": "版式注记（非口径裁定）",
+   "effect": "烤制赵乐际词条时按本注记逐时点呈现并标层级。"
+  }
+ ],
+ "counts": {
+  "events": 153,
+  "relations": 61
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/zhao-le-ji/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 79,
+    "date_from": "2023-10-08",
+    "date_to": "2025-08-28",
+    "bytes": 176738
+   },
+   {
+    "file": "events-002.json",
+    "count": 72,
+    "date_from": "2025-08-31",
+    "date_to": "2026-10-01",
+    "bytes": 169453
+   },
+   {
+    "file": "events-003.json",
+    "count": 2,
+    "date_from": "2026-10-03",
+    "date_to": "2026-10-11",
+    "bytes": 18222
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 61,
+    "date_from": "2023-10-08",
+    "date_to": "2026-09-05",
+    "bytes": 22713
+   }
+  ],
+  "base": "entities/persons-chunked/zhao-le-ji/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

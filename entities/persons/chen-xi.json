@@ -1,0 +1,97 @@
+{
+ "id": "chen-xi",
+ "name": "陈希",
+ "aliases": [],
+ "stats": {
+  "episodes": 94,
+  "mentions": 365,
+  "alias_mentions": {},
+  "first_date": "2024-03-12",
+  "last_date": "2026-10-13",
+  "title_count": 14
+ },
+ "time_notes": [
+  {
+   "id": "rul-89",
+   "date": "2026-10-20",
+   "category": "人物卡注记",
+   "subject": "陈希",
+   "item": "陈希人物卡时点注记（编纂定版·2026-10-20）",
+   "ruling": "陈希人物卡加时点注记，定性为「时点仅三条、皆推论传言层」：其状态账全档仅三条，皆为推论层、传言层；官宣被查迄未出现。时点列：荐人层（ep516）；缺席座谈会、推论被查（推论层，ep767）；降副厅传言层（ep775）。",
+   "basis": "编纂定版（2026-10-20）",
+   "history": "无归属裁定；状态分账见 rul-72。本注记只处理时点呈现。",
+   "rule": "版式注记（非口径裁定）",
+   "effect": "烤制陈希词条时按本注记逐时点呈现并标层级。"
+  }
+ ],
+ "register_links": [
+  {
+   "register": "fat-posts",
+   "entry": "温江帮卖官见面费",
+   "matched_as": [
+    "陈希"
+   ],
+   "n_eps": 1
+  },
+  {
+   "register": "fat-posts",
+   "entry": "彭丽娟卖官见面费",
+   "matched_as": [
+    "陈希"
+   ],
+   "n_eps": 1
+  },
+  {
+   "register": "fat-posts",
+   "entry": "中组部职位（张建春案）",
+   "matched_as": [
+    "陈希"
+   ],
+   "n_eps": 1
+  },
+  {
+   "register": "fat-posts",
+   "entry": "环保系统职位",
+   "matched_as": [
+    "陈希"
+   ],
+   "n_eps": 1
+  }
+ ],
+ "counts": {
+  "events": 84,
+  "relations": 23
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/chen-xi/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 71,
+    "date_from": "2024-03-12",
+    "date_to": "2026-07-27",
+    "bytes": 177944
+   },
+   {
+    "file": "events-002.json",
+    "count": 13,
+    "date_from": "2026-08-09",
+    "date_to": "2026-10-13",
+    "bytes": 55206
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 23,
+    "date_from": "2024-03-12",
+    "date_to": "2026-09-01",
+    "bytes": 8911
+   }
+  ],
+  "base": "entities/persons-chunked/chen-xi/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

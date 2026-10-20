@@ -1,0 +1,63 @@
+{
+ "id": "chen-min-er",
+ "name": "陈敏尔",
+ "aliases": [],
+ "stats": {
+  "episodes": 118,
+  "mentions": 469,
+  "alias_mentions": {},
+  "first_date": "2024-02-04",
+  "last_date": "2026-09-11",
+  "title_count": 28
+ },
+ "time_notes": [
+  {
+   "id": "rul-107",
+   "date": "2026-10-20",
+   "category": "人物卡注记",
+   "subject": "陈敏尔",
+   "item": "陈敏尔人物卡时点注记（编纂定版·2026-10-20）",
+   "ruling": "陈敏尔人物卡加时点注记，定性为「迄未官宣、状态全为缺席信号与预测层」：其状态账无任何官宣出事记录，全为缺席名单、反面清单与处理预测诸层，高危总论标题与正文未官宣分账。时点列：网传政治局会议秘密议程二：决定陈敏尔不再担任天津市委书记（转述层，ep276）；缺席政协新年茶话会、政治局委员缺席五人之一（缺席层，ep335）；缺席江泽民百年纪念大会（缺席层，ep366）；傀儡五信号反面清单：陈敏尔还没有被处理（清单层，ep403）；下一个不是王小洪就是陈敏尔预测（预测层，ep498）；打包处理马兴瑞、陈敏尔、黄坤明、何立峰四委员预期（预测层，ep514）；缺席 2025-08 北戴河会议与 09-29 政治局会议、20多个部下被抓、高危总论（状态层／断语层，ep556）。",
+   "basis": "编纂定版（2026-10-20）",
+   "history": "接班人选诸说归 rul-24 对账组。本注记只处理时点呈现。",
+   "rule": "版式注记（非口径裁定）",
+   "effect": "烤制陈敏尔词条时按本注记逐时点呈现并标层级。"
+  }
+ ],
+ "counts": {
+  "events": 134,
+  "relations": 48
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/chen-min-er/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 85,
+    "date_from": "2023-12-26",
+    "date_to": "2026-02-04",
+    "bytes": 176675
+   },
+   {
+    "file": "events-002.json",
+    "count": 49,
+    "date_from": "2026-02-04",
+    "date_to": "2026-09-11",
+    "bytes": 118213
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 48,
+    "date_from": "2024-12-20",
+    "date_to": "2026-09-09",
+    "bytes": 17086
+   }
+  ],
+  "base": "entities/persons-chunked/chen-min-er/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

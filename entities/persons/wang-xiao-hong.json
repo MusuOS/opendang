@@ -1,0 +1,89 @@
+{
+ "id": "wang-xiao-hong",
+ "name": "王小洪",
+ "aliases": [],
+ "stats": {
+  "episodes": 194,
+  "mentions": 1108,
+  "alias_mentions": {},
+  "first_date": "2024-02-23",
+  "last_date": "2026-10-06",
+  "title_count": 137
+ },
+ "caliber_notes": [
+  "王小红系王小洪同音误名（编纂定版）：回改正文、补入回改表 high 层"
+ ],
+ "current_caliber": [
+  {
+   "id": "rul-10",
+   "date": "2026-10-18",
+   "category": "误名回改",
+   "ruling": "王小红系王小洪同音误名：回改正文、补入回改表 high 层",
+   "effect": "text-clean 补改106处（43期），索引王小洪1108处、王小红清零"
+  }
+ ],
+ "time_notes": [
+  {
+   "id": "rul-85",
+   "date": "2026-10-20",
+   "category": "人物卡注记",
+   "subject": "王小洪",
+   "item": "王小洪人物卡时点注记（编纂定版·2026-10-20）",
+   "ruling": "王小洪人物卡加时点注记，定性为「隐身多账并存、最新陈述为尚未被拿下」：隐身天数 6 天、8 天、9 天诸数各有所指分账并存；潜逃、免职、预定秦城诸说均未坐实，最新正文陈述明说尚未被拿下。时点列：隐身9天、断成苗华第二（状态层／断语层，ep640）；潜逃新加坡网传（网传层，ep659）；免职推测层（ep675）；芬太尼谈判被排除、断架空（断语层，ep683）；缺席国务院会议（缺席层，ep701）；预定秦城断语（断语层，ep775）；隐身8天（状态层，ep810）；隐身9天——2025年11月9–18日（状态层，ep825）；芬太尼谈判缺席层（ep863）；隐身天数标题6天、正文9天两数并存（ep875）；明说尚未被拿下（陈述层，ep879）。",
+   "basis": "编纂定版（2026-10-20）",
+   "history": "归属见 rul-13（习铁杆，ep834）；状态定性项见 rul-72；信长兴接替预测归冲突13对账组。本注记只处理时点呈现，不改归属裁定。",
+   "rule": "版式注记（非口径裁定）",
+   "effect": "烤制王小洪词条时按本注记逐时点呈现并标层级。"
+  }
+ ],
+ "counts": {
+  "events": 251,
+  "relations": 101
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/wang-xiao-hong/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 71,
+    "date_from": "2024-02-23",
+    "date_to": "2025-09-25",
+    "bytes": 177388
+   },
+   {
+    "file": "events-002.json",
+    "count": 86,
+    "date_from": "2025-09-28",
+    "date_to": "2026-03-05",
+    "bytes": 176898
+   },
+   {
+    "file": "events-003.json",
+    "count": 69,
+    "date_from": "2026-03-09",
+    "date_to": "2026-07-22",
+    "bytes": 175067
+   },
+   {
+    "file": "events-004.json",
+    "count": 25,
+    "date_from": "2026-07-22",
+    "date_to": "2026-10-06",
+    "bytes": 71394
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 101,
+    "date_from": "2024-02-23",
+    "date_to": "2026-10-06",
+    "bytes": 36413
+   }
+  ],
+  "base": "entities/persons-chunked/wang-xiao-hong/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

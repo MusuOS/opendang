@@ -1,0 +1,62 @@
+{
+ "id": "wu-guan-zheng",
+ "name": "吴官正",
+ "aliases": [],
+ "stats": {
+  "episodes": 6,
+  "mentions": 18,
+  "alias_mentions": {},
+  "first_date": "2025-09-15",
+  "last_date": "2026-07-21",
+  "title_count": 15
+ },
+ "register_links": [
+  {
+   "register": "listed-companies",
+   "entry": "正邦科技",
+   "matched_as": [
+    "吴官正"
+   ],
+   "n_eps": 1,
+   "codes": [
+    "002157.SZ"
+   ]
+  }
+ ],
+ "counts": {
+  "events": 86,
+  "relations": 59
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/wu-guan-zheng/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 79,
+    "date_from": "2024-10-05",
+    "date_to": "2026-09-01",
+    "bytes": 176387
+   },
+   {
+    "file": "events-002.json",
+    "count": 7,
+    "date_from": "2026-09-01",
+    "date_to": "2026-10-11",
+    "bytes": 27551
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 59,
+    "date_from": "2024-10-08",
+    "date_to": "2026-10-06",
+    "bytes": 20433
+   }
+  ],
+  "base": "entities/persons-chunked/wu-guan-zheng/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

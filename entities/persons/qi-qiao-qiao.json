@@ -1,0 +1,117 @@
+{
+ "id": "qi-qiao-qiao",
+ "name": "齐桥桥",
+ "aliases": [
+  "齐乔乔"
+ ],
+ "stats": {
+  "episodes": 55,
+  "mentions": 257,
+  "alias_mentions": {
+   "齐乔乔": 100
+  },
+  "first_date": "2024-08-01",
+  "last_date": "2026-08-29",
+  "title_count": 0
+ },
+ "caliber_notes": [
+  "正字为齐桥桥（公开记录：习仲勋之女，原名习桥桥，生于延安桥儿沟）；齐乔乔为听误，补录正名并在索引层并入"
+ ],
+ "current_caliber": [
+  {
+   "id": "rul-07",
+   "date": "2026-10-18",
+   "category": "正名补录",
+   "ruling": "正字为齐桥桥（公开记录：习仲勋之女，原名习桥桥，生于延安桥儿沟）；齐乔乔为听误，补录正名并在索引层并入",
+   "effect": "补录 canonical-supplement + mentions-index 重建"
+  }
+ ],
+ "time_notes": [
+  {
+   "id": "rul-108",
+   "date": "2026-10-20",
+   "category": "人物卡注记",
+   "subject": "齐桥桥",
+   "item": "齐桥桥人物卡时点注记（编纂定版·2026-10-20）",
+   "ruling": "齐桥桥人物卡加时点注记，定性为「状态全为传闻叙事推论层、无一坐实」：其被带走、软禁诸说皆为本档 2026 世界线叙事层、传闻层与推论层，主播自陈无法证实亦无法证伪，无一坐实。时点列：一家三十口被带走叙事（叙事层、无外部凭证、待核，ep302）；其公司员工白天辉 2025-12-09 被执行死刑（状态层，ep303、ep556）；去年11月起居深圳迎宾馆、禁止外出（软禁网传总账，传闻层，ep313）；被抓传闻、主播自陈既没有办法证实也没有办法证伪（ep372）；白手套周道许被抓、推论齐桥桥已经抓了（推论层，ep415）。",
+   "basis": "编纂定版（2026-10-20）",
+   "history": "无归属裁定；杨兰兰身份定版涉其家人关系见 rul-22。本注记只处理时点呈现。",
+   "rule": "版式注记（非口径裁定）",
+   "effect": "烤制齐桥桥词条时按本注记逐时点呈现并标层级。"
+  }
+ ],
+ "register_links": [
+  {
+   "register": "listed-companies",
+   "entry": "建设银行",
+   "matched_as": [
+    "齐桥桥"
+   ],
+   "n_eps": 37,
+   "codes": [
+    "601939.SH",
+    "00939.HK"
+   ]
+  },
+  {
+   "register": "capital-groups",
+   "entry": "建银系",
+   "matched_as": [
+    "齐桥桥"
+   ],
+   "n_eps": 11
+  },
+  {
+   "register": "capital-groups",
+   "entry": "秦川大地",
+   "matched_as": [
+    "齐桥桥"
+   ],
+   "n_eps": 2
+  },
+  {
+   "register": "capital-groups",
+   "entry": "远为实业",
+   "matched_as": [
+    "齐桥桥"
+   ],
+   "n_eps": 7
+  }
+ ],
+ "counts": {
+  "events": 136,
+  "relations": 72
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/qi-qiao-qiao/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 90,
+    "date_from": "2024-09-04",
+    "date_to": "2026-04-27",
+    "bytes": 177717
+   },
+   {
+    "file": "events-002.json",
+    "count": 46,
+    "date_from": "2026-04-27",
+    "date_to": "2026-09-29",
+    "bytes": 108486
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 72,
+    "date_from": "2024-09-04",
+    "date_to": "2026-09-09",
+    "bytes": 25228
+   }
+  ],
+  "base": "entities/persons-chunked/qi-qiao-qiao/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

@@ -1,0 +1,1181 @@
+{
+ "id": "li-peng",
+ "name": "李鹏",
+ "kind": "relations",
+ "part": 1,
+ "count": 117,
+ "relations": [
+  {
+   "id": "rel-7801",
+   "subject": "习包子",
+   "relation": "被断认李鹏为干爹、靠继承习仲勋政治资源并补此资源才上位",
+   "object": "李鹏",
+   "status": "本期断语层",
+   "episode": "8r-B2sFko74",
+   "date": "2024-08-28",
+   "quote": "细胞子又任了干爹李鹏他才能上位"
+  },
+  {
+   "id": "rel-0234",
+   "subject": "李鹏",
+   "relation": "本期称陈云提拔的（背后是陈云）",
+   "object": "陈云",
+   "status": "本档口径",
+   "episode": "zd_sqWkYQjs",
+   "date": "2024-09-04",
+   "quote": "李鹏背后是陈云"
+  },
+  {
+   "id": "rel-0057",
+   "subject": "李鹏",
+   "relation": "干父子（本期称）",
+   "object": "习包子",
+   "status": "本档口径",
+   "episode": "WYvqQMUuQ3Q",
+   "date": "2024-11-16",
+   "quote": "习近平就是李鹏的干儿子"
+  },
+  {
+   "id": "rel-5332",
+   "subject": "李鹏",
+   "relation": "马仔（接替赵紫阳任国务院总理）",
+   "object": "陈云",
+   "status": "本档口径",
+   "quote": "陈云的马仔李鹏接替赵紫阳当上了国务院总理",
+   "episode": "KDALeC35VMY",
+   "date": "2024-12-06"
+  },
+  {
+   "id": "rel-0076",
+   "subject": "李鹏",
+   "relation": "本期称陈云的马仔，1987年接总理",
+   "object": "陈云",
+   "status": "本档口径",
+   "episode": "ekED_GhE2zA",
+   "date": "2024-12-20",
+   "quote": "陈云的马仔李鹏接替赵紫阳当上了国务院的总理"
+  },
+  {
+   "id": "rel-6859",
+   "subject": "高严",
+   "relation": "铁杆马仔（百分之百）",
+   "object": "李鹏",
+   "status": "本期断语",
+   "episode": "LD1xHH8Yw_A",
+   "date": "2024-12-22",
+   "quote": "高严百分之百是李鹏的铁杆马仔"
+  },
+  {
+   "id": "rel-6860",
+   "subject": "李鹏",
+   "relation": "干爹",
+   "object": "习包子",
+   "status": "本期断语",
+   "episode": "LD1xHH8Yw_A",
+   "date": "2024-12-22",
+   "quote": "李鹏呢是习近平的干爹"
+  },
+  {
+   "id": "rel-6867",
+   "subject": "张凤翔",
+   "relation": "五大马仔之一",
+   "object": "李鹏",
+   "status": "本期推论",
+   "episode": "LD1xHH8Yw_A",
+   "date": "2024-12-22",
+   "quote": "这五个人 那肯定就是李鹏的五大马仔了"
+  },
+  {
+   "id": "rel-1046",
+   "subject": "韩正",
+   "relation": "1997 年入常委、2003 年任市长等关键晋升都是李鹏和朱镕基提拔的（李鹏朱镕基退休前把韩正提拔为上海市长）",
+   "object": "李鹏",
+   "status": "本档口径",
+   "episode": "lDnnVXd8Hv0",
+   "date": "2025-01-18",
+   "quote": "这三次晋升都是李鹏和朱镕基提拔的"
+  },
+  {
+   "id": "rel-3542",
+   "subject": "李鹏",
+   "relation": "干爹",
+   "object": "习包子",
+   "status": "本档口径・再申",
+   "episode": "YAC63EVFWZ0",
+   "date": "2025-01-26",
+   "quote": "李鹏是习包子的干爹"
+  },
+  {
+   "id": "rel-5910",
+   "subject": "黄震东",
+   "relation": "马仔",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "黄震东是李鹏的马仔",
+   "episode": "lk5ULcizM4c",
+   "date": "2025-04-21"
+  },
+  {
+   "id": "rel-8596",
+   "subject": "姜春云",
+   "relation": "陈云李鹏派系，被故意兼任一段时间山东省长以增加赵志浩的资历、阻止马忠臣接任（原文江春雲）",
+   "object": "李鹏",
+   "status": "本期分层层",
+   "episode": "5Y0Ux8Poz6Q",
+   "date": "2025-05-30",
+   "quote": "陈云李鹏他為了阻止馬忠臣接任山東省長故意讓江春雲在兼任一段時間省長以增加趙志浩的資歷啊"
+  },
+  {
+   "id": "rel-7126",
+   "subject": "李鹏",
+   "relation": "周恩来提拔",
+   "object": "周恩来",
+   "status": "本期修辞层",
+   "episode": "FTe2Rli6mf8",
+   "date": "2025-06-10",
+   "quote": "李鹏也是他爸爸周恩来提拔的呀"
+  },
+  {
+   "id": "rel-2043",
+   "subject": "李鹏",
+   "relation": "是陈云的马仔",
+   "object": "陈云",
+   "status": "本档口径",
+   "episode": "XdIz7RAFWSw",
+   "date": "2025-06-19",
+   "quote": "李鹏呢他是陈云的馬仔李鹏是細胞子乾爹呀"
+  },
+  {
+   "id": "rel-2044",
+   "subject": "李鹏",
+   "relation": "是习包子干爹（习包子带着彭丽媛多次和李鹏合影、私人场合）",
+   "object": "习包子",
+   "status": "本档口径",
+   "episode": "XdIz7RAFWSw",
+   "date": "2025-06-19",
+   "quote": "李鹏呢他是陈云的馬仔李鹏是細胞子乾爹呀"
+  },
+  {
+   "id": "rel-4623",
+   "subject": "黄震东",
+   "relation": "马仔",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "黄震东是李鹏的马仔李鹏的儿子李小鹏背书的",
+   "episode": "8AOJ00aqhHU",
+   "date": "2025-06-26"
+  },
+  {
+   "id": "rel-7896",
+   "subject": "曹广经",
+   "relation": "任三峡集团董事长时系李鹏的马仔（公开名曹广晶待核）",
+   "object": "李鹏",
+   "status": "本期梳理层",
+   "episode": "tgR_FvnsIyY",
+   "date": "2025-07-28",
+   "quote": "一把手董事长曹广经呢就是李鹏的马仔"
+  },
+  {
+   "id": "rel-7897",
+   "subject": "李小琳",
+   "relation": "系李鹏之女、中电国际首任总经理",
+   "object": "李鹏",
+   "status": "公开梳理层",
+   "episode": "tgR_FvnsIyY",
+   "date": "2025-07-28",
+   "quote": "李小琳他就是从94年开始担任总经理的"
+  },
+  {
+   "id": "rel-4472",
+   "subject": "沈达人",
+   "relation": "马仔",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "章剑华是江苏省委书记沈达仁的秘书沈达仁是李鹏朱镕基宋平的马仔",
+   "episode": "-_lkvFA4kTE",
+   "date": "2025-08-02"
+  },
+  {
+   "id": "rel-4474",
+   "subject": "李鹏",
+   "relation": "干爹",
+   "object": "习包子",
+   "status": "本档口径",
+   "quote": "李鹏就是习包子干爹啊",
+   "episode": "-_lkvFA4kTE",
+   "date": "2025-08-02"
+  },
+  {
+   "id": "rel-6043",
+   "subject": "郭树言",
+   "relation": "马仔",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "郭树盐呢就是李鹏的马仔",
+   "episode": "TKgoS80IIr8",
+   "date": "2025-08-06"
+  },
+  {
+   "id": "rel-6044",
+   "subject": "李鹏",
+   "relation": "干爹",
+   "object": "习近平",
+   "status": "本档口径",
+   "quote": "李鹏就是习报的干爹",
+   "episode": "TKgoS80IIr8",
+   "date": "2025-08-06"
+  },
+  {
+   "id": "rel-1446",
+   "subject": "李鹏",
+   "relation": "是习包子的干爹（1994 年 2 月 5 日江泽民、李鹏、李瑞环、刘华清、胡锦涛、张震等接见英雄徐洪刚、江泽民题词向徐洪刚同志学习、李鹏也题词了、李鹏毕竟在军队没有职务——李鹏是习包子的干爹；与李鹏教父论同向再申）",
+   "object": "习包子",
+   "status": "本档口径",
+   "episode": "41yq1ihkRaU",
+   "date": "2025-08-13",
+   "quote": "当时李鹏也提词了但是李鹏毕竟在军队没有职务李鹏是细胞子干爹"
+  },
+  {
+   "id": "rel-8982",
+   "subject": "周恩来",
+   "relation": "网传为李鹏的生物学父亲（原文作周云来，未坐实）",
+   "object": "李鹏",
+   "status": "网传层",
+   "episode": "EZr3qsZrOpg",
+   "date": "2025-08-18",
+   "quote": "周云来是李鹏的生物学父亲网上是有资料的"
+  },
+  {
+   "id": "rel-2337",
+   "subject": "钱波海",
+   "relation": "是李鹏的马仔（1984年任李鹏任组长的国民经济统一核算标准领导小组总体规划组组长）",
+   "object": "李鹏",
+   "status": "本档口径",
+   "episode": "Tw3NuaHeADI",
+   "date": "2025-08-26",
+   "quote": "钱波海是李鹏的马仔"
+  },
+  {
+   "id": "rel-7971",
+   "subject": "刘大军",
+   "relation": "与李鹏同届留苏同学",
+   "object": "李鹏",
+   "status": "本期梳理层",
+   "episode": "QGNvQhsIyhE",
+   "date": "2025-08-26",
+   "quote": "与前总理李鹏同届留苏"
+  },
+  {
+   "id": "rel-7972",
+   "subject": "李鹏",
+   "relation": "被断为习包子的正经干爹（本期断语层）",
+   "object": "习包子",
+   "status": "本期断语层",
+   "episode": "QGNvQhsIyhE",
+   "date": "2025-08-26",
+   "quote": "李鹏是细胞的正经干爹呀"
+  },
+  {
+   "id": "rel-0112",
+   "subject": "张衢",
+   "relation": "本期称李鹏的马仔",
+   "object": "李鹏",
+   "status": "本档口径",
+   "episode": "28hbM9Lo-dU",
+   "date": "2025-09-08",
+   "quote": "张衢是前总理李鹏和副总理姚依林的马仔"
+  },
+  {
+   "id": "rel-4182",
+   "subject": "李鹏",
+   "relation": "同一个派系",
+   "object": "朱镕基",
+   "status": "本档口径",
+   "quote": "李鹏没有架空啊李鹏和朱镕基是一个派系的",
+   "episode": "9VFhrIUgSdM",
+   "date": "2025-09-12"
+  },
+  {
+   "id": "rel-3652",
+   "subject": "曹卫星",
+   "relation": "派系归属（南京农业大学帮）",
+   "object": "李鹏",
+   "status": "本档口径・考定",
+   "episode": "ERpUqM2Neqc",
+   "date": "2025-09-27",
+   "quote": "曹卫星是李鹏的南京农业大学邦"
+  },
+  {
+   "id": "rel-0612",
+   "subject": "柴松岳",
+   "relation": "17 岁在丰满发电厂当学员时认识李鹏（后把浙江省长让给习包子）",
+   "object": "李鹏",
+   "status": "本档口径",
+   "episode": "_hqpvFpMlVE",
+   "date": "2025-09-30",
+   "quote": "柴松岳17岁就认识了中国的前总理李鹏"
+  },
+  {
+   "id": "rel-6397",
+   "subject": "李鹏",
+   "relation": "干爹",
+   "object": "习包子",
+   "status": "本期断语",
+   "quote": "李鹏就是细胞的干爹啊",
+   "episode": "JTAoqNtLcEA",
+   "date": "2025-10-03"
+  },
+  {
+   "id": "rel-0783",
+   "subject": "陈敏尔",
+   "relation": "本期断不是习包子提拔的、是习包子干爹李鹏提拔的（一开始就被当做接班人在培养、辈分比较高）",
+   "object": "李鹏",
+   "status": "本档口径",
+   "episode": "vEODFLmJCjo",
+   "date": "2025-10-04",
+   "quote": "陈敏尔他不是细胞子提拔的而是细胞子干爹提拔的"
+  },
+  {
+   "id": "rel-0785",
+   "subject": "柴松岳",
+   "relation": "本期再称李鹏的人（17 岁在丰满发电厂当学员时李鹏任副厂长兼总工程师）",
+   "object": "李鹏",
+   "status": "本档口径",
+   "episode": "vEODFLmJCjo",
+   "date": "2025-10-04",
+   "quote": "柴松岳就是李鹏的人"
+  },
+  {
+   "id": "rel-0788",
+   "subject": "葛洪升",
+   "relation": "本期称李鹏的铁杆马仔（葛洪升背后就是李鹏）",
+   "object": "李鹏",
+   "status": "本档口径",
+   "episode": "vEODFLmJCjo",
+   "date": "2025-10-04",
+   "quote": "葛洪升是李鹏的铁杆马仔"
+  },
+  {
+   "id": "rel-4154",
+   "subject": "萧央",
+   "relation": "马仔",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "当时的重庆市委书记萧央是李鹏的马仔",
+   "episode": "Mq1zuvw8DzI",
+   "date": "2025-10-10"
+  },
+  {
+   "id": "rel-4155",
+   "subject": "蒲海青",
+   "relation": "是其人",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "蒲海青就是李鹏助中机的人",
+   "episode": "Mq1zuvw8DzI",
+   "date": "2025-10-10"
+  },
+  {
+   "id": "rel-4159",
+   "subject": "李鹏",
+   "relation": "儿子（周恩来接至重庆抚养，本档断语）",
+   "object": "周恩来",
+   "status": "本档口径・断语层",
+   "quote": "就是周恩来把李鹏接到重庆去的李鹏是周恩来的儿子",
+   "episode": "Mq1zuvw8DzI",
+   "date": "2025-10-10"
+  },
+  {
+   "id": "rel-4162",
+   "subject": "黄震东",
+   "relation": "马仔",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "黄震东就是李鹏的马仔黄震东他曾经是交通部长",
+   "episode": "Mq1zuvw8DzI",
+   "date": "2025-10-10"
+  },
+  {
+   "id": "rel-4163",
+   "subject": "薄熙来",
+   "relation": "唱红打黑总后台",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "薄熙来重庆唱红打黑的总后台就是李鹏",
+   "episode": "Mq1zuvw8DzI",
+   "date": "2025-10-10"
+  },
+  {
+   "id": "rel-4172",
+   "subject": "习包子",
+   "relation": "干儿子",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "邢渊敏和李鹏的关系这么密切习包子又是李鹏的干儿子",
+   "episode": "Mq1zuvw8DzI",
+   "date": "2025-10-10"
+  },
+  {
+   "id": "rel-1280",
+   "subject": "李鹏",
+   "relation": "传闻与周恩来有血缘关系（私生子传闻中能够通过人脸比对的一组；周恩来和李鹏是中国的两个总理）",
+   "object": "周恩来",
+   "status": "传闻・本期未证实",
+   "episode": "ktW46i2kMRM",
+   "date": "2025-10-12",
+   "quote": "中共高层的私生子传闻之中呢能够通过人脸比对呢只有周恩来李鹏毛泽东和徐文伯毛新宇邓小平和左一陈云和朱镕基"
+  },
+  {
+   "id": "rel-7718",
+   "subject": "刘忠德",
+   "relation": "李鹏的大马仔、任文化部长（谭斌任其办公厅主任并为其大秘）",
+   "object": "李鹏",
+   "status": "本期层",
+   "episode": "OKlb4xkz1vM",
+   "date": "2025-10-14",
+   "quote": "当时的文化部长是刘忠德刘忠德是李鹏大妈仔"
+  },
+  {
+   "id": "rel-6609",
+   "subject": "张尧学",
+   "relation": "马仔",
+   "object": "李鹏",
+   "status": "本期断语",
+   "quote": "中南大学的校长张耀学就是李鹏的马仔李鹏是习包子干爹",
+   "episode": "w0Hbv-6ZQro",
+   "date": "2025-10-20"
+  },
+  {
+   "id": "rel-6610",
+   "subject": "李鹏",
+   "relation": "干爹",
+   "object": "习包子",
+   "status": "本档口径",
+   "quote": "中南大学的校长张耀学就是李鹏的马仔李鹏是习包子干爹",
+   "episode": "w0Hbv-6ZQro",
+   "date": "2025-10-20"
+  },
+  {
+   "id": "rel-6612",
+   "subject": "刘忠德",
+   "relation": "大秘",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "刘忠德就是李鹏的大秘",
+   "episode": "w0Hbv-6ZQro",
+   "date": "2025-10-20"
+  },
+  {
+   "id": "rel-2445",
+   "subject": "刘剑锋",
+   "relation": "是李鹏提拔的、习包子派系（由张尧学绑定反推）",
+   "object": "李鹏",
+   "status": "本期推断",
+   "episode": "UUb7BRUcqt4",
+   "date": "2025-10-21",
+   "quote": "刘剑锋呢就是李鹏提拔的啊习包子派系的"
+  },
+  {
+   "id": "rel-7272",
+   "subject": "李小琳",
+   "relation": "李鹏之女",
+   "object": "李鹏",
+   "status": "本档口径",
+   "episode": "kZWJRDMO0g0",
+   "date": "2025-11-19",
+   "quote": "李小琳他最大的政治身份就是李鹏的女儿职业女儿毛信宇是职业孙子"
+  },
+  {
+   "id": "rel-2120",
+   "subject": "陆昊",
+   "relation": "一开始就是其人（三峡总公司陆佑楣链）",
+   "object": "李鹏",
+   "status": "本档口径",
+   "episode": "TA1yd4EcQnM",
+   "date": "2025-11-26",
+   "quote": "陆浩他一开始就是薄一波李鹏的人"
+  },
+  {
+   "id": "rel-4835",
+   "subject": "李鹏",
+   "relation": "干爹",
+   "object": "习包子",
+   "status": "本档口径",
+   "quote": "李鹏就是西包子干爹",
+   "episode": "M05VqpFJKeA",
+   "date": "2025-11-28"
+  },
+  {
+   "id": "rel-4656",
+   "subject": "陈敏尔",
+   "relation": "马仔",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "陈敏尔就是李鹏的马仔",
+   "episode": "B3PRuGVvkWo",
+   "date": "2025-12-12"
+  },
+  {
+   "id": "rel-8147",
+   "subject": "马兴瑞",
+   "relation": "被定版为李鹏提拔、李鹏的马仔（经航天刘纪原链论证）",
+   "object": "李鹏",
+   "status": "本期定版断语层（与ep723总论互证）",
+   "episode": "V5CV-u1Wg1s",
+   "date": "2025-12-15",
+   "quote": "所以马兴瑞是李鹏提拔的"
+  },
+  {
+   "id": "rel-8148",
+   "subject": "刘纪原",
+   "relation": "被断为李鹏的马仔（悼文真情＋1992年李鹏批示护犊子）",
+   "object": "李鹏",
+   "status": "公开文本层＋本期断语层",
+   "episode": "V5CV-u1Wg1s",
+   "date": "2025-12-15",
+   "quote": "刘纪原自己写的对李鹏这么真情他肯定是李鹏的马仔"
+  },
+  {
+   "id": "rel-3387",
+   "subject": "李鹏",
+   "relation": "干爹",
+   "object": "习包子",
+   "status": "本档口径",
+   "episode": "DUNsHGi3alE",
+   "date": "2026-01-23",
+   "quote": "李鹏呢就是喜报子干爹啊"
+  },
+  {
+   "id": "rel-3388",
+   "subject": "习包子",
+   "relation": "被提拔",
+   "object": "李鹏",
+   "status": "本档口径",
+   "episode": "DUNsHGi3alE",
+   "date": "2026-01-23",
+   "quote": "就是李鹏和朱镕基把喜报子提拔上去的"
+  },
+  {
+   "id": "rel-0956",
+   "subject": "李鹏",
+   "relation": "何频 1992 年文论：李鹏是邓小平用来架空江泽民的（江没有架空李鹏）",
+   "object": "江泽民",
+   "status": "本期推断",
+   "episode": "hNUHWMse_J8",
+   "date": "2026-01-25",
+   "quote": "江泽民没有架空李鹏李鹏就是用来架空江泽民的"
+  },
+  {
+   "id": "rel-8568",
+   "subject": "习包子",
+   "relation": "被断正统性不如李鹏薄熙来、继承周恩来陈云李鹏朱镕基集团政治资产却无该集团总书记背书",
+   "object": "李鹏",
+   "status": "本期断语层",
+   "episode": "40fwhNvhz9s",
+   "date": "2026-02-01",
+   "quote": "习包子他是继承了周恩来陈云李鹏朱镕基政治集团的政治资产"
+  },
+  {
+   "id": "rel-1337",
+   "subject": "李鹏",
+   "relation": "提拔了习包子（李鹏名义上是周恩来的养子、实际上就是亲生儿子，是真正的教父；李鹏在党务系统的权力完全可以媲美总书记、只是没有军权；他提拔的还有李源潮、陈敏尔和深圳市委书记王荣）",
+   "object": "习包子",
+   "status": "本档口径",
+   "episode": "9OKnidRCdEA",
+   "date": "2026-02-04",
+   "quote": "李鹏名义上市周恩来的养子实际上就是亲生儿子习包子李源潮陈敏尔深圳市委书记王荣都是李鹏提拔的这才是真正的教父李鹏只是没有军权李鹏在党务系统完全可以媲美一个总书记"
+  },
+  {
+   "id": "rel-1338",
+   "subject": "李鹏",
+   "relation": "经陈同海提拔了陈敏尔（陈敏尔就是陈同海提拔的、陈同海是李鹏的人）",
+   "object": "陈敏尔",
+   "status": "本档口径",
+   "episode": "9OKnidRCdEA",
+   "date": "2026-02-04",
+   "quote": "陈敏尔就是陈同海提拔的就是李鹏陈同海提拔的那习包子肯定倒台了薄熙来他为什么唱红打黑呢李鹏和朱镕基让薄熙来唱红打黑的"
+  },
+  {
+   "id": "rel-4599",
+   "subject": "李鹏",
+   "relation": "与之同一派系（照片解读层）",
+   "object": "朱镕基",
+   "status": "本档口径・解读层",
+   "quote": "说明李鹏和朱镕基就是一个派系的",
+   "episode": "5jallZbAhV8",
+   "date": "2026-02-07"
+  },
+  {
+   "id": "rel-0902",
+   "subject": "李鹏",
+   "relation": "提拔了习包子（本期教父论：习、李源潮、陈敏尔、王荣皆李鹏提拔）",
+   "object": "习包子",
+   "status": "本档口径",
+   "episode": "iYbz6iSPI_0",
+   "date": "2026-03-01",
+   "quote": "习包子李源潮陈明尔深圳市委书记王荣都是李鹏提拔的这才是真正的教父"
+  },
+  {
+   "id": "rel-4024",
+   "subject": "李鹏",
+   "relation": "交棒时拖着其胳膊肘（类比蔡奇动作）",
+   "object": "朱镕基",
+   "status": "本档口径・解读层",
+   "quote": "李鹏交棒给朱镕基把总理交给朱镕基的时候拖着朱镕基的胳膊肘",
+   "episode": "ttyiGROgHcU",
+   "date": "2026-03-11"
+  },
+  {
+   "id": "rel-3915",
+   "subject": "朱镕基",
+   "relation": "接任其总理的位子（一家人表述）",
+   "object": "李鹏",
+   "status": "本档口径・再申",
+   "quote": "李鹏把总理的位子传给朱镕基的时候",
+   "episode": "GV-fP0gQ5_4",
+   "date": "2026-03-26"
+  },
+  {
+   "id": "rel-0603",
+   "subject": "李源潮",
+   "relation": "本期再断是李鹏提拔的（习包子派系，非团派非江派；与李鹏为亲家）",
+   "object": "李鹏",
+   "status": "本档口径",
+   "episode": "jFGhevCBFVA",
+   "date": "2026-03-31",
+   "quote": "李源潮是习包子派系的李源潮是李鹏提拔的"
+  },
+  {
+   "id": "rel-3407",
+   "subject": "薄熙来",
+   "relation": "唱红打黑受指使",
+   "object": "李鹏",
+   "status": "本档口径",
+   "episode": "MAru9xlEZ5w",
+   "date": "2026-04-02",
+   "quote": "薄熙来在李鹏朱中基的指使之下唱红打黑"
+  },
+  {
+   "id": "rel-2158",
+   "subject": "侯淅珉",
+   "relation": "马仔（1992年写信获其指示）",
+   "object": "李鹏",
+   "status": "本档口径",
+   "episode": "3UXs8F61obM",
+   "date": "2026-04-18",
+   "quote": "侯熙民是李鹏朱镕基的马仔啊"
+  },
+  {
+   "id": "rel-0968",
+   "subject": "林汉雄",
+   "relation": "是李鹏提拔的（林彪侄子，此为林彪属周恩来陈云派系的重要补证）",
+   "object": "李鹏",
+   "status": "本档口径",
+   "episode": "UnAcmkNJrJU",
+   "date": "2026-04-19",
+   "quote": "林彪的侄子林汉雄是李鹏提拔的"
+  },
+  {
+   "id": "rel-4528",
+   "subject": "王荣",
+   "relation": "马仔",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "王荣呢他是李鹏习包子马仔南京农业大学的李鹏留学苏联的同学刘大军呢是南京农业大学的校长",
+   "episode": "ay7lE3-OG2U",
+   "date": "2026-04-21"
+  },
+  {
+   "id": "rel-4529",
+   "subject": "刘大军",
+   "relation": "留学苏联同学",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "南京农业大学的李鹏留学苏联的同学刘大军呢是南京农业大学的校长",
+   "episode": "ay7lE3-OG2U",
+   "date": "2026-04-21"
+  },
+  {
+   "id": "rel-7786",
+   "subject": "姚振炎",
+   "relation": "李鹏五大马仔之一、曾任电力部副部长",
+   "object": "李鹏",
+   "status": "本期层（原文作姚振严）",
+   "episode": "wGdh4Jr-pqw",
+   "date": "2026-04-22",
+   "quote": "姚振严是李鹏的五大马仔之一"
+  },
+  {
+   "id": "rel-4844",
+   "subject": "张高丽",
+   "relation": "由其提拔",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "也就是说中泰证券的李伟一开始就有可能是张高丽提拔的说明张高丽就是习包的派系的张高丽就是李鹏朱镕基提拔的",
+   "episode": "8B24NyBcz9Q",
+   "date": "2026-04-27"
+  },
+  {
+   "id": "rel-4850",
+   "subject": "刘纪原",
+   "relation": "马仔",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "虽然当时的航天总公司总经理刘纪原就是李鹏的马仔和马兴瑞是一个派系的",
+   "episode": "8B24NyBcz9Q",
+   "date": "2026-04-27"
+  },
+  {
+   "id": "rel-4851",
+   "subject": "吴邦国",
+   "relation": "马仔",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "吴邦国和贾庆林都是陈云李鹏的马仔跟习包子是一个派系的",
+   "episode": "8B24NyBcz9Q",
+   "date": "2026-04-27"
+  },
+  {
+   "id": "rel-4852",
+   "subject": "贾庆林",
+   "relation": "马仔",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "吴邦国和贾庆林都是陈云李鹏的马仔跟习包子是一个派系的",
+   "episode": "8B24NyBcz9Q",
+   "date": "2026-04-27"
+  },
+  {
+   "id": "rel-1912",
+   "subject": "李学勇",
+   "relation": "本期称李鹏的徒子徒孙、其司长一步并非宋健提拔",
+   "object": "李鹏",
+   "status": "本档口径",
+   "episode": "VF6BYRePHF0",
+   "date": "2026-05-07",
+   "quote": "当时的江苏省长李学勇是李鹏的徒子徒孙"
+  },
+  {
+   "id": "rel-2881",
+   "subject": "马兴瑞",
+   "relation": "是李鹏的马仔、李鹏提拔",
+   "object": "李鹏",
+   "status": "本档口径",
+   "episode": "ERKQXfocX7U",
+   "date": "2026-05-11",
+   "quote": "马兴瑞是李鹏的马仔李鹏提拔的"
+  },
+  {
+   "id": "rel-6989",
+   "subject": "龙新民",
+   "relation": "背后靠山",
+   "object": "李鹏",
+   "status": "本期考辨",
+   "episode": "JNFXXaC6OBY",
+   "date": "2026-05-21",
+   "quote": "龙新民背后就是李鹏李长春"
+  },
+  {
+   "id": "rel-6994",
+   "subject": "李鹏",
+   "relation": "儿子（本期极端表述，照录存疑）",
+   "object": "周恩来",
+   "status": "本期表述层",
+   "episode": "JNFXXaC6OBY",
+   "date": "2026-05-21",
+   "quote": "李鹏是周恩来的儿子"
+  },
+  {
+   "id": "rel-3854",
+   "subject": "邢元敏（重庆）",
+   "relation": "发小",
+   "object": "李鹏",
+   "status": "本档口径・同名异人分账",
+   "quote": "一个是齐悄悄的发小一个是中国前总理李鹏的发小",
+   "episode": "bSTsRt0S4lU",
+   "date": "2026-05-22"
+  },
+  {
+   "id": "rel-2115",
+   "subject": "李鹏",
+   "relation": "干爹（本期再申）",
+   "object": "习包子",
+   "status": "本档口径",
+   "episode": "7bbioGWpYTY",
+   "date": "2026-05-24",
+   "quote": "李鹏就是习包子干爹"
+  },
+  {
+   "id": "rel-3460",
+   "subject": "马志庚",
+   "relation": "马仔（网友推论・三峡集团外部董事）",
+   "object": "李鹏",
+   "status": "传闻・本期未证实",
+   "episode": "rX1tuGn7t18",
+   "date": "2026-05-24",
+   "quote": "马志庚退休之后去了三峡集团当外部董事不就是李鹏家族吗猜测马志庚本人就是李鹏的马仔"
+  },
+  {
+   "id": "rel-3462",
+   "subject": "习包子",
+   "relation": "被确立为派系内部接班人（1996年假设）",
+   "object": "李鹏",
+   "status": "本期推断・假设未定版",
+   "episode": "rX1tuGn7t18",
+   "date": "2026-05-24",
+   "quote": "有可能1996年5月习包子被李鹏确立为他们派系内部的接班人"
+  },
+  {
+   "id": "rel-8617",
+   "subject": "徐有芳",
+   "relation": "被断的确是李鹏派系的、1987年大兴安岭大火时在塔河指挥部向李鹏汇报（原文徐有方/徐有芳两写）",
+   "object": "李鹏",
+   "status": "本期断语层",
+   "episode": "Qtnam8zFcfg",
+   "date": "2026-05-27",
+   "quote": "而且徐有芳的确是李鹏细胞的派系的"
+  },
+  {
+   "id": "rel-8620",
+   "subject": "白景富",
+   "relation": "提拔人未明、倾向于是李鹏陈云这个派系的（未定版）",
+   "object": "李鹏",
+   "status": "本期倾向层",
+   "episode": "Qtnam8zFcfg",
+   "date": "2026-05-27",
+   "quote": "倾向于是李鹏陈云这个派系的"
+  },
+  {
+   "id": "rel-1753",
+   "episode": "uGch9XiG7Xk",
+   "date": "2026-06-07",
+   "subject": "张志坚",
+   "relation": "就是李鹏、宋平的马仔",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "昨天我说了呢张智坚呢就是李鹏宋平的马仔还没有伸挖到赵守一习中勋的头上"
+  },
+  {
+   "id": "rel-0387",
+   "subject": "陈敏尔",
+   "relation": "本期称其后台是李鹏（与陈伟俊共同后台）",
+   "object": "李鹏",
+   "status": "本档口径",
+   "episode": "u1YSr_lk6AQ",
+   "date": "2026-06-10",
+   "quote": "陈敏尔和陈伟俊的后台呢就是李鹏"
+  },
+  {
+   "id": "rel-5997",
+   "subject": "李鹏",
+   "relation": "干爹、提拔",
+   "object": "习近平",
+   "status": "本档口径",
+   "quote": "李鹏就是西包子干爹就是李鹏提拔的西包子",
+   "episode": "do8wJT7G34Y",
+   "date": "2026-06-12"
+  },
+  {
+   "id": "rel-3033",
+   "subject": "俞小平",
+   "relation": "是李鹏的马仔、后台就是李鹏",
+   "object": "李鹏",
+   "status": "本档口径",
+   "episode": "tkJsk7awEw4",
+   "date": "2026-06-14",
+   "quote": "俞小平的后台就是李鹏李鹏就是习包子干爹"
+  },
+  {
+   "id": "rel-3034",
+   "subject": "姚振严",
+   "relation": "是李鹏五大马仔之一",
+   "object": "李鹏",
+   "status": "本档口径",
+   "episode": "tkJsk7awEw4",
+   "date": "2026-06-14",
+   "quote": "姚振严是李鹏的五大马仔之一"
+  },
+  {
+   "id": "rel-3036",
+   "subject": "李鹏",
+   "relation": "是习包子的干爹",
+   "object": "习包子",
+   "status": "本期断语",
+   "episode": "tkJsk7awEw4",
+   "date": "2026-06-14",
+   "quote": "俞小平的后台就是李鹏李鹏就是习包子干爹"
+  },
+  {
+   "id": "rel-3037",
+   "subject": "习包子",
+   "relation": "是李鹏和朱镕基提拔的、本人就是李鹏的马仔",
+   "object": "李鹏",
+   "status": "本档口径",
+   "episode": "tkJsk7awEw4",
+   "date": "2026-06-14",
+   "quote": "习包子就是李鹏和朱镕基提拔的"
+  },
+  {
+   "id": "rel-3751",
+   "subject": "俞小平",
+   "relation": "三峡工程钱袋子（放贷送钱）",
+   "object": "李鹏",
+   "status": "本档口径・断语",
+   "quote": "说白了就是给李鹏的三峡工程放贷款送钱",
+   "episode": "Oe0_mg207J8",
+   "date": "2026-06-14"
+  },
+  {
+   "id": "rel-3756",
+   "subject": "王荣",
+   "relation": "铁杆马仔",
+   "object": "李鹏",
+   "status": "本档口径・断语",
+   "quote": "王荣就是李鹏的铁岚马仔",
+   "episode": "Oe0_mg207J8",
+   "date": "2026-06-14"
+  },
+  {
+   "id": "rel-3757",
+   "subject": "刘大军",
+   "relation": "同届留苏同学",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "南京农业大学的校长刘大军是小卖专家是李鹏同一届留苏的同学",
+   "episode": "Oe0_mg207J8",
+   "date": "2026-06-14"
+  },
+  {
+   "id": "rel-8444",
+   "subject": "朱昌杰",
+   "relation": "经王恩茂、习仲勋链被断为李鹏的马仔（李鹏被称习包子干爹）",
+   "object": "李鹏",
+   "status": "本期断语层",
+   "episode": "OD0iavTy7bc",
+   "date": "2026-06-21",
+   "quote": "就是李鹏的马仔，李鹏就是习包子干爹"
+  },
+  {
+   "id": "rel-2523",
+   "subject": "李鹏",
+   "relation": "是习包子的干爹",
+   "object": "习包子",
+   "status": "本档口径",
+   "episode": "iuT2Z9jtFTo",
+   "date": "2026-06-28",
+   "quote": "因为李鹏是习包子干爹朱镕基是习包子干爹啊"
+  },
+  {
+   "id": "rel-4428",
+   "subject": "李小鹏",
+   "relation": "由其生前铺路安排任山西省长",
+   "object": "李鹏",
+   "status": "本档口径・推演层",
+   "quote": "必然是李鹏给儿子李小鹏铺好了路安排好了才会让李小鹏去山西当省长",
+   "episode": "GdyBoxgjJe0",
+   "date": "2026-07-01"
+  },
+  {
+   "id": "rel-3971",
+   "subject": "宗庆后",
+   "relation": "白手套",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "宗庆后不一定是洗包子摆手套而是李鹏的摆手套",
+   "episode": "vl5W8Pd9gz4",
+   "date": "2026-07-04"
+  },
+  {
+   "id": "rel-3972",
+   "subject": "李鹏",
+   "relation": "派系教父、干爹",
+   "object": "习包子",
+   "status": "本档口径・总论层",
+   "quote": "李鹏才是洗包子派系的教父李鹏才是洗包子的干爹",
+   "episode": "vl5W8Pd9gz4",
+   "date": "2026-07-04"
+  },
+  {
+   "id": "rel-5687",
+   "subject": "王文泽",
+   "relation": "铁杆马仔",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "国投集团说白了就是李鹏的私人王文泽王惠生呢都是李鹏的铁杆马仔",
+   "episode": "9v5pFeoEf20",
+   "date": "2026-07-09"
+  },
+  {
+   "id": "rel-5688",
+   "subject": "王卉生",
+   "relation": "铁杆马仔",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "国投集团说白了就是李鹏的私人王文泽王惠生呢都是李鹏的铁杆马仔",
+   "episode": "9v5pFeoEf20",
+   "date": "2026-07-09"
+  },
+  {
+   "id": "rel-5689",
+   "subject": "黄毅成",
+   "relation": "五大电力马仔之一",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "当时的国家能源部部长是黄毅成黄毅成是李鹏的五大电力马仔之一啊",
+   "episode": "9v5pFeoEf20",
+   "date": "2026-07-09"
+  },
+  {
+   "id": "rel-8089",
+   "subject": "马兴瑞",
+   "relation": "被断为李鹏系统定向培养的技术少帅、李鹏的铁杆马仔",
+   "object": "李鹏",
+   "status": "本期总论断语层（与马兴瑞诸归属层分账）",
+   "episode": "50RN9jLpBwg",
+   "date": "2026-07-15",
+   "quote": "一开始马兴瑞他就是李鹏的铁杆马仔"
+  },
+  {
+   "id": "rel-0850",
+   "subject": "马兴瑞",
+   "relation": "本期称阜新矿业学院校友网是他搭上李鹏、朱镕基这套线的一个重要线索（1978-82 年阜新矿业学院工程力学专业）",
+   "object": "李鹏",
+   "status": "本档口径",
+   "episode": "oRa3tG0l6Yw",
+   "date": "2026-07-21",
+   "quote": "马兴瑞他怎么搭上李鹏和朱镕基这套线的一个重要线索"
+  },
+  {
+   "id": "rel-6344",
+   "subject": "李鹏",
+   "relation": "政治干爹",
+   "object": "习包子",
+   "status": "本期断语",
+   "quote": "李小鹏他爸李鹏就是习包子的政治干爹,那就是李鹏和朱中基两个人联手把习包子送上大位的",
+   "episode": "SxL8NHNg0ek",
+   "date": "2026-07-22"
+  },
+  {
+   "id": "rel-3850",
+   "subject": "王祖继",
+   "relation": "马仔",
+   "object": "李鹏",
+   "status": "本档口径（正文作王祖季）",
+   "quote": "王祖季就是李鹏的马仔",
+   "episode": "fEtC4LhraXE",
+   "date": "2026-07-23"
+  },
+  {
+   "id": "rel-3852",
+   "subject": "李小鹏",
+   "relation": "家族线（周恩来家族）",
+   "object": "李鹏",
+   "status": "本档口径・框架层",
+   "quote": "周恩来家族就是李鹏李小鹏",
+   "episode": "fEtC4LhraXE",
+   "date": "2026-07-23"
+  },
+  {
+   "id": "rel-3068",
+   "subject": "薄熙来",
+   "relation": "重庆唱红打黑背后撑腰者是李鹏和朱镕基（意在狙击李克强）",
+   "object": "李鹏",
+   "status": "指控层・双标记",
+   "episode": "F8tfhs3o4yI",
+   "date": "2026-07-26",
+   "quote": "正是李鹏和朱镕基這兩個同樣生於1928年的老太上皇"
+  },
+  {
+   "id": "rel-8922",
+   "subject": "李鹏",
+   "relation": "被断是习包子的干爹、政治干爹，李鹏家族全链条垄断水电煤气（与ep730分账）",
+   "object": "习包子",
+   "status": "本期断语层",
+   "episode": "VKsWnM8O24M",
+   "date": "2026-08-09",
+   "quote": "李鹏就是洗包子的干爹政治干爹"
+  },
+  {
+   "id": "rel-3778",
+   "subject": "江金权",
+   "relation": "马仔",
+   "object": "李鹏",
+   "status": "本档口径",
+   "quote": "苏小和的大师兄呢,江金权就是李鹏朱镕基的马仔啊",
+   "episode": "sBel8D05Q5o",
+   "date": "2026-08-17"
+  },
+  {
+   "id": "rel-0303",
+   "subject": "叶建春",
+   "relation": "本期称李鹏的马仔（高严、王炳华提拔链）",
+   "object": "李鹏",
+   "status": "本档口径",
+   "episode": "8JMAhewutBg",
+   "date": "2026-08-28",
+   "quote": "叶建春在韩正前面的真正后台是李鹏李鹏才是真正的教父啊"
+  },
+  {
+   "id": "rel-0304",
+   "subject": "高严",
+   "relation": "本期称李鹏的铁杆马仔（国家电力公司总经理）",
+   "object": "李鹏",
+   "status": "本档口径",
+   "episode": "8JMAhewutBg",
+   "date": "2026-08-28",
+   "quote": "当时掌控国家电力公司的市理鹏的铁杆马仔高炎（字幕高炎即高严）"
+  },
+  {
+   "id": "rel-0306",
+   "subject": "韩正",
+   "relation": "本期称李鹏的马仔（提拔叶建春证明，非江泽民马仔）",
+   "object": "李鹏",
+   "status": "本档口径",
+   "episode": "8JMAhewutBg",
+   "date": "2026-08-28",
+   "quote": "韩正提拔李鹏的马仔叶建春就证明了韩正是李鹏的马仔而不是江泽民的马仔啊"
+  },
+  {
+   "id": "rel-3598",
+   "subject": "李鹏",
+   "relation": "养子",
+   "object": "周恩来",
+   "status": "本档口径",
+   "episode": "JmRqe4SgE64",
+   "date": "2026-09-03",
+   "quote": "李鹏是周恩来的养子习仲勋是周恩来的大秘"
+  },
+  {
+   "id": "rel-7709",
+   "subject": "管华诗",
+   "relation": "被李鹏提拔为副校长说",
+   "object": "李鹏",
+   "status": "本期层（原文残损待核）",
+   "episode": "yYC0RTM0z08",
+   "date": "2026-09-07",
+   "quote": "李鹏当时是国家教委主任提拔的副校长"
+  },
+  {
+   "id": "rel-3287",
+   "subject": "马兴瑞",
+   "relation": "李鹏内阁与教委系统定向培养护送上来的核心马仔",
+   "object": "李鹏",
+   "status": "本期断语",
+   "episode": "WU_4BomqQwU",
+   "date": "2026-09-09",
+   "quote": "马兴瑞当年就是李鹏内阁和教委县在后方定向培养一路护送上来的核心马仔"
+  },
+  {
+   "id": "rel-2161",
+   "subject": "江青红",
+   "relation": "2005年调上海系其幕后指挥（本期断语）",
+   "object": "李鹏",
+   "status": "本档口径",
+   "episode": "EZVeXLwUQFw",
+   "date": "2026-10-03",
+   "quote": "江青红呢调到上海那肯定不是胡锦涛调的那是李鹏朱镕基在幕后指挥台前的吴邦国和贾庆林调的"
+  }
+ ],
+ "date_from": "2024-08-28",
+ "date_to": "2026-10-03"
+}

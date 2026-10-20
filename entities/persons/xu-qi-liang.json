@@ -1,0 +1,73 @@
+{
+ "id": "xu-qi-liang",
+ "name": "许其亮",
+ "aliases": [],
+ "stats": {
+  "episodes": 85,
+  "mentions": 336,
+  "alias_mentions": {},
+  "first_date": "2024-09-06",
+  "last_date": "2026-10-13",
+  "title_count": 14
+ },
+ "current_caliber": [
+  {
+   "id": "rul-49",
+   "date": "2026-10-20",
+   "category": "口径冲突裁定",
+   "item": "冲突38 许其亮归属四考",
+   "ruling": "现行口径：许其亮归习包子系（一开始就是习包子的人）。ep690 仅修正吴法宪渊源、未改归属判语，按细则1回退至 ep547 总断为现行依据。",
+   "effect": "归属取 ep547 口径。死亡日期 ep783 同集两说（6月2日、6月3日）属状态账、见注记组C分账。"
+  }
+ ],
+ "time_notes": [
+  {
+   "id": "rul-115",
+   "date": "2026-10-20",
+   "category": "人物卡注记",
+   "subject": "许其亮",
+   "item": "许其亮人物卡时点注记（编纂定版·2026-10-20）",
+   "ruling": "许其亮人物卡加时点注记。时点列：讣告措辞鉴定法断许其亮、梁光烈非正常死亡（断语层，ep394）；葬礼花圈无彭丽媛名字（状态层旁及，ep213）；2025-06 去世（ep243）；死亡日期同集两说：6月2日与6月3日，分账并列（ep783）。",
+   "basis": "编纂定版（2026-10-20）",
+   "history": "归属见 rul-49（归习包子系，依据 ep547 总断）；死亡日期两说分账见 rul-76。本注记只处理时点呈现，不改归属裁定。本条为名单外酌加（去世状态账四点齐备）。",
+   "rule": "版式注记（非口径裁定）",
+   "effect": "烤制许其亮词条时按本注记逐时点呈现并标层级。"
+  }
+ ],
+ "counts": {
+  "events": 131,
+  "relations": 53
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/xu-qi-liang/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 82,
+    "date_from": "2024-09-06",
+    "date_to": "2026-02-05",
+    "bytes": 177575
+   },
+   {
+    "file": "events-002.json",
+    "count": 49,
+    "date_from": "2026-02-08",
+    "date_to": "2026-10-13",
+    "bytes": 172252
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 53,
+    "date_from": "2024-09-24",
+    "date_to": "2026-10-08",
+    "bytes": 18928
+   }
+  ],
+  "base": "entities/persons-chunked/xu-qi-liang/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

@@ -1,0 +1,30 @@
+{
+ "id": "yu-fa-xiang",
+ "name": "俞发祥",
+ "aliases": [],
+ "stats": {
+  "episodes": 0,
+  "mentions": 0,
+  "alias_mentions": {},
+  "first_date": null,
+  "last_date": null,
+  "title_count": 1
+ },
+ "register_links": [
+  {
+   "register": "capital-groups",
+   "entry": "祥源系",
+   "matched_as": [
+    "俞发祥"
+   ],
+   "n_eps": 1
+  }
+ ],
+ "counts": {
+  "events": 0,
+  "relations": 0
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "events": [],
+ "relations": []
+}

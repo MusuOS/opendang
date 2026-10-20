@@ -1,0 +1,80 @@
+{
+ "id": "he-li-feng",
+ "name": "何立峰",
+ "aliases": [],
+ "stats": {
+  "episodes": 140,
+  "mentions": 503,
+  "alias_mentions": {},
+  "first_date": "2023-10-08",
+  "last_date": "2026-09-29",
+  "title_count": 35
+ },
+ "time_notes": [
+  {
+   "id": "rul-110",
+   "date": "2026-10-20",
+   "category": "人物卡注记",
+   "subject": "何立峰",
+   "item": "何立峰人物卡时点注记（编纂定版·2026-10-20）",
+   "ruling": "何立峰人物卡加时点注记，定性为「现身与缺席交替、迄未官宣」：其仍有出席广交会、金融系统会议等现身记录，亦有会议照片缺席、访朝缺席与隐身半月等状态层，兼同案犯必抓断语，迄无官宣。时点列：2024-10至11 习漳州厦门、湖北考察皆何立峰陪同（陪同层，ep409）；2025-04-25 政治局集体学习在座、被列入排队等着被查处（状态层，ep350）；2025-07-25 国务院常务会议照片缺席（缺席层，ep413）；经济大秘靠边站、根本不让发言（断语层，ep348）；白手套林秀成 2026-03-21 被按倒（连带层，ep324）；2026-04-15至16 出席广交会（现身层，ep266）；2026-04-28 政治局会议表现失常读法、同案犯断语（读法层／断语层，ep368）；2026-06-06 随习访朝缺席、引传言称已被中纪委调查、官宣未定（缺席层／传闻层，ep328）；2026-07-02 出席金融系统党建工作会议后隐身快半个月（状态层，ep256）；打包处理四委员预期（预测层，ep514）。",
+   "basis": "编纂定版（2026-10-20）",
+   "history": "无归属裁定。本注记只处理时点呈现。",
+   "rule": "版式注记（非口径裁定）",
+   "effect": "烤制何立峰词条时按本注记逐时点呈现并标层级。"
+  }
+ ],
+ "register_links": [
+  {
+   "register": "dev-projects",
+   "entry": "滨海新区（天津）",
+   "matched_as": [
+    "何立峰"
+   ],
+   "n_eps": 7
+  }
+ ],
+ "counts": {
+  "events": 158,
+  "relations": 53
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/he-li-feng/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 76,
+    "date_from": "2023-10-08",
+    "date_to": "2026-02-07",
+    "bytes": 173570
+   },
+   {
+    "file": "events-002.json",
+    "count": 75,
+    "date_from": "2026-02-12",
+    "date_to": "2026-09-11",
+    "bytes": 175853
+   },
+   {
+    "file": "events-003.json",
+    "count": 7,
+    "date_from": "2026-09-11",
+    "date_to": "2026-10-09",
+    "bytes": 21021
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 53,
+    "date_from": "2023-10-08",
+    "date_to": "2026-09-11",
+    "bytes": 19839
+   }
+  ],
+  "base": "entities/persons-chunked/he-li-feng/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

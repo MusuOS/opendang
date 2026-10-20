@@ -1,0 +1,49 @@
+{
+ "id": "zhao-zi-yang",
+ "name": "赵紫阳",
+ "aliases": [],
+ "stats": {
+  "episodes": 146,
+  "mentions": 506,
+  "alias_mentions": {},
+  "first_date": "2024-06-02",
+  "last_date": "2026-10-03",
+  "title_count": 8
+ },
+ "counts": {
+  "events": 108,
+  "relations": 40
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/zhao-zi-yang/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 70,
+    "date_from": "2024-07-09",
+    "date_to": "2025-10-17",
+    "bytes": 177850
+   },
+   {
+    "file": "events-002.json",
+    "count": 38,
+    "date_from": "2025-10-22",
+    "date_to": "2026-10-03",
+    "bytes": 98888
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 40,
+    "date_from": "2024-09-04",
+    "date_to": "2026-09-02",
+    "bytes": 14367
+   }
+  ],
+  "base": "entities/persons-chunked/zhao-zi-yang/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

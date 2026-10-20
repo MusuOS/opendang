@@ -1,0 +1,31 @@
+{
+ "id": "quan-guo-zheng-xie",
+ "name": "全国政协",
+ "aliases": [],
+ "stats": {
+  "episodes": 144,
+  "mentions": 289,
+  "alias_mentions": {},
+  "first_date": "2024-01-29",
+  "last_date": "2026-10-13",
+  "title_count": 1
+ },
+ "counts": {
+  "events": 0,
+  "relations": 1
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "events": [],
+ "relations": [
+  {
+   "id": "rel-7446",
+   "subject": "丁薛祥",
+   "relation": "若连任常委大概率任政协主席（本期推测层）",
+   "object": "全国政协",
+   "status": "本期推测层",
+   "episode": "e_dBDvZsPZM",
+   "date": "2024-10-28",
+   "quote": "丁薛祥如果连任的话,大概率是政协主席啊"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "id": "han-zheng",
+ "name": "韩正",
+ "aliases": [],
+ "stats": {
+  "episodes": 135,
+  "mentions": 753,
+  "alias_mentions": {},
+  "first_date": "2023-10-08",
+  "last_date": "2026-10-11",
+  "title_count": 42
+ },
+ "current_caliber": [
+  {
+   "id": "rul-16",
+   "date": "2026-10-20",
+   "category": "口径冲突裁定",
+   "item": "冲突5 韩正提拔人、归属与状态",
+   "ruling": "现行口径：提拔人＝朱镕基（朱镕基离沪前两次任命下达、一手提拔）；归属＝朱镕基—习包子一系、与江无关；隐身天数诸数与小说体层分账保留、不裁。",
+   "effect": "提拔人、归属取 ep777、ep690 口径；状态诸账并存留痕，出入境定性未坐实。"
+  }
+ ],
+ "time_notes": [
+  {
+   "id": "rul-86",
+   "date": "2026-10-20",
+   "category": "人物卡注记",
+   "subject": "韩正",
+   "item": "韩正人物卡时点注记（编纂定版·2026-10-20）",
+   "ruling": "韩正人物卡加时点注记，定性为「最后可坐实现身在多哈、其后全为关押天数诸说与小说体层」：最后一次可坐实的公开出现为 2025-11-04 多哈；其后状态全为失踪／关押天数诸说（16、20、35、36、38 天五数并存不归一）与小说体层。时点列：多哈后失踪16天、两说未定（状态层，ep417）；妻万明被中纪委带走传闻层（ep605）；赴法避难、俄方留置（小说体层，ep734、ep737）；2025-11-04 最后一次在卡塔尔公开出现（状态账，ep336）；关了38天又放出来（陈述层，ep847）；关了35天（ep867）；隐身36天（ep875）；失踪20天（标题数，ep896）；失踪一月、最后现身多哈层（ep904）。",
+   "basis": "编纂定版（2026-10-20）",
+   "history": "归属与提拔人见 rul-16（提拔人朱镕基 ep777、归朱—习一系 ep690）；状态天数按 rul-16、rul-72 分账保留。本注记只处理时点呈现，不改归属裁定。",
+   "rule": "版式注记（非口径裁定）",
+   "effect": "烤制韩正词条时按本注记逐时点呈现并标层级。"
+  }
+ ],
+ "register_links": [
+  {
+   "register": "listed-companies",
+   "entry": "吉祥航空",
+   "matched_as": [
+    "韩正"
+   ],
+   "n_eps": 2,
+   "codes": [
+    "603885.SH"
+   ]
+  }
+ ],
+ "counts": {
+  "events": 172,
+  "relations": 98
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/han-zheng/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 88,
+    "date_from": "2023-10-08",
+    "date_to": "2025-12-11",
+    "bytes": 176977
+   },
+   {
+    "file": "events-002.json",
+    "count": 80,
+    "date_from": "2025-12-15",
+    "date_to": "2026-09-06",
+    "bytes": 175143
+   },
+   {
+    "file": "events-003.json",
+    "count": 4,
+    "date_from": "2026-09-11",
+    "date_to": "2026-10-11",
+    "bytes": 27333
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 98,
+    "date_from": "2023-12-26",
+    "date_to": "2026-09-06",
+    "bytes": 33184
+   }
+  ],
+  "base": "entities/persons-chunked/han-zheng/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

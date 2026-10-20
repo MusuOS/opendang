@@ -1,0 +1,20 @@
+{
+ "id": "wan-mei",
+ "name": "万美",
+ "aliases": [],
+ "stats": {
+  "episodes": 42,
+  "mentions": 82,
+  "alias_mentions": {},
+  "first_date": "2023-11-05",
+  "last_date": "2026-10-06",
+  "title_count": 5
+ },
+ "counts": {
+  "events": 0,
+  "relations": 0
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "events": [],
+ "relations": []
+}

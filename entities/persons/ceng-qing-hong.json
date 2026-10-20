@@ -1,0 +1,49 @@
+{
+ "id": "ceng-qing-hong",
+ "name": "曾庆红",
+ "aliases": [],
+ "stats": {
+  "episodes": 116,
+  "mentions": 344,
+  "alias_mentions": {},
+  "first_date": "2023-12-26",
+  "last_date": "2026-10-03",
+  "title_count": 12
+ },
+ "counts": {
+  "events": 102,
+  "relations": 41
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/ceng-qing-hong/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 73,
+    "date_from": "2023-10-08",
+    "date_to": "2026-04-04",
+    "bytes": 175383
+   },
+   {
+    "file": "events-002.json",
+    "count": 29,
+    "date_from": "2026-04-09",
+    "date_to": "2026-10-03",
+    "bytes": 99969
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 41,
+    "date_from": "2023-12-26",
+    "date_to": "2026-09-05",
+    "bytes": 14146
+   }
+  ],
+  "base": "entities/persons-chunked/ceng-qing-hong/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}

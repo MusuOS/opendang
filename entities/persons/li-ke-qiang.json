@@ -1,0 +1,94 @@
+{
+ "id": "li-ke-qiang",
+ "name": "李克强",
+ "aliases": [],
+ "stats": {
+  "episodes": 355,
+  "mentions": 1699,
+  "alias_mentions": {},
+  "first_date": "2023-10-31",
+  "last_date": "2026-10-14",
+  "title_count": 84
+ },
+ "time_notes": [
+  {
+   "id": "rul-114",
+   "date": "2026-10-20",
+   "category": "人物卡注记",
+   "subject": "李克强",
+   "item": "李克强人物卡时点注记（编纂定版·2026-10-20）",
+   "ruling": "李克强人物卡加时点注记，定性为「死因诸说全未定版」：其去世时点与葬礼有记录，死因则有主谋说、处理组合推演、心血证据私信、尸检推文诸层，全未定版、维持分账。时点列：2023-10 去世（断语层，ep312；二十大延长战总叙事 ep265）；葬礼彭丽媛出席（网友层，ep213）；彭丽媛在李克强案件中可能扮演凶手角色（旁注指控层，ep307）；死因张又侠主谋网友转述说（转述层，ep462）；死因六种处理组合推演、两份假爆料逐条拆穿（推演层，ep809）；心血证据网友私信层、主播明言真假不知（ep858）；尸检推文层、真伪未证实（ep913）。",
+   "basis": "编纂定版（2026-10-20）",
+   "history": "死因旁账见 rul-79（未定版、维持分账）。本注记只处理时点呈现。",
+   "rule": "版式注记（非口径裁定）",
+   "effect": "烤制李克强词条时按本注记逐时点呈现并标层级。"
+  }
+ ],
+ "register_links": [
+  {
+   "register": "dev-projects",
+   "entry": "郑东新区",
+   "matched_as": [
+    "李克强"
+   ],
+   "n_eps": 3
+  }
+ ],
+ "counts": {
+  "events": 366,
+  "relations": 173
+ },
+ "provenance": "事件与断言均出自大包王朝频道各期节目的抽卡账本，口径标记随附；属频道叙事整理，未经外部核实。",
+ "content_mode": "chunked",
+ "chunks": {
+  "summary": "entities/persons-chunked/li-ke-qiang/summary.json",
+  "events": [
+   {
+    "file": "events-001.json",
+    "count": 81,
+    "date_from": "2023-10-31",
+    "date_to": "2025-04-19",
+    "bytes": 177893
+   },
+   {
+    "file": "events-002.json",
+    "count": 80,
+    "date_from": "2025-04-21",
+    "date_to": "2025-09-06",
+    "bytes": 177322
+   },
+   {
+    "file": "events-003.json",
+    "count": 74,
+    "date_from": "2025-09-06",
+    "date_to": "2026-01-16",
+    "bytes": 177173
+   },
+   {
+    "file": "events-004.json",
+    "count": 83,
+    "date_from": "2026-01-17",
+    "date_to": "2026-05-30",
+    "bytes": 172899
+   },
+   {
+    "file": "events-005.json",
+    "count": 48,
+    "date_from": "2026-05-31",
+    "date_to": "2026-10-11",
+    "bytes": 164828
+   }
+  ],
+  "relations": [
+   {
+    "file": "relations-001.json",
+    "count": 173,
+    "date_from": "2023-10-31",
+    "date_to": "2026-10-11",
+    "bytes": 58047
+   }
+  ],
+  "base": "entities/persons-chunked/li-ke-qiang/"
+ },
+ "how_to_use": "本包过大已分片：先取 summary.json 看大纲，再按需取 events-NNN/relations-NNN 分片；分片拼接即全量，计数与本指针 counts 一致。"
+}
