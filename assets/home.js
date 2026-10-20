@@ -136,7 +136,34 @@
         }
         panelBox.appendChild(card);
       }
-      list.forEach(function (f, i) {
+      function renderCard(f) {
+        var card = el("div", "faction-card");
+        card.appendChild(el("div", "f-name", f.name));
+        if (f.aliases && f.aliases.length) card.appendChild(el("div", "f-aka", "又称 " + f.aliases.join("、")));
+        card.appendChild(el("div", "f-stats", (f.status ? f.status + " · " : "") + "正文提及 " + fmt(f.body_mentions || 0) + " · 标题见 " + fmt(f.title_eps || 0) + " 期 · 简介见 " + fmt(f.desc_eps || 0) + " 期"));
+        if (f.units && f.units.length) card.appendChild(el("div", "f-units", "构成：" + f.units.join("、")));
+        if (f.note) card.appendChild(el("div", "f-units", f.note));
+        var ms = f.members || [];
+        if (ms.length) {
+          var box = el("div", "f-members");
+          box.appendChild(el("span", "fm-h", "现行归派 " + ms.length + " 人（裁定 " + f.ruled + " 人 · 据最晚断言 " + (ms.length - f.ruled) + " 人）："));
+          ms.forEach(function (m, i) {
+            if (i) box.appendChild(document.createTextNode("、"));
+            if (m.id) {
+              var a = el("a", null, m.name);
+              a.href = "entries/" + m.id + ".html";
+              box.appendChild(a);
+            } else {
+              box.appendChild(document.createTextNode(m.name));
+            }
+            box.appendChild(el("span", "meta", "（" + m.tag + "）"));
+          });
+          card.appendChild(box);
+        }
+        return card;
+      }
+      var tabList = list.filter(function (f) { return tabRank(f) < 99; });
+      tabList.forEach(function (f, i) {
         var b = el("button", null, tabLabel(f));
         b.type = "button";
         b.setAttribute("role", "tab");
@@ -149,7 +176,12 @@
         tabs.push(b);
         tabsBox.appendChild(b);
       });
-      if (list.length) renderPanel(list[0]);
+      var cardsBox = document.getElementById("faction-cards");
+      if (cardsBox) {
+        cardsBox.innerHTML = "";
+        list.forEach(function (f) { if (tabRank(f) === 99) cardsBox.appendChild(renderCard(f)); });
+      }
+      if (tabList.length) renderPanel(tabList[0]);
     }).catch(function () {
       tabsBox.innerHTML = "";
       tabsBox.appendChild(el("div", "loading", "派系表载入失败。"));

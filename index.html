@@ -11,6 +11,7 @@
 .faction-tabs button{font:inherit;font-size:15.5px;font-weight:600;padding:6px 16px;border:1px solid var(--border-soft);background:var(--panel);color:var(--sub);cursor:pointer;border-radius:2px}
 .faction-tabs button:hover{color:var(--ink)}
 .faction-tabs button[aria-selected="true"]{color:var(--ink);border-color:var(--border);background:#fff;box-shadow:inset 0 -3px 0 #3366cc}
+.faction-grid{margin-top:12px}
 .f-members{font-size:13.5px;color:var(--sub);margin-top:6px;border-top:1px solid var(--hairline);padding-top:6px;line-height:1.95}
 .f-members .fm-h{color:var(--faint);font-size:12.5px}
 </style>
@@ -80,9 +81,10 @@ https://raw.githubusercontent.com/MusuOS/opendang/main/
   </section>
 
   <section aria-label="派系总览">
-    <div class="sec-head"><span class="sec-num">壹</span><h2>派系总览</h2><span class="sec-note">在册 16 个派系 · <a href="factions.html">完整派系页 →</a></span></div>
+    <div class="sec-head"><span class="sec-num">壹</span><h2>派系总览</h2><span class="sec-note">在册 16 个派系</span></div>
     <div class="faction-tabs" id="faction-tabs" role="tablist"><div class="loading">派系表载入中…</div></div>
     <div class="faction-panel" id="faction-panel"></div>
+    <div class="faction-grid" id="faction-cards"></div>
   </section>
 
   <section aria-label="时间线">

@@ -2,6 +2,8 @@
  "factions": [
   {
    "name": "习包子派系",
+   "status": "本档在册",
+   "note": "构成口径出处：2024-12-20期（ekED_GhE2zA）听床法——习家军由正局级小单位拼成；2026-10-20 编纂裁定（rul-117）：原「习派」「包派」两行合并为本行，习派、包派、习派系为别称；计数为两行相加，期号或有重叠。",
    "aliases": [
     "习派",
     "包派",
@@ -805,6 +807,8 @@
   },
   {
    "name": "江派",
+   "status": "本档在册",
+   "note": "",
    "aliases": [],
    "body_mentions": 624,
    "title_eps": 9,
@@ -1031,6 +1035,8 @@
   },
   {
    "name": "胡锦涛派",
+   "status": "本档在册",
+   "note": "",
    "aliases": [
     "胡锦涛嫡系"
    ],
@@ -1436,6 +1442,201 @@
      "tag": "第154期"
     }
    ]
+  },
+  {
+   "name": "团派",
+   "status": "本档在册",
+   "note": "",
+   "aliases": [],
+   "body_mentions": 167,
+   "title_eps": 2,
+   "desc_eps": 114,
+   "units": [],
+   "ruled": 0,
+   "members": []
+  },
+  {
+   "name": "之江新军",
+   "status": "标题在册·正文待考",
+   "note": "标题4期、简介36期出现；字幕正文0处（ASR未留形）",
+   "aliases": [],
+   "body_mentions": 0,
+   "title_eps": 4,
+   "desc_eps": 36,
+   "units": [],
+   "ruled": 0,
+   "members": []
+  },
+  {
+   "name": "石油帮",
+   "status": "本档在册",
+   "note": "起源口径见2024-11-16期（WYvqQMUuQ3Q）事件卡",
+   "aliases": [],
+   "body_mentions": 35,
+   "title_eps": 0,
+   "desc_eps": 29,
+   "units": [],
+   "ruled": 0,
+   "members": [
+    {
+     "name": "华国锋",
+     "id": "hua-guo-feng",
+     "tag": "第744期"
+    }
+   ]
+  },
+  {
+   "name": "桐城帮",
+   "status": "本档在册",
+   "note": "",
+   "aliases": [],
+   "body_mentions": 0,
+   "title_eps": 4,
+   "desc_eps": 25,
+   "units": [],
+   "ruled": 0,
+   "members": [
+    {
+     "name": "姚依林",
+     "id": "yao-yi-lin",
+     "tag": "第273期"
+    },
+    {
+     "name": "储波",
+     "id": "chu-bo",
+     "tag": "第269期"
+    },
+    {
+     "name": "江泽林",
+     "id": "jiang-ze-lin",
+     "tag": "第128期"
+    }
+   ]
+  },
+  {
+   "name": "清华帮",
+   "status": "本档在册",
+   "note": "",
+   "aliases": [],
+   "body_mentions": 8,
+   "title_eps": 4,
+   "desc_eps": 22,
+   "units": [],
+   "ruled": 0,
+   "members": []
+  },
+  {
+   "name": "哈尔滨帮",
+   "status": "本档在册",
+   "note": "",
+   "aliases": [],
+   "body_mentions": 25,
+   "title_eps": 2,
+   "desc_eps": 39,
+   "units": [],
+   "ruled": 0,
+   "members": []
+  },
+  {
+   "name": "南通帮",
+   "status": "本档在册",
+   "note": "",
+   "aliases": [],
+   "body_mentions": 21,
+   "title_eps": 2,
+   "desc_eps": 19,
+   "units": [],
+   "ruled": 0,
+   "members": [
+    {
+     "name": "刘国治",
+     "id": "liu-guo-zhi",
+     "tag": "第632期"
+    },
+    {
+     "name": "毛伟明",
+     "id": "mao-wei-ming",
+     "tag": "第611期"
+    }
+   ]
+  },
+  {
+   "name": "绥化帮",
+   "status": "本档在册",
+   "note": "",
+   "aliases": [],
+   "body_mentions": 0,
+   "title_eps": 2,
+   "desc_eps": 8,
+   "units": [],
+   "ruled": 0,
+   "members": []
+  },
+  {
+   "name": "诸暨帮",
+   "status": "本档在册",
+   "note": "",
+   "aliases": [],
+   "body_mentions": 0,
+   "title_eps": 3,
+   "desc_eps": 7,
+   "units": [],
+   "ruled": 0,
+   "members": [
+    {
+     "name": "袁宝成",
+     "id": "yuan-bao-cheng",
+     "tag": "第55期"
+    }
+   ]
+  },
+  {
+   "name": "上海帮",
+   "status": "本档否定",
+   "note": "2024-12-20期听床法：省级帮派说不成立，正部级单位装不止一个派系",
+   "aliases": [],
+   "body_mentions": 51,
+   "title_eps": 2,
+   "desc_eps": 48,
+   "units": [],
+   "ruled": 0,
+   "members": []
+  },
+  {
+   "name": "浙江帮",
+   "status": "本档否定",
+   "note": "同上，本档称错误说法",
+   "aliases": [],
+   "body_mentions": 8,
+   "title_eps": 0,
+   "desc_eps": 12,
+   "units": [],
+   "ruled": 0,
+   "members": []
+  },
+  {
+   "name": "福建帮",
+   "status": "本档否定",
+   "note": "同上，本档称错误说法",
+   "aliases": [],
+   "body_mentions": 12,
+   "title_eps": 0,
+   "desc_eps": 23,
+   "units": [],
+   "ruled": 0,
+   "members": []
+  },
+  {
+   "name": "陕西帮",
+   "status": "本档否定",
+   "note": "同上，本档称错误说法",
+   "aliases": [],
+   "body_mentions": 9,
+   "title_eps": 0,
+   "desc_eps": 6,
+   "units": [],
+   "ruled": 0,
+   "members": []
   }
  ]
 }
