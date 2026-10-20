@@ -1,0 +1,1441 @@
+{
+ "factions": [
+  {
+   "name": "习包子派系",
+   "aliases": [
+    "习派",
+    "包派",
+    "习派系",
+    "习近平派系",
+    "习近平嫡系"
+   ],
+   "body_mentions": 439,
+   "title_eps": 32,
+   "desc_eps": 311,
+   "units": [
+    "哈尔滨工业大学帮",
+    "上海闸北区",
+    "山东德州（全家统）",
+    "党建研究会",
+    "顾秀莲线（关工委/南通）"
+   ],
+   "ruled": 24,
+   "members": [
+    {
+     "name": "习包子",
+     "id": "xi-baozi",
+     "tag": "第311期"
+    },
+    {
+     "name": "朱镕基",
+     "id": "zhu-rong-ji",
+     "tag": "裁定"
+    },
+    {
+     "name": "蔡奇",
+     "id": "cai-qi",
+     "tag": "第281期"
+    },
+    {
+     "name": "王岐山",
+     "id": "wang-qi-shan",
+     "tag": "第539期"
+    },
+    {
+     "name": "马兴瑞",
+     "id": "ma-xing-rui",
+     "tag": "第319期"
+    },
+    {
+     "name": "陈云",
+     "id": "chen-yun",
+     "tag": "第633期"
+    },
+    {
+     "name": "张又侠",
+     "id": "zhang-you-xia",
+     "tag": "裁定"
+    },
+    {
+     "name": "汪洋",
+     "id": "wang-yang",
+     "tag": "裁定"
+    },
+    {
+     "name": "苗华",
+     "id": "miao-hua",
+     "tag": "第699期"
+    },
+    {
+     "name": "王小洪",
+     "id": "wang-xiao-hong",
+     "tag": "第26期"
+    },
+    {
+     "name": "薄熙来",
+     "id": "bao-xi-lai",
+     "tag": "第199期"
+    },
+    {
+     "name": "丁薛祥",
+     "id": "ding-xue-xiang",
+     "tag": "第56期"
+    },
+    {
+     "name": "韩正",
+     "id": "han-zheng",
+     "tag": "裁定"
+    },
+    {
+     "name": "周恩来",
+     "id": "zhou-en-lai",
+     "tag": "第706期"
+    },
+    {
+     "name": "栗战书",
+     "id": "li-zhan-shu",
+     "tag": "第217期"
+    },
+    {
+     "name": "何卫东",
+     "id": "he-wei-dong",
+     "tag": "第828期"
+    },
+    {
+     "name": "何立峰",
+     "id": "he-li-feng",
+     "tag": "第287期"
+    },
+    {
+     "name": "董军",
+     "id": "dong-jun",
+     "tag": "第78期"
+    },
+    {
+     "name": "贾庆林",
+     "id": "jia-qing-lin",
+     "tag": "第195期"
+    },
+    {
+     "name": "王毅",
+     "id": "wang-yi",
+     "tag": "裁定"
+    },
+    {
+     "name": "李干杰",
+     "id": "li-gan-jie",
+     "tag": "裁定"
+    },
+    {
+     "name": "宋平",
+     "id": "song-ping",
+     "tag": "第34期"
+    },
+    {
+     "name": "王莉霞",
+     "id": "wang-li-xia",
+     "tag": "裁定"
+    },
+    {
+     "name": "陈希",
+     "id": "chen-xi",
+     "tag": "第632期"
+    },
+    {
+     "name": "吴邦国",
+     "id": "wu-bang-guo",
+     "tag": "第91期"
+    },
+    {
+     "name": "许其亮",
+     "id": "xu-qi-liang",
+     "tag": "裁定"
+    },
+    {
+     "name": "黄坤明",
+     "id": "huang-kun-ming",
+     "tag": "第318期"
+    },
+    {
+     "name": "张高丽",
+     "id": "zhang-gao-li",
+     "tag": "第324期"
+    },
+    {
+     "name": "李尚福",
+     "id": "li-shang-fu",
+     "tag": "第272期"
+    },
+    {
+     "name": "李源潮",
+     "id": "li-yuan-chao",
+     "tag": "裁定"
+    },
+    {
+     "name": "陈文清",
+     "id": "chen-wen-qing",
+     "tag": "裁定"
+    },
+    {
+     "name": "陆浩",
+     "id": "lu-hao",
+     "tag": "第797期"
+    },
+    {
+     "name": "谷牧",
+     "id": "gu-mu",
+     "tag": "第20期"
+    },
+    {
+     "name": "景俊海",
+     "id": "jing-jun-hai",
+     "tag": "第195期"
+    },
+    {
+     "name": "陈伟俊",
+     "id": "chen-wei-jun",
+     "tag": "第184期"
+    },
+    {
+     "name": "韩松",
+     "id": "han-song",
+     "tag": "裁定"
+    },
+    {
+     "name": "赵克志",
+     "id": "zhao-ke-zhi",
+     "tag": "裁定"
+    },
+    {
+     "name": "李长春",
+     "id": "li-chang-chun",
+     "tag": "第302期"
+    },
+    {
+     "name": "金湘军",
+     "id": "jin-xiang-jun",
+     "tag": "第526期"
+    },
+    {
+     "name": "林向阳",
+     "id": "lin-xiang-yang",
+     "tag": "第756期"
+    },
+    {
+     "name": "郭声琨",
+     "id": "guo-sheng-kun",
+     "tag": "裁定"
+    },
+    {
+     "name": "刘建超",
+     "id": "liu-jian-chao",
+     "tag": "第117期"
+    },
+    {
+     "name": "唐仁健",
+     "id": "tang-ren-jian",
+     "tag": "第305期"
+    },
+    {
+     "name": "蒋超良",
+     "id": "jiang-chao-liang",
+     "tag": "裁定"
+    },
+    {
+     "name": "胡衡华",
+     "id": "hu-heng-hua",
+     "tag": "第235期"
+    },
+    {
+     "name": "耿飙",
+     "id": "geng-biao",
+     "tag": "第228期"
+    },
+    {
+     "name": "梁光烈",
+     "id": "liang-guang-lie",
+     "tag": "第140期"
+    },
+    {
+     "name": "王刚",
+     "id": "wang-gang",
+     "tag": "第133期"
+    },
+    {
+     "name": "戴北方",
+     "id": "dai-bei-fang",
+     "tag": "第759期"
+    },
+    {
+     "name": "巴曙松",
+     "id": "ba-shu-song",
+     "tag": "第106期"
+    },
+    {
+     "name": "郭树清",
+     "id": "guo-shu-qing",
+     "tag": "第895期"
+    },
+    {
+     "name": "秦生祥",
+     "id": "qin-sheng-xiang",
+     "tag": "第271期"
+    },
+    {
+     "name": "王凯",
+     "id": "wang-kai",
+     "tag": "第113期"
+    },
+    {
+     "name": "赵正永",
+     "id": "zhao-zheng-yong",
+     "tag": "第47期"
+    },
+    {
+     "name": "黄奇帆",
+     "id": "huang-qi-fan",
+     "tag": "第17期"
+    },
+    {
+     "name": "孙春兰",
+     "id": "sun-chun-lan",
+     "tag": "第221期"
+    },
+    {
+     "name": "陈志",
+     "id": "chen-zhi",
+     "tag": "第897期"
+    },
+    {
+     "name": "于建华",
+     "id": "yu-jian-hua",
+     "tag": "第247期"
+    },
+    {
+     "name": "周强",
+     "id": "zhou-qiang",
+     "tag": "裁定"
+    },
+    {
+     "name": "刘志庚",
+     "id": "liu-zhi-geng",
+     "tag": "裁定"
+    },
+    {
+     "name": "孟凡利",
+     "id": "meng-fan-li",
+     "tag": "裁定"
+    },
+    {
+     "name": "易会满",
+     "id": "yi-hui-man",
+     "tag": "第104期"
+    },
+    {
+     "name": "雷军",
+     "id": "lei-jun",
+     "tag": "第860期"
+    },
+    {
+     "name": "王晓东",
+     "id": "wang-xiao-dong",
+     "tag": "第158期"
+    },
+    {
+     "name": "方红卫",
+     "id": "fang-hong-wei",
+     "tag": "第711期"
+    },
+    {
+     "name": "江金权",
+     "id": "jiang-jin-quan",
+     "tag": "第60期"
+    },
+    {
+     "name": "王荣",
+     "id": "wang-rong",
+     "tag": "第28期"
+    },
+    {
+     "name": "车俊",
+     "id": "che-jun",
+     "tag": "裁定"
+    },
+    {
+     "name": "刘满仓",
+     "id": "liu-man-cang",
+     "tag": "第92期"
+    },
+    {
+     "name": "陈吉宁",
+     "id": "chen-ji-ning",
+     "tag": "第814期"
+    },
+    {
+     "name": "李春城",
+     "id": "li-chun-cheng",
+     "tag": "第289期"
+    },
+    {
+     "name": "曹德旺",
+     "id": "cao-de-wang",
+     "tag": "第631期"
+    },
+    {
+     "name": "王春宁",
+     "id": "wang-chun-ning",
+     "tag": "第786期"
+    },
+    {
+     "name": "任建新",
+     "id": "ren-jian-xin",
+     "tag": "第676期"
+    },
+    {
+     "name": "王家胜",
+     "id": "wang-jia-sheng",
+     "tag": "第237期"
+    },
+    {
+     "name": "苏荣",
+     "id": "su-rong",
+     "tag": "第242期"
+    },
+    {
+     "name": "李晓红",
+     "id": "li-xiao-hong",
+     "tag": "第144期"
+    },
+    {
+     "name": "姚明",
+     "id": "yao-ming",
+     "tag": "第102期"
+    },
+    {
+     "name": "董贵波",
+     "id": "dong-gui-bo",
+     "tag": "第103期"
+    },
+    {
+     "name": "林景臻",
+     "id": "lin-jing-zhen",
+     "tag": "第97期"
+    },
+    {
+     "name": "唐一军",
+     "id": "tang-yi-jun",
+     "tag": "第453期"
+    },
+    {
+     "name": "秦博勇",
+     "id": "qin-bo-yong",
+     "tag": "第825期"
+    },
+    {
+     "name": "施克辉",
+     "id": "shi-ke-hui",
+     "tag": "第796期"
+    },
+    {
+     "name": "周小川",
+     "id": "zhou-xiao-chuan",
+     "tag": "第703期"
+    },
+    {
+     "name": "郭庚茂",
+     "id": "guo-geng-mao",
+     "tag": "第198期"
+    },
+    {
+     "name": "张昌尔",
+     "id": "zhang-chang-er",
+     "tag": "第245期"
+    },
+    {
+     "name": "蔡家华",
+     "id": "cai-jia-hua",
+     "tag": "第69期"
+    },
+    {
+     "name": "吴英杰",
+     "id": "wu-ying-jie",
+     "tag": "第306期"
+    },
+    {
+     "name": "张全景",
+     "id": "zhang-quan-jing",
+     "tag": "第286期"
+    },
+    {
+     "name": "蔡赴朝",
+     "id": "cai-fu-chao",
+     "tag": "第264期"
+    },
+    {
+     "name": "李家超",
+     "id": "li-jia-chao",
+     "tag": "第258期"
+    },
+    {
+     "name": "宋任穷",
+     "id": "song-ren-qiong",
+     "tag": "第132期"
+    },
+    {
+     "name": "陈如桂",
+     "id": "chen-ru-gui",
+     "tag": "第54期"
+    },
+    {
+     "name": "秦基伟",
+     "id": "qin-ji-wei",
+     "tag": "裁定"
+    },
+    {
+     "name": "王厚斌",
+     "id": "wang-hou-bin",
+     "tag": "第34期"
+    },
+    {
+     "name": "乌兰夫",
+     "id": "wu-lan-fu",
+     "tag": "第710期"
+    },
+    {
+     "name": "廖锡龙",
+     "id": "liao-xi-long",
+     "tag": "第142期"
+    },
+    {
+     "name": "罗清泉",
+     "id": "luo-qing-quan",
+     "tag": "第189期"
+    },
+    {
+     "name": "张安疆",
+     "id": "zhang-an-jiang",
+     "tag": "第181期"
+    },
+    {
+     "name": "何晶",
+     "id": "he-jing",
+     "tag": "第43期"
+    },
+    {
+     "name": "金善文",
+     "id": "jin-shan-wen",
+     "tag": "第197期"
+    },
+    {
+     "name": "韩卫国",
+     "id": "han-wei-guo",
+     "tag": "第59期"
+    },
+    {
+     "name": "秦如培",
+     "id": "qin-ru-pei",
+     "tag": "第187期"
+    },
+    {
+     "name": "胡昌升",
+     "id": "hu-chang-sheng",
+     "tag": "第303期"
+    },
+    {
+     "name": "许世友",
+     "id": "xu-shi-you",
+     "tag": "第159期"
+    },
+    {
+     "name": "沈金龙",
+     "id": "shen-jin-long",
+     "tag": "第78期"
+    },
+    {
+     "name": "黄强",
+     "id": "huang-qiang",
+     "tag": "第24期"
+    },
+    {
+     "name": "汪林朋",
+     "id": "wang-lin-peng",
+     "tag": "第735期"
+    },
+    {
+     "name": "乔清晨",
+     "id": "qiao-qing-chen",
+     "tag": "第294期"
+    },
+    {
+     "name": "李湘",
+     "id": "li-xiang",
+     "tag": "第198期"
+    },
+    {
+     "name": "阎晓明",
+     "id": "yan-xiao-ming",
+     "tag": "第785期"
+    },
+    {
+     "name": "王秀斌",
+     "id": "wang-xiu-bin",
+     "tag": "第219期"
+    },
+    {
+     "name": "唐良智",
+     "id": "tang-liang-zhi",
+     "tag": "第6期"
+    },
+    {
+     "name": "傅全有",
+     "id": "fu-quan-you",
+     "tag": "第9期"
+    },
+    {
+     "name": "余海军",
+     "id": "yu-hai-jun",
+     "tag": "第86期"
+    },
+    {
+     "name": "沈德生",
+     "id": "shen-de-sheng",
+     "tag": "第626期"
+    },
+    {
+     "name": "胡小伟",
+     "id": "hu-xiao-wei",
+     "tag": "第720期"
+    },
+    {
+     "name": "王守聪",
+     "id": "wang-shou-cong",
+     "tag": "第230期"
+    },
+    {
+     "name": "赵龙",
+     "id": "zhao-long",
+     "tag": "第114期"
+    },
+    {
+     "name": "易炼红",
+     "id": "yi-lian-hong",
+     "tag": "第280期"
+    },
+    {
+     "name": "王仁华",
+     "id": "wang-ren-hua",
+     "tag": "第216期"
+    },
+    {
+     "name": "费高云",
+     "id": "fei-gao-yun",
+     "tag": "第188期"
+    },
+    {
+     "name": "李春良",
+     "id": "li-chun-liang",
+     "tag": "第136期"
+    },
+    {
+     "name": "马儒沛",
+     "id": "ma-ru-pei",
+     "tag": "第104期"
+    },
+    {
+     "name": "彭真",
+     "id": "peng-zhen",
+     "tag": "第116期"
+    },
+    {
+     "name": "傅政华",
+     "id": "fu-zheng-hua",
+     "tag": "裁定"
+    },
+    {
+     "name": "徐有芳",
+     "id": "xu-you-fang",
+     "tag": "第125期"
+    },
+    {
+     "name": "陆昊",
+     "id": "lu-hao-2",
+     "tag": "裁定"
+    },
+    {
+     "name": "张克俭",
+     "id": "zhang-ke-jian",
+     "tag": "第108期"
+    },
+    {
+     "name": "庄礼祥",
+     "id": "zhuang-li-xiang",
+     "tag": "第51期"
+    },
+    {
+     "name": "常丁求",
+     "id": "chang-ding-qiu",
+     "tag": "第12期"
+    },
+    {
+     "name": "王清宪",
+     "id": "wang-qing-xian",
+     "tag": "第15期"
+    },
+    {
+     "name": "刘剑锋",
+     "id": "liu-jian-feng",
+     "tag": "第242期"
+    },
+    {
+     "name": "张起翔",
+     "id": "zhang-qi-xiang",
+     "tag": "第196期"
+    },
+    {
+     "name": "丁绣峰",
+     "id": "ding-xiu-feng",
+     "tag": "第53期"
+    },
+    {
+     "name": "胡启生",
+     "id": "hu-qi-sheng",
+     "tag": "第277期"
+    },
+    {
+     "name": "吴官正",
+     "id": "wu-guan-zheng",
+     "tag": "第203期"
+    },
+    {
+     "name": "孟晚舟",
+     "id": "meng-wan-zhou",
+     "tag": "第198期"
+    },
+    {
+     "name": "蔡卫国",
+     "id": "cai-wei-guo",
+     "tag": "第810期"
+    },
+    {
+     "name": "王辉忠",
+     "id": "wang-hui-zhong",
+     "tag": "第570期"
+    },
+    {
+     "name": "赵宗岐",
+     "id": "zhao-zong-qi",
+     "tag": "第142期"
+    },
+    {
+     "name": "丁海春",
+     "id": "ding-hai-chun",
+     "tag": "第78期"
+    },
+    {
+     "name": "李乾元",
+     "id": "li-qian-yuan",
+     "tag": "第319期"
+    },
+    {
+     "name": "孙小虹",
+     "id": "sun-xiao-hong",
+     "tag": "第21期"
+    },
+    {
+     "name": "魏民洲",
+     "id": "wei-min-zhou",
+     "tag": "第1期"
+    },
+    {
+     "name": "冯小刚",
+     "id": "feng-xiao-gang",
+     "tag": "第790期"
+    },
+    {
+     "name": "叶简明",
+     "id": "ye-jian-ming",
+     "tag": "第233期"
+    },
+    {
+     "name": "林英海",
+     "id": "lin-ying-hai",
+     "tag": "第92期"
+    },
+    {
+     "name": "刘天然",
+     "id": "liu-tian-ran",
+     "tag": "第781期"
+    },
+    {
+     "name": "朱芝松",
+     "id": "zhu-zhi-song",
+     "tag": "第274期"
+    },
+    {
+     "name": "孙志刚",
+     "id": null,
+     "tag": "裁定"
+    },
+    {
+     "name": "赵小哲",
+     "id": null,
+     "tag": "裁定"
+    },
+    {
+     "name": "郑卫平",
+     "id": null,
+     "tag": "裁定"
+    },
+    {
+     "name": "陈睿",
+     "id": "chen-rui",
+     "tag": "第790期"
+    },
+    {
+     "name": "李鹏程",
+     "id": "li-peng-cheng",
+     "tag": "第320期"
+    },
+    {
+     "name": "赵启正",
+     "id": "zhao-qi-zheng",
+     "tag": "第191期"
+    }
+   ]
+  },
+  {
+   "name": "江派",
+   "aliases": [],
+   "body_mentions": 624,
+   "title_eps": 9,
+   "desc_eps": 235,
+   "units": [],
+   "ruled": 3,
+   "members": [
+    {
+     "name": "胡锦涛",
+     "id": "hu-jin-tao",
+     "tag": "第672期"
+    },
+    {
+     "name": "李强",
+     "id": "li-qiang",
+     "tag": "第631期"
+    },
+    {
+     "name": "陈敏尔",
+     "id": "chen-min-er",
+     "tag": "第6期"
+    },
+    {
+     "name": "赵乐际",
+     "id": "zhao-le-ji",
+     "tag": "裁定"
+    },
+    {
+     "name": "曾庆红",
+     "id": "ceng-qing-hong",
+     "tag": "第474期"
+    },
+    {
+     "name": "周永康",
+     "id": "zhou-yong-kang",
+     "tag": "第199期"
+    },
+    {
+     "name": "范长龙",
+     "id": "fan-chang-long",
+     "tag": "第630期"
+    },
+    {
+     "name": "张德江",
+     "id": "zhang-de-jiang",
+     "tag": "第686期"
+    },
+    {
+     "name": "郭伯雄",
+     "id": "guo-bo-xiong",
+     "tag": "第183期"
+    },
+    {
+     "name": "陈刚",
+     "id": "chen-gang",
+     "tag": "第248期"
+    },
+    {
+     "name": "贺荣",
+     "id": "he-rong",
+     "tag": "第92期"
+    },
+    {
+     "name": "张国清",
+     "id": "zhang-guo-qing",
+     "tag": "第17期"
+    },
+    {
+     "name": "朱忠明",
+     "id": "zhu-zhong-ming",
+     "tag": "第588期"
+    },
+    {
+     "name": "刘淇",
+     "id": "liu-qi",
+     "tag": "第362期"
+    },
+    {
+     "name": "赵一德",
+     "id": "zhao-yi-de",
+     "tag": "裁定"
+    },
+    {
+     "name": "强卫",
+     "id": "qiang-wei",
+     "tag": "第377期"
+    },
+    {
+     "name": "李九红",
+     "id": "li-jiu-hong",
+     "tag": "第326期"
+    },
+    {
+     "name": "王伟中",
+     "id": "wang-wei-zhong",
+     "tag": "裁定"
+    },
+    {
+     "name": "黄建发",
+     "id": "huang-jian-fa",
+     "tag": "第291期"
+    },
+    {
+     "name": "刘国中",
+     "id": "liu-guo-zhong",
+     "tag": "第325期"
+    },
+    {
+     "name": "吴政隆",
+     "id": "wu-zheng-long",
+     "tag": "第265期"
+    },
+    {
+     "name": "吴亚男",
+     "id": "wu-ya-nan",
+     "tag": "第219期"
+    },
+    {
+     "name": "林涛",
+     "id": "lin-tao",
+     "tag": "第114期"
+    },
+    {
+     "name": "何宏军",
+     "id": "he-hong-jun",
+     "tag": "第216期"
+    },
+    {
+     "name": "王崧",
+     "id": "wang-song",
+     "tag": "第172期"
+    },
+    {
+     "name": "曹刚川",
+     "id": "cao-gang-chuan",
+     "tag": "第287期"
+    },
+    {
+     "name": "宋涛",
+     "id": "song-tao",
+     "tag": "第168期"
+    },
+    {
+     "name": "陈全国",
+     "id": "chen-quan-guo",
+     "tag": "第459期"
+    },
+    {
+     "name": "徐忠波",
+     "id": "xu-zhong-bo",
+     "tag": "第73期"
+    },
+    {
+     "name": "孙新阳",
+     "id": "sun-xin-yang",
+     "tag": "第267期"
+    },
+    {
+     "name": "于会文",
+     "id": "yu-hui-wen",
+     "tag": "第281期"
+    },
+    {
+     "name": "章冬梅",
+     "id": "zhang-dong-mei",
+     "tag": "第377期"
+    },
+    {
+     "name": "陈建文",
+     "id": "chen-jian-wen",
+     "tag": "第264期"
+    },
+    {
+     "name": "高强",
+     "id": "gao-qiang",
+     "tag": "第69期"
+    },
+    {
+     "name": "常万全",
+     "id": "chang-wan-quan",
+     "tag": "第296期"
+    },
+    {
+     "name": "李波",
+     "id": "li-bo",
+     "tag": "第17期"
+    },
+    {
+     "name": "季建业",
+     "id": "ji-jian-ye",
+     "tag": "第737期"
+    },
+    {
+     "name": "任泽民",
+     "id": "ren-ze-min",
+     "tag": "第193期"
+    },
+    {
+     "name": "于绍良",
+     "id": "yu-shao-liang",
+     "tag": "第239期"
+    },
+    {
+     "name": "张左己",
+     "id": "zhang-zuo-ji",
+     "tag": "第63期"
+    },
+    {
+     "name": "卢雍政",
+     "id": "lu-yong-zheng",
+     "tag": "第295期"
+    },
+    {
+     "name": "尹丽波",
+     "id": "yin-li-bo",
+     "tag": "第170期"
+    },
+    {
+     "name": "刘奇葆",
+     "id": "liu-qi-bao",
+     "tag": "第48期"
+    }
+   ]
+  },
+  {
+   "name": "胡锦涛派",
+   "aliases": [
+    "胡锦涛嫡系"
+   ],
+   "body_mentions": 333,
+   "title_eps": 7,
+   "desc_eps": 304,
+   "units": [],
+   "ruled": 10,
+   "members": [
+    {
+     "name": "胡春华",
+     "id": "hu-chun-hua",
+     "tag": "第193期"
+    },
+    {
+     "name": "李克强",
+     "id": "li-ke-qiang",
+     "tag": "第631期"
+    },
+    {
+     "name": "李希",
+     "id": "li-xi",
+     "tag": "裁定"
+    },
+    {
+     "name": "徐才厚",
+     "id": "xu-cai-hou",
+     "tag": "裁定"
+    },
+    {
+     "name": "袁家军",
+     "id": "yuan-jia-jun",
+     "tag": "第167期"
+    },
+    {
+     "name": "石泰峰",
+     "id": "shi-tai-feng",
+     "tag": "第291期"
+    },
+    {
+     "name": "令计划",
+     "id": "ling-ji-hua",
+     "tag": "第297期"
+    },
+    {
+     "name": "刘振立",
+     "id": "liu-zhen-li",
+     "tag": "裁定"
+    },
+    {
+     "name": "李桥铭",
+     "id": "li-qiao-ming",
+     "tag": "裁定"
+    },
+    {
+     "name": "俞正声",
+     "id": "yu-zheng-sheng",
+     "tag": "第381期"
+    },
+    {
+     "name": "秦刚",
+     "id": "qin-gang",
+     "tag": "第739期"
+    },
+    {
+     "name": "刘源",
+     "id": "liu-yuan",
+     "tag": "第677期"
+    },
+    {
+     "name": "张万年",
+     "id": "zhang-wan-nian",
+     "tag": "第41期"
+    },
+    {
+     "name": "杨志斌",
+     "id": "yang-zhi-bin",
+     "tag": "裁定"
+    },
+    {
+     "name": "黄明",
+     "id": "huang-ming",
+     "tag": "第771期"
+    },
+    {
+     "name": "王勇",
+     "id": "wang-yong",
+     "tag": "第754期"
+    },
+    {
+     "name": "郑群良",
+     "id": "zheng-qun-liang",
+     "tag": "第254期"
+    },
+    {
+     "name": "姜大明",
+     "id": "jiang-da-ming",
+     "tag": "第203期"
+    },
+    {
+     "name": "许昆林",
+     "id": "xu-kun-lin",
+     "tag": "第208期"
+    },
+    {
+     "name": "韩胜延",
+     "id": "han-sheng-yan",
+     "tag": "第714期"
+    },
+    {
+     "name": "陈小江",
+     "id": "chen-xiao-jiang",
+     "tag": "第565期"
+    },
+    {
+     "name": "李作成",
+     "id": "li-zuo-cheng",
+     "tag": "裁定"
+    },
+    {
+     "name": "迟浩田",
+     "id": "chi-hao-tian",
+     "tag": "第287期"
+    },
+    {
+     "name": "黄菊",
+     "id": "huang-ju",
+     "tag": "裁定"
+    },
+    {
+     "name": "郭金龙",
+     "id": "guo-jin-long",
+     "tag": "第100期"
+    },
+    {
+     "name": "沈跃跃",
+     "id": "shen-yue-yue",
+     "tag": "第260期"
+    },
+    {
+     "name": "陈辉",
+     "id": "chen-hui",
+     "tag": "第298期"
+    },
+    {
+     "name": "贺国强",
+     "id": "he-guo-qiang",
+     "tag": "第62期"
+    },
+    {
+     "name": "李成钢",
+     "id": "li-cheng-gang",
+     "tag": "第872期"
+    },
+    {
+     "name": "王宁",
+     "id": "wang-ning",
+     "tag": "第265期"
+    },
+    {
+     "name": "李继耐",
+     "id": "li-ji-nai",
+     "tag": "第79期"
+    },
+    {
+     "name": "刘小涛",
+     "id": "liu-xiao-tao",
+     "tag": "第10期"
+    },
+    {
+     "name": "陈奎元",
+     "id": "chen-kui-yuan",
+     "tag": "第221期"
+    },
+    {
+     "name": "吴仪",
+     "id": "wu-yi",
+     "tag": "第647期"
+    },
+    {
+     "name": "唐方裕",
+     "id": "tang-fang-yu",
+     "tag": "第60期"
+    },
+    {
+     "name": "于永波",
+     "id": "yu-yong-bo",
+     "tag": "第9期"
+    },
+    {
+     "name": "周霁",
+     "id": "zhou-ji",
+     "tag": "第239期"
+    },
+    {
+     "name": "张阳",
+     "id": "zhang-yang",
+     "tag": "第630期"
+    },
+    {
+     "name": "马立新",
+     "id": "ma-li-xin",
+     "tag": "第263期"
+    },
+    {
+     "name": "刘云山",
+     "id": "liu-yun-shan",
+     "tag": "第225期"
+    },
+    {
+     "name": "王西欣",
+     "id": "wang-xi-xin",
+     "tag": "第298期"
+    },
+    {
+     "name": "王晓晖",
+     "id": "wang-xiao-hui",
+     "tag": "第752期"
+    },
+    {
+     "name": "吴胜利",
+     "id": "wu-sheng-li",
+     "tag": "第630期"
+    },
+    {
+     "name": "王新伟",
+     "id": "wang-xin-wei",
+     "tag": "第170期"
+    },
+    {
+     "name": "朱军",
+     "id": "zhu-jun",
+     "tag": "第9期"
+    },
+    {
+     "name": "胡瑜海",
+     "id": "hu-yu-hai",
+     "tag": "第263期"
+    },
+    {
+     "name": "李殿勋",
+     "id": "li-dian-xun",
+     "tag": "第33期"
+    },
+    {
+     "name": "孙海燕",
+     "id": "sun-hai-yan",
+     "tag": "第882期"
+    },
+    {
+     "name": "赵勇",
+     "id": "zhao-yong",
+     "tag": "第244期"
+    },
+    {
+     "name": "杨维林",
+     "id": "yang-wei-lin",
+     "tag": "第195期"
+    },
+    {
+     "name": "宋普选",
+     "id": "song-pu-xuan",
+     "tag": "第702期"
+    },
+    {
+     "name": "胡广杰",
+     "id": "hu-guang-jie",
+     "tag": "第181期"
+    },
+    {
+     "name": "周洪许",
+     "id": "zhou-hong-xu",
+     "tag": "裁定"
+    },
+    {
+     "name": "王文全",
+     "id": "wang-wen-quan",
+     "tag": "第498期"
+    },
+    {
+     "name": "姜信治",
+     "id": "jiang-xin-zhi",
+     "tag": "第239期"
+    },
+    {
+     "name": "王双全",
+     "id": "wang-shuang-quan",
+     "tag": "第202期"
+    },
+    {
+     "name": "唐文弘",
+     "id": "tang-wen-hong",
+     "tag": "第669期"
+    },
+    {
+     "name": "华列兵",
+     "id": "hua-lie-bing",
+     "tag": "第358期"
+    },
+    {
+     "name": "景文春",
+     "id": "jing-wen-chun",
+     "tag": "第11期"
+    },
+    {
+     "name": "孔绍逊",
+     "id": "kong-shao-xun",
+     "tag": "裁定"
+    },
+    {
+     "name": "房峰辉",
+     "id": "fang-feng-hui",
+     "tag": "第630期"
+    },
+    {
+     "name": "邵新宇",
+     "id": "shao-xin-yu",
+     "tag": "第239期"
+    },
+    {
+     "name": "蔡名照",
+     "id": "cai-ming-zhao",
+     "tag": "第258期"
+    },
+    {
+     "name": "陈炽",
+     "id": "chen-chi",
+     "tag": "第134期"
+    },
+    {
+     "name": "李书福",
+     "id": "li-shu-fu",
+     "tag": "第252期"
+    },
+    {
+     "name": "马辉",
+     "id": "ma-hui",
+     "tag": "第117期"
+    },
+    {
+     "name": "徐启方",
+     "id": "xu-qi-fang",
+     "tag": "第283期"
+    },
+    {
+     "name": "王旭",
+     "id": "wang-xu",
+     "tag": "第565期"
+    },
+    {
+     "name": "桂全智",
+     "id": "gui-quan-zhi",
+     "tag": "第298期"
+    },
+    {
+     "name": "黄华华",
+     "id": "huang-hua-hua",
+     "tag": "第124期"
+    },
+    {
+     "name": "秦运彪",
+     "id": "qin-yun-biao",
+     "tag": "第84期"
+    },
+    {
+     "name": "张继春",
+     "id": "zhang-ji-chun",
+     "tag": "第811期"
+    },
+    {
+     "name": "王东明",
+     "id": "wang-dong-ming",
+     "tag": "第30期"
+    },
+    {
+     "name": "林少春",
+     "id": "lin-shao-chun",
+     "tag": "第127期"
+    },
+    {
+     "name": "张升民",
+     "id": "zhang-sheng-min",
+     "tag": "第487期"
+    },
+    {
+     "name": "谌贻琴",
+     "id": "chen-yi-qin",
+     "tag": "第37期"
+    },
+    {
+     "name": "乙晓光",
+     "id": null,
+     "tag": "裁定"
+    },
+    {
+     "name": "刘仲藜",
+     "id": "liu-zhong-li",
+     "tag": "第258期"
+    },
+    {
+     "name": "隗福临",
+     "id": "kui-fu-lin",
+     "tag": "第154期"
+    }
+   ]
+  }
+ ]
+}

@@ -6,6 +6,14 @@
 <title>党案百科 · The Dangan Baike</title>
 <meta name="description" content="把 YouTube 频道「大包王朝」924 期节目转写抽卡而成的结构化档案：人物、事件、关系与口径裁定。本档内容为该频道一家之言，未经核实。">
 <link rel="stylesheet" href="assets/wiki.css">
+<style>
+.faction-tabs{display:flex;gap:8px;flex-wrap:wrap;margin:2px 0 10px}
+.faction-tabs button{font:inherit;font-size:15.5px;font-weight:600;padding:6px 16px;border:1px solid var(--border-soft);background:var(--panel);color:var(--sub);cursor:pointer;border-radius:2px}
+.faction-tabs button:hover{color:var(--ink)}
+.faction-tabs button[aria-selected="true"]{color:var(--ink);border-color:var(--border);background:#fff;box-shadow:inset 0 -3px 0 #3366cc}
+.f-members{font-size:13.5px;color:var(--sub);margin-top:6px;border-top:1px solid var(--hairline);padding-top:6px;line-height:1.95}
+.f-members .fm-h{color:var(--faint);font-size:12.5px}
+</style>
 <link rel="alternate" type="application/json" title="总台清单 agent.json" href="agent.json">
 </head>
 <body>
@@ -73,7 +81,8 @@ https://raw.githubusercontent.com/MusuOS/opendang/main/
 
   <section aria-label="派系总览">
     <div class="sec-head"><span class="sec-num">壹</span><h2>派系总览</h2><span class="sec-note">在册 16 个派系 · <a href="factions.html">完整派系页 →</a></span></div>
-    <div class="faction-grid" id="faction-grid"><div class="loading">派系表载入中…</div></div>
+    <div class="faction-tabs" id="faction-tabs" role="tablist"><div class="loading">派系表载入中…</div></div>
+    <div class="faction-panel" id="faction-panel"></div>
   </section>
 
   <section aria-label="时间线">

@@ -97,22 +97,59 @@
     if (indexBox) indexBox.appendChild(el("div", "loading", "索引载入失败。"));
   });
 
-  /* ---------- 派系总览（现读 data/factions.jsonl） ---------- */
-  var fbox = document.getElementById("faction-grid");
-  if (fbox) {
-    fetchText("data/factions.jsonl").then(function (t) {
-      var rows = t.split("\n").filter(function (x) { return x.trim(); }).map(function (x) { return JSON.parse(x); });
-      fbox.innerHTML = "";
-      rows.forEach(function (f) {
+  /* ---------- 派系人马 · 页签切换（现读 faction-members.json，与 factions.html 同源同口径：
+       构建时由 build_hubs.compute_members 生成，裁定优先、无裁定取最晚一期断言） ---------- */
+  var tabsBox = document.getElementById("faction-tabs");
+  var panelBox = document.getElementById("faction-panel");
+  if (tabsBox && panelBox) {
+    fetchJSON("faction-members.json").then(function (data) {
+      var list = data.factions || [];
+      tabsBox.innerHTML = "";
+      panelBox.innerHTML = "";
+      var tabs = [];
+      function renderPanel(f) {
+        panelBox.innerHTML = "";
         var card = el("div", "faction-card");
-        card.appendChild(el("div", "f-name", f.name));
         if (f.aliases && f.aliases.length) card.appendChild(el("div", "f-aka", "又称 " + f.aliases.join("、")));
-        var stats = "正文提及 " + fmt(f.body_mentions || 0) + " · 标题见 " + fmt(f.title_eps || 0) + " 期 · 简介见 " + fmt(f.desc_eps || 0) + " 期";
-        card.appendChild(el("div", "f-stats", stats));
+        card.appendChild(el("div", "f-stats", "正文提及 " + fmt(f.body_mentions || 0) + " · 标题见 " + fmt(f.title_eps || 0) + " 期 · 简介见 " + fmt(f.desc_eps || 0) + " 期"));
         if (f.units && f.units.length) card.appendChild(el("div", "f-units", "构成：" + f.units.join("、")));
-        fbox.appendChild(card);
+        var ms = f.members || [];
+        if (ms.length) {
+          var box = el("div", "f-members");
+          box.appendChild(el("span", "fm-h", "现行归派 " + ms.length + " 人（裁定 " + f.ruled + " 人 · 据最晚断言 " + (ms.length - f.ruled) + " 人）："));
+          ms.forEach(function (m, i) {
+            if (i) box.appendChild(document.createTextNode("、"));
+            if (m.id) {
+              var a = el("a", null, m.name);
+              a.href = "entries/" + m.id + ".html";
+              box.appendChild(a);
+            } else {
+              box.appendChild(document.createTextNode(m.name));
+            }
+            box.appendChild(el("span", "meta", "（" + m.tag + "）"));
+          });
+          card.appendChild(box);
+        }
+        panelBox.appendChild(card);
+      }
+      list.forEach(function (f, i) {
+        var b = el("button", null, f.name);
+        b.type = "button";
+        b.setAttribute("role", "tab");
+        b.setAttribute("aria-selected", i === 0 ? "true" : "false");
+        b.addEventListener("click", function () {
+          tabs.forEach(function (t) { t.setAttribute("aria-selected", "false"); });
+          b.setAttribute("aria-selected", "true");
+          renderPanel(f);
+        });
+        tabs.push(b);
+        tabsBox.appendChild(b);
       });
-    }).catch(function () { fbox.appendChild(el("div", "loading", "派系表载入失败。")); });
+      if (list.length) renderPanel(list[0]);
+    }).catch(function () {
+      tabsBox.innerHTML = "";
+      tabsBox.appendChild(el("div", "loading", "派系表载入失败。"));
+    });
   }
 
   /* ---------- 时间线 + 罗生门 + 最近更新（现读 home-data.json） ---------- */
