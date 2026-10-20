@@ -1,0 +1,14 @@
+# 中共党争百科 · 开源档案（试演终版）
+
+> 频道「大包王朝」叙事的结构化整理存档，未经核实、非事实认定；每条断言自带出处期号与口径层级，冲突并存、现行口径以裁定表为准。取数前先读 agent.json。
+
+- [Agent 总台清单](agent.json)：口径图例、十三表路径与计数、单人包与分片取法、查询配方
+- [人物索引](entities/index.json)：全部 1525 人 name/aliases → id，按提及量排序，含是否分片/有无现行口径/时点注记/四册挂链标记
+- [单人包](entities/persons/)：{id}.json，一人一包（事件、断言、现行口径 current_caliber、时点注记 time_notes、四册挂链 register_links）
+- [分片摘要与分片](entities/persons-chunked/)：58 位头部人物的 summary.json ＋ events/relations 分片；[分片清单](entities/persons-chunked/chunk-manifest.json)
+- [人物表](data/persons.jsonl)：1525 条
+- [事件表](data/events-01.jsonl)：5855 条，共 7 卷，按序号拼接（events-01..07）
+- [关系断言表](data/relations-01.jsonl)：9180 条，共 2 卷（relations-01..02）
+- [裁定表](data/rulings.jsonl)：116 条，现行口径与时点注记的定版依据
+- [别名表](data/aliases.jsonl)：1274 条；[机构表](data/institutions.jsonl)：699 条；[派系表](data/factions.jsonl)：18 条；[分集目录](data/episodes.jsonl)：1470 条
+- [上市公司册](data/listed-companies.jsonl)：169 条；[开发项目库](data/dev-projects.jsonl)：31 条；[资本系册](data/capital-groups.jsonl)：38 条；[肥缺交易账](data/fat-posts.jsonl)：21 条

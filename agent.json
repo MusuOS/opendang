@@ -1,0 +1,161 @@
+{
+ "name": "zhonggong-dangzheng-archive",
+ "title": "中共党争百科 · 开源档案（试演终版）",
+ "version": "1.0.0-trial-final",
+ "description": "把 YouTube 频道「大包王朝」关于中共派系斗争的讲述，整理成带出处与口径标记的结构化档案，供任何 Agent 直接取用讲述、供读者点击探索。本仓为本地试演仓，未发布。",
+ "source": {
+  "channel": "大包王朝（YouTube）",
+  "note": "本档是该频道叙事的整理存档，不是事实认定。凡引用，须带「第X期称」与口径标记，不得把频道转述表述为已证实事实。"
+ },
+ "coverage": {
+  "episodes_extracted": 924,
+  "episodes_with_captions": 924,
+  "episodes_catalogued": 1470,
+  "stub_episodes_note": "924 期已全量抽取；其中抽取序最后 9 集（第 916–924 集）字幕仅存根（只有片头问候、无正文），仅有标题层注记卡、不产生正文断言，引用时不得作正文依据。",
+  "persons": 1525,
+  "events": 5855,
+  "relations": 9180,
+  "rulings": 116
+ },
+ "caliber_legend": {
+  "本档口径": "频道讲述中作为其分析框架使用的判断",
+  "现行口径": "同一争议有多个说法时，经裁定（data/rulings.jsonl）定版的当前口径；以最近一期正文断语为准，旧说降为历史层留痕、不删",
+  "历史层": "曾有此说，后被更新的期数或裁定取代，仅作沿革留痕，讲述时不得当作现行口径",
+  "现行": "经后续期数确认、当前有效的判定",
+  "已推翻・误判": "曾有此说，后被频道自己推翻或裁定为误判，留痕存档",
+  "传闻・未证实": "仅为传闻转述，无公开凭证",
+  "本期推断": "频道在当期的推测，未成定版",
+  "悬置": "多说并存，未裁定，引用时应并列呈现",
+  "时点注记层": "人物卡注记（rulings 中「人物卡注记」类，rul-80 起）：按时点逐条列某人的状态/归属变化并逐条标层级，只呈现时间线、不裁定状态本身；已嵌入对应单人包的 time_notes 字段",
+  "层级标记": "断语层（主播明确断语）／传闻层／网传层／推断层／引述层／小说体层（文学化演绎，单卡隔离不入断语）／拟作层（拟作文件，非真实文件）／官宣层（官方公开信息）"
+ },
+ "tables": {
+  "persons": {
+   "records": 1525,
+   "description": "人物总表：规范名、别名、提及量、出场期数、首末日期",
+   "path": "data/persons.jsonl"
+  },
+  "aliases": {
+   "records": 1274,
+   "description": "异写/别名归一表：alias → target（含人物与机构）",
+   "path": "data/aliases.jsonl"
+  },
+  "factions": {
+   "records": 18,
+   "description": "派系表：18 个派系的构成口径与出处",
+   "path": "data/factions.jsonl"
+  },
+  "institutions": {
+   "records": 699,
+   "description": "机构表：党政军机构规范名与提及统计",
+   "path": "data/institutions.jsonl"
+  },
+  "labels": {
+   "records": 3,
+   "description": "标签表",
+   "path": "data/labels.jsonl"
+  },
+  "episodes": {
+   "records": 1470,
+   "description": "分集目录：频道全部 1470 条视频的 id、日期、标题、是否有字幕正文",
+   "path": "data/episodes.jsonl"
+  },
+  "events": {
+   "records": 5855,
+   "description": "事件卡总表：每卡含期号(video id)、日期、涉及人物、事件陈述、原话摘录、口径标记",
+   "parts": [
+    {
+     "path": "data/events-01.jsonl",
+     "records": 719
+    },
+    {
+     "path": "data/events-02.jsonl",
+     "records": 403
+    },
+    {
+     "path": "data/events-03.jsonl",
+     "records": 1032
+    },
+    {
+     "path": "data/events-04.jsonl",
+     "records": 1190
+    },
+    {
+     "path": "data/events-05.jsonl",
+     "records": 1085
+    },
+    {
+     "path": "data/events-06.jsonl",
+     "records": 1313
+    },
+    {
+     "path": "data/events-07.jsonl",
+     "records": 113
+    }
+   ],
+   "note": "单文件超限分卷，按序号拼接即全表，顺序与原表一致"
+  },
+  "relations": {
+   "records": 9180,
+   "description": "关系断言总表：subject—relation—object 三元组，每条自带期号、日期、原话、口径状态",
+   "parts": [
+    {
+     "path": "data/relations-01.jsonl",
+     "records": 5570
+    },
+    {
+     "path": "data/relations-02.jsonl",
+     "records": 3610
+    }
+   ],
+   "note": "单文件超限分卷，按序号拼接即全表，顺序与原表一致"
+  },
+  "rulings": {
+   "records": 116,
+   "description": "裁定表：口径冲突的现行裁定、误名回改、人物卡时点注记（rul-80 起）等 116 条，冲突以此为准",
+   "path": "data/rulings.jsonl"
+  },
+  "listed-companies": {
+   "records": 169,
+   "description": "上市公司册：169 家，股票代码为锚，附出场期次与备注",
+   "title": "上市公司册",
+   "path": "data/listed-companies.jsonl"
+  },
+  "dev-projects": {
+   "records": 31,
+   "description": "开发项目库：31 个地产/基建/能源矿产项目，附关联人物线与期次",
+   "title": "开发项目库",
+   "path": "data/dev-projects.jsonl"
+  },
+  "capital-groups": {
+   "records": 38,
+   "description": "资本系册：38 个资本系，系名→旗下上市公司→实控人",
+   "title": "资本系册",
+   "path": "data/capital-groups.jsonl"
+  },
+  "fat-posts": {
+   "records": 21,
+   "description": "肥缺交易账：21 条卖官/肥缺定价记录，金额逐条标层级（推算层等）",
+   "title": "肥缺交易账",
+   "path": "data/fat-posts.jsonl"
+  }
+ },
+ "entities": {
+  "person_bundle": "entities/persons/{id}.json",
+  "person_bundle_chunked": "entities/persons-chunked/{id}/summary.json ＋ events-NNN.json / relations-NNN.json 分片",
+  "index": "entities/index.json",
+  "chunk_manifest": "entities/persons-chunked/chunk-manifest.json",
+  "chunked_persons": 58,
+  "resolve": "先在 entities/index.json 按 name 或 aliases 查到 id，再取 entities/persons/{id}.json。若该人 index 中 chunked=true，该文件是分片指针：先读 entities/persons-chunked/{id}/summary.json（身份、现行口径、时点注记、主要对手方、事件大纲），需要细节时按大纲定位 events-NNN.json / relations-NNN.json 分片取，不要一次吞全部分片。单人包字段：stats（提及统计）、current_caliber（该人现行口径裁定，可直接引用）、time_notes（时点注记）、register_links（四册挂链：涉哪些上市公司/资本系/项目/肥缺交易）、events、relations（未分片者全量内嵌）。"
+ },
+ "recipes": [
+  "讲某人的趣闻：index 查 id → 取单人包（分片者先读 summary）→ 按 events 时间线讲述，注明每则出自哪一期（episode/date）并保留 caliber 口径",
+  "查某人的现行口径（归属到底以哪说为准）：取单人包的 current_caliber 字段；或在 data/rulings.jsonl 按 subject 查。无裁定者多说并列、不得自行合并",
+  "讲某人的状态变迁时间线：取单人包的 time_notes 字段（时点注记），逐时点呈现并保留各条层级标记",
+  "讲两人的恩怨：分别取两人的单人包，在 relations 中找 subject/object 互指的断言并列讲述",
+  "讲某派系：读 data/factions.jsonl 找到该派，再在 relations 各分卷中筛与该派相关断言",
+  "讲某一期讲了什么：data/episodes.jsonl 按 video_id 查该期，再在 data/events 各分卷按 episode 字段筛本期事件卡",
+  "查某人涉哪些上市公司/资本系/项目/买官交易：取单人包的 register_links，再到 data/ 对应四册取条目全文；反向查某家公司涉谁：读四册条目的 eps 与 note，并回事件表按期号核对",
+  "遇到口径冲突：不要合并，多说并列呈现，并查 data/rulings.jsonl 是否已有裁定（现行口径层）"
+ ]
+}
