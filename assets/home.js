@@ -104,6 +104,10 @@
   if (tabsBox && panelBox) {
     fetchJSON("faction-members.json").then(function (data) {
       var list = data.factions || [];
+      var TABDEF = [{ name: "江派", label: "江" }, { name: "胡锦涛派", label: "胡" }, { name: "习包子派系", label: "习" }];
+      function tabRank(f) { for (var k = 0; k < TABDEF.length; k++) if (TABDEF[k].name === f.name) return k; return 99; }
+      function tabLabel(f) { for (var k = 0; k < TABDEF.length; k++) if (TABDEF[k].name === f.name) return TABDEF[k].label; return f.name; }
+      list.sort(function (a, b) { return tabRank(a) - tabRank(b); });
       tabsBox.innerHTML = "";
       panelBox.innerHTML = "";
       var tabs = [];
@@ -133,7 +137,7 @@
         panelBox.appendChild(card);
       }
       list.forEach(function (f, i) {
-        var b = el("button", null, f.name);
+        var b = el("button", null, tabLabel(f));
         b.type = "button";
         b.setAttribute("role", "tab");
         b.setAttribute("aria-selected", i === 0 ? "true" : "false");
