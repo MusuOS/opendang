@@ -105,6 +105,7 @@
     fetchJSON("faction-members.json").then(function (data) {
       var list = data.factions || [];
       var TABDEF = [{ name: "江派", label: "江" }, { name: "胡锦涛派", label: "胡" }, { name: "习包子派系", label: "习" }];
+      var PANELNAME = { "江派": "江派", "胡锦涛派": "胡锦涛派系", "习包子派系": "习派系" };
       function tabRank(f) { for (var k = 0; k < TABDEF.length; k++) if (TABDEF[k].name === f.name) return k; return 99; }
       function tabLabel(f) { for (var k = 0; k < TABDEF.length; k++) if (TABDEF[k].name === f.name) return TABDEF[k].label; return f.name; }
       list.sort(function (a, b) { return tabRank(a) - tabRank(b); });
@@ -114,7 +115,9 @@
       function renderPanel(f) {
         panelBox.innerHTML = "";
         var card = el("div", "faction-card");
-        if (f.aliases && f.aliases.length) card.appendChild(el("div", "f-aka", "又称 " + f.aliases.join("、")));
+        card.appendChild(el("div", "f-name", PANELNAME[f.name] || f.name));
+        var aka = (f.name === "习包子派系") ? ["包派"] : f.aliases;
+        if (aka && aka.length) card.appendChild(el("div", "f-aka", "又称 " + aka.join("、")));
         card.appendChild(el("div", "f-stats", "正文提及 " + fmt(f.body_mentions || 0) + " · 标题见 " + fmt(f.title_eps || 0) + " 期 · 简介见 " + fmt(f.desc_eps || 0) + " 期"));
         if (f.units && f.units.length) card.appendChild(el("div", "f-units", "构成：" + f.units.join("、")));
         var ms = f.members || [];
