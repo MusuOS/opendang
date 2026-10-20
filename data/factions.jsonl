@@ -1,7 +1,6 @@
-{"name": "习派", "status": "本档在册", "aliases": ["习近平派系", "习近平嫡系"], "leader": "", "units": ["哈尔滨工业大学帮", "上海闸北区", "山东德州（全家统）", "党建研究会", "顾秀莲线（关工委/南通）"], "members": [], "note": "构成口径出处：2024-12-20期（ekED_GhE2zA）听床法——习家军由正局级小单位拼成", "title_eps": 27, "desc_eps": 250, "body_mentions": 322}
+{"name": "习包子派系", "status": "本档在册", "aliases": ["习派", "包派", "习派系", "习近平派系", "习近平嫡系"], "leader": "", "units": ["哈尔滨工业大学帮", "上海闸北区", "山东德州（全家统）", "党建研究会", "顾秀莲线（关工委/南通）"], "members": [], "note": "构成口径出处：2024-12-20期（ekED_GhE2zA）听床法——习家军由正局级小单位拼成；2026-10-20 编纂裁定（rul-117）：原「习派」「包派」两行合并为本行，习派、包派、习派系为别称；计数为两行相加，期号或有重叠。", "title_eps": 32, "desc_eps": 311, "body_mentions": 439}
 {"name": "江派", "status": "本档在册", "aliases": [], "leader": "", "units": [], "members": [], "note": "", "title_eps": 9, "desc_eps": 235, "body_mentions": 624}
 {"name": "胡锦涛派", "status": "本档在册", "aliases": ["胡锦涛嫡系"], "leader": "", "units": [], "members": [], "note": "", "title_eps": 7, "desc_eps": 304, "body_mentions": 333}
-{"name": "反习派", "status": "本档在册·阵营统称", "aliases": [], "leader": "", "units": [], "members": [], "note": "非单一组织，为反对习包子的阵营统称", "title_eps": 5, "desc_eps": 63, "body_mentions": 89}
 {"name": "团派", "status": "本档在册", "aliases": [], "leader": "", "units": [], "members": [], "note": "", "title_eps": 2, "desc_eps": 114, "body_mentions": 167}
 {"name": "之江新军", "status": "标题在册·正文待考", "aliases": [], "leader": "", "units": [], "members": [], "note": "标题4期、简介36期出现；字幕正文0处（ASR未留形）", "title_eps": 4, "desc_eps": 36, "body_mentions": 0}
 {"name": "石油帮", "status": "本档在册", "aliases": [], "leader": "", "units": [], "members": [], "note": "起源口径见2024-11-16期（WYvqQMUuQ3Q）事件卡", "title_eps": 0, "desc_eps": 29, "body_mentions": 35}
@@ -11,7 +10,6 @@
 {"name": "南通帮", "status": "本档在册", "aliases": [], "leader": "", "units": [], "members": [], "note": "", "title_eps": 2, "desc_eps": 19, "body_mentions": 21}
 {"name": "绥化帮", "status": "本档在册", "aliases": [], "leader": "", "units": [], "members": [], "note": "", "title_eps": 2, "desc_eps": 8, "body_mentions": 0}
 {"name": "诸暨帮", "status": "本档在册", "aliases": [], "leader": "", "units": [], "members": [], "note": "", "title_eps": 3, "desc_eps": 7, "body_mentions": 0}
-{"name": "包派", "status": "本档在册", "aliases": [], "leader": "", "units": [], "members": [], "note": "", "title_eps": 5, "desc_eps": 61, "body_mentions": 117}
 {"name": "上海帮", "status": "本档否定", "aliases": [], "leader": "", "units": [], "members": [], "note": "2024-12-20期听床法：省级帮派说不成立，正部级单位装不止一个派系", "title_eps": 2, "desc_eps": 48, "body_mentions": 51}
 {"name": "浙江帮", "status": "本档否定", "aliases": [], "leader": "", "units": [], "members": [], "note": "同上，本档称错误说法", "title_eps": 0, "desc_eps": 12, "body_mentions": 8}
 {"name": "福建帮", "status": "本档否定", "aliases": [], "leader": "", "units": [], "members": [], "note": "同上，本档称错误说法", "title_eps": 0, "desc_eps": 23, "body_mentions": 12}

@@ -1,0 +1,21 @@
+接入手册 · 《党案百科》（opendang）
+
+这是一部把 YouTube 频道「大包王朝」924 期节目（2023-10-08 至 2026-10-14）转写、抽卡而成的结构化档案：人物 1,525、事件 5,855、关系 9,180、裁定 122 条。全档内容均为该频道一家之言，未经核实，不是事实认定；引用时须注明「第X期称」，并保留原话的口径与层级标记，不得表述为已证实事实。
+
+数据正本在 GitHub 仓 MusuOS/opendang，根地址：
+https://raw.githubusercontent.com/MusuOS/opendang/main/
+
+按序读取：
+1. agent.json —— 全仓清单：覆盖范围、口径图例、各表路径与条数。
+2. llms.txt —— 全站导航。
+3. entities/index.json —— 人物总索引（id、主名、别名、提及数），先在此按人名或别名定位人物 id。
+4. entities/persons/<id>.json —— 单人数据包：此人的断言、事件、关系、现行口径与时点注记都在包内。标注为分片（chunked）的大人物包只是指针，须按包内 chunks 字段指引，续取 entities/persons-chunked/<id>/ 下各分片读全，不要只读指针就作答。
+5. 需全量检索时用 data/ 下各表：persons、aliases、factions、institutions、labels、episodes、events、relations、rulings（events 与 relations 分卷，按序号拼接即全表）。
+
+口径规则：
+- 同一事项多期说法冲突时，以 data/rulings.jsonl 的裁定与单人包的 current_caliber 为现行口径——依据是最新一期正文断语；旧说是历史层，留痕并存，不得合并，也不得当作现行口径讲述。
+- time_notes 是人物的时点注记：状态与归属按时点分账呈现，不同时点的状态不要混作一谈。
+- 每条断言自带出处（期号、日期、原话摘录）与层级标记（断语层／传闻层／推断层／引述层／小说体层等）；转述时保留层级，不把传闻、推断升格为断语。
+- 回答优先用现行口径并注明出处期号；用户要看冲突全貌时，再并列呈现诸说。
+
+仓库主页：https://github.com/MusuOS/opendang

@@ -5,7 +5,7 @@
   {
    "id": "xi-baozi",
    "name": "习包子",
-   "full_bytes": 6274725,
+   "full_bytes": 6274716,
    "summary_bytes": 188739,
    "events": 2662,
    "relations": 1252,
@@ -27,18 +27,18 @@
   {
    "id": "zhu-rong-ji",
    "name": "朱镕基",
-   "full_bytes": 1504976,
+   "full_bytes": 1504988,
    "summary_bytes": 119902,
    "events": 579,
    "relations": 347,
    "event_chunks": 8,
    "relation_chunks": 1,
-   "max_shard_bytes": 177951
+   "max_shard_bytes": 177957
   },
   {
    "id": "jiang-ze-min",
    "name": "江泽民",
-   "full_bytes": 1319548,
+   "full_bytes": 1319554,
    "summary_bytes": 95604,
    "events": 467,
    "relations": 264,
@@ -82,7 +82,7 @@
   {
    "id": "wang-qi-shan",
    "name": "王岐山",
-   "full_bytes": 1013996,
+   "full_bytes": 1014002,
    "summary_bytes": 79725,
    "events": 392,
    "relations": 218,
@@ -115,7 +115,7 @@
   {
    "id": "deng-xiao-ping",
    "name": "邓小平",
-   "full_bytes": 891742,
+   "full_bytes": 891748,
    "summary_bytes": 63163,
    "events": 311,
    "relations": 115,
@@ -379,7 +379,7 @@
   {
    "id": "dong-jun",
    "name": "董军",
-   "full_bytes": 314923,
+   "full_bytes": 314929,
    "summary_bytes": 24650,
    "events": 110,
    "relations": 44,
@@ -566,7 +566,7 @@
   {
    "id": "li-shang-fu",
    "name": "李尚福",
-   "full_bytes": 232780,
+   "full_bytes": 232786,
    "summary_bytes": 19183,
    "events": 92,
    "relations": 19,

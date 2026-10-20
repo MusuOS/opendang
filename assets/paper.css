@@ -1,0 +1,183 @@
+/* 党案百科 · 首页样式「纸档 · 朱批」
+   纸面底、墨色字、朱砂唯一亮色；无动画（悬停变色除外）；打印友好。 */
+:root{
+  --paper:#f6f1e7;
+  --paper-deep:#efe7d6;
+  --card:#faf7ef;
+  --ink:#23201b;
+  --ink-soft:#5c5546;
+  --ink-faint:#8a8172;
+  --line:#c9bb9c;
+  --line-soft:#ddd2ba;
+  --seal:#b03a2e;
+  --seal-deep:#933025;
+  --serif:"Songti SC","STSong","Noto Serif CJK SC","Source Han Serif SC","SimSun",serif;
+  --sans:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans CJK SC",sans-serif;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0;background:var(--paper);color:var(--ink);
+  font-family:var(--sans);font-size:16px;line-height:1.75;
+}
+a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--line)}
+a:hover{color:var(--seal);border-bottom-color:var(--seal)}
+.wrap{max-width:960px;margin:0 auto;padding:0 20px 64px}
+
+/* ---------- 报头 ---------- */
+.rule-top{border-top:3px solid var(--ink);margin-top:14px}
+.rule-top2{border-top:1px solid var(--ink);margin-top:3px}
+.masthead{display:flex;align-items:center;gap:20px;padding:26px 4px 18px}
+.seal{
+  flex:0 0 auto;width:72px;height:72px;background:var(--seal);color:#fdf9ef;
+  border-radius:6px;display:flex;align-items:center;justify-content:center;
+  font-family:var(--serif);font-weight:700;font-size:30px;line-height:1.08;
+  letter-spacing:2px;text-align:center;
+  box-shadow:inset 0 0 0 2px rgba(253,249,239,.35), inset 0 0 12px rgba(0,0,0,.18);
+}
+.seal span{display:block}
+.mast-titles{min-width:0}
+h1.site-name{
+  font-family:var(--serif);font-weight:700;font-size:44px;line-height:1.15;
+  margin:0;letter-spacing:10px;
+}
+.site-en{
+  font-size:12px;letter-spacing:5px;color:var(--ink-soft);margin-top:6px;
+  text-transform:uppercase;font-family:var(--serif);
+}
+.colophon{
+  border-top:1px solid var(--line);border-bottom:3px double var(--ink);
+  padding:7px 4px;font-size:13.5px;color:var(--ink-soft);letter-spacing:1px;
+  display:flex;flex-wrap:wrap;gap:6px 18px;
+}
+.colophon b{color:var(--ink);font-weight:600}
+
+/* ---------- 最近更新细条 ---------- */
+.freshline{
+  font-size:13px;color:var(--ink-soft);padding:9px 4px 0;letter-spacing:.5px;
+}
+.freshline .dot{color:var(--seal)}
+
+/* ---------- Agent 引导 ---------- */
+.agent-gate{
+  margin:26px 0 6px;border:1px solid var(--line);background:var(--card);
+  padding:22px 22px 18px;text-align:center;
+}
+.agent-gate .gate-note{font-size:14px;color:var(--ink-soft);margin:0 0 14px}
+button.agent-btn{
+  appearance:none;border:0;cursor:pointer;background:var(--seal);color:#fdf9ef;
+  font-family:var(--serif);font-weight:700;font-size:20px;letter-spacing:3px;
+  padding:14px 34px;border-radius:5px;
+  box-shadow:inset 0 0 0 2px rgba(253,249,239,.35), inset 0 0 14px rgba(0,0,0,.2), 0 1px 3px rgba(35,32,27,.25);
+}
+button.agent-btn:hover{background:var(--seal-deep)}
+button.agent-btn.copied{background:var(--ink)}
+.agent-gate .gate-sub{font-size:12.5px;color:var(--ink-faint);margin:12px 0 0}
+.agent-gate .gate-sub a{border-bottom-color:var(--line-soft)}
+
+/* ---------- 通用分节 ---------- */
+section{margin-top:40px}
+.sec-head{display:flex;align-items:baseline;gap:12px;border-bottom:3px double var(--ink);padding-bottom:6px;margin-bottom:16px}
+.sec-num{
+  font-family:var(--serif);color:var(--seal);font-size:20px;font-weight:700;
+  border:1.5px solid var(--seal);border-radius:4px;padding:0 7px;line-height:1.5;
+}
+.sec-head h2{font-family:var(--serif);font-size:24px;letter-spacing:4px;margin:0;font-weight:700}
+.sec-head .sec-note{font-size:13px;color:var(--ink-faint);margin-left:auto}
+
+/* ---------- 凡例 ---------- */
+.fanli{margin:0;padding:0;list-style:none;counter-reset:fanli}
+.fanli li{
+  padding:7px 2px 7px 44px;position:relative;border-bottom:1px dashed var(--line-soft);
+  font-size:15px;
+}
+.fanli li:last-child{border-bottom:0}
+.fanli li::before{
+  counter-increment:fanli;content:counter(fanli, cjk-ideographic);
+  position:absolute;left:2px;top:8px;font-family:var(--serif);color:var(--ink-soft);font-size:14px;
+}
+.fanli b{font-weight:600}
+
+/* ---------- 搜索 ---------- */
+.search-box{display:flex;gap:10px;align-items:stretch}
+.search-box input{
+  flex:1;font:inherit;font-size:17px;color:var(--ink);background:transparent;
+  border:0;border-bottom:2px solid var(--ink);padding:8px 2px;outline:none;border-radius:0;
+}
+.search-box input:focus{border-bottom-color:var(--seal)}
+.search-box input::placeholder{color:var(--ink-faint)}
+.search-results{margin-top:10px}
+.search-results .hit{
+  display:flex;gap:12px;align-items:baseline;padding:7px 4px;border-bottom:1px solid var(--line-soft);
+}
+.search-results .hit a{font-family:var(--serif);font-size:17px;border-bottom:0}
+.search-results .hit .aka{font-size:13px;color:var(--ink-faint)}
+.search-results .hit .cnt{margin-left:auto;font-size:13px;color:var(--ink-soft);white-space:nowrap}
+.search-empty{font-size:14px;color:var(--ink-faint);padding:8px 4px}
+
+/* ---------- 派系 ---------- */
+.faction-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}
+.faction-card{border:1px solid var(--line);background:var(--card);padding:13px 15px 11px}
+.faction-card .f-name{font-family:var(--serif);font-size:20px;font-weight:700;letter-spacing:2px}
+.faction-card .f-aka{font-size:12.5px;color:var(--ink-faint);margin-top:1px}
+.faction-card .f-stats{font-size:13px;color:var(--ink-soft);margin-top:7px;line-height:1.6}
+.faction-card .f-units{font-size:12.5px;color:var(--ink-soft);margin-top:5px;border-top:1px dashed var(--line-soft);padding-top:5px}
+
+/* ---------- 时间线 ---------- */
+.year-rows{margin-bottom:20px}
+.year-row{display:flex;align-items:center;gap:12px;padding:3px 0;font-size:14px}
+.year-row .y{font-family:var(--serif);width:52px;flex:0 0 auto;letter-spacing:1px}
+.year-row .bar{flex:1;background:var(--paper-deep);height:14px;position:relative}
+.year-row .bar i{position:absolute;left:0;top:0;bottom:0;background:var(--ink)}
+.year-row .n{width:76px;flex:0 0 auto;color:var(--ink-soft);font-size:13px}
+.recent-list{margin:0;padding:0;list-style:none}
+.recent-list li{padding:8px 2px;border-bottom:1px solid var(--line-soft);display:flex;gap:14px;align-items:baseline}
+.recent-list .r-date{font-size:13px;color:var(--ink-faint);white-space:nowrap;font-variant-numeric:tabular-nums}
+.recent-list .r-ep{font-size:13px;color:var(--seal);white-space:nowrap;font-family:var(--serif)}
+.recent-list .r-title{min-width:0}
+.recent-list a{border-bottom:0}
+.recent-list a:hover{border-bottom:1px solid var(--seal)}
+
+/* ---------- 罗生门 ---------- */
+.lsm-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:12px}
+.lsm-card{border:1px solid var(--line);background:var(--card);padding:14px 16px 12px}
+.lsm-card .p-name{font-family:var(--serif);font-size:19px;font-weight:700;letter-spacing:1px}
+.lsm-card .p-name a{border-bottom:0}
+.lsm-card .row{font-size:14px;margin-top:8px;line-height:1.65}
+.lsm-card .tag{
+  display:inline-block;font-size:11.5px;letter-spacing:1px;padding:0 6px;margin-right:7px;
+  border-radius:3px;vertical-align:1px;font-family:var(--serif);
+}
+.tag-now{color:#fdf9ef;background:var(--seal)}
+.tag-old{color:var(--ink-soft);border:1px solid var(--line)}
+.lsm-card .old{color:var(--ink-soft)}
+
+/* ---------- 全站索引 ---------- */
+.index-cols{columns:3;column-gap:28px;font-size:14px}
+.index-cols .ix{break-inside:avoid;padding:2.5px 0;border-bottom:1px dotted var(--line-soft)}
+.index-cols .ix a{border-bottom:0;font-family:var(--serif)}
+.index-cols .ix .aka{color:var(--ink-faint);font-size:12px}
+.index-cols .ix .cnt{color:var(--ink-faint);font-size:12px;float:right}
+
+/* ---------- 页脚 ---------- */
+footer{
+  margin-top:56px;border-top:3px double var(--ink);padding-top:14px;
+  font-size:13px;color:var(--ink-soft);line-height:1.9;
+}
+footer .sign{font-family:var(--serif);color:var(--ink)}
+
+.loading{font-size:14px;color:var(--ink-faint);padding:6px 2px}
+
+@media (max-width:640px){
+  h1.site-name{font-size:32px;letter-spacing:6px}
+  .seal{width:56px;height:56px;font-size:24px}
+  .masthead{gap:14px;padding-top:20px}
+  .index-cols{columns:2}
+  button.agent-btn{font-size:17px;padding:12px 22px;letter-spacing:2px}
+  .sec-head h2{font-size:20px}
+}
+@media print{
+  .agent-gate,.search-box,button.agent-btn{display:none}
+  body{background:#fff}
+  a{border-bottom:0}
+}

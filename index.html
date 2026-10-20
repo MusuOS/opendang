@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>党案百科 · The Dangan Baike</title>
+<meta name="description" content="把 YouTube 频道「大包王朝」924 期节目转写抽卡而成的结构化档案：人物、事件、关系与口径裁定。本档内容为该频道一家之言，未经核实。">
+<link rel="stylesheet" href="assets/wiki.css">
+<link rel="alternate" type="application/json" title="总台清单 agent.json" href="agent.json">
+</head>
+<body>
+<div class="wrap">
+
+  <header class="topbar">
+    <div class="brand">
+      <span class="site-name">党案百科</span>
+      <span class="site-en">The Dangan Baike</span>
+    </div>
+    <div class="search-box">
+      <input id="search-input" type="search" placeholder="输入人名或别名，如：汪洋" autocomplete="off" aria-label="按人名或别名检索">
+    </div>
+  </header>
+  <div class="search-results" id="search-results"></div>
+
+  <div class="colophon">
+    <span>全档 <b>924</b> 期</span>
+    <span>人物 <b>1,525</b></span>
+    <span>事件 <b>5,855</b></span>
+    <span>关系 <b>9,180</b></span>
+    <span>更新至 <b>2026-10-14</b></span>
+  </div>
+
+  <div class="freshline" id="freshline"><span class="dot">● </span>最新入账至第 924 期 · 正文收录至 2026-10-14 · 数据正本 v1.0.0</div>
+
+  <div class="agent-gate">
+    <p class="gate-note">这部百科同时为 Agent 而写：全部数据开放、带出处与口径标记，可直接取用。</p>
+    <button class="agent-btn" id="agent-btn" type="button">把这部百科交给自己的 Agent</button>
+    <p class="gate-sub">点按即复制一段引导文案，粘给任何能联网的 Agent，它便能按图索骥读全档。文案原文：<a href="agent-prompt.txt">agent-prompt.txt</a> · 总台清单：<a href="agent.json">agent.json</a> · 导航：<a href="llms.txt">llms.txt</a></p>
+  </div>
+  <script type="text/plain" id="agent-prompt-fallback">接入手册 · 《党案百科》（opendang）
+
+这是一部把 YouTube 频道「大包王朝」924 期节目（2023-10-08 至 2026-10-14）转写、抽卡而成的结构化档案：人物 1,525、事件 5,855、关系 9,180、裁定 122 条。全档内容均为该频道一家之言，未经核实，不是事实认定；引用时须注明「第X期称」，并保留原话的口径与层级标记，不得表述为已证实事实。
+
+数据正本在 GitHub 仓 MusuOS/opendang，根地址：
+https://raw.githubusercontent.com/MusuOS/opendang/main/
+
+按序读取：
+1. agent.json —— 全仓清单：覆盖范围、口径图例、各表路径与条数。
+2. llms.txt —— 全站导航。
+3. entities/index.json —— 人物总索引（id、主名、别名、提及数），先在此按人名或别名定位人物 id。
+4. entities/persons/<id>.json —— 单人数据包：此人的断言、事件、关系、现行口径与时点注记都在包内。标注为分片（chunked）的大人物包只是指针，须按包内 chunks 字段指引，续取 entities/persons-chunked/<id>/ 下各分片读全，不要只读指针就作答。
+5. 需全量检索时用 data/ 下各表：persons、aliases、factions、institutions、labels、episodes、events、relations、rulings（events 与 relations 分卷，按序号拼接即全表）。
+
+口径规则：
+- 同一事项多期说法冲突时，以 data/rulings.jsonl 的裁定与单人包的 current_caliber 为现行口径——依据是最新一期正文断语；旧说是历史层，留痕并存，不得合并，也不得当作现行口径讲述。
+- time_notes 是人物的时点注记：状态与归属按时点分账呈现，不同时点的状态不要混作一谈。
+- 每条断言自带出处（期号、日期、原话摘录）与层级标记（断语层／传闻层／推断层／引述层／小说体层等）；转述时保留层级，不把传闻、推断升格为断语。
+- 回答优先用现行口径并注明出处期号；用户要看冲突全貌时，再并列呈现诸说。
+
+仓库主页：https://github.com/MusuOS/opendang</script>
+
+  <section aria-label="凡例">
+    <div class="sec-head"><h2>凡例</h2><span class="sec-note">卷首 · 体例与口径</span></div>
+    <ol class="fanli">
+      <li><b>本档所收。</b>YouTube 频道「大包王朝」节目讲述的转写存档：正文 924 期（2023-10-08 至 2026-10-14），频道目录共 1,470 条，余未及整理。节目内容经抽卡整理为人物、事件、关系与裁定，逐条带出处。</li>
+      <li><b>一家之言。</b>本档所载皆为该频道一家之言，未经核实，不作事实认定。引用须标「第X期称」，并保留原话的口径与层级标记，不得表述为已证实事实。</li>
+      <li><b>现行口径。</b>同一事项多期说法冲突时，以最新一期正文断语为现行口径，裁定见裁定表（122 条）；旧说降入历史层留痕，不删改。</li>
+      <li><b>诸说并存。</b>未经裁定者并列呈现，不合并、不代为取舍；标题层说法与正文断语分账，标题只作旁证。</li>
+      <li><b>时点注记。</b>人物状态与归属随期变化者，另立时点注记按时点分账，不同时点的状态不混作一谈。</li>
+      <li><b>出处格式。</b>每条断言自带期号、日期与原话摘录，并标层级——断语层／传闻层／推断层／引述层／小说体层等，可逐条回溯原视频。</li>
+    </ol>
+  </section>
+
+  <section aria-label="派系总览">
+    <div class="sec-head"><span class="sec-num">壹</span><h2>派系总览</h2><span class="sec-note">在册 16 个派系 · <a href="factions.html">完整派系页 →</a></span></div>
+    <div class="faction-grid" id="faction-grid"><div class="loading">派系表载入中…</div></div>
+  </section>
+
+  <section aria-label="时间线">
+    <div class="sec-head"><span class="sec-num">贰</span><h2>时间线</h2><span class="sec-note">正文期数 · 按年 · <a href="timeline.html">完整时间线 →</a></span></div>
+    <div class="year-rows" id="year-rows"><div class="loading">年表载入中…</div></div>
+    <ol class="recent-list" id="recent-list"></ol>
+  </section>
+
+  <section aria-label="罗生门专区">
+    <div class="sec-head"><span class="sec-num">叁</span><h2>罗生门专区</h2><span class="sec-note">口径翻转 · 现行与旧说对照 · <a href="luoshengmen.html">全部裁定 →</a></span></div>
+    <div class="lsm-grid" id="lsm-grid"><div class="loading">裁定载入中…</div></div>
+  </section>
+
+  <section aria-label="全站索引">
+    <div class="sec-head"><span class="sec-num">肆</span><h2>全站索引</h2><span class="sec-note">人物全名单 · 按拼音序 · 后为提及数 · <a href="index-all.html">独立索引页 →</a></span></div>
+    <div class="index-cols" id="full-index"><div class="loading">索引载入中…</div></div>
+  </section>
+
+  <footer>
+    <div>数据正本：GitHub 仓 <a href="https://github.com/MusuOS/opendang">MusuOS/opendang</a> · <a href="https://github.com/MusuOS/opendang/releases/tag/v1.0.0">v1.0.0 数据正本</a>（附全仓校验清单）。仓内数据与本站同源，冲突时以仓内裁定表为准。</div>
+    <div>本档内容为频道「大包王朝」一家之言的整理存档，未经核实；引用请带出处与口径标记。</div>
+    <div><span class="sign">编纂 · Musu</span></div>
+  </footer>
+
+</div>
+<script src="assets/home.js"></script>
+</body>
+</html>

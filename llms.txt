@@ -9,6 +9,9 @@
 - [人物表](data/persons.jsonl)：1525 条
 - [事件表](data/events-01.jsonl)：5855 条，共 7 卷，按序号拼接（events-01..07）
 - [关系断言表](data/relations-01.jsonl)：9180 条，共 2 卷（relations-01..02）
-- [裁定表](data/rulings.jsonl)：116 条，现行口径与时点注记的定版依据
-- [别名表](data/aliases.jsonl)：1274 条；[机构表](data/institutions.jsonl)：699 条；[派系表](data/factions.jsonl)：18 条；[分集目录](data/episodes.jsonl)：1470 条
-- [上市公司册](data/listed-companies.jsonl)：169 条；[开发项目库](data/dev-projects.jsonl)：31 条；[资本系册](data/capital-groups.jsonl)：38 条；[肥缺交易账](data/fat-posts.jsonl)：21 条
+- [裁定表](data/rulings.jsonl)：122 条，现行口径与时点注记的定版依据
+- [别名表](data/aliases.jsonl)：1274 条；[机构表](data/institutions.jsonl)：699 条；[派系表](data/factions.jsonl)：16 条；[分集目录](data/episodes.jsonl)：1470 条
+- [上市公司册](data/listed-companies.jsonl)：169 条；[开发项目库](data/dev-projects.jsonl)：31 条；[资本系册](data/capital-groups.jsonl)：38 条；[职位交易账](data/fat-posts.jsonl)：21 条
+
+- 派系别称（rul-117，2026-10-20 统一）：正名「习包子派系」；习派、包派、习派系（及解析用的习包子系、习系）皆为同一阵营别称，历史层原文不改，讲述与检索时归一到正名。别称表见 agent.json 的 faction_aliases。
+- 派系除名（rul-118，2026-10-20）：「反习派」系立场统称、非派系实体，已自派系表除名（余 16 系）；历史层与关系断言中的「反习派」字样为频道原话，照旧留痕，讲述时不作派系归属，各人归属以其现行裁定为准。

@@ -1,0 +1,73 @@
+/* 党案百科 · 全站共用样式 v2 —— 基调承 v1 样板：浅色、克制、档案气 */
+* { box-sizing: border-box; }
+body { font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif; color: #202122;
+       margin: 0; background: #fff; line-height: 1.65; font-size: 15.5px; }
+.wrap { max-width: 960px; margin: 0 auto; padding: 28px 22px 60px; }
+.site { color: #72777d; font-size: 13px; letter-spacing: 2px; margin-bottom: 2px; }
+h1 { font-family: Georgia, "Songti SC", "SimSun", serif; font-weight: normal; font-size: 30px;
+     border-bottom: 1px solid #a2a9b1; padding-bottom: 6px; margin: 4px 0 6px; }
+.redirect { color: #72777d; font-size: 13.5px; margin-bottom: 14px; }
+h2 { font-family: Georgia, "Songti SC", "SimSun", serif; font-weight: normal; font-size: 21px;
+     border-bottom: 1px solid #a2a9b1; padding-bottom: 4px; margin: 30px 0 10px; }
+h3 { font-size: 16px; margin: 18px 0 6px; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+p { margin: 8px 0; }
+ul { padding-left: 22px; margin: 6px 0; }
+li { margin: 4.5px 0; }
+.meta { color: #72777d; font-size: 12.5px; }
+.lead { font-size: 16px; }
+.lead p { margin: 6px 0; }
+
+/* 信息框（承 v1） */
+.infobox { float: right; width: 292px; margin: 4px 0 16px 22px; background: #f8f9fa;
+           border: 1px solid #a2a9b1; font-size: 13.5px; }
+.infobox .cap { background: #e8eaf2; text-align: center; font-weight: bold; padding: 7px 4px; font-size: 15px; }
+.infobox table { border-collapse: collapse; width: 100%; }
+.infobox th { text-align: left; vertical-align: top; padding: 5px 8px; width: 86px; color: #202122; font-weight: normal; color: #54595d; }
+.infobox td { padding: 5px 8px; }
+.infobox tr + tr { border-top: 1px solid #e3e6ea; }
+@media (max-width: 700px) { .infobox { float: none; width: 100%; margin: 8px 0 14px; } }
+
+/* 视图开关 */
+.viewbar { clear: both; display: flex; flex-wrap: wrap; align-items: center; gap: 10px;
+           margin: 26px 0 4px; padding: 10px 12px; background: #f8f9fa; border: 1px solid #a2a9b1; }
+.viewbar .lbl { font-size: 13.5px; color: #54595d; }
+.seg { display: inline-flex; border: 1px solid #a2a9b1; border-radius: 3px; overflow: hidden; }
+.seg button { appearance: none; border: 0; background: #fff; color: #202122; font-size: 14px;
+              padding: 6px 14px; cursor: pointer; font-family: inherit; }
+.seg button + button { border-left: 1px solid #a2a9b1; }
+.seg button.on { background: #3366cc; color: #fff; }
+.seg button:focus-visible { outline: 2px solid #3366cc; outline-offset: 1px; }
+.viewhint { font-size: 12.5px; color: #72777d; flex: 1 1 260px; }
+
+/* 数据区（JS 现读渲染） */
+.datalist ul { list-style: none; padding-left: 2px; }
+.cal li, .rel li { margin: 7px 0; }
+.cal .cat { display: inline-block; font-size: 12px; color: #54595d; background: #eaecf0;
+            border-radius: 2px; padding: 0 6px; margin-right: 6px; vertical-align: 1px; }
+.tn { border-left: 3px solid #a2a9b1; padding: 2px 0 2px 12px; margin: 12px 0; }
+.tn .tn-item { font-weight: bold; margin-bottom: 2px; }
+.tn .tn-ruling { white-space: pre-wrap; }
+.tn .tn-meta { color: #72777d; font-size: 12.5px; margin-top: 4px; }
+details.ev { border-bottom: 1px solid #e3e6ea; padding: 5px 0; }
+details.ev summary { cursor: pointer; list-style: none; }
+details.ev summary::-webkit-details-marker { display: none; }
+details.ev summary .d { color: #72777d; font-size: 12.5px; margin-right: 8px; white-space: nowrap; }
+details.ev summary .t { color: #202122; }
+details.ev summary:hover .t { color: #0645ad; }
+.evbody { padding: 6px 0 10px 14px; font-size: 14.5px; }
+.evbody .fld { margin: 5px 0; }
+.evbody .fld .k { color: #72777d; font-size: 12.5px; margin-right: 6px; }
+.evbody blockquote, .rel blockquote { margin: 6px 0 6px 2px; padding: 4px 12px; border-left: 3px solid #e3e6ea; color: #333; font-size: 14px; }
+.src { font-size: 12.5px; color: #72777d; }
+.loadbtn { appearance: none; font-family: inherit; font-size: 14px; cursor: pointer;
+           background: #f8f9fa; border: 1px solid #a2a9b1; border-radius: 3px; padding: 8px 16px; margin: 10px 8px 0 0; }
+.loadbtn:hover { background: #eaecf0; }
+.loadbtn[disabled] { opacity: .55; cursor: default; }
+.err { color: #b32424; font-size: 14px; }
+
+/* 页脚 */
+.noscript { border: 1px solid #a2a9b1; background: #fef6e7; padding: 10px 14px; margin: 22px 0; font-size: 14px; }
+.caveat { margin-top: 42px; border-top: 1px solid #a2a9b1; padding-top: 10px; color: #72777d; font-size: 13px; }
+.caveat p { margin: 4px 0; }

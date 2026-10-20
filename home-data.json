@@ -1,0 +1,129 @@
+{
+ "fresh": "最新入账至第 924 期 · 正文收录至 2026-10-14 · 数据正本 v1.0.0",
+ "years": [
+  {
+   "year": 2023,
+   "count": 5
+  },
+  {
+   "year": 2024,
+   "count": 90
+  },
+  {
+   "year": 2025,
+   "count": 409
+  },
+  {
+   "year": 2026,
+   "count": 420
+  }
+ ],
+ "recent": [
+  {
+   "ep": 4,
+   "date": "2026-10-14",
+   "title": "黄奇帆官宣，习派全军覆没。黄奇帆与特科陈云的关系。朱镕基为什么叫做陈长庚。习近平为什么给耿飙当秘书。陈云杨堤李一氓",
+   "url": "https://www.youtube.com/watch?v=aPBLKoLF4qo"
+  },
+  {
+   "ep": 142,
+   "date": "2026-10-13",
+   "title": "胡锦涛军事政变解密：3位连长的宿命。一张越战地图看懂2024中南海兵变，李作成与张又侠的40年血色对决。廖锡龙，赵宗岐，张又侠师徒三人。",
+   "url": "https://www.youtube.com/watch?v=SMmwLyR0Cnc"
+  },
+  {
+   "ep": 631,
+   "date": "2026-10-11",
+   "title": "大瓜：胡锦涛抓走习的女性机要秘书，浙江期间生了一个女儿。李子园独立董事肖作平被查。范冰冰真正的后台不是王岐山。习的女秘书金朝萍",
+   "url": "https://www.youtube.com/watch?v=B_OkVjfPsFo"
+  },
+  {
+   "ep": 128,
+   "date": "2026-10-11",
+   "title": "候任总书记胡春华查习铁杆汪洋，大外宣期待的习反击为何迟迟不来？珠海统战部长郭才武被查。贾庆林，吴官正，王林，汪洋4人背书的朱明国。马兴瑞大秘郭永航",
+   "url": "https://www.youtube.com/watch?v=zcT-ibkpgEI"
+  },
+  {
+   "ep": 170,
+   "date": "2026-10-10",
+   "title": "习确定下台，未来总理团队尹丽波调任辽宁，五中全会布局中。包派国学大师楼宇烈是习仲勋马仔王作安的马仔，曹德旺包庇学诚。",
+   "url": "https://www.youtube.com/watch?v=OyJhQzL5NP8"
+  },
+  {
+   "ep": 129,
+   "date": "2026-10-09",
+   "title": "胡锦涛攻坚，习下最大障碍汪洋。朱镕基汪洋马仔，张硕辅被查。张硕辅涉汪洋大秘叶建春案。汪洋王岐山接受中纪委调查",
+   "url": "https://www.youtube.com/watch?v=YL64nMlxHbQ"
+  },
+  {
+   "ep": 101,
+   "date": "2026-10-08",
+   "title": "李作成率中央警卫局局长周洪许替胡锦涛发动军事政变。李作成与周洪许，张海阳的交集。",
+   "url": "https://www.youtube.com/watch?v=TR6bq68Y7lQ"
+  },
+  {
+   "ep": 9,
+   "date": "2026-10-08",
+   "title": "胡锦涛代理人3次现身：军事政变最后一员大将浮出水面。李新良，邢世忠，王瑞林，迟浩田，张万年招远帮。",
+   "url": "https://www.youtube.com/watch?v=ks2Nv0Jtc3o"
+  }
+ ],
+ "luoshengmen": [
+  {
+   "person": "刘振立",
+   "person_id": "liu-zhen-li",
+   "ruling_id": "rul-14",
+   "current": "刘振立归胡侧（胡锦涛系）。",
+   "old": "ep35 胡春华马仔；ep52 纯正胡锦涛马仔；ep134 胡马仔；ep154 习铁杆；ep298 胡锦涛的人；ep352 改口习派（论证链完整）；ep446 习铁杆再申；ep457 胡侧再推"
+  },
+  {
+   "person": "汪洋",
+   "person_id": "wang-yang",
+   "ruling_id": "rul-17",
+   "current": "汪洋归习包子派系。",
+   "old": "ep46 习派暗线（早期同向）；ep62 江泽民派系；ep305 邓小平派系；ep618 胡侧追杀层；ep671 亲大哥层；ep728 私生子层；ep794 网传代理层（归冲突13对账组）"
+  },
+  {
+   "person": "蒋超良",
+   "person_id": "jiang-chao-liang",
+   "ruling_id": "rul-28",
+   "current": "蒋超良为朱镕基、王岐山、习包子三方马仔。",
+   "old": "ep202 后台三人组（戴相龙、王岐山、朱镕基）；ep325 习仲勋的人；ep381 朱、王马仔（同向）；ep195、ep238、ep284 诸层；ep687 量刑推断（状态层）"
+  },
+  {
+   "person": "江泽民",
+   "person_id": "jiang-ze-min",
+   "ruling_id": "rul-18",
+   "current": "江泽民由余秋里提拔。",
+   "old": "ep279、ep559 胡耀邦提拔说；ep607 陈云提拔说被否定；ep646 陈云提拔说纯属胡扯；邓陈妥协说、杨尚昆提拔说、最大公约数说、邓牌友论（期号以卡面为准）"
+  },
+  {
+   "person": "王忠林",
+   "person_id": "wang-zhong-lin",
+   "ruling_id": "rul-45",
+   "current": "王忠林归李克强系（李克强铁杆马仔）。",
+   "old": "ep82 悬置；ep115 姜大明提拔（链、同向）；ep174、ep189 俞正声提拔；ep238 王岐山派系、郭树清提拔；ep239 李克强马仔（早期同向）"
+  },
+  {
+   "person": "王莉霞",
+   "person_id": "wang-li-xia",
+   "ruling_id": "rul-33",
+   "current": "王莉霞归习侧。",
+   "old": "ep73 不是赵乐际的人；ep115 胡马仔；ep159、ep165、ep193、ep300 诸层；ep865 爆料层（落马说、未坐实）"
+  },
+  {
+   "person": "陈文清",
+   "person_id": "chen-wen-qing",
+   "ruling_id": "rul-13",
+   "current": "陈文清归习系（习铁杆马仔）。",
+   "old": "ep26 亲信是江泽民的人；ep43 习系（早期同向）；ep168 派系不清、不太懂；ep758 习铁杆（同向）"
+  },
+  {
+   "person": "许其亮",
+   "person_id": "xu-qi-liang",
+   "ruling_id": "rul-49",
+   "current": "许其亮归习包子系（一开始就是习包子的人）。",
+   "old": "ep394、ep428、ep482、ep498 胡侧再证组；ep503 周系倾向；ep690 吴法宪渊源修正层"
+  }
+ ]
+}

@@ -76,7 +76,7 @@
     "count": 98,
     "date_from": "2023-10-08",
     "date_to": "2024-09-19",
-    "bytes": 177819
+    "bytes": 177804
    },
    {
     "file": "events-002.json",
@@ -286,7 +286,7 @@
     "count": 81,
     "date_from": "2026-07-26",
     "date_to": "2026-09-07",
-    "bytes": 177849
+    "bytes": 177855
    },
    {
     "file": "events-032.json",

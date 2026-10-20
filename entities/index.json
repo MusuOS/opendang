@@ -1563,7 +1563,7 @@
   "events": 18,
   "relations": 14,
   "chunked": false,
-  "has_current_caliber": false,
+  "has_current_caliber": true,
   "has_time_notes": false,
   "register_links": 0
  },
@@ -7426,7 +7426,7 @@
   "events": 7,
   "relations": 5,
   "chunked": false,
-  "has_current_caliber": false,
+  "has_current_caliber": true,
   "has_time_notes": false,
   "register_links": 0
  },

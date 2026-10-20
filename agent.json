@@ -15,7 +15,8 @@
   "persons": 1525,
   "events": 5855,
   "relations": 9180,
-  "rulings": 116
+  "rulings": 122,
+  "factions": 16
  },
  "caliber_legend": {
   "本档口径": "频道讲述中作为其分析框架使用的判断",
@@ -41,8 +42,8 @@
    "path": "data/aliases.jsonl"
   },
   "factions": {
-   "records": 18,
-   "description": "派系表：18 个派系的构成口径与出处",
+   "records": 16,
+   "description": "派系表：16 个派系的构成口径与出处（2026-10-20 rul-117 合并、rul-118 除名后）",
    "path": "data/factions.jsonl"
   },
   "institutions": {
@@ -111,8 +112,8 @@
    "note": "单文件超限分卷，按序号拼接即全表，顺序与原表一致"
   },
   "rulings": {
-   "records": 116,
-   "description": "裁定表：口径冲突的现行裁定、误名回改、人物卡时点注记（rul-80 起）等 116 条，冲突以此为准",
+   "records": 122,
+   "description": "裁定表：口径冲突的现行裁定、误名回改、人物卡时点注记（rul-80 起）等 122 条，冲突以此为准",
    "path": "data/rulings.jsonl"
   },
   "listed-companies": {
@@ -135,8 +136,8 @@
   },
   "fat-posts": {
    "records": 21,
-   "description": "肥缺交易账：21 条卖官/肥缺定价记录，金额逐条标层级（推算层等）",
-   "title": "肥缺交易账",
+   "description": "职位交易账：21 条卖官/肥缺定价记录，金额逐条标层级（推算层等）",
+   "title": "职位交易账",
    "path": "data/fat-posts.jsonl"
   }
  },
@@ -146,7 +147,7 @@
   "index": "entities/index.json",
   "chunk_manifest": "entities/persons-chunked/chunk-manifest.json",
   "chunked_persons": 58,
-  "resolve": "先在 entities/index.json 按 name 或 aliases 查到 id，再取 entities/persons/{id}.json。若该人 index 中 chunked=true，该文件是分片指针：先读 entities/persons-chunked/{id}/summary.json（身份、现行口径、时点注记、主要对手方、事件大纲），需要细节时按大纲定位 events-NNN.json / relations-NNN.json 分片取，不要一次吞全部分片。单人包字段：stats（提及统计）、current_caliber（该人现行口径裁定，可直接引用）、time_notes（时点注记）、register_links（四册挂链：涉哪些上市公司/资本系/项目/肥缺交易）、events、relations（未分片者全量内嵌）。"
+  "resolve": "先在 entities/index.json 按 name 或 aliases 查到 id，再取 entities/persons/{id}.json。若该人 index 中 chunked=true，该文件是分片指针：先读 entities/persons-chunked/{id}/summary.json（身份、现行口径、时点注记、主要对手方、事件大纲），需要细节时按大纲定位 events-NNN.json / relations-NNN.json 分片取，不要一次吞全部分片。单人包字段：stats（提及统计）、current_caliber（该人现行口径裁定，可直接引用）、time_notes（时点注记）、register_links（四册挂链：涉哪些上市公司/资本系/项目/职位交易）、events、relations（未分片者全量内嵌）。"
  },
  "recipes": [
   "讲某人的趣闻：index 查 id → 取单人包（分片者先读 summary）→ 按 events 时间线讲述，注明每则出自哪一期（episode/date）并保留 caliber 口径",
@@ -157,5 +158,28 @@
   "讲某一期讲了什么：data/episodes.jsonl 按 video_id 查该期，再在 data/events 各分卷按 episode 字段筛本期事件卡",
   "查某人涉哪些上市公司/资本系/项目/买官交易：取单人包的 register_links，再到 data/ 对应四册取条目全文；反向查某家公司涉谁：读四册条目的 eps 与 note，并回事件表按期号核对",
   "遇到口径冲突：不要合并，多说并列呈现，并查 data/rulings.jsonl 是否已有裁定（现行口径层）"
- ]
+ ],
+ "faction_aliases": {
+  "note": "派系名统一（rul-117，2026-10-20）：正名唯一，别称只用于解析历史层文本——历史层原文一字不改，讲述与检索时按此表归一到正名。",
+  "canonical": "习包子派系",
+  "aliases": [
+   "习派",
+   "包派",
+   "习派系"
+  ],
+  "parse_only_aliases": [
+   "习包子系",
+   "习系",
+   "习近平派系",
+   "习近平嫡系"
+  ],
+  "ruling": "rul-117",
+  "removed": [
+   {
+    "name": "反习派",
+    "ruling": "rul-118",
+    "note": "立场统称、非派系实体，2026-10-20 自派系表除名；历史层与关系断言原文照旧留痕，解析时不作派系归属，各人归属以其现行裁定为准。"
+   }
+  ]
+ }
 }
