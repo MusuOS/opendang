@@ -15,6 +15,8 @@
 
 把下面这段文案复制下来，粘给任何一个 Agent，它就能按图索骥先读全仓清单、再自行取数讲述：
 
+给支持 Skill 的 Agent 平台：仓内另附配套 Skill [skills/opendang/SKILL.md](skills/opendang/SKILL.md)，装上后它会自动按本仓路数取数答问（派系归属、人物关系、党争事件皆可问）。
+
 ```
 接入手册 · 《党案百科》（opendang）
 
