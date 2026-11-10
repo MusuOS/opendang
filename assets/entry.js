@@ -232,6 +232,7 @@
     }
     bCur.addEventListener("click", function () { setMode(false); });
     bAll.addEventListener("click", function () { setMode(true); });
+    setMode(true); /* 2026-11-10 小天定：默认展开诸说并存 */
   }
 
   fetchJson(jsonUrl).then(function (pkg) {
